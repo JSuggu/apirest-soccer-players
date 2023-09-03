@@ -9,5 +9,4 @@ public class ApiRestSoccerPlayersApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiRestSoccerPlayersApplication.class, args);
 	}
-
 }
