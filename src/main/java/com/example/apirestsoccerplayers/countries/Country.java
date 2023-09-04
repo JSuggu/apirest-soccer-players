@@ -35,11 +35,7 @@ public class Country {
 
     @NotEmpty
     @Size(max = 100)
-    @Pattern(regexp = "[a-zA-Z]+")
+    @Pattern(regexp = "[a-zA-ZñÑ]+")
     @Column(unique = true)
     private String name;
-
-    @NotNull
-    @ManyToOne
-    private League league;
 }
