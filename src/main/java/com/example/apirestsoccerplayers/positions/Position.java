@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.validation.annotation.Validated;
 
-import com.example.apirestsoccerplayers.players.Player;
+import com.example.apirestsoccerplayers.player.Player;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

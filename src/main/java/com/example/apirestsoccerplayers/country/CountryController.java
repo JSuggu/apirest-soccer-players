@@ -1,7 +1,6 @@
-package com.example.apirestsoccerplayers.countries;
+package com.example.apirestsoccerplayers.country;
 
 import java.util.List;
-import java.util.Optional;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -25,17 +24,17 @@ public class CountryController {
         return countryService.addCountry(request);
     }
 
-    @GetMapping(path="")
+    @GetMapping(path="/auth")
     public List<Country> getAllCountries(){
         return countryService.getAllCountries();
     }
 
-    @PutMapping(path="/update/{id}")
+    @PutMapping(path="/auth/update/{id}")
     public String updateCountry(@PathVariable(name="id") Integer countryId, @RequestBody Country request){
         return countryService.updateCountry(countryId, request);
     }
 
-    @DeleteMapping(path="/delete/{id}")
+    @DeleteMapping(path="/auth/delete/{id}")
     public String deleteCountry(@PathVariable(name="id") Integer countryId){
         return countryService.deleteCountry(countryId);
     }

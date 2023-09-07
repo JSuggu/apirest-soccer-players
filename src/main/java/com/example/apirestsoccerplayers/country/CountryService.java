@@ -1,10 +1,9 @@
-package com.example.apirestsoccerplayers.countries;
+package com.example.apirestsoccerplayers.country;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.TransactionSystemException;
 
 import lombok.RequiredArgsConstructor;
 
@@ -20,7 +19,7 @@ public class CountryService {
 
         try {
             countryRepository.save(country);
-        } catch (TransactionSystemException e){
+        } catch (Exception e){
             return "Country can't be added because can only contain words";
         }
 

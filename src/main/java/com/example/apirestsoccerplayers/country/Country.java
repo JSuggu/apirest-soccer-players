@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.users;
+package com.example.apirestsoccerplayers.country;
 
 import org.springframework.validation.annotation.Validated;
 
@@ -10,30 +10,29 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name="users")
+@Table(name="countries")
 @Data
 @Builder
 @Validated
 @AllArgsConstructor
-public class User {
-    
+@NoArgsConstructor
+public class Country {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @NotNull
     private Integer id;
 
     @NotEmpty
-    @Size(min=8, max=50)
+    @Size(max = 100)
+    @Pattern(regexp = "[a-zA-ZñÑ]+")
     @Column(unique = true)
-    private String username;
-
-    @NotEmpty
-    @Size(min=8)
-    private String password;
+    private String name;
 }
