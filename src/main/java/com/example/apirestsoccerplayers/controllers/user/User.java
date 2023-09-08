@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.user;
+package com.example.apirestsoccerplayers.controllers.user;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -39,14 +39,16 @@ public class User implements UserDetails{
 
     @NotEmpty
     @Size(min=5, max=50)
-    @Column(unique = true)
+    @Column(unique = true, nullable = false)
     private String username;
 
     @NotEmpty
     @Size(min=8)
+    @Column(nullable = false)
     private String password;
 
     @NotEmpty
+    @Column(nullable = false)
     private String roles;
 
     @Override

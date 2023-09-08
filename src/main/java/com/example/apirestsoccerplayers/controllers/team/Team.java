@@ -1,7 +1,8 @@
-package com.example.apirestsoccerplayers.team;
+package com.example.apirestsoccerplayers.controllers.team;
 
 import org.springframework.validation.annotation.Validated;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -32,5 +33,6 @@ public class Team {
     @NotEmpty
     @Pattern(regexp = "[a-zA-Z]+")
     @Size(max=100)
+    @Column(nullable = false)
     private String name;
 }

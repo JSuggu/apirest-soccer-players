@@ -1,12 +1,15 @@
-package com.example.apirestsoccerplayers.country;
+package com.example.apirestsoccerplayers.controllers.league;
 
 import org.springframework.validation.annotation.Validated;
+
+import com.example.apirestsoccerplayers.controllers.country.Country;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
@@ -18,21 +21,25 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name="countries")
+@Table(name="leagues")
 @Data
 @Builder
 @Validated
 @AllArgsConstructor
 @NoArgsConstructor
-public class Country {
+public class League {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @NotNull
     private Integer id;
-
+    
     @NotEmpty
-    @Size(max = 100)
-    @Pattern(regexp = "[a-zA-ZñÑ]+")
-    @Column(unique = true)
+    @Size(max=50)
+    @Pattern(regexp = "[a-zA-Z]+")
+    @Column(unique = true, nullable = false)
     private String name;
+
+    @NotNull
+    @ManyToOne
+    private Country country;
 }

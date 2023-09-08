@@ -1,14 +1,15 @@
-package com.example.apirestsoccerplayers.player;
+package com.example.apirestsoccerplayers.controllers.player;
 
 import java.util.List;
 
 import org.springframework.validation.annotation.Validated;
 
-import com.example.apirestsoccerplayers.country.Country;
-import com.example.apirestsoccerplayers.league.League;
-import com.example.apirestsoccerplayers.positions.Position;
-import com.example.apirestsoccerplayers.team.Team;
+import com.example.apirestsoccerplayers.controllers.country.Country;
+import com.example.apirestsoccerplayers.controllers.league.League;
+import com.example.apirestsoccerplayers.controllers.positions.Position;
+import com.example.apirestsoccerplayers.controllers.team.Team;
 
+import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -41,6 +42,7 @@ public class Player {
     @NotEmpty
     @Size(max=100)
     @Pattern(regexp = "[a-zA-Z]+")
+    @Column(nullable = false)
     private String name;
 
     @NotNull

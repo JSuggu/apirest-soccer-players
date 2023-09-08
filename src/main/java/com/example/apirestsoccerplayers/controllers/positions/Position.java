@@ -1,15 +1,17 @@
-package com.example.apirestsoccerplayers.league;
+package com.example.apirestsoccerplayers.controllers.positions;
+
+import java.util.List;
 
 import org.springframework.validation.annotation.Validated;
 
-import com.example.apirestsoccerplayers.country.Country;
+import com.example.apirestsoccerplayers.controllers.player.Player;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.ManyToOne;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
@@ -21,25 +23,24 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name="leagues")
+@Table(name="positions")
 @Data
 @Builder
 @Validated
 @AllArgsConstructor
 @NoArgsConstructor
-public class League {
+public class Position {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @NotNull
     private Integer id;
-    
+
     @NotEmpty
-    @Size(max=50)
     @Pattern(regexp = "[a-zA-Z]+")
-    @Column(unique = true)
+    @Size(max=10)
+    @Column(nullable = false)
     private String name;
 
-    @NotNull
-    @ManyToOne
-    private Country country;
+    @ManyToMany(targetEntity = Player.class)
+    private List player;
 }

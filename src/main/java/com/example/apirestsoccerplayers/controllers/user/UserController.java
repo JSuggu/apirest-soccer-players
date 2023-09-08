@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.user;
+package com.example.apirestsoccerplayers.controllers.user;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

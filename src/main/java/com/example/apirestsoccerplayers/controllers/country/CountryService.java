@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.country;
+package com.example.apirestsoccerplayers.controllers.country;
 
 import java.util.List;
 import java.util.Optional;

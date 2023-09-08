@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.country;
+package com.example.apirestsoccerplayers.controllers.country;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
