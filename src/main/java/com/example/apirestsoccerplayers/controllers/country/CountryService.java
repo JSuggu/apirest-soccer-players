@@ -3,6 +3,9 @@ package com.example.apirestsoccerplayers.controllers.country;
 import java.util.List;
 import java.util.Optional;
 
+import javax.naming.NameNotFoundException;
+
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 
 import lombok.RequiredArgsConstructor;
@@ -12,18 +15,12 @@ import lombok.RequiredArgsConstructor;
 public class CountryService {
     private final CountryRepository countryRepository;
 
-    public String addCountry(Country request){
+    public Country addCountry(Country request) throws DataIntegrityViolationException{
         Country country = Country.builder()
             .name(request.getName())
             .build();
 
-        try {
-            countryRepository.save(country);
-        } catch (Exception e){
-            return "Country can't be added because can only contain words";
-        }
-
-        return "Country added successfully";
+        return countryRepository.save(country);
     }
 
     public List<Country> getAllCountries(){
@@ -32,15 +29,14 @@ public class CountryService {
         return countries;
     }
 
-    public String updateCountry(Integer countryId, Country request){
+    public Country updateCountry(Integer countryId, Country request){
         Optional<Country> dbCountry = countryRepository.findById(countryId);
         if(dbCountry.isPresent()){
             Country newCountry = dbCountry.get();
             newCountry.setName(request.getName());
-            countryRepository.save(newCountry);
-            return "The country was updated successfully";
+            return countryRepository.save(newCountry);
         }
-        return "The country that tries modified don't exist";
+        return new Country();
     }
 
     public String deleteCountry(Integer countryId){
