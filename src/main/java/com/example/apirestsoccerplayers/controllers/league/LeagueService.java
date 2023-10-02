@@ -1,7 +1,6 @@
 package com.example.apirestsoccerplayers.controllers.league;
 
 import java.util.List;
-import java.util.Optional;
 
 import javax.naming.NameNotFoundException;
 

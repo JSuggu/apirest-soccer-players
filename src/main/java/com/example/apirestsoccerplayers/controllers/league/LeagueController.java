@@ -44,7 +44,7 @@ public class LeagueController {
     }
 
     @PutMapping(path="/auth/update/{id}")
-    public Result updateLeague(@PathVariable(name="id") Integer countryId, @Valid @RequestBody League request) throws NotFoundException{
+    public Result updateLeague(@PathVariable(name="id") Integer countryId, @Valid @RequestBody LeagueDTO request) throws NotFoundException, NameNotFoundException{
         League country = leagueService.updateLeague(countryId, request);
         if(country.getName() == null) return new Result(false, 400, "user not found");
         return new Result(true, 201, "country updated", country);
