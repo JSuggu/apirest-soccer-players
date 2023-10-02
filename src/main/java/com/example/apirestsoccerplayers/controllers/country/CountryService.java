@@ -1,11 +1,11 @@
 package com.example.apirestsoccerplayers.controllers.country;
 
 import java.util.List;
-import java.util.Optional;
 
 import javax.naming.NameNotFoundException;
 
 import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
 import org.springframework.stereotype.Service;
 
 import lombok.RequiredArgsConstructor;
@@ -23,20 +23,21 @@ public class CountryService {
         return countryRepository.save(country);
     }
 
+    public Country getCountry(String name) throws NameNotFoundException{
+        return countryRepository.findByName(name).orElseThrow(()-> new NameNotFoundException("Country name not found"));
+    }
+
     public List<Country> getAllCountries(){
         List<Country> countries = countryRepository.findAll();
 
         return countries;
     }
 
-    public Country updateCountry(Integer countryId, Country request){
-        Optional<Country> dbCountry = countryRepository.findById(countryId);
-        if(dbCountry.isPresent()){
-            Country newCountry = dbCountry.get();
-            newCountry.setName(request.getName());
-            return countryRepository.save(newCountry);
-        }
-        return new Country();
+    public Country updateCountry(Integer countryId, Country request) throws DataIntegrityViolationException, NotFoundException{
+        Country dbCountry = countryRepository.findById(countryId).orElseThrow(()-> new NotFoundException());
+        dbCountry.setName(request.getName());
+        
+        return countryRepository.save(dbCountry);
     }
 
     public String deleteCountry(Integer countryId){

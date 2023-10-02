@@ -41,7 +41,7 @@ public class Player {
 
     @NotEmpty
     @Size(max=100)
-    @Pattern(regexp = "[a-zA-Z]+")
+    @Pattern(regexp = "[a-zA-Z ]+")
     @Column(nullable = false)
     private String name;
 

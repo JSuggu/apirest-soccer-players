@@ -20,6 +20,7 @@ public class SecurityConfig{
         return http
             .authorizeHttpRequests(authRequest -> authRequest
                 .requestMatchers("/api/countries/auth/**").permitAll()
+                .requestMatchers("/api/leagues/auth/**").permitAll()
                 .requestMatchers("/api/users/auth/**").permitAll()
                 .anyRequest().authenticated())
             .httpBasic(Customizer.withDefaults())

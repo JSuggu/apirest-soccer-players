@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import javax.naming.NameNotFoundException;
+
+import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.validation.FieldError;
@@ -21,6 +24,18 @@ public class ExceptionHandlerAdvice {
     @ExceptionHandler(UsernameNotFoundException.class)
     @ResponseStatus(HttpStatus.NOT_FOUND)
     Result handleUsernameNotFoundException(UsernameNotFoundException ex){
+        return new Result(false, StatusCode.NOT_FOUND, ex.getMessage());
+    }
+
+    @ExceptionHandler(NotFoundException.class)
+    @ResponseStatus(HttpStatus.NOT_FOUND)
+    Result handleUsernameNotFoundException(NotFoundException ex){
+        return new Result(false, StatusCode.NOT_FOUND, "Data not found");
+    }
+
+    @ExceptionHandler(NameNotFoundException.class)
+    @ResponseStatus(HttpStatus.NOT_FOUND)
+    Result handleUsernameNotFoundException(NameNotFoundException ex){
         return new Result(false, StatusCode.NOT_FOUND, ex.getMessage());
     }
 

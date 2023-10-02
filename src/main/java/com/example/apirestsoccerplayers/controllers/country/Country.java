@@ -31,7 +31,7 @@ public class Country {
 
     @NotEmpty
     @Size(max = 100)
-    @Pattern(regexp = "[a-zA-ZñÑ]+")
+    @Pattern(regexp = "[a-zA-ZñÑ ]+")
     @Column(unique = true, nullable = false)
     private String name;
 }

@@ -2,6 +2,9 @@ package com.example.apirestsoccerplayers.controllers.country;
 
 import java.util.List;
 
+import javax.naming.NameNotFoundException;
+
+import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -34,8 +37,14 @@ public class CountryController {
         return new Result(true, 200, "response successfully", countries);
     }
 
+    @GetMapping(path="/auth/{name}")
+    public Result getCountry(@PathVariable(name="name") String countryName) throws NameNotFoundException{
+        Country country = countryService.getCountry(countryName);
+        return new Result(true, 200, "response successfully", country);
+    }
+
     @PutMapping(path="/auth/update/{id}")
-    public Result updateCountry(@PathVariable(name="id") Integer countryId, @RequestBody Country request){
+    public Result updateCountry(@PathVariable(name="id") Integer countryId, @Valid @RequestBody Country request) throws NotFoundException{
         Country country = countryService.updateCountry(countryId, request);
         return new Result(true, 201, "country updated", country);
     }

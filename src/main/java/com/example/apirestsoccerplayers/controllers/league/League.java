@@ -35,7 +35,7 @@ public class League {
     
     @NotEmpty
     @Size(max=50)
-    @Pattern(regexp = "[a-zA-Z]+")
+    @Pattern(regexp = "[a-zA-Z ]+")
     @Column(unique = true, nullable = false)
     private String name;
 
