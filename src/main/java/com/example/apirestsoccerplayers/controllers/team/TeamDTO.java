@@ -1,4 +1,4 @@
-package com.example.apirestsoccerplayers.controllers.league;
+package com.example.apirestsoccerplayers.controllers.team;
 
 import org.springframework.stereotype.Component;
 import org.springframework.validation.annotation.Validated;
@@ -17,14 +17,14 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Component
-public class LeagueDTO {
+public class TeamDTO {
     @NotEmpty
-    @Size(max=50)
     @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Size(max=100)
     private String name;
 
     @NotEmpty
     @Size(max=50)
     @Pattern(regexp = "[a-zA-ZñÑ ]+")
-    private String countryName;
+    private String leagueName;
 }

@@ -4,7 +4,6 @@ import java.util.List;
 
 import javax.naming.NameNotFoundException;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.crossstore.ChangeSetPersister.NotFoundException;
 import org.springframework.stereotype.Service;
@@ -16,7 +15,6 @@ import lombok.RequiredArgsConstructor;
 @Service
 @RequiredArgsConstructor
 public class LeagueService {
-    @Autowired
     private final LeagueRepository leagueRepository;
     private final CountryService countryService;
 
