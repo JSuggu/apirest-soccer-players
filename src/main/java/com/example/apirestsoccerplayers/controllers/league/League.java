@@ -3,6 +3,7 @@ package com.example.apirestsoccerplayers.controllers.league;
 import org.springframework.validation.annotation.Validated;
 
 import com.example.apirestsoccerplayers.controllers.country.Country;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

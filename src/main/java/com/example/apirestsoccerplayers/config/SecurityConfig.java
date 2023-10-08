@@ -23,6 +23,8 @@ public class SecurityConfig{
                 .requestMatchers("/api/leagues/auth/**").permitAll()
                 .requestMatchers("/api/teams/auth/**").permitAll()
                 .requestMatchers("/api/users/auth/**").permitAll()
+                .requestMatchers("/api/players/auth/**").permitAll()
+                .requestMatchers("/api/positions/auth/**").permitAll()
                 .anyRequest().authenticated())
             .httpBasic(Customizer.withDefaults())
             .csrf(csrf -> csrf.disable())

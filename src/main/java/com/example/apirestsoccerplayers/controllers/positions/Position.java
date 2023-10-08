@@ -2,10 +2,13 @@ package com.example.apirestsoccerplayers.controllers.positions;
 
 import java.util.List;
 
+import org.springframework.stereotype.Component;
 import org.springframework.validation.annotation.Validated;
 
 import com.example.apirestsoccerplayers.controllers.player.Player;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -28,6 +31,7 @@ import lombok.NoArgsConstructor;
 @Validated
 @AllArgsConstructor
 @NoArgsConstructor
+@Component
 public class Position {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -37,9 +41,14 @@ public class Position {
     @NotEmpty
     @Pattern(regexp = "[a-zA-Z]+")
     @Size(max=10)
-    @Column(nullable = false)
+    @Column(nullable = false, unique = true)
     private String name;
 
-    @ManyToMany(targetEntity = Player.class)
-    private List player;
+    @ManyToMany(cascade = {
+        CascadeType.MERGE,
+        CascadeType.PERSIST,
+        CascadeType.REMOVE
+    }, mappedBy = "positions")
+    @JsonIgnore
+    private List<Player> players;
 }
