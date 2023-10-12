@@ -1,7 +1,7 @@
 package com.example.apirestsoccerplayers.controllers.player;
 
+import java.sql.Date;
 import java.util.List;
-import java.util.stream.Stream;
 
 import javax.naming.NameNotFoundException;
 
@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 
 import com.example.apirestsoccerplayers.controllers.country.CountryService;
 import com.example.apirestsoccerplayers.controllers.league.LeagueService;
-import com.example.apirestsoccerplayers.controllers.positions.Position;
 import com.example.apirestsoccerplayers.controllers.positions.PositionService;
 import com.example.apirestsoccerplayers.controllers.team.TeamService;
 
@@ -27,23 +26,16 @@ public class PlayerService {
     private final PositionService positionService;
 
     public Player addPlayer(PlayerDTO request) throws DataIntegrityViolationException, NameNotFoundException{
-        List<Position> positionsDb = positionService.getAllPositions();
-        List<String> positionsName = Stream.of(request.getPositionsName().split(",")).toList();
-
-        List<Position> validPositions = positionsDb.stream().filter((pos) ->{
-            return positionsName.contains(pos.getName().toLowerCase()); 
-        }).toList();
-
         Player player = Player.builder()
             .name(request.getName())
             .country(countryService.getCountry(request.getCountryName()))
             .team(teamService.getTeam(request.getTeamName()))
             .league(leagueService.getLeague(request.getLeagueName()))
-            .positions(validPositions)
+            .birthday(Date.valueOf(request.getBirthday()))
+            .position(positionService.getPosition(request.getPositionsName()))
             .build();
         
         return playerRepository.save(player);
-        
     }
 
     public List<Player> getAllPlayers(){
@@ -52,7 +44,7 @@ public class PlayerService {
     }
 
     public List<Player> getPlayersByPosition(String positionName){
-        List<Player> players = playerRepository.findPlayersByPositionsName(positionName);
+        List<Player> players = playerRepository.findPlayersByPositionName(positionName);
         return players;
     }
 
@@ -73,19 +65,12 @@ public class PlayerService {
 
     public Player updatePlayer(Integer playerId, PlayerDTO request) throws DataIntegrityViolationException, NameNotFoundException, NotFoundException{
         Player playerDb = playerRepository.findById(playerId).orElseThrow(() -> new NotFoundException());
-        
-        List<Position> positionsDb = positionService.getAllPositions();
-        List<String> positionsName = Stream.of(request.getPositionsName().split(",")).toList();
-
-        List<Position> validPositions = positionsDb.stream().filter((pos) ->{
-            return positionsName.contains(pos.getName().toLowerCase()); 
-        }).toList();
 
         playerDb.setName(request.getName());
         playerDb.setCountry(countryService.getCountry(request.getCountryName()));
         playerDb.setTeam(teamService.getTeam(request.getTeamName()));
         playerDb.setLeague(leagueService.getLeague(request.getLeagueName()));
-        playerDb.setPositions(validPositions);
+        playerDb.setPosition(positionService.getPosition(request.getPositionsName()));
 
         return playerDb;
     }

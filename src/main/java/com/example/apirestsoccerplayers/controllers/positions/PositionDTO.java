@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 @Component
 public class PositionDTO {
     @NotEmpty
-    @Pattern(regexp = "[a-zA-Z]+")
-    @Size(max=10)
+    @Pattern(regexp = "[a-zA-Z ]+")
+    @Size(max=50)
     private String name;
 }

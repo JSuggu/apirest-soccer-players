@@ -23,6 +23,11 @@ public class PositionService {
         return positionRepository.save(position);
     }
 
+    public Position getPosition(String positionName)throws NameNotFoundException{
+        Position position = positionRepository.findByName(positionName).orElseThrow(()-> new NameNotFoundException("Position name not found"));
+        return position;
+    }
+
     public List<Position> getAllPositions(){
         List<Position> positions = positionRepository.findAll();
         return positions;

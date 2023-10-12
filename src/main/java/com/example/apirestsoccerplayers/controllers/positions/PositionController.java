@@ -38,6 +38,12 @@ public class PositionController {
         return new Result(true, 200, "Success", positions);
     }
 
+    @GetMapping("/auth/{name}")
+    public Result getPosition(@PathVariable(name="name") String positionName)throws NameNotFoundException{
+        Position position = positionService.getPosition(positionName);
+        return new Result(true, 200, "Success", position);
+    }
+
     @PutMapping("/auth/update/{id}")
     public Result updatePlayer(@PathVariable(name="id") Integer positionId, @Valid @RequestBody PositionDTO request) throws NameNotFoundException, NotFoundException{
         Position positionUpdated = positionService.updatePosition(positionId, request);

@@ -1,6 +1,6 @@
 package com.example.apirestsoccerplayers.controllers.player;
 
-import java.util.List;
+import java.sql.Date;
 
 import org.springframework.validation.annotation.Validated;
 
@@ -10,15 +10,11 @@ import com.example.apirestsoccerplayers.controllers.positions.Position;
 import com.example.apirestsoccerplayers.controllers.team.Team;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.JoinTable;
-import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotEmpty;
@@ -50,6 +46,10 @@ public class Player {
     private String name;
 
     @NotNull
+    @Column(nullable = false)
+    private Date birthday;
+
+    @NotNull
     @ManyToOne
     private Team team;
 
@@ -62,14 +62,7 @@ public class Player {
     @ManyToOne
     private Country country;
 
-    @ManyToMany(targetEntity = Position.class, cascade = {
-        CascadeType.MERGE,
-        CascadeType.PERSIST,
-        CascadeType.REMOVE
-    })
-    @JoinTable(
-        name = "player_position", 
-        joinColumns = @JoinColumn(name = "player_id"), 
-        inverseJoinColumns = @JoinColumn(name = "position_id"))
-    private List<Position> positions;
+    @NotNull
+    @ManyToOne
+    private Position position;
 }

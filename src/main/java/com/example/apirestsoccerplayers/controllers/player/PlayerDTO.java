@@ -26,6 +26,10 @@ public class PlayerDTO {
     @Pattern(regexp = "[a-zA-ZñÑ ]+")
     private String countryName;
 
+    @Size(min = 10, max=10)
+    @Pattern(regexp = "[0-9-]+")
+    private String birthday;
+
     @Pattern(regexp = "[a-zA-ZñÑ ]+")
     @Size(max=100)
     private String teamName;
