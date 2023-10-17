@@ -19,26 +19,26 @@ import lombok.NoArgsConstructor;
 public class PlayerDTO {
 
     @Size(max=100)
-    @Pattern(regexp = "[a-zA-Z ]+")
+    @Pattern(regexp = "^[\\p{L}\\p{M}0-9-.' ]+$")
     private String name;
 
     @Size(max = 100)
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "[\\p{L}- ]+")
     private String countryName;
 
     @Size(min = 10, max=10)
     @Pattern(regexp = "[0-9-]+")
     private String birthday;
 
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "^[\\p{L}\\p{M}0-9-.'() ]+$")
     @Size(max=100)
     private String teamName;
 
     @Size(max=50)
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "^[\\p{L}0-9 ]+$")
     private String leagueName;
 
     @Size(max=100)
-    @Pattern(regexp = "[a-zA-Z,]+")
+    @Pattern(regexp = "^[\\p{L} ]+$")
     private String positionsName;
 }

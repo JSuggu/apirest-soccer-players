@@ -1,5 +1,6 @@
 package com.example.apirestsoccerplayers.controllers.country;
 
+import java.io.IOException;
 import java.util.List;
 
 import javax.naming.NameNotFoundException;
@@ -12,7 +13,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 
 import com.example.apirestsoccerplayers.handlers.Result;
 
@@ -52,5 +55,12 @@ public class CountryController {
     @DeleteMapping(path="/auth/delete/{id}")
     public String deleteCountry(@PathVariable(name="id") Integer countryId){
         return countryService.deleteCountry(countryId);
+    }
+
+    //BULK DATA
+    @PostMapping(path="/auth/add/many-data")
+    public Result addManyCountries(@RequestParam("file") MultipartFile file) throws IOException{
+        List<Country> countries = countryService.addManyCountries(file);
+        return new Result(true, 201, "file saved and countries added", countries);
     }
 }

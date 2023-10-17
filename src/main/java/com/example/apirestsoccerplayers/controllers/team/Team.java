@@ -34,7 +34,7 @@ public class Team {
     private Integer id;
 
     @NotEmpty
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "^[\\p{L}\\p{M}0-9-.'() ]+$")
     @Size(max=100)
     @Column(nullable = false)
     private String name;

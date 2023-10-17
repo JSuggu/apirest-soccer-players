@@ -1,5 +1,6 @@
 package com.example.apirestsoccerplayers.controllers.positions;
 
+import java.io.IOException;
 import java.util.List;
 
 import javax.naming.NameNotFoundException;
@@ -13,8 +14,11 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.multipart.MultipartFile;
 
+import com.example.apirestsoccerplayers.controllers.country.Country;
 import com.example.apirestsoccerplayers.handlers.Result;
 
 import jakarta.validation.Valid;
@@ -53,5 +57,12 @@ public class PositionController {
     @DeleteMapping("/auth/delete/{id}")
     public String deletePosition(@PathVariable(name="id") Integer positionId){
         return positionService.deletePosition(positionId);
+    }
+
+    //BULK DATA
+    @PostMapping(path="/auth/add/many-data")
+    public Result addManyPositions(@RequestParam("file") MultipartFile file) throws IOException{
+        List<Position> positions = positionService.addManyPositions(file);
+        return new Result(true, 201, "file saved and positions added", positions);
     }
 }

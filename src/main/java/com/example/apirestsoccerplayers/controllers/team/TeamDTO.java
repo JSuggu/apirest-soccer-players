@@ -19,12 +19,12 @@ import lombok.NoArgsConstructor;
 @Component
 public class TeamDTO {
     @NotEmpty
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "^[\\p{L}\\p{M}0-9- ]+$")
     @Size(max=100)
     private String name;
 
     @NotEmpty
     @Size(max=50)
-    @Pattern(regexp = "[a-zA-ZñÑ ]+")
+    @Pattern(regexp = "^[\\p{L}0-9 ]+$")
     private String leagueName;
 }

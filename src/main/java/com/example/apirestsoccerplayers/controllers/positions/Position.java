@@ -32,7 +32,7 @@ public class Position {
     private Integer id;
 
     @NotEmpty
-    @Pattern(regexp = "[a-zA-Z ]+")
+    @Pattern(regexp = "^[\\p{L} ]+$")
     @Size(max=50)
     @Column(nullable = false, unique = true)
     private String name;
