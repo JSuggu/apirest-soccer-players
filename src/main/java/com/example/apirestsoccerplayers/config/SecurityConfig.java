@@ -19,13 +19,8 @@ public class SecurityConfig{
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         return http
             .authorizeHttpRequests(authRequest -> authRequest
-                .requestMatchers("/api/countries/auth/**").permitAll()
-                .requestMatchers("/api/leagues/auth/**").permitAll()
-                .requestMatchers("/api/teams/auth/**").permitAll()
-                .requestMatchers("/api/users/auth/**").permitAll()
-                .requestMatchers("/api/players/auth/**").permitAll()
-                .requestMatchers("/api/positions/auth/**").permitAll()
-                .anyRequest().authenticated())
+                .requestMatchers("/api/[countries|leagues|players|positions|teams]/auth/**").authenticated()
+                .anyRequest().permitAll())
             .httpBasic(Customizer.withDefaults())
             .csrf(csrf -> csrf.disable())
             .build();

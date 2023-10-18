@@ -26,7 +26,7 @@ public class UserController {
         return new Result(true, StatusCode.SUCCESS, "saves successfully", user);
     }
 
-    @GetMapping(path="/{username}")
+    @GetMapping(path="/auth/{username}")
     public Result getUser(@PathVariable(value="username") String username){
         User user = (User) userService.loadUserByUsername(username);
         return new Result(true, StatusCode.SUCCESS, "user found", user);

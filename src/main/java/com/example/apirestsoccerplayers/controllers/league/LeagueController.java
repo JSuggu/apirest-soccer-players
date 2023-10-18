@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.example.apirestsoccerplayers.controllers.country.Country;
 import com.example.apirestsoccerplayers.handlers.Result;
 
 import jakarta.validation.Valid;
@@ -29,19 +28,19 @@ import lombok.RequiredArgsConstructor;
 public class LeagueController {
     private final LeagueService leagueService;
 
-    @PostMapping("/add")
+    @PostMapping("/auth/add")
     public Result addLeague(@Valid @RequestBody LeagueDTO request) throws NameNotFoundException{
         League league = leagueService.addleague(request);
         return new Result(true, 201, "Country added", league);
     }
 
-    @GetMapping(path="/auth")
+    @GetMapping(path="")
     public Result getAllLeagues(){
         List<League> leagues = leagueService.getAllLeagues();
         return new Result(true, 200, "response successfully", leagues);
     }
 
-    @GetMapping(path="/auth/{name}")
+    @GetMapping(path="/{name}")
     public Result getLeague(@PathVariable(name="name") String leagueName) throws NameNotFoundException{
         League league = leagueService.getLeague(leagueName);
         return new Result(true, 200, "response successfully", league);

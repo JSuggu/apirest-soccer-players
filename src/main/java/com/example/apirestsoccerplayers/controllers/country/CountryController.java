@@ -28,19 +28,19 @@ import lombok.RequiredArgsConstructor;
 public class CountryController {
     private final CountryService countryService;
 
-    @PostMapping(path="/add")
+    @PostMapping(path="/auth/add")
     public Result addCountry(@Valid @RequestBody Country request){
         Country country = countryService.addCountry(request);
         return new Result(true, 201, "country saved", country);
     }
 
-    @GetMapping(path="/auth")
+    @GetMapping(path="")
     public Result getAllCountries(){
         List<Country> countries = countryService.getAllCountries();
         return new Result(true, 200, "response successfully", countries);
     }
 
-    @GetMapping(path="/auth/{name}")
+    @GetMapping(path="/{name}")
     public Result getCountry(@PathVariable(name="name") String countryName) throws NameNotFoundException{
         Country country = countryService.getCountry(countryName);
         return new Result(true, 200, "response successfully", country);

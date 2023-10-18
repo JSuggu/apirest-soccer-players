@@ -28,19 +28,19 @@ import lombok.RequiredArgsConstructor;
 public class TeamController {
     private final TeamService teamService;
 
-    @PostMapping("/add")
+    @PostMapping("/auth/add")
     public Result addTeam(@Valid @RequestBody TeamDTO request) throws NameNotFoundException{
         Team team = teamService.addTeam(request);
         return new Result(true, 201, "Team added", team);
     }
 
-    @GetMapping("/auth")
+    @GetMapping("")
     public Result getAllTeams(){
         List<Team> teams = teamService.getAllTeams();
         return new Result(true, 200, "response successfully", teams);
     }
 
-    @GetMapping("/auth/{name}")
+    @GetMapping("/{name}")
     public Result getTeam(@PathVariable(name="name") String teamName) throws NameNotFoundException{
         Team team = teamService.getTeam(teamName);
         return new Result(true, 200, "response successfully", team);

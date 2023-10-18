@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.example.apirestsoccerplayers.controllers.league.League;
 import com.example.apirestsoccerplayers.handlers.Result;
 
 import jakarta.validation.Valid;
@@ -29,37 +28,37 @@ import lombok.RequiredArgsConstructor;
 public class PlayerController {
     private final PlayerService playerService;
 
-    @PostMapping("/add")
+    @PostMapping("/auth/add")
     public Result addPlayer(@Valid @RequestBody PlayerDTO request)throws NameNotFoundException{
         Player player = playerService.addPlayer(request);
         return new Result(true, 201, "Player added", player);
     }
 
-    @GetMapping("/auth")
+    @GetMapping("")
     public Result getAllPlayers(){
         List<Player> players = playerService.getAllPlayers();
         return new Result(true, 200, "Success", players);
     }
 
-    @GetMapping("/auth/by-position/{position}")
+    @GetMapping("/by-position/{position}")
     public Result getAllPlayersByPosition(@PathVariable(name="position") String positionName){
         List<Player> players = playerService.getPlayersByPosition(positionName);
         return new Result(true, 200, "Success", players);
     }
 
-    @GetMapping("/auth/by-country/{country}")
+    @GetMapping("/by-country/{country}")
     public Result getAllPlayersByCountry(@PathVariable(name="country") String countryName){
         List<Player> players = playerService.getPlayersByCountry(countryName);
         return new Result(true, 200, "Success", players);
     }
 
-    @GetMapping("/auth/by-team/{team}")
+    @GetMapping("/by-team/{team}")
     public Result getAllPlayersByTeam(@PathVariable(name="team") String teamName){
         List<Player> players = playerService.getPlayersByTeam(teamName);
         return new Result(true, 200, "Success", players);
     }
 
-    @GetMapping("/auth/by-league/{league}")
+    @GetMapping("/by-league/{league}")
     public Result getAllPlayersByLeague(@PathVariable(name="league") String leagueName){
         List<Player> players = playerService.getPlayersByLeague(leagueName);
         return new Result(true, 200, "Success", players);

@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.example.apirestsoccerplayers.controllers.country.Country;
 import com.example.apirestsoccerplayers.handlers.Result;
 
 import jakarta.validation.Valid;
@@ -30,19 +29,19 @@ import lombok.RequiredArgsConstructor;
 public class PositionController {
     private final PositionService positionService;
 
-    @PostMapping("/add")
+    @PostMapping("/auth/add")
     public Result addPosition(@Validated @RequestBody PositionDTO request){
         Position position = positionService.addPosition(request);
         return new Result(true, 201, "Position added", position);
     }
 
-    @GetMapping("/auth")
+    @GetMapping("")
     public Result getAllPositions(){
         List<Position> positions = positionService.getAllPositions();
         return new Result(true, 200, "Success", positions);
     }
 
-    @GetMapping("/auth/{name}")
+    @GetMapping("/{name}")
     public Result getPosition(@PathVariable(name="name") String positionName)throws NameNotFoundException{
         Position position = positionService.getPosition(positionName);
         return new Result(true, 200, "Success", position);
