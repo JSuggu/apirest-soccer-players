@@ -1,0 +1,490 @@
+Unai Simón,Athletic Club,La Liga,1997-06-11,España,Portero
+Julen Agirrezabala,Athletic Club,La Liga,2000-12-26,España,Portero
+Yeray Álvarez,Athletic Club,La Liga,1995-01-24,España,Defensa
+Dani Vivian,Athletic Club,La Liga,1999-07-05,España,Defensa
+Aitor Paredes,Athletic Club,La Liga,2000-04-29,España,Defensa
+Yuri Berchiche,Athletic Club,La Liga,1990-02-10,España,Defensa
+Imanol García de Albéniz,Athletic Club,La Liga,2000-06-08,España,Defensa
+Iñigo Lekue,Athletic Club,La Liga,1993-05-04,España,Defensa
+Óscar de Marcos,Athletic Club,La Liga,1989-04-14,España,Defensa
+Mikel Vesga,Athletic Club,La Liga,1993-04-08,España,Medio campo
+Peru Nolaskoain,Athletic Club,La Liga,1998-10-25,España,Medio campo
+Iñigo Ruiz de Galarreta,Athletic Club,La Liga,1993-08-06,España,Medio campo
+Ander Herrera,Athletic Club,La Liga,1989-08-14,España,Medio campo
+Dani García,Athletic Club,La Liga,1990-05-24,España,Medio campo
+Beñat Prados,Athletic Club,La Liga,2001-02-08,España,Medio campo
+Unai Gómez,Athletic Club,La Liga,2003-05-25,España,Medio campo
+Oihan Sancet,Athletic Club,La Liga,2000-04-25,España,Medio campo
+Iker Muniain,Athletic Club,La Liga,1992-12-19,España,Medio campo
+Álex Berenguer,Athletic Club,La Liga,1995-07-04,España,Delantero
+Adu Ares,Athletic Club,La Liga,2001-10-12,España,Delantero
+Nico Williams,Athletic Club,La Liga,2002-07-12,España,Delantero
+Iñaki Williams,Athletic Club,La Liga,1994-06-15,Ghana,Delantero
+Asier Villalibre,Athletic Club,La Liga,1997-09-30,España,Delantero
+Raúl García,Athletic Club,La Liga,1986-07-11,España,Delantero
+Gorka Guruzeta,Athletic Club,La Liga,1996-09-12,España,Delantero
+Jan Oblak,Atlético de Madrid,La Liga,1993-01-07,Eslovenia,Portero
+Ivo Grbic,Atlético de Madrid,La Liga,1996-01-18,Croacia,Portero
+José María Giménez,Atlético de Madrid,La Liga,1995-01-20,Uruguay,Defensa
+Mario Hermoso,Atlético de Madrid,La Liga,1995-06-18,España,Defensa
+Caglar Söyüncü,Atlético de Madrid,La Liga,1996-05-23,Turquía,Defensa
+Stefan Savic,Atlético de Madrid,La Liga,1991-01-08,Montenegro,Defensa
+Reinildo Mandava,Atlético de Madrid,La Liga,1994-01-21,Mozambique,Defensa
+Javi Galán,Atlético de Madrid,La Liga,1994-11-19,España,Defensa
+Nahuel Molina,Atlético de Madrid,La Liga,1998-04-06,Argentina,Defensa
+César Azpilicueta,Atlético de Madrid,La Liga,1989-08-28,España,Defensa
+Axel Witsel,Atlético de Madrid,La Liga,1989-01-12,Bélgica,Medio campo
+Rodrigo de Paul,Atlético de Madrid,La Liga,1994-05-24,Argentina,Medio campo
+Marcos Llorente,Atlético de Madrid,La Liga,1995-01-30,España,Medio campo
+Koke,Atlético de Madrid,La Liga,1992-01-08,España,Medio campo
+Saúl Ñíguez,Atlético de Madrid,La Liga,1994-11-21,España,Medio campo
+Pablo Barrios,Atlético de Madrid,La Liga,2003-06-15,España,Medio campo
+Thomas Lemar,Atlético de Madrid,La Liga,1995-11-12,Francia,Medio campo
+Samuel Lino,Atlético de Madrid,La Liga,1999-12-23,Brasil,Delantero
+Rodrigo Riquelme,Atlético de Madrid,La Liga,2000-04-02,España,Delantero
+Vitolo,Atlético de Madrid,La Liga,1989-11-02,España,Delantero
+Ángel Correa,Atlético de Madrid,La Liga,1995-03-09,Argentina,Delantero
+Antoine Griezmann,Atlético de Madrid,La Liga,1991-03-21,Francia,Delantero
+Álvaro Morata,Atlético de Madrid,La Liga,1992-10-23,España,Delantero
+Memphis Depay,Atlético de Madrid,La Liga,1994-02-13,Países Bajos,Delantero
+Marc-André ter Stegen,FC Barcelona,La Liga,1992-04-30,Alemania,Portero
+Iñaki Peña,FC Barcelona,La Liga,1999-03-02,España,Portero
+Ronald Araújo,FC Barcelona,La Liga,1999-03-07,Uruguay,Defensa
+Jules Koundé,FC Barcelona,La Liga,1998-11-12,Francia,Defensa
+Andreas Christensen,FC Barcelona,La Liga,1996-04-10,Dinamarca,Defensa
+Iñigo Martínez,FC Barcelona,La Liga,1991-05-17,España,Defensa
+Alejandro Balde,FC Barcelona,La Liga,2003-10-18,España,Defensa
+Marcos Alonso,FC Barcelona,La Liga,1990-12-28,España,Defensa
+João Cancelo,FC Barcelona,La Liga,1994-05-27,Portugal,Defensa
+Sergi Roberto,FC Barcelona,La Liga,1992-02-07,España,Defensa
+Oriol Romeu,FC Barcelona,La Liga,1991-09-24,España,Medio campo
+Pedri,FC Barcelona,La Liga,2002-11-25,España,Medio campo
+Gavi,FC Barcelona,La Liga,2004-08-05,España,Medio campo
+Frenkie de Jong,FC Barcelona,La Liga,1997-05-12,Países Bajos,Medio campo
+Ilkay Gündogan,FC Barcelona,La Liga,1990-10-24,Alemania,Medio campo
+Fermín López,FC Barcelona,La Liga,2003-05-11,España,Medio campo
+João Félix,FC Barcelona,La Liga,1999-11-10,Portugal,Delantero
+Raphinha,FC Barcelona,La Liga,1996-12-14,Brasil,Delantero
+Ferran Torres,FC Barcelona,La Liga,2000-02-29,España,Delantero
+Lamine Yamal,FC Barcelona,La Liga,2007-07-13,España,Delantero
+Robert Lewandowski,FC Barcelona,La Liga,1988-08-21,Polonia,Delantero
+Paulo Gazzaniga,Girona FC,La Liga,1992-01-02,Argentina,Portero
+Juan Carlos,Girona FC,La Liga,1988-01-20,España,Portero
+Toni Fuidias,Girona FC,La Liga,2001-04-15,España,Portero
+Eric García,Girona FC,La Liga,2001-01-09,España,Defensa
+Daley Blind,Girona FC,La Liga,1990-03-09,Países Bajos,Defensa
+David López,Girona FC,La Liga,1989-10-09,España,Defensa
+Bernardo Espinosa,Girona FC,La Liga,1989-07-11,Colombia,Defensa
+Juanpe,Girona FC,La Liga,1991-04-30,España,Defensa
+Miguel Gutiérrez,Girona FC,La Liga,2001-07-27,España,Defensa
+Arnau Martínez,Girona FC,La Liga,2003-04-25,España,Defensa
+Yan Couto,Girona FC,La Liga,2002-06-03,Brasil,Defensa
+Ibrahima Kébé,Girona FC,La Liga,2000-08-01,Malí,Medio campo
+Aleix García,Girona FC,La Liga,1997-06-28,España,Medio campo
+Yangel Herrera,Girona FC,La Liga,1998-01-07,Venezuela,Medio campo
+Pablo Torre,Girona FC,La Liga,2003-04-03,España,Medio campo
+Jhon Solís,Girona FC,La Liga,2004-10-03,Colombia,Medio campo
+Iván Martín,Girona FC,La Liga,1999-02-14,España,Medio campo
+Borja García,Girona FC,La Liga,1990-11-02,España,Medio campo
+Sávio,Girona FC,La Liga,2004-04-10,Brasil,Delantero
+Toni Villa,Girona FC,La Liga,1995-01-07,España,Delantero
+Viktor Tsygankov,Girona FC,La Liga,1997-11-15,Ucrania,Delantero
+Portu,Girona FC,La Liga,1992-05-21,España,Delantero
+Valery Fernández,Girona FC,La Liga,1999-11-23,España,Delantero
+Artem Dovbyk,Girona FC,La Liga,1997-06-21,Ucrania,Delantero
+Cristhian Stuani,Girona FC,La Liga,1986-10-12,Uruguay,Delantero
+Sergio Herrera,CA Osasuna,La Liga,1993-06-05,España,Portero
+Aitor Fernández,CA Osasuna,La Liga,1991-05-03,España,Portero
+David García,CA Osasuna,La Liga,1994-02-14,España,Defensa
+Alejandro Catena,CA Osasuna,La Liga,1994-10-28,España,Defensa
+Unai García,CA Osasuna,La Liga,1992-02-03,España,Defensa
+Jorge Herrando,CA Osasuna,La Liga,2001-02-28,España,Defensa
+Johan Mojica,CA Osasuna,La Liga,1992-08-21,Colombia,Defensa
+Juan Cruz,CA Osasuna,La Liga,1992-07-28,España,Defensa
+Nacho Vidal,CA Osasuna,La Liga,1995-01-24,España,Defensa
+Rubén Peña,CA Osasuna,La Liga,1991-07-18,España,Defensa
+Jesús Areso,CA Osasuna,La Liga,1999-07-02,España,Defensa
+Lucas Torró,CA Osasuna,La Liga,1994-07-19,España,Medio campo
+Iker Muñoz,CA Osasuna,La Liga,2002-09-05,España,Medio campo
+Jon Moncayola,CA Osasuna,La Liga,1998-05-13,España,Medio campo
+Darko Brasanac,CA Osasuna,La Liga,1992-02-12,Serbia,Medio campo
+Pablo Ibáñez,CA Osasuna,La Liga,1998-09-20,España,Medio campo
+Aimar Oroz,CA Osasuna,La Liga,2001-11-27,España,Medio campo
+Moi Gómez,CA Osasuna,La Liga,1994-06-23,España,Delantero
+Rubén García,CA Osasuna,La Liga,1993-07-14,España,Delantero
+José Manuel Arnáiz,CA Osasuna,La Liga,1995-04-15,España,Delantero
+Kike Barja,CA Osasuna,La Liga,1997-04-01,España,Delantero
+Chimy Ávila,CA Osasuna,La Liga,1994-02-06,Argentina,Delantero
+Ante Budimir,CA Osasuna,La Liga,1991-07-22,Croacia,Delantero
+Raúl García,CA Osasuna,La Liga,2000-11-03,España,Delantero
+Rui Silva,Real Betis Balompié,La Liga,1994-02-07,Portugal,Portero
+Claudio Bravo,Real Betis Balompié,La Liga,1983-04-13,Chile,Portero
+Germán Pezzella,Real Betis Balompié,La Liga,1991-06-27,Argentina,Defensa
+Marc Bartra,Real Betis Balompié,La Liga,1991-01-15,España,Defensa
+Chadi Riad,Real Betis Balompié,La Liga,2003-06-17,Marruecos,Defensa
+Juan Miranda,Real Betis Balompié,La Liga,2000-01-19,España,Defensa
+Abner,Real Betis Balompié,La Liga,2000-05-27,Brasil,Defensa
+Héctor Bellerín,Real Betis Balompié,La Liga,1995-03-19,España,Defensa
+Youssouf Sabaly,Real Betis Balompié,La Liga,1993-03-05,Senegal,Defensa
+Guido Rodríguez,Real Betis Balompié,La Liga,1994-04-12,Argentina,Medio campo
+William Carvalho,Real Betis Balompié,La Liga,1992-04-07,Portugal,Medio campo
+Marc Roca,Real Betis Balompié,La Liga,1996-11-26,España,Medio campo
+Andrés Guardado,Real Betis Balompié,La Liga,1986-09-28,México,Medio campo
+Sergi Altimira,Real Betis Balompié,La Liga,2001-08-25,España,Medio campo
+Nabil Fekir,Real Betis Balompié,La Liga,1993-07-18,Francia,Medio campo
+Rodri Sánchez,Real Betis Balompié,La Liga,2000-05-16,España,Medio campo
+Isco,Real Betis Balompié,La Liga,1992-04-21,España,Medio campo
+Abde Ezzalzouli,Real Betis Balompié,La Liga,2001-12-17,Marruecos,Delantero
+Ayoze Pérez,Real Betis Balompié,La Liga,1993-07-29,España,Delantero
+Assane Diao,Real Betis Balompié,La Liga,2005-09-07,España,Delantero
+Luiz Henrique,Real Betis Balompié,La Liga,2001-01-02,Brasil,Delantero
+Aitor Ruibal,Real Betis Balompié,La Liga,1996-03-22,España,Delantero
+Juan Cruz,Real Betis Balompié,La Liga,2000-04-25,España,Delantero
+Borja Iglesias,Real Betis Balompié,La Liga,1993-01-17,España,Delantero
+Willian José,Real Betis Balompié,La Liga,1991-11-23,Brasil,Delantero
+Thibaut Courtois,Real Madrid CF,La Liga,1992-05-11,Bélgica,Portero
+Kepa Arrizabalaga,Real Madrid CF,La Liga,1994-10-03,España,Portero
+Andriy Lunin,Real Madrid CF,La Liga,1999-02-11,Ucrania,Portero
+Éder Militão,Real Madrid CF,La Liga,1998-01-18,Brasil,Defensa
+David Alaba,Real Madrid CF,La Liga,1992-06-24,Austria,Defensa
+Antonio Rüdiger,Real Madrid CF,La Liga,1993-03-03,Alemania,Defensa
+Nacho Fernández,Real Madrid CF,La Liga,1990-01-18,España,Defensa
+Ferland Mendy,Real Madrid CF,La Liga,1995-06-08,Francia,Defensa
+Fran García,Real Madrid CF,La Liga,1999-08-14,España,Defensa
+Daniel Carvajal,Real Madrid CF,La Liga,1992-01-11,España,Defensa
+Lucas Vázquez,Real Madrid CF,La Liga,1991-07-01,España,Defensa
+Aurélien Tchouaméni,Real Madrid CF,La Liga,2000-01-27,Francia,Medio campo
+Jude Bellingham,Real Madrid CF,La Liga,2003-06-29,Inglaterra,Medio campo
+Federico Valverde,Real Madrid CF,La Liga,1998-07-22,Uruguay,Medio campo
+Eduardo Camavinga,Real Madrid CF,La Liga,2002-11-10,Francia,Medio campo
+Toni Kroos,Real Madrid CF,La Liga,1990-01-04,Alemania,Medio campo
+Dani Ceballos,Real Madrid CF,La Liga,1996-08-07,España,Medio campo
+Luka Modric,Real Madrid CF,La Liga,1985-09-09,Croacia,Medio campo
+Brahim Díaz,Real Madrid CF,La Liga,1999-08-03,España,Medio campo
+Arda Güler,Real Madrid CF,La Liga,2005-02-25,Turquía,Medio campo
+Vinicius Junior,Real Madrid CF,La Liga,2000-07-12,Brasil,Delantero
+Rodrygo,Real Madrid CF,La Liga,2001-01-09,Brasil,Delantero
+Joselu,Real Madrid CF,La Liga,1990-03-27,España,Delantero
+Álex Remiro,Real Sociedad,La Liga,1995-03-24,España,Portero
+Unai Marrero,Real Sociedad,La Liga,2001-10-09,España,Portero
+Robin Le Normand,Real Sociedad,La Liga,1996-11-11,España,Defensa
+Igor Zubeldia,Real Sociedad,La Liga,1997-03-30,España,Defensa
+Aritz Elustondo,Real Sociedad,La Liga,1994-03-28,España,Defensa
+Jon Pacheco,Real Sociedad,La Liga,2001-01-08,España,Defensa
+Kieran Tierney,Real Sociedad,La Liga,1997-06-05,Escocia,Defensa
+Aihen Muñoz,Real Sociedad,La Liga,1997-08-16,España,Defensa
+Hamari Traoré,Real Sociedad,La Liga,1992-01-27,Malí,Defensa
+Álvaro Odriozola,Real Sociedad,La Liga,1995-12-14,España,Defensa
+Martín Zubimendi,Real Sociedad,La Liga,1999-02-02,España,Medio campo
+Urko González de Zarate,Real Sociedad,La Liga,2001-03-20,España,Medio campo
+Mikel Merino,Real Sociedad,La Liga,1996-06-22,España,Medio campo
+Beñat Turrientes,Real Sociedad,La Liga,2002-01-31,España,Medio campo
+Jon Ander Olasagasti,Real Sociedad,La Liga,2000-08-16,España,Medio campo
+Brais Méndez,Real Sociedad,La Liga,1997-01-07,España,Medio campo
+Arsen Zakharyan,Real Sociedad,La Liga,2003-05-26,Rusia,Medio campo
+Pablo Marín,Real Sociedad,La Liga,2003-07-03,España,Medio campo
+Mikel Oyarzabal,Real Sociedad,La Liga,1997-04-21,España,Delantero
+Ander Barrenetxea,Real Sociedad,La Liga,2001-12-27,España,Delantero
+Martín Merquelanz,Real Sociedad,La Liga,1995-06-12,España,Delantero
+Takefusa Kubo,Real Sociedad,La Liga,2001-06-04,Japón,Delantero
+Umar Sadiq,Real Sociedad,La Liga,1997-02-02,Nigeria,Delantero
+André Silva,Real Sociedad,La Liga,1995-11-06,Portugal,Delantero
+Mohamed-Ali Cho,Real Sociedad,La Liga,2004-01-19,Francia,Delantero
+Carlos Fernández,Real Sociedad,La Liga,1996-05-22,España,Delantero
+Marko Dmitrović,Sevilla FC,La Liga,1992-01-24,Serbia,Portero
+Ørjan Nyland,Sevilla FC,La Liga,1990-09-10,Noruega,Portero
+Matías Árbol,Sevilla FC,La Liga,2002-09-12,España,Portero
+Loïc Badé,Sevilla FC,La Liga,2000-04-11,Francia,Defensa
+Tanguy Nianzou,Sevilla FC,La Liga,2002-06-07,Francia,Defensa
+Marcão,Sevilla FC,La Liga,1996-06-05,Brasil,Defensa
+Federico Gattoni,Sevilla FC,La Liga,1999-02-16,Argentina,Defensa
+Sergio Ramos,Sevilla FC,La Liga,1986-03-30,España,Defensa
+Nemanja Gudelj,Sevilla FC,La Liga,1991-11-16,Serbia,Defensa
+Kike Salas,Sevilla FC,La Liga,2002-04-23,España,Defensa
+Marcos Acuña,Sevilla FC,La Liga,1991-10-28,Argentina,Defensa
+Adrià Pedrosa,Sevilla FC,La Liga,1998-05-13,España,Defensa
+Jesús Navas,Sevilla FC,La Liga,1985-11-21,España,Defensa
+Juanlu Sánchez,Sevilla FC,La Liga,2003-08-15,España,Defensa
+Boubakary Soumaré,Sevilla FC,La Liga,1999-02-27,Francia,Medio campo
+Fernando,Sevilla FC,La Liga,1987-07-25,Brasil,Medio campo
+Djibril Sow,Sevilla FC,La Liga,1997-02-06,Suiza,Medio campo
+Joan Jordán,Sevilla FC,La Liga,1994-07-06,España,Medio campo
+Óliver Torres,Sevilla FC,La Liga,1994-11-10,España,Medio campo
+Ivan Rakitic,Sevilla FC,La Liga,1988-03-10,Croacia,Medio campo
+Lucas Ocampos,Sevilla FC,La Liga,1994-07-11,Argentina,Delantero
+Dodi Lukébakio,Sevilla FC,La Liga,1997-09-24,Bélgica,Delantero
+Erik Lamela,Sevilla FC,La Liga,1992-03-04,Argentina,Delantero
+Suso,Sevilla FC,La Liga,1993-11-19,España,Delantero
+Adnan Januzaj,Sevilla FC,La Liga,1995-02-05,Bélgica,Delantero
+Youssef En-Nesyri,Sevilla FC,La Liga,1997-06-01,Marruecos,Delantero
+Rafa Mir,Sevilla FC,La Liga,1997-06-18,España,Delantero
+Mariano Díaz,Sevilla FC,La Liga,1993-08-01,República Dominicana,Delantero
+Filip Jörgensen,Villarreal CF,La Liga,2002-04-16,Dinamarca,Portero
+Pepe Reina,Villarreal CF,La Liga,1982-08-31,España,Portero
+Matteo Gabbia,Villarreal CF,La Liga,1999-10-21,Italia,Defensa
+Jorge Cuenca,Villarreal CF,La Liga,1999-11-17,España,Defensa
+Aïssa Mandi,Villarreal CF,La Liga,1991-10-22,Argelia,Defensa
+Raúl Albiol,Villarreal CF,La Liga,1985-09-04,España,Defensa
+Alfonso Pedraza,Villarreal CF,La Liga,1996-04-09,España,Defensa
+Alberto Moreno,Villarreal CF,La Liga,1992-07-05,España,Defensa
+Juan Foyth,Villarreal CF,La Liga,1998-01-12,Argentina,Defensa
+Kiko Femenía,Villarreal CF,La Liga,1991-02-02,España,Defensa
+Ramón Terrats,Villarreal CF,La Liga,2000-10-18,España,Medio campo
+Étienne Capoue,Villarreal CF,La Liga,1988-07-11,Francia,Medio campo
+Francis Coquelin,Villarreal CF,La Liga,1991-05-13,Francia,Medio campo
+Santi Comesaña,Villarreal CF,La Liga,1996-10-05,España,Medio campo
+Dani Parejo,Villarreal CF,La Liga,1989-04-16,España,Medio campo
+Manu Trigueros,Villarreal CF,La Liga,1991-10-17,España,Medio campo
+Álex Baena,Villarreal CF,La Liga,2001-07-20,España,Medio campo
+Denis Suárez,Villarreal CF,La Liga,1994-01-06,España,Medio campo
+Ben Brereton Díaz,Villarreal CF,La Liga,1999-04-18,Chile,Delantero
+Yéremy Pino,Villarreal CF,La Liga,2002-10-20,España,Delantero
+Ilias Akhomach,Villarreal CF,La Liga,2004-04-16,España,Delantero
+Gerard Moreno,Villarreal CF,La Liga,1992-04-07,España,Delantero
+Alexander Sørloth,Villarreal CF,La Liga,1995-12-05,Noruega,Delantero
+José Luis Morales,Villarreal CF,La Liga,1987-07-23,España,Delantero
+André Ferreira,Granada CF,La Liga,1996-05-29,Portugal,Portero
+Raúl Fernández,Granada CF,La Liga,1988-03-13,España,Portero
+Jesús Vallejo,Granada CF,La Liga,1997-01-05,España,Defensa
+Ignasi Miquel,Granada CF,La Liga,1992-09-28,España,Defensa
+Miguel Rubio,Granada CF,La Liga,1998-03-11,España,Defensa
+Raúl Torrente,Granada CF,La Liga,2001-09-11,España,Defensa
+Álvaro Fernandez,Granada CF,La Liga,2003-03-23,España,Defensa
+Carlos Neva,Granada CF,La Liga,1996-06-12,España,Defensa
+Ricard Sánchez,Granada CF,La Liga,2000-02-22,España,Defensa
+Wilson Manafá,Granada CF,La Liga,1994-07-23,Portugal,Defensa
+Víctor Díaz,Granada CF,La Liga,1988-06-12,España,Defensa
+Gerard Gumbau,Granada CF,La Liga,1994-12-18,España,Medio campo
+Njegos Petrovic,Granada CF,La Liga,1999-07-18,Serbia,Medio campo
+Gonzalo Villar,Granada CF,La Liga,1998-03-23,España,Medio campo
+Sergio Ruiz,Granada CF,La Liga,1994-12-16,España,Medio campo
+Óscar Melendo,Granada CF,La Liga,1997-08-23,España,Medio campo
+Myrto Uzuni,Granada CF,La Liga,1995-05-31,Albania,Delantero
+Bryan Zaragoza,Granada CF,La Liga,2001-09-09,España,Delantero
+Alberto Perea,Granada CF,La Liga,1990-12-19,España,Delantero
+Antonio Puertas,Granada CF,La Liga,1992-02-21,España,Delantero
+José Callejón,Granada CF,La Liga,1987-02-11,España,Delantero
+Lucas Boyé,Granada CF,La Liga,1996-02-28,Argentina,Delantero
+Shon Weissman,Granada CF,La Liga,1996-02-14,Israel,Delantero
+Famara Diédhiou,Granada CF,La Liga,1992-12-15,Senegal,Delantero
+Aarón Escandell,UD Las Palmas,La Liga,1995-09-27,España,Portero
+Álvaro Valles,UD Las Palmas,La Liga,1997-07-25,España,Portero
+Eric Curbelo,UD Las Palmas,La Liga,1994-01-14,España,Defensa
+Mika Mármol,UD Las Palmas,La Liga,2001-07-01,España,Defensa
+Saúl Coco,UD Las Palmas,La Liga,1999-02-09,Guinea Ecuatorial,Defensa
+Alex Suárez,UD Las Palmas,La Liga,1993-03-18,España,Defensa
+Daley Sinkgraven,UD Las Palmas,La Liga,1995-07-04,Países Bajos,Defensa
+Sergi Cardona,UD Las Palmas,La Liga,1999-07-08,España,Defensa
+Julián Araujo,UD Las Palmas,La Liga,2001-08-13,México,Defensa
+Álvaro Lemos,UD Las Palmas,La Liga,1993-03-30,España,Defensa
+Máximo Perrone,UD Las Palmas,La Liga,2003-01-07,Argentina,Medio campo
+Nuke Mfulu,UD Las Palmas,La Liga,1994-03-20,República Democrática del Congo,Medio campo
+Enzo Loiodice,UD Las Palmas,La Liga,2000-11-27,Francia,Medio campo
+Javi Muñoz,UD Las Palmas,La Liga,1995-02-28,España,Medio campo
+Fabio González,UD Las Palmas,La Liga,1997-02-12,España,Medio campo
+Alberto Moleiro,UD Las Palmas,La Liga,2003-09-30,España,Medio campo
+Jonathan Viera,UD Las Palmas,La Liga,1989-10-21,España,Medio campo
+Kirian Rodríguez,UD Las Palmas,La Liga,1996-03-05,España,Medio campo
+Pejiño,UD Las Palmas,La Liga,1996-07-29,España,Delantero
+Benito Ramírez,UD Las Palmas,La Liga,1995-07-11,España,Delantero
+Munir El Haddadi,UD Las Palmas,La Liga,1995-09-01,Marruecos,Delantero
+Marvin Park,UD Las Palmas,La Liga,2000-07-03,España,Delantero
+Sory Kaba,UD Las Palmas,La Liga,1995-07-28,Guinea,Delantero
+Sandro Ramírez,UD Las Palmas,La Liga,1995-07-09,España,Delantero
+Marc Cardona,UD Las Palmas,La Liga,1995-07-08,España,Delantero
+Cristian Herrera,UD Las Palmas,La Liga,1991-03-13,España,Delantero
+Stole Dimitrievski,Rayo Vallecano,La Liga,1993-12-25,Macedonia del Norte,Portero
+Dani Cárdenas,Rayo Vallecano,La Liga,1997-03-28,España,Portero
+Florian Lejeune,Rayo Vallecano,La Liga,1991-05-20,Francia,Defensa
+Abdul Mumin,Rayo Vallecano,La Liga,1998-06-06,Ghana,Defensa
+Aridane Hernández,Rayo Vallecano,La Liga,1989-03-23,España,Defensa
+Martín Pascual,Rayo Vallecano,La Liga,1999-08-04,España,Defensa
+Alfonso Espino,Rayo Vallecano,La Liga,1992-01-05,Uruguay,Defensa
+Pep Chavarría,Rayo Vallecano,La Liga,1998-04-10,España,Defensa
+Iván Balliu,Rayo Vallecano,La Liga,1992-01-01,Albania,Defensa
+Andrei Ratiu,Rayo Vallecano,La Liga,1998-06-20,Rumanía,Defensa
+Óscar Valentín,Rayo Vallecano,La Liga,1994-08-20,España,Medio campo
+Kike Pérez,Rayo Vallecano,La Liga,1997-02-14,España,Medio campo
+Unai López,Rayo Vallecano,La Liga,1995-10-30,España,Medio campo
+Pathé Ciss,Rayo Vallecano,La Liga,1994-03-16,Senegal,Medio campo
+Diego Méndez,Rayo Vallecano,La Liga,2003-08-29,España,Medio campo
+Óscar Trejo,Rayo Vallecano,La Liga,1988-04-26,Argentina,Medio campo
+Randy Nteka,Rayo Vallecano,La Liga,1997-12-06,Francia,Medio campo
+José Pozo,Rayo Vallecano,La Liga,1996-03-15,España,Medio campo
+Álvaro García,Rayo Vallecano,La Liga,1992-10-27,España,Delantero
+Bebé,Rayo Vallecano,La Liga,1990-07-12,Cabo Verde,Delantero
+Luís Maximiano,UD Almería,La Liga,1999-01-05,Portugal,Portero
+Fernando Martínez,UD Almería,La Liga,1990-06-10,España,Portero
+Diego Mariño,UD Almería,La Liga,1990-05-09,España,Portero
+Edgar González,UD Almería,La Liga,1997-04-01,España,Defensa
+César Montes,UD Almería,La Liga,1997-02-24,México,Defensa
+Kaiky,UD Almería,La Liga,2004-01-12,Brasil,Defensa
+Chumi,UD Almería,La Liga,1999-03-02,España,Defensa
+Sergio Akieme,UD Almería,La Liga,1997-12-16,España,Defensa
+Álex Centelles,UD Almería,La Liga,1999-08-30,España,Defensa
+Alejandro Pozo,UD Almería,La Liga,1999-02-22,España,Defensa
+Houboulang Mendes,UD Almería,La Liga,1998-05-04,Guinea-Bisáu,Defensa
+Marc Pubill,UD Almería,La Liga,2003-06-20,España,Defensa
+Dion Lopy,UD Almería,La Liga,2002-02-02,Senegal,Medio campo
+Lucas Robertone,UD Almería,La Liga,1997-03-18,Argentina,Medio campo
+Gonzalo Melero,UD Almería,La Liga,1994-01-02,España,Medio campo
+Iddrisu Baba,UD Almería,La Liga,1996-01-22,Ghana,Medio campo
+Arnau Puigmal,UD Almería,La Liga,2001-01-10,España,Medio campo
+Sergio Arribas,UD Almería,La Liga,2001-09-30,España,Medio campo
+Largie Ramazani,UD Almería,La Liga,2001-02-27,Bélgica,Delantero
+Lázaro,UD Almería,La Liga,2002-03-12,Brasil,Delantero
+Adrián Embarba,UD Almería,La Liga,1992-05-07,España,Delantero
+Luis Suárez,UD Almería,La Liga,1997-12-02,Colombia,Delantero
+Ibrahima Koné,UD Almería,La Liga,1999-06-16,Malí,Delantero
+Léo Baptistão,UD Almería,La Liga,1992-08-26,Brasil,Delantero
+Marko Milovanovic,UD Almería,La Liga,2003-08-04,Serbia,Delantero
+Agustín Marchesín,RC Celta de Vigo,La Liga,1988-03-16,Argentina,Portero
+Iván Villar,RC Celta de Vigo,La Liga,1997-07-09,España,Portero
+Vicente Guaita,RC Celta de Vigo,La Liga,1987-01-10,España,Portero
+Joseph Aidoo,RC Celta de Vigo,La Liga,1995-09-29,Ghana,Defensa
+Carl Starfelt,RC Celta de Vigo,La Liga,1995-06-01,Suecia,Defensa
+Unai Núñez,RC Celta de Vigo,La Liga,1997-01-30,España,Defensa
+Carlos Domínguez,RC Celta de Vigo,La Liga,2001-02-11,España,Defensa
+Manu Sánchez,RC Celta de Vigo,La Liga,2000-08-24,España,Defensa
+Mihailo Ristic,RC Celta de Vigo,La Liga,1995-10-31,Serbia,Defensa
+Óscar Mingueza,RC Celta de Vigo,La Liga,1999-05-13,España,Defensa
+Kevin Vázquez,RC Celta de Vigo,La Liga,1993-03-23,España,Defensa
+Renato Tapia,RC Celta de Vigo,La Liga,1995-07-28,Perú,Medio campo
+Fran Beltrán,RC Celta de Vigo,La Liga,1999-02-03,España,Medio campo
+Luca de la Torre,RC Celta de Vigo,La Liga,1998-05-23,Estados Unidos,Medio campo
+Carlos Dotor,RC Celta de Vigo,La Liga,2001-03-15,España,Medio campo
+Hugo Sotelo,RC Celta de Vigo,La Liga,2003-12-19,España,Medio campo
+Williot Swedberg,RC Celta de Vigo,La Liga,2004-02-01,Suecia,Medio campo
+Jonathan Bamba,RC Celta de Vigo,La Liga,1996-03-26,Costa de Marfil,Delantero
+Franco Cervi,RC Celta de Vigo,La Liga,1994-05-26,Argentina,Delantero
+Carles Pérez,RC Celta de Vigo,La Liga,1998-02-16,España,Delantero
+Miguel Rodríguez,RC Celta de Vigo,La Liga,2003-04-29,España,Delantero
+Jørgen Strand Larsen,RC Celta de Vigo,La Liga,2000-02-06,Noruega,Delantero
+Anastasios Douvikas,RC Celta de Vigo,La Liga,1999-08-02,Grecia,Delantero
+Iago Aspas,RC Celta de Vigo,La Liga,1987-08-01,España,Delantero
+Conan Ledesma,Cádiz CF,La Liga,1993-02-13,Argentina,Portero
+David Gil,Cádiz CF,La Liga,1994-01-11,España,Portero
+Fali,Cádiz CF,La Liga,1993-08-12,España,Defensa
+Víctor Chust,Cádiz CF,La Liga,2000-03-05,España,Defensa
+Jorge Meré,Cádiz CF,La Liga,1997-04-17,España,Defensa
+Luis Hernández,Cádiz CF,La Liga,1989-04-14,España,Defensa
+Momo Mbaye,Cádiz CF,La Liga,1998-06-28,Senegal,Defensa
+Javi Hernández,Cádiz CF,La Liga,1998-05-02,España,Defensa
+Lucas Pires,Cádiz CF,La Liga,2001-03-24,Brasil,Defensa
+Joseba Zaldua,Cádiz CF,La Liga,1992-06-24,España,Defensa
+Iza Carcelén,Cádiz CF,La Liga,1993-04-23,España,Defensa
+José Mari,Cádiz CF,La Liga,1987-12-06,España,Medio campo
+Rominigue Kouamé,Cádiz CF,La Liga,1996-12-17,Malí,Medio campo
+Rubén Alcaraz,Cádiz CF,La Liga,1991-05-01,España,Medio campo
+Gonzalo Escalante,Cádiz CF,La Liga,1993-03-27,Argentina,Medio campo
+Fede San Emeterio,Cádiz CF,La Liga,1997-03-16,España,Medio campo
+Martín Calderón,Cádiz CF,La Liga,1999-03-01,España,Medio campo
+Álex Fernández,Cádiz CF,La Liga,1992-10-15,España,Medio campo
+Robert Navarro,Cádiz CF,La Liga,2002-04-12,España,Medio campo
+Darwin Machís,Cádiz CF,La Liga,1993-02-07,Venezuela,Delantero
+Brian Ocampo,Cádiz CF,La Liga,1999-06-25,Uruguay,Delantero
+Iván Alejo,Cádiz CF,La Liga,1995-02-10,España,Delantero
+Maxi Gómez,Cádiz CF,La Liga,1996-08-14,Uruguay,Delantero
+Rubén Sobrino,Cádiz CF,La Liga,1992-06-01,España,Delantero
+Sergi Guardiola,Cádiz CF,La Liga,1991-05-29,España,Delantero
+Roger Martí,Cádiz CF,La Liga,1991-01-03,España,Delantero
+Chris Ramos,Cádiz CF,La Liga,1997-01-18,España,Delantero
+Álvaro Negredo,Cádiz CF,La Liga,1985-08-20,España,Delantero
+Antonio Sivera,Deportivo Alavés,La Liga,1996-08-11,España,Portero
+Jesús Owono,Deportivo Alavés,La Liga,2001-03-01,Guinea Ecuatorial,Portero
+Abdel Abqar,Deportivo Alavés,La Liga,1999-03-10,Marruecos,Defensa
+Nikola Maras,Deportivo Alavés,La Liga,1995-12-19,Serbia,Defensa
+Aleksandar Sedlar,Deportivo Alavés,La Liga,1991-12-13,Serbia,Defensa
+Rafa Marín,Deportivo Alavés,La Liga,2002-05-19,España,Defensa
+Rubén Duarte,Deportivo Alavés,La Liga,1995-10-18,España,Defensa
+Javi López,Deportivo Alavés,La Liga,2002-03-25,España,Defensa
+Andoni Gorosabel,Deportivo Alavés,La Liga,1996-08-04,España,Defensa
+Álex Sola,Deportivo Alavés,La Liga,1999-06-09,España,Defensa
+Nahuel Tenaglia,Deportivo Alavés,La Liga,1996-02-21,Argentina,Defensa
+Antonio Blanco,Deportivo Alavés,La Liga,2000-07-23,España,Medio campo
+Carlos Benavidez,Deportivo Alavés,La Liga,1998-03-30,Uruguay,Medio campo
+Ander Guevara,Deportivo Alavés,La Liga,1997-07-07,España,Medio campo
+Jon Guridi,Deportivo Alavés,La Liga,1995-02-28,España,Medio campo
+Ianis Hagi,Deportivo Alavés,La Liga,1998-10-22,Rumanía,Medio campo
+Luis Rioja,Deportivo Alavés,La Liga,1993-10-16,España,Delantero
+Abde Rebbach,Deportivo Alavés,La Liga,1998-08-11,Argelia,Delantero
+Xeber Alkain,Deportivo Alavés,La Liga,1997-06-26,España,Delantero
+Jon Karrikaburu,Deportivo Alavés,La Liga,2002-09-19,España,Delantero
+Giuliano Simeone,Deportivo Alavés,La Liga,2002-12-18,Argentina,Delantero
+Kike García,Deportivo Alavés,La Liga,1989-11-25,España,Delantero
+Samu Omorodion,Deportivo Alavés,La Liga,2004-05-05,España,Delantero
+Isi Palazón,Rayo Vallecano,La Liga,1994-12-27,España,Delantero
+Jorge de Frutos,Rayo Vallecano,La Liga,1997-02-20,España,Delantero
+Sergio Camello,Rayo Vallecano,La Liga,2001-02-10,España,Delantero
+Raúl de Tomás,Rayo Vallecano,La Liga,1994-10-17,España,Delantero
+Radamel Falcao,Rayo Vallecano,La Liga,1986-02-10,Colombia,Delantero
+Predrag Rajkovic,RCD Mallorca,La Liga,1995-10-31,Serbia,Portero
+Dominik Greif,RCD Mallorca,La Liga,1997-04-06,Eslovaquia,Portero
+Iván Cuéllar,RCD Mallorca,La Liga,1984-05-27,España,Portero
+Martin Valjent,RCD Mallorca,La Liga,1995-12-11,Eslovaquia,Defensa
+Siebe Van der Heyden,RCD Mallorca,La Liga,1998-05-30,Bélgica,Defensa
+Antonio Raíllo,RCD Mallorca,La Liga,1991-10-08,España,Defensa
+José Copete,RCD Mallorca,La Liga,1999-10-10,España,Defensa
+Matija Nastasic,RCD Mallorca,La Liga,1993-03-28,Serbia,Defensa
+Toni Lato,RCD Mallorca,La Liga,1997-11-21,España,Defensa
+Jaume Costa,RCD Mallorca,La Liga,1988-03-18,España,Defensa
+Pablo Maffeo,RCD Mallorca,La Liga,1997-07-12,España,Defensa
+Giovanni González,RCD Mallorca,La Liga,1994-09-20,Uruguay,Defensa
+Samú Costa,RCD Mallorca,La Liga,2000-11-27,Portugal,Medio campo
+Omar Mascarell,RCD Mallorca,La Liga,1993-02-02,España,Medio campo
+Sergi Darder,RCD Mallorca,La Liga,1993-12-22,España,Medio campo
+Manu Morlanes,RCD Mallorca,La Liga,1999-01-12,España,Medio campo
+Antonio Sánchez,RCD Mallorca,La Liga,1997-04-22,España,Medio campo
+Dani Rodríguez,RCD Mallorca,La Liga,1988-06-06,España,Medio campo
+Amath Ndiaye,RCD Mallorca,La Liga,1996-07-16,Senegal,Delantero
+Javi Llabrés,RCD Mallorca,La Liga,2002-09-11,España,Delantero
+Vedat Muriqi,RCD Mallorca,La Liga,1994-04-24,República de Kosovo,Delantero
+Cyle Larin,RCD Mallorca,La Liga,1995-04-17,Canadá,Delantero
+Abdón Prats,RCD Mallorca,La Liga,1992-12-07,España,Delantero
+David Soria,Getafe CF,La Liga,1993-04-04,España,Portero
+Daniel Fuzato,Getafe CF,La Liga,1997-07-04,Brasil,Portero
+Jorge Benito,Getafe CF,La Liga,2006-01-01,España,Portero
+Djené,Getafe CF,La Liga,1991-12-31,Togo,Defensa
+Gastón Álvarez,Getafe CF,La Liga,2000-03-24,Uruguay,Defensa
+Domingos Duarte,Getafe CF,La Liga,1995-03-10,Portugal,Defensa
+Omar Alderete,Getafe CF,La Liga,1996-12-26,Paraguay,Defensa
+Stefan Mitrovic,Getafe CF,La Liga,1990-05-22,Serbia,Defensa
+Diego Rico,Getafe CF,La Liga,1993-02-23,España,Defensa
+Fabrizio Angileri,Getafe CF,La Liga,1994-03-15,Argentina,Defensa
+José Ángel Carmona,Getafe CF,La Liga,2002-01-29,España,Defensa
+Juan Iglesias,Getafe CF,La Liga,1998-07-03,España,Defensa
+Damián Suárez,Getafe CF,La Liga,1988-04-27,Uruguay,Defensa
+Mauro Arambarri,Getafe CF,La Liga,1995-09-30,Uruguay,Medio campo
+Carles Aleñá,Getafe CF,La Liga,1998-01-05,España,Medio campo
+Nemanja Maksimovic,Getafe CF,La Liga,1995-01-26,Serbia,Medio campo
+Luis Milla,Getafe CF,La Liga,1994-10-07,España,Medio campo
+Óscar Rodríguez,Getafe CF,La Liga,1998-06-28,España,Medio campo
+Mason Greenwood,Getafe CF,La Liga,2001-10-01,Inglaterra,Delantero
+Enes Ünal,Getafe CF,La Liga,1997-05-10,Turquía,Delantero
+Borja Mayoral,Getafe CF,La Liga,1997-04-05,España,Delantero
+Juanmi Latasa,Getafe CF,La Liga,2001-03-23,España,Delantero
+Choco Lozano,Getafe CF,La Liga,1993-04-25,Honduras,Delantero
+Jaime Mata,Getafe CF,La Liga,1988-10-24,España,Delantero
+Giorgi Mamardashvili,Valencia CF,La Liga,2000-09-29,Georgia,Portero
+Jaume Doménech,Valencia CF,La Liga,1990-11-05,España,Portero
+Cristian Rivero,Valencia CF,La Liga,1998-03-21,España,Portero
+Mouctar Diakhaby,Valencia CF,La Liga,1996-12-19,Guinea,Defensa
+Cenk Özkacar,Valencia CF,La Liga,2000-10-06,Turquía,Defensa
+Gabriel Paulista,Valencia CF,La Liga,1990-11-26,Brasil,Defensa
+Cristhian Mosquera,Valencia CF,La Liga,2004-06-27,España,Defensa
+José Gayà,Valencia CF,La Liga,1995-05-25,España,Defensa
+Jesús Vázquez,Valencia CF,La Liga,2003-01-02,España,Defensa
+Thierry Correia,Valencia CF,La Liga,1999-03-09,Portugal,Defensa
+Dimitri Foulquier,Valencia CF,La Liga,1993-03-23,Francia,Defensa
+Hugo Guillamón,Valencia CF,La Liga,2000-01-31,España,Medio campo
+Pepelu,Valencia CF,La Liga,1998-08-11,España,Medio campo
+André Almeida,Valencia CF,La Liga,2000-05-30,Portugal,Medio campo
+Javi Guerra,Valencia CF,La Liga,2003-05-13,España,Medio campo
+Selim Amallah,Valencia CF,La Liga,1996-11-15,Marruecos,Medio campo
+Pablo Gozálbez,Valencia CF,La Liga,2001-04-30,España,Medio campo
+Diego López,Valencia CF,La Liga,2002-05-13,España,Delantero
+Sergi Canós,Valencia CF,La Liga,1997-02-02,España,Delantero
+Fran Pérez,Valencia CF,La Liga,2002-09-09,España,Delantero
+Roman Yaremchuk,Valencia CF,La Liga,1995-11-27,Ucrania,Delantero
+Hugo Duro,Valencia CF,La Liga,1999-11-10,España,Delantero
+Alberto Marí,Valencia CF,La Liga,2001-07-11,España,Delantero

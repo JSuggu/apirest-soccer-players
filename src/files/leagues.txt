@@ -1,0 +1,10 @@
+La Liga,España
+Premier League,Inglaterra
+Serie A,Italia
+Bundesliga,Alemania
+Ligue 1,Francia
+Campeonato Brasileño de Serie A,Brasil
+Liga Profesional de Fútbol,Argentina
+Major League Soccer,Estados Unidos
+Primeira Liga,Portugal
+Eredivisie,Países Bajos

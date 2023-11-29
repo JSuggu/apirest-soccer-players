@@ -1,0 +1,552 @@
+Aaron Ramsdale,Arsenal FC,Premier League,1998-05-14,Inglaterra,Portero
+David Raya,Arsenal FC,Premier League,1995-09-15,España,Portero
+Karl Hein,Arsenal FC,Premier League,2002-04-13,Estonia,Portero
+William Saliba,Arsenal FC,Premier League,2001-03-24,Francia,Defensa
+Gabriel Magalhães,Arsenal FC,Premier League,1997-12-19,Brasil,Defensa
+Jurrien Timber,Arsenal FC,Premier League,2001-06-17,Países Bajos,Defensa
+Jakub Kiwior,Arsenal FC,Premier League,2000-02-15,Polonia,Defensa
+Oleksandr Zinchenko,Arsenal FC,Premier League,1996-12-15,Ucrania,Defensa
+Ben White,Arsenal FC,Premier League,1997-10-08,Inglaterra,Defensa
+Takehiro Tomiyasu,Arsenal FC,Premier League,1998-11-05,Japón,Defensa
+Cédric Soares,Arsenal FC,Premier League,1991-08-31,Portugal,Defensa
+Declan Rice,Arsenal FC,Premier League,1999-01-14,Inglaterra,Medio campo
+Thomas Partey,Arsenal FC,Premier League,1993-06-13,Ghana,Medio campo
+Jorginho,Arsenal FC,Premier League,1991-12-20,Italia,Medio campo
+Mohamed Elneny,Arsenal FC,Premier League,1992-07-11,Egipto,Medio campo
+Martin Ødegaard,Arsenal FC,Premier League,1998-12-17,Noruega,Medio campo
+Kai Havertz,Arsenal FC,Premier League,1999-06-11,Alemania,Medio campo
+Emile Smith Rowe,Arsenal FC,Premier League,2000-07-28,Inglaterra,Medio campo
+Fábio Vieira,Arsenal FC,Premier League,2000-05-30,Portugal,Medio campo
+Gabriel Martinelli,Arsenal FC,Premier League,2001-06-18,Brasil,Delantero
+Leandro Trossard,Arsenal FC,Premier League,1994-12-04,Bélgica,Delantero
+Bukayo Saka,Arsenal FC,Premier League,2001-09-05,Inglaterra,Delantero
+Reiss Nelson,Arsenal FC,Premier League,1999-12-10,Inglaterra,Delantero
+Gabriel Jesus,Arsenal FC,Premier League,1997-04-03,Brasil,Delantero
+Eddie Nketiah,Arsenal FC,Premier League,1999-05-30,Inglaterra,Delantero
+Emiliano Martínez,Aston Villa,Premier League,1992-09-02,Argentina,Portero
+Robin Olsen,Aston Villa,Premier League,1990-01-08,Suecia,Portero
+Pau Torres,Aston Villa,Premier League,1997-01-16,España,Defensa
+Ezri Konsa,Aston Villa,Premier League,1997-10-23,Inglaterra,Defensa
+Tyrone Mings,Aston Villa,Premier League,1993-03-13,Inglaterra,Defensa
+Diego Carlos,Aston Villa,Premier League,1993-03-15,Brasil,Defensa
+Clément Lenglet,Aston Villa,Premier League,1995-06-17,Francia,Defensa
+Kortney Hause,Aston Villa,Premier League,1995-07-16,Inglaterra,Defensa
+Lucas Digne,Aston Villa,Premier League,1993-07-20,Francia,Defensa
+Álex Moreno,Aston Villa,Premier League,1993-06-08,España,Defensa
+Matty Cash,Aston Villa,Premier League,1997-08-07,Polonia,Defensa
+Calum Chambers,Aston Villa,Premier League,1995-01-20,Inglaterra,Defensa
+Boubacar Kamara,Aston Villa,Premier League,1999-11-23,Francia,Medio campo
+Leander Dendoncker,Aston Villa,Premier League,1995-04-15,Bélgica,Medio campo
+Douglas Luiz,Aston Villa,Premier League,1998-05-09,Brasil,Medio campo
+Jacob Ramsey,Aston Villa,Premier League,2001-05-28,Inglaterra,Medio campo
+John McGinn,Aston Villa,Premier League,1994-10-18,Escocia,Medio campo
+Youri Tielemans,Aston Villa,Premier League,1997-05-07,Bélgica,Medio campo
+Tim Iroegbunam,Aston Villa,Premier League,2003-06-30,Inglaterra,Medio campo
+Nicolò Zaniolo,Aston Villa,Premier League,1999-07-02,Italia,Medio campo
+Leon Bailey,Aston Villa,Premier League,1997-08-09,Jamaica,Delantero
+Moussa Diaby,Aston Villa,Premier League,1999-07-07,Francia,Delantero
+Emiliano Buendía,Aston Villa,Premier League,1996-12-25,Argentina,Delantero
+Bertrand Traoré,Aston Villa,Premier League,1995-09-06,Burkina Faso,Delantero
+Ollie Watkins,Aston Villa,Premier League,1995-12-30,Inglaterra,Delantero
+Jhon Durán,Aston Villa,Premier League,2003-12-13,Colombia,Delantero
+Ionut Radu,AFC Bournemouth,Premier League,1997-05-28,Rumanía,Portero
+Neto,AFC Bournemouth,Premier League,1989-07-19,Brasil,Portero
+Darren Randolph,AFC Bournemouth,Premier League,1987-05-12,Irlanda,Portero
+Marcos Senesi,AFC Bournemouth,Premier League,1997-05-10,Argentina,Defensa
+Ilya Zabarnyi,AFC Bournemouth,Premier League,2002-09-01,Ucrania,Defensa
+Lloyd Kelly,AFC Bournemouth,Premier League,1998-10-06,Inglaterra,Defensa
+Chris Mepham,AFC Bournemouth,Premier League,1997-11-05,Gales,Defensa
+Milos Kerkez,AFC Bournemouth,Premier League,2003-11-07,Hungría,Defensa
+Max Aarons,AFC Bournemouth,Premier League,2000-01-04,Inglaterra,Defensa
+Ryan Fredericks,AFC Bournemouth,Premier League,1992-10-10,Inglaterra,Defensa
+Adam Smith,AFC Bournemouth,Premier League,1991-04-29,Inglaterra,Defensa
+Tyler Adams,AFC Bournemouth,Premier League,1999-02-14,Estados Unidos,Medio campo
+Alex Scott,AFC Bournemouth,Premier League,2003-08-21,Inglaterra,Medio campo
+Philip Billing,AFC Bournemouth,Premier League,1996-06-11,Dinamarca,Medio campo
+Lewis Cook,AFC Bournemouth,Premier League,1997-02-03,Inglaterra,Medio campo
+Joe Rothwell,AFC Bournemouth,Premier League,1995-01-11,Inglaterra,Medio campo
+Gavin Kilkenny,AFC Bournemouth,Premier League,2000-02-01,Irlanda,Medio campo
+Marcus Tavernier,AFC Bournemouth,Premier League,1999-03-22,Inglaterra,Medio campo
+Hamed Junior Traorè,AFC Bournemouth,Premier League,2000-02-16,Costa de Marfil,Medio campo
+Ryan Christie,AFC Bournemouth,Premier League,1995-02-22,Escocia,Medio campo
+Emiliano Marcondes,AFC Bournemouth,Premier League,1995-03-09,Dinamarca,Medio campo
+Luis Sinisterra,AFC Bournemouth,Premier League,1999-06-17,Colombia,Delantero
+Justin Kluivert,AFC Bournemouth,Premier League,1999-05-05,Países Bajos,Delantero
+Dango Ouattara,AFC Bournemouth,Premier League,2002-02-11,Burkina Faso,Delantero
+David Brooks,AFC Bournemouth,Premier League,1997-07-08,Gales,Delantero
+Dominic Solanke,AFC Bournemouth,Premier League,1997-09-14,Inglaterra,Delantero
+Antoine Semenyo,AFC Bournemouth,Premier League,2000-01-07,Ghana,Delantero
+Kieffer Moore,AFC Bournemouth,Premier League,1992-08-08,Gales,Delantero
+Mark Flekken,Brentford FC,Premier League,1993-06-13,Países Bajos,Portero
+Thomas Strakosha,Brentford FC,Premier League,1995-03-19,Albania,Portero
+Ellery Balcombe,Brentford FC,Premier League,1999-10-15,Inglaterra,Portero
+Nathan Collins,Brentford FC,Premier League,2001-04-30,Irlanda,Defensa
+Kristoffer Ajer,Brentford FC,Premier League,1998-04-17,Noruega,Defensa
+Ethan Pinnock,Brentford FC,Premier League,1993-05-29,Jamaica,Defensa
+Ben Mee,Brentford FC,Premier League,1989-09-21,Inglaterra,Defensa
+Zanka,Brentford FC,Premier League,1990-04-23,Dinamarca,Defensa
+Charlie Goode,Brentford FC,Premier League,1995-08-03,Inglaterra,Defensa
+Rico Henry,Brentford FC,Premier League,1997-07-08,Inglaterra,Defensa
+Aaron Hickey,Brentford FC,Premier League,2002-06-10,Escocia,Defensa
+Mads Roerslev,Brentford FC,Premier League,1999-06-24,Dinamarca,Defensa
+Vitaly Janelt,Brentford FC,Premier League,1998-05-10,Alemania,Medio campo
+Christian Nørgaard,Brentford FC,Premier League,1994-03-10,Dinamarca,Medio campo
+Mathias Jensen,Brentford FC,Premier League,1996-01-01,Dinamarca,Medio campo
+Josh Dasilva,Brentford FC,Premier League,1998-10-23,Inglaterra,Medio campo
+Frank Onyeka,Brentford FC,Premier League,1998-01-01,Nigeria,Medio campo
+Shandon Baptiste,Brentford FC,Premier League,1998-04-08,Granada,Medio campo
+Saman Ghoddos,Brentford FC,Premier League,1993-09-06,Irán,Medio campo
+Yegor Yarmolyuk,Brentford FC,Premier League,2004-03-01,Ucrania,Medio campo
+Myles Peart-Harris,Brentford FC,Premier League,2002-09-18,Inglaterra,Medio campo
+Yoane Wissa,Brentford FC,Premier League,1996-09-03,República Democrática del Congo,Delantero
+Mikkel Damsgaard,Brentford FC,Premier League,2000-07-03,Dinamarca,Delantero
+Keane Lewis-Potter,Brentford FC,Premier League,2001-02-22,Inglaterra,Delantero
+Bryan Mbeumo,Brentford FC,Premier League,1999-08-07,Camerún,Delantero
+Kevin Schade,Brentford FC,Premier League,2001-11-27,Alemania,Delantero
+Michael Olakigbe,Brentford FC,Premier League,2004-04-25,Inglaterra,Delantero
+Ivan Toney,Brentford FC,Premier League,1996-03-16,Inglaterra,Delantero
+Neal Maupay,Brentford FC,Premier League,1996-08-14,Francia,Delantero
+Bart Verbruggen,Brighton And Hove Albion,Premier League,2002-08-18,Países Bajos,Portero
+Jason Steele,Brighton And Hove Albion,Premier League,1990-08-18,Inglaterra,Portero
+Tom McGill,Brighton And Hove Albion,Premier League,2000-03-25,Canadá,Portero
+Adam Webster,Brighton And Hove Albion,Premier League,1995-01-04,Inglaterra,Defensa
+Lewis Dunk,Brighton And Hove Albion,Premier League,1991-11-21,Inglaterra,Defensa
+Igor,Brighton And Hove Albion,Premier League,1998-02-07,Brasil,Defensa
+Jan Paul van Hecke,Brighton And Hove Albion,Premier League,2000-06-08,Países Bajos,Defensa
+Pervis Estupiñán,Brighton And Hove Albion,Premier League,1998-01-21,Ecuador,Defensa
+Tariq Lamptey,Brighton And Hove Albion,Premier League,2000-09-30,Ghana,Defensa
+Joël Veltman,Brighton And Hove Albion,Premier League,1992-01-15,Países Bajos,Defensa
+Carlos Baleba,Brighton And Hove Albion,Premier League,2004-01-03,Camerún,Medio campo
+Billy Gilmour,Brighton And Hove Albion,Premier League,2001-06-11,Escocia,Medio campo
+Mahmoud Dahoud,Brighton And Hove Albion,Premier League,1996-01-01,Alemania,Medio campo
+Jakub Moder,Brighton And Hove Albion,Premier League,1999-04-07,Polonia,Medio campo
+Pascal Groß,Brighton And Hove Albion,Premier League,1991-06-15,Alemania,Medio campo
+James Milner,Brighton And Hove Albion,Premier League,1986-01-04,Inglaterra,Medio campo
+Facundo Buonanotte,Brighton And Hove Albion,Premier League,2004-12-23,Argentina,Medio campo
+Adam Lallana,Brighton And Hove Albion,Premier League,1988-05-10,Inglaterra,Medio campo
+Kaoru Mitoma,Brighton And Hove Albion,Premier League,1997-05-20,Japón,Delantero
+Ansu Fati,Brighton And Hove Albion,Premier League,2002-10-31,España,Delantero
+Simon Adingra,Brighton And Hove Albion,Premier League,2002-01-01,Costa de Marfil,Delantero
+Solly March,Brighton And Hove Albion,Premier League,1994-07-20,Inglaterra,Delantero
+Julio Enciso,Brighton And Hove Albion,Premier League,2004-01-23,Paraguay,Delantero
+Evan Ferguson,Brighton And Hove Albion,Premier League,2004-10-19,Irlanda,Delantero
+João Pedro,Brighton And Hove Albion,Premier League,2001-09-26,Brasil,Delantero
+Danny Welbeck,Brighton And Hove Albion,Premier League,1990-11-26,Inglaterra,Delantero
+James Trafford,Burnley FC,Premier League,2002-10-10,Inglaterra,Portero
+Arijanet Muric,Burnley FC,Premier League,1998-11-07,República de Kosovo,Portero
+Lawrence Vigouroux,Burnley FC,Premier League,1993-11-19,Chile,Portero
+Denis Franchi,Burnley FC,Premier League,2002-10-22,Italia,Portero
+Jordan Beyer,Burnley FC,Premier League,2000-05-19,Alemania,Defensa
+Ameen Al-Dakhil,Burnley FC,Premier League,2002-03-06,Bélgica,Defensa
+Hjalmar Ekdal,Burnley FC,Premier League,1998-10-21,Suecia,Defensa
+Dara O'Shea,Burnley FC,Premier League,1999-03-04,Irlanda,Defensa
+Hannes Delcroix,Burnley FC,Premier League,1999-02-28,Bélgica,Defensa
+Charlie Taylor,Burnley FC,Premier League,1993-09-18,Inglaterra,Defensa
+Connor Roberts,Burnley FC,Premier League,1995-09-23,Gales,Defensa
+Vitinho,Burnley FC,Premier League,1999-07-23,Brasil,Defensa
+CJ Egan-Riley,Burnley FC,Premier League,2003-01-02,Inglaterra,Defensa
+Sander Berge,Burnley FC,Premier League,1998-02-14,Noruega,Medio campo
+Han-Noah Massengo,Burnley FC,Premier League,2001-07-07,Francia,Medio campo
+Jack Cork,Burnley FC,Premier League,1989-06-25,Inglaterra,Medio campo
+Josh Brownhill,Burnley FC,Premier League,1995-12-19,Inglaterra,Medio campo
+Josh Cullen,Burnley FC,Premier League,1996-04-07,Irlanda,Medio campo
+Aaron Ramsey,Burnley FC,Premier League,2003-01-21,Inglaterra,Medio campo
+Mike Trésor,Burnley FC,Premier League,1999-05-28,Bélgica,Delantero
+Anass Zaroury,Burnley FC,Premier League,2000-11-07,Marruecos,Delantero
+Luca Koleosho,Burnley FC,Premier League,2004-09-15,Italia,Delantero
+Jacob Bruun Larsen,Burnley FC,Premier League,1998-09-19,Dinamarca,Delantero
+Darko Churlinov,Burnley FC,Premier League,2000-07-11,Macedonia del Norte,Delantero
+Nathan Redmond,Burnley FC,Premier League,1994-03-06,Inglaterra,Delantero
+Wilson Odobert,Burnley FC,Premier League,2004-11-28,Francia,Delantero
+Benson Manuel,Burnley FC,Premier League,1997-03-28,Bélgica,Delantero
+Jóhann Berg Gudmundsson,Burnley FC,Premier League,1990-10-27,Islandia,Delantero
+Enock Agyei,Burnley FC,Premier League,2005-01-13,Bélgica,Delantero
+Zeki Amdouni,Burnley FC,Premier League,2000-12-04,Suiza,Delantero
+Lyle Foster,Burnley FC,Premier League,2000-09-03,Sudáfrica,Delantero
+Michael Obafemi,Burnley FC,Premier League,2000-07-06,Irlanda,Delantero
+Jay Rodríguez,Burnley FC,Premier League,1989-07-29,Inglaterra,Delantero
+Robert Sánchez,Chelsea FC,Premier League,1997-11-18,España,Portero
+Djordje Petrovic,Chelsea FC,Premier League,1999-10-08,Serbia,Portero
+Marcus Bettinelli,Chelsea FC,Premier League,1992-05-24,Inglaterra,Portero
+Lucas Bergström,Chelsea FC,Premier League,2002-09-05,Finlandia,Portero
+Levi Colwill,Chelsea FC,Premier League,2003-02-26,Inglaterra,Defensa
+Axel Disasi,Chelsea FC,Premier League,1998-03-11,Francia,Defensa
+Benoît Badiashile,Chelsea FC,Premier League,2001-03-26,Francia,Defensa
+Wesley Fofana,Chelsea FC,Premier League,2000-12-17,Francia,Defensa
+Trevoh Chalobah,Chelsea FC,Premier League,1999-07-05,Inglaterra,Defensa
+Malang Sarr,Chelsea FC,Premier League,1999-01-23,Francia,Defensa
+Thiago Silva,Chelsea FC,Premier League,1984-09-22,Brasil,Defensa
+Ben Chilwell,Chelsea FC,Premier League,1996-12-21,Inglaterra,Defensa
+Marc Cucurella,Chelsea FC,Premier League,1998-07-22,España,Defensa
+Ian Maatsen,Chelsea FC,Premier League,2002-03-10,Países Bajos,Defensa
+Reece James,Chelsea FC,Premier League,1999-12-08,Inglaterra,Defensa
+Malo Gusto,Chelsea FC,Premier League,2003-05-19,Francia,Defensa
+Moisés Caicedo,Chelsea FC,Premier League,2001-11-02,Ecuador,Medio campo
+Roméo Lavia,Chelsea FC,Premier League,2004-01-06,Bélgica,Medio campo
+Lesley Ugochukwu,Chelsea FC,Premier League,2004-03-26,Francia,Medio campo
+Enzo Fernández,Chelsea FC,Premier League,2001-01-17,Argentina,Medio campo
+Conor Gallagher,Chelsea FC,Premier League,2000-02-06,Inglaterra,Medio campo
+Carney Chukwuemeka,Chelsea FC,Premier League,2003-10-20,Inglaterra,Medio campo
+Christopher Nkunku,Chelsea FC,Premier League,1997-11-14,Francia,Medio campo
+Cole Palmer,Chelsea FC,Premier League,2002-05-06,Inglaterra,Medio campo
+Raheem Sterling,Chelsea FC,Premier League,1994-12-08,Inglaterra,Delantero
+Mykhaylo Mudryk,Chelsea FC,Premier League,2001-01-05,Ucrania,Delantero
+Noni Madueke,Chelsea FC,Premier League,2002-03-10,Inglaterra,Delantero
+Nicolas Jackson,Chelsea FC,Premier League,2001-06-20,Senegal,Delantero
+Armando Broja,Chelsea FC,Premier League,2001-09-10,Albania,Delantero
+Deivid Washington,Chelsea FC,Premier League,2005-06-05,Brasil,Delantero
+Dean Henderson,Crystal Palace,Premier League,1997-03-12,Inglaterra,Portero
+Sam Johnstone,Crystal Palace,Premier League,1993-03-25,Inglaterra,Portero
+Joe Whitworth,Crystal Palace,Premier League,2004-02-29,Inglaterra,Portero
+Remi Matthews,Crystal Palace,Premier League,1994-02-10,Inglaterra,Portero
+Marc Guéhi,Crystal Palace,Premier League,2000-07-13,Inglaterra,Defensa
+Joachim Andersen,Crystal Palace,Premier League,1996-05-31,Dinamarca,Defensa
+Chris Richards,Crystal Palace,Premier League,2000-03-28,Estados Unidos,Defensa
+Rob Holding,Crystal Palace,Premier League,1995-09-20,Inglaterra,Defensa
+Nathan Ferguson,Crystal Palace,Premier League,2000-10-06,Inglaterra,Defensa
+James Tomkins,Crystal Palace,Premier League,1989-03-29,Inglaterra,Defensa
+Tyrick Mitchell,Crystal Palace,Premier League,1999-09-01,Inglaterra,Defensa
+Nathaniel Clyne,Crystal Palace,Premier League,1991-04-05,Inglaterra,Defensa
+Joel Ward,Crystal Palace,Premier League,1989-10-29,Inglaterra,Defensa
+Cheick Doucouré,Crystal Palace,Premier League,2000-01-08,Malí,Medio campo
+Jefferson Lerma,Crystal Palace,Premier League,1994-10-25,Colombia,Medio campo
+Jairo Riedewald,Crystal Palace,Premier League,1996-09-09,Países Bajos,Medio campo
+Naouirou Ahamada,Crystal Palace,Premier League,2002-03-29,Francia,Medio campo
+Will Hughes,Crystal Palace,Premier League,1995-04-17,Inglaterra,Medio campo
+Jeffrey Schlupp,Crystal Palace,Premier League,1992-12-23,Ghana,Medio campo
+Eberechi Eze,Crystal Palace,Premier League,1998-06-29,Inglaterra,Medio campo
+Matheus França,Crystal Palace,Premier League,2004-04-01,Brasil,Medio campo
+Michael Olise,Crystal Palace,Premier League,2001-12-12,Francia,Delantero
+Malcolm Ebiowei,Crystal Palace,Premier League,2003-09-04,Inglaterra,Delantero
+Jesurun Rak-Sakyi,Crystal Palace,Premier League,2002-10-05,Inglaterra,Delantero
+Odsonne Edouard,Crystal Palace,Premier League,1998-01-16,Francia,Delantero
+Jean-Philippe Mateta,Crystal Palace,Premier League,1997-06-28,Francia,Delantero
+Jordan Ayew,Crystal Palace,Premier League,1991-09-11,Ghana,Delantero
+Jordan Pickford,Everton FC,Premier League,1994-03-07,Inglaterra,Portero
+João Virgínia,Everton FC,Premier League,1999-10-10,Portugal,Portero
+Andy Lonergan,Everton FC,Premier League,1983-10-19,Inglaterra,Portero
+James Tarkowski,Everton FC,Premier League,1992-11-19,Inglaterra,Defensa
+Jarrad Branthwaite,Everton FC,Premier League,2002-06-27,Inglaterra,Defensa
+Ben Godfrey,Everton FC,Premier League,1998-01-15,Inglaterra,Defensa
+Michael Keane,Everton FC,Premier League,1993-01-11,Inglaterra,Defensa
+Vitaliy Mykolenko,Everton FC,Premier League,1999-05-29,Ucrania,Defensa
+Ashley Young,Everton FC,Premier League,1985-07-09,Inglaterra,Defensa
+Nathan Patterson,Everton FC,Premier League,2001-10-16,Escocia,Defensa
+Seamus Coleman,Everton FC,Premier League,1988-10-11,Irlanda,Defensa
+Amadou Onana,Everton FC,Premier League,2001-08-16,Bélgica,Medio campo
+James Garner,Everton FC,Premier League,2001-03-13,Inglaterra,Medio campo
+André Gomes,Everton FC,Premier League,1993-07-30,Portugal,Medio campo
+Abdoulaye Doucouré,Everton FC,Premier League,1993-01-01,Malí,Medio campo
+Idrissa Gueye,Everton FC,Premier League,1989-09-26,Senegal,Medio campo
+Tyler Onyango,Everton FC,Premier League,2003-03-04,Inglaterra,Medio campo
+Dele Alli,Everton FC,Premier League,1996-04-11,Inglaterra,Medio campo
+Jack Harrison,Everton FC,Premier League,1996-11-20,Inglaterra,Delantero
+Dwight McNeil,Everton FC,Premier League,1999-11-22,Inglaterra,Delantero
+Arnaut Danjuma,Everton FC,Premier League,1997-01-31,Países Bajos,Delantero
+Lewis Dobbin,Everton FC,Premier League,2003-01-03,Inglaterra,Delantero
+Dominic Calvert-Lewin,Everton FC,Premier League,1997-03-16,Inglaterra,Delantero
+Beto,Everton FC,Premier League,1998-01-31,Portugal,Delantero
+Chermiti,Everton FC,Premier League,2004-05-24,Portugal,Delantero
+Bernd Leno,Fulham FC,Premier League,1992-03-04,Alemania,Portero
+Marek Rodak,Fulham FC,Premier League,1996-12-13,Eslovaquia,Portero
+Steven Benda,Fulham FC,Premier League,1998-10-01,Alemania,Portero
+Issa Diop,Fulham FC,Premier League,1997-01-09,Francia,Defensa
+Calvin Bassey,Fulham FC,Premier League,1999-12-31,Nigeria,Defensa
+Tosin Adarabioyo,Fulham FC,Premier League,1997-09-24,Inglaterra,Defensa
+Tim Ream,Fulham FC,Premier League,1987-10-05,Estados Unidos,Defensa
+Antonee Robinson,Fulham FC,Premier League,1997-08-08,Estados Unidos,Defensa
+Fodé Ballo-Touré,Fulham FC,Premier League,1997-01-03,Senegal,Defensa
+Timothy Castagne,Fulham FC,Premier League,1995-12-05,Bélgica,Defensa
+Kenny Tete,Fulham FC,Premier League,1995-10-09,Países Bajos,Defensa
+João Palhinha,Fulham FC,Premier League,1995-07-09,Portugal,Medio campo
+Harrison Reed,Fulham FC,Premier League,1995-01-27,Inglaterra,Medio campo
+Sasa Lukic,Fulham FC,Premier League,1996-08-13,Serbia,Medio campo
+Tom Cairney,Fulham FC,Premier League,1991-01-20,Escocia,Medio campo
+Tyrese Francois,Fulham FC,Premier League,2000-07-16,Australia,Medio campo
+Alex Iwobi,Fulham FC,Premier League,1996-05-03,Nigeria,Medio campo
+Andreas Pereira,Fulham FC,Premier League,1996-01-01,Brasil,Medio campo
+Bobby De Cordova-Reid,Fulham FC,Premier League,1993-02-02,Jamaica,Medio campo
+Luke Harris,Fulham FC,Premier League,2005-03-04,Gales,Medio campo
+Willian,Fulham FC,Premier League,1988-08-09,Brasil,Delantero
+Harry Wilson,Fulham FC,Premier League,1997-03-22,Gales,Delantero
+Adama Traoré,Fulham FC,Premier League,1996-01-25,España,Delantero
+Raúl Jiménez,Fulham FC,Premier League,1991-05-05,México,Delantero
+Carlos Vinícius,Fulham FC,Premier League,1995-03-25,Brasil,Delantero
+Rodrigo Muniz,Fulham FC,Premier League,2001-05-04,Brasil,Delantero
+Alisson,Liverpool FC,Premier League,1992-10-02,Brasil,Portero
+Caoimhín Kelleher,Liverpool FC,Premier League,1998-11-23,Irlanda,Portero
+Adrián,Liverpool FC,Premier League,1987-01-03,España,Portero
+Ibrahima Konaté,Liverpool FC,Premier League,1999-05-25,Francia,Defensa
+Virgil van Dijk,Liverpool FC,Premier League,1991-07-08,Países Bajos,Defensa
+Joe Gomez,Liverpool FC,Premier League,1997-05-23,Inglaterra,Defensa
+Joel Matip,Liverpool FC,Premier League,1991-08-08,Camerún,Defensa
+Jarell Quansah,Liverpool FC,Premier League,2003-01-29,Inglaterra,Defensa
+Andrew Robertson,Liverpool FC,Premier League,1994-03-11,Escocia,Defensa
+Konstantinos Tsimikas,Liverpool FC,Premier League,1996-05-12,Grecia,Defensa
+Trent Alexander-Arnold,Liverpool FC,Premier League,1998-10-07,Inglaterra,Defensa
+Conor Bradley,Liverpool FC,Premier League,2003-07-09,Irlanda,Defensa
+Wataru Endo,Liverpool FC,Premier League,1993-02-09,Japón,Medio campo
+Stefan Bajcetic,Liverpool FC,Premier League,2004-10-22,España,Medio campo
+Dominik Szoboszlai,Liverpool FC,Premier League,2000-10-25,Hungría,Medio campo
+Alexis Mac Allister,Liverpool FC,Premier League,1998-12-24,Argentina,Medio campo
+Ryan Gravenberch,Liverpool FC,Premier League,2002-05-16,Países Bajos,Medio campo
+Curtis Jones,Liverpool FC,Premier League,2001-01-30,Inglaterra,Medio campo
+Thiago,Liverpool FC,Premier League,1991-04-11,España,Medio campo
+Harvey Elliott,Liverpool FC,Premier League,2003-04-04,Inglaterra,Medio campo
+Luis Díaz,Liverpool FC,Premier League,1997-01-13,Colombia,Delantero
+Cody Gakpo,Liverpool FC,Premier League,1999-05-07,Países Bajos,Delantero
+Diogo Jota,Liverpool FC,Premier League,1996-12-04,Portugal,Delantero
+Mohamed Salah,Liverpool FC,Premier League,1992-06-15,Egipto,Delantero
+Ben Doak,Liverpool FC,Premier League,2005-11-11,Escocia,Delantero
+Darwin Núñez,Liverpool FC,Premier League,1999-06-24,Uruguay,Delantero
+Thomas Kaminski,Luton Town,Premier League,1992-10-23,Bélgica,Portero
+Tim Krul,Luton Town,Premier League,1988-04-03,Países Bajos,Portero
+James Shea,Luton Town,Premier League,1991-06-16,Inglaterra,Portero
+Tom Lockyer,Luton Town,Premier League,1994-12-03,Gales,Defensa
+Mads Andersen,Luton Town,Premier League,1997-12-27,Dinamarca,Defensa
+Teden Mengi,Luton Town,Premier League,2002-04-30,Inglaterra,Defensa
+Reece Burke,Luton Town,Premier League,1996-09-02,Inglaterra,Defensa
+Gabriel Osho,Luton Town,Premier League,1998-08-14,Inglaterra,Defensa
+Ryan Giles,Luton Town,Premier League,2000-01-26,Inglaterra,Defensa
+Alfie Doughty,Luton Town,Premier League,1999-12-21,Inglaterra,Defensa
+Amari'i Bell,Luton Town,Premier League,1994-05-05,Jamaica,Defensa
+Dan Potts,Luton Town,Premier League,1994-04-13,Inglaterra,Defensa
+Issa Kaboré,Luton Town,Premier League,2001-05-12,Burkina Faso,Defensa
+Marvelous Nakamba,Luton Town,Premier League,1994-01-19,Zimbabue,Medio campo
+Pelly Ruddock Mpanzu,Luton Town,Premier League,1994-03-22,República Democrática del Congo,Medio campo
+Albert Sambi Lokonga,Luton Town,Premier League,1999-10-22,Bélgica,Medio campo
+Ross Barkley,Luton Town,Premier League,1993-12-05,Inglaterra,Medio campo
+Jordan Clark,Luton Town,Premier League,1993-09-22,Inglaterra,Medio campo
+Luke Berry,Luton Town,Premier League,1992-07-12,Inglaterra,Medio campo
+Tahith Chong,Luton Town,Premier League,1999-12-04,Países Bajos,Medio campo
+Chiedozie Ogbene,Luton Town,Premier League,1997-05-01,Irlanda,Delantero
+Carlton Morris,Luton Town,Premier League,1995-12-16,Inglaterra,Delantero
+Elijah Adebayo,Luton Town,Premier League,1998-01-07,Inglaterra,Delantero
+Jacob Brown,Luton Town,Premier League,1998-04-10,Escocia,Delantero
+Cauley Woodrow,Luton Town,Premier League,1994-12-02,Inglaterra,Delantero
+Ederson,Manchester City,Premier League,1993-08-17,Brasil,Portero
+Stefan Ortega,Manchester City,Premier League,1992-11-06,Alemania,Portero
+Zack Steffen,Manchester City,Premier League,1995-04-02,Estados Unidos,Portero
+Scott Carson,Manchester City,Premier League,1985-09-03,Inglaterra,Portero
+Rúben Dias,Manchester City,Premier League,1997-05-14,Portugal,Defensa
+Josko Gvardiol,Manchester City,Premier League,2002-01-23,Croacia,Defensa
+Nathan Aké,Manchester City,Premier League,1995-02-18,Países Bajos,Defensa
+John Stones,Manchester City,Premier League,1994-05-28,Inglaterra,Defensa
+Manuel Akanji,Manchester City,Premier League,1995-07-19,Suiza,Defensa
+Sergio Gómez,Manchester City,Premier League,2000-09-04,España,Defensa
+Rico Lewis,Manchester City,Premier League,2004-11-21,Inglaterra,Defensa
+Kyle Walker,Manchester City,Premier League,1990-05-28,Inglaterra,Defensa
+Rodri,Manchester City,Premier League,1996-06-22,España,Medio campo
+Kalvin Phillips,Manchester City,Premier League,1995-12-02,Inglaterra,Medio campo
+Matheus Nunes,Manchester City,Premier League,1998-08-27,Portugal,Medio campo
+Mateo Kovacic,Manchester City,Premier League,1994-05-06,Croacia,Medio campo
+Bernardo Silva,Manchester City,Premier League,1994-08-10,Portugal,Medio campo
+Kevin De Bruyne,Manchester City,Premier League,1991-06-28,Bélgica,Medio campo
+Phil Foden,Manchester City,Premier League,2000-05-28,Inglaterra,Delantero
+Jack Grealish,Manchester City,Premier League,1995-09-10,Inglaterra,Delantero
+Jérémy Doku,Manchester City,Premier League,2002-05-27,Bélgica,Delantero
+Oscar Bobb,Manchester City,Premier League,2003-07-12,Noruega,Delantero
+Erling Haaland,Manchester City,Premier League,2000-07-21,Noruega,Delantero
+Julián Álvarez,Manchester City,Premier League,2000-01-31,Argentina,Delantero
+André Onana,Manchester United,Premier League,1996-04-02,Camerún,Portero
+Altay Bayindir,Manchester United,Premier League,1998-04-14,Turquía,Portero
+Tom Heaton,Manchester United,Premier League,1986-04-15,Inglaterra,Portero
+Lisandro Martínez,Manchester United,Premier League,1998-01-18,Argentina,Defensa
+Raphaël Varane,Manchester United,Premier League,1993-04-25,Francia,Defensa
+Harry Maguire,Manchester United,Premier League,1993-03-05,Inglaterra,Defensa
+Victor Lindelöf,Manchester United,Premier League,1994-07-17,Suecia,Defensa
+Jonny Evans,Manchester United,Premier League,1988-01-03,Irlanda,Defensa
+Luke Shaw,Manchester United,Premier League,1995-07-12,Inglaterra,Defensa
+Tyrell Malacia,Manchester United,Premier League,1999-08-17,Países Bajos,Defensa
+Sergio Reguilón,Manchester United,Premier League,1996-12-16,España,Defensa
+Diogo Dalot,Manchester United,Premier League,1999-03-18,Portugal,Defensa
+Aaron Wan-Bissaka,Manchester United,Premier League,1997-11-26,Inglaterra,Defensa
+Casemiro,Manchester United,Premier League,1992-02-23,Brasil,Medio campo
+Sofyan Amrabat,Manchester United,Premier League,1996-08-21,Marruecos,Medio campo
+Scott McTominay,Manchester United,Premier League,1996-12-08,Escocia,Medio campo
+Donny van de Beek,Manchester United,Premier League,1997-04-18,Países Bajos,Medio campo
+Kobbie Mainoo,Manchester United,Premier League,2005-04-19,Inglaterra,Medio campo
+Bruno Fernandes,Manchester United,Premier League,1994-09-08,Portugal,Medio campo
+Mason Mount,Manchester United,Premier League,1999-01-10,Inglaterra,Medio campo
+Christian Eriksen,Manchester United,Premier League,1992-02-14,Dinamarca,Medio campo
+Hannibal,Manchester United,Premier League,2003-01-21,Túnez,Medio campo
+Shola Shoretire,Manchester United,Premier League,2004-02-02,Inglaterra,Medio campo
+Marcus Rashford,Manchester United,Premier League,1997-10-31,Inglaterra,Delantero
+Jadon Sancho,Manchester United,Premier League,2000-03-25,Inglaterra,Delantero
+Alejandro Garnacho,Manchester United,Premier League,2004-07-01,Argentina,Delantero
+Antony,Manchester United,Premier League,2000-02-24,Brasil,Delantero
+Amad Diallo,Manchester United,Premier League,2002-07-11,Costa de Marfil,Delantero
+Facundo Pellistri,Manchester United,Premier League,2001-12-20,Uruguay,Delantero
+Rasmus Højlund,Manchester United,Premier League,2003-02-04,Dinamarca,Delantero
+Anthony Martial,Manchester United,Premier League,1995-12-05,Francia,Delantero
+Nick Pope,Newcastle United,Premier League,1992-04-19,Inglaterra,Portero
+Martin Dúbravka,Newcastle United,Premier League,1989-01-15,Eslovaquia,Portero
+Loris Karius,Newcastle United,Premier League,1993-06-22,Alemania,Portero
+Mark Gillespie,Newcastle United,Premier League,1992-03-27,Inglaterra,Portero
+Sven Botman,Newcastle United,Premier League,2000-01-12,Países Bajos,Defensa
+Fabian Schär,Newcastle United,Premier League,1991-12-20,Suiza,Defensa
+Jamaal Lascelles,Newcastle United,Premier League,1993-11-11,Inglaterra,Defensa
+Paul Dummett,Newcastle United,Premier League,1991-09-26,Gales,Defensa
+Lewis Hall,Newcastle United,Premier League,2004-09-08,Inglaterra,Defensa
+Matt Targett,Newcastle United,Premier League,1995-09-18,Inglaterra,Defensa
+Dan Burn,Newcastle United,Premier League,1992-05-09,Inglaterra,Defensa
+Tino Livramento,Newcastle United,Premier League,2002-11-12,Inglaterra,Defensa
+Kieran Trippier,Newcastle United,Premier League,1990-09-19,Inglaterra,Defensa
+Emil Krafth,Newcastle United,Premier League,1994-08-02,Suecia,Defensa
+Javier Manquillo,Newcastle United,Premier League,1994-05-05,España,Defensa
+Bruno Guimarães,Newcastle United,Premier League,1997-11-16,Brasil,Medio campo
+Sandro Tonali,Newcastle United,Premier League,2000-05-08,Italia,Medio campo
+Joelinton,Newcastle United,Premier League,1996-08-14,Brasil,Medio campo
+Joe Willock,Newcastle United,Premier League,1999-08-20,Inglaterra,Medio campo
+Sean Longstaff,Newcastle United,Premier League,1997-10-30,Inglaterra,Medio campo
+Lewis Miley,Newcastle United,Premier League,2006-05-01,Inglaterra,Medio campo
+Matt Ritchie,Newcastle United,Premier League,1989-09-10,Escocia,Medio campo
+Elliot Anderson,Newcastle United,Premier League,2002-11-06,Escocia,Medio campo
+Anthony Gordon,Newcastle United,Premier League,2001-02-24,Inglaterra,Delantero
+Harvey Barnes,Newcastle United,Premier League,1997-12-09,Inglaterra,Delantero
+Miguel Almirón,Newcastle United,Premier League,1994-02-10,Paraguay,Delantero
+Jacob Murphy,Newcastle United,Premier League,1995-02-24,Inglaterra,Delantero
+Alexander Isak,Newcastle United,Premier League,1999-09-21,Suecia,Delantero
+Callum Wilson,Newcastle United,Premier League,1992-02-27,Inglaterra,Delantero
+Matt Turner,Nottingham Forest,Premier League,1994-06-24,Estados Unidos,Portero
+Odysseas Vlachodimos,Nottingham Forest,Premier League,1994-04-26,Grecia,Portero
+Ethan Horvath,Nottingham Forest,Premier League,1995-06-09,Estados Unidos,Portero
+Wayne Hennessey,Nottingham Forest,Premier League,1987-01-24,Gales,Portero
+Moussa Niakhaté,Nottingham Forest,Premier League,1996-03-08,Senegal,Defensa
+Joe Worrall,Nottingham Forest,Premier League,1997-01-10,Inglaterra,Defensa
+Andrew Omobamidele,Nottingham Forest,Premier League,2002-06-23,Irlanda,Defensa
+Scott McKenna,Nottingham Forest,Premier League,1996-11-12,Escocia,Defensa
+Murillo,Nottingham Forest,Premier League,2002-07-04,Brasil,Defensa
+Willy Boly,Nottingham Forest,Premier League,1991-02-03,Costa de Marfil,Defensa
+Felipe,Nottingham Forest,Premier League,1989-05-16,Brasil,Defensa
+Nuno Tavares,Nottingham Forest,Premier League,2000-01-26,Portugal,Defensa
+Harry Toffolo,Nottingham Forest,Premier League,1995-08-19,Inglaterra,Defensa
+Neco Williams,Nottingham Forest,Premier League,2001-04-13,Gales,Defensa
+Gonzalo Montiel,Nottingham Forest,Premier League,1997-01-01,Argentina,Defensa
+Serge Aurier,Nottingham Forest,Premier League,1992-12-24,Costa de Marfil,Defensa
+Ola Aina,Nottingham Forest,Premier League,1996-10-08,Nigeria,Defensa
+Ibrahim Sangaré,Nottingham Forest,Premier League,1997-12-02,Costa de Marfil,Medio campo
+Andrey Santos,Nottingham Forest,Premier League,2004-05-03,Brasil,Medio campo
+Cheikhou Kouyaté,Nottingham Forest,Premier League,1989-12-21,Senegal,Medio campo
+Danilo,Nottingham Forest,Premier League,2001-04-29,Brasil,Medio campo
+Orel Mangala,Nottingham Forest,Premier League,1998-03-18,Bélgica,Medio campo
+Nicolás Domínguez,Nottingham Forest,Premier League,1998-06-28,Argentina,Medio campo
+Ryan Yates,Nottingham Forest,Premier League,1997-11-21,Inglaterra,Medio campo
+Harry Arter,Nottingham Forest,Premier League,1989-12-28,Irlanda,Medio campo
+Morgan Gibbs-White,Nottingham Forest,Premier League,2000-01-27,Inglaterra,Medio campo
+Brandon Aguilera,Nottingham Forest,Premier League,2003-06-28,Costa Rica,Medio campo
+Anthony Elanga,Nottingham Forest,Premier League,2002-04-27,Suecia,Delantero
+Callum Hudson-Odoi,Nottingham Forest,Premier League,2000-11-07,Inglaterra,Delantero
+Taiwo Awoniyi,Nottingham Forest,Premier League,1997-08-12,Nigeria,Delantero
+Chris Wood,Nottingham Forest,Premier League,1991-12-07,Nueva Zelanda,Delantero
+Divock Origi,Nottingham Forest,Premier League,1995-04-18,Bélgica,Delantero
+Wes Foderingham,Sheffield United,Premier League,1991-01-14,Inglaterra,Portero
+Adam Davies,Sheffield United,Premier League,1992-07-17,Gales,Portero
+Jordan Amissah,Sheffield United,Premier League,2001-08-02,Ghana,Portero
+Anel Ahmedhodzic,Sheffield United,Premier League,1999-03-26,Bosnia y Herzegovina,Defensa
+Auston Trusty,Sheffield United,Premier League,1998-08-12,Estados Unidos,Defensa
+John Egan,Sheffield United,Premier League,1992-10-20,Irlanda,Defensa
+Jack Robinson,Sheffield United,Premier League,1993-09-01,Inglaterra,Defensa
+Chris Basham,Sheffield United,Premier League,1988-07-20,Inglaterra,Defensa
+Luke Thomas,Sheffield United,Premier League,2001-06-10,Inglaterra,Defensa
+Yasser Larouci,Sheffield United,Premier League,2001-01-01,Argelia,Defensa
+Max Lowe,Sheffield United,Premier League,1997-05-11,Inglaterra,Defensa
+Rhys Norrington-Davies,Sheffield United,Premier League,1999-04-22,Gales,Defensa
+Jayden Bogle,Sheffield United,Premier League,2000-07-27,Inglaterra,Defensa
+Femi Seriki,Sheffield United,Premier League,2002-04-28,Inglaterra,Defensa
+Gustavo Hamer,Sheffield United,Premier League,1997-06-24,Países Bajos,Medio campo
+Vini Souza,Sheffield United,Premier League,1999-06-17,Brasil,Medio campo
+James McAtee,Sheffield United,Premier League,2002-10-18,Inglaterra,Medio campo
+Tom Davies,Sheffield United,Premier League,1998-06-30,Inglaterra,Medio campo
+Anis Slimane,Sheffield United,Premier League,2001-03-16,Túnez,Medio campo
+Oliver Norwood,Sheffield United,Premier League,1991-04-12,Irlanda,Medio campo
+John Fleck,Sheffield United,Premier League,1991-08-24,Escocia,Medio campo
+Ismaila Coulibaly,Sheffield United,Premier League,2000-12-25,Malí,Medio campo
+Ben Osborn,Sheffield United,Premier League,1994-08-05,Inglaterra,Medio campo
+George Baldock,Sheffield United,Premier League,1993-03-09,Grecia,Medio campo
+Cameron Archer,Sheffield United,Premier League,2001-12-09,Inglaterra,Delantero
+Oli McBurnie,Sheffield United,Premier League,1996-06-04,Escocia,Delantero
+Rhian Brewster,Sheffield United,Premier League,2000-04-01,Inglaterra,Delantero
+Bénie Traoré,Sheffield United,Premier League,2002-11-30,Costa de Marfil,Delantero
+William Osula,Sheffield United,Premier League,2003-08-04,Dinamarca,Delantero
+Daniel Jebbison,Sheffield United,Premier League,2003-07-11,Canadá,Delantero
+Guglielmo Vicario,Tottenham Hotspur,Premier League,1996-10-07,Italia,Portero
+Hugo Lloris,Tottenham Hotspur,Premier League,1986-12-26,Francia,Portero
+Fraser Forster,Tottenham Hotspur,Premier League,1988-03-17,Inglaterra,Portero
+Brandon Austin,Tottenham Hotspur,Premier League,1999-01-08,Inglaterra,Portero
+Alfie Whiteman,Tottenham Hotspur,Premier League,1998-10-02,Inglaterra,Portero
+Cristian Romero,Tottenham Hotspur,Premier League,1998-04-27,Argentina,Defensa
+Micky van de Ven,Tottenham Hotspur,Premier League,2001-04-19,Países Bajos,Defensa
+Eric Dier,Tottenham Hotspur,Premier League,1994-01-15,Inglaterra,Defensa
+Ashley Phillips,Tottenham Hotspur,Premier League,2005-06-26,Inglaterra,Defensa
+Destiny Udogie,Tottenham Hotspur,Premier League,2002-11-28,Italia,Defensa
+Ben Davies,Tottenham Hotspur,Premier League,1993-04-24,Gales,Defensa
+Pedro Porro,Tottenham Hotspur,Premier League,1999-09-13,España,Defensa
+Emerson Royal,Tottenham Hotspur,Premier League,1999-01-14,Brasil,Defensa
+Oliver Skipp,Tottenham Hotspur,Premier League,2000-09-16,Inglaterra,Medio campo
+Rodrigo Bentancur,Tottenham Hotspur,Premier League,1997-06-25,Uruguay,Medio campo
+Pape Matar Sarr,Tottenham Hotspur,Premier League,2002-09-14,Senegal,Medio campo
+Pierre-Emile Højbjerg,Tottenham Hotspur,Premier League,1995-08-05,Dinamarca,Medio campo
+Yves Bissouma,Tottenham Hotspur,Premier League,1996-08-30,Malí,Medio campo
+Ryan Sessegnon,Tottenham Hotspur,Premier League,2000-05-18,Inglaterra,Medio campo
+Ivan Perisic,Tottenham Hotspur,Premier League,1989-02-02,Croacia,Medio campo
+James Maddison,Tottenham Hotspur,Premier League,1996-11-23,Inglaterra,Medio campo
+Giovani Lo Celso,Tottenham Hotspur,Premier League,1996-04-09,Argentina,Medio campo
+Heung-min Son,Tottenham Hotspur,Premier League,1992-07-08,Corea del Sur,Delantero
+Manor Solomon,Tottenham Hotspur,Premier League,1999-07-24,Israel,Delantero
+Bryan Gil,Tottenham Hotspur,Premier League,2001-02-11,España,Delantero
+Dejan Kulusevski,Tottenham Hotspur,Premier League,2000-04-25,Suecia,Delantero
+Brennan Johnson,Tottenham Hotspur,Premier League,2001-05-23,Gales,Delantero
+Richarlison,Tottenham Hotspur,Premier League,1997-05-10,Brasil,Delantero
+Alejo Véliz,Tottenham Hotspur,Premier League,2003-09-19,Argentina,Delantero
+Alphonse Areola,West Ham United,Premier League,1993-02-27,Francia,Portero
+Lukasz Fabianski,West Ham United,Premier League,1985-04-18,Polonia,Portero
+Joseph Anang,West Ham United,Premier League,2000-06-08,Inglaterra,Portero
+Nayef Aguerd,West Ham United,Premier League,1996-03-30,Marruecos,Defensa
+Kurt Zouma,West Ham United,Premier League,1994-10-27,Francia,Defensa
+Konstantinos Mavropanos,West Ham United,Premier League,1997-12-11,Grecia,Defensa
+Thilo Kehrer,West Ham United,Premier League,1996-09-21,Alemania,Defensa
+Angelo Ogbonna,West Ham United,Premier League,1988-05-23,Italia,Defensa
+Emerson Palmieri,West Ham United,Premier League,1994-08-03,Italia,Defensa
+Aaron Cresswell,West Ham United,Premier League,1989-12-15,Inglaterra,Defensa
+Ben Johnson,West Ham United,Premier League,2000-01-24,Inglaterra,Defensa
+Vladimir Coufal,West Ham United,Premier League,1992-08-22,República Checa,Defensa
+Edson Álvarez,West Ham United,Premier League,1997-10-24,México,Medio campo
+Tomas Soucek,West Ham United,Premier League,1995-02-27,República Checa,Medio campo
+Conor Coventry,West Ham United,Premier League,2000-03-25,Irlanda,Medio campo
+James Ward-Prowse,West Ham United,Premier League,1994-11-01,Inglaterra,Medio campo
+Lucas Paquetá,West Ham United,Premier League,1997-08-27,Brasil,Medio campo
+Mohammed Kudus,West Ham United,Premier League,2000-08-02,Ghana,Medio campo
+Pablo Fornals,West Ham United,Premier League,1996-02-22,España,Medio campo
+Saïd Benrahma,West Ham United,Premier League,1995-08-10,Argelia,Delantero
+Maxwel Cornet,West Ham United,Premier League,1996-09-27,Costa de Marfil,Delantero
+Jarrod Bowen,West Ham United,Premier League,1996-12-20,Inglaterra,Delantero
+Danny Ings,West Ham United,Premier League,1992-07-23,Inglaterra,Delantero
+Michail Antonio,West Ham United,Premier League,1990-03-28,Jamaica,Delantero
+Divin Mubama,West Ham United,Premier League,2004-10-25,Inglaterra,Delantero
+José Sá,Wolverhampton Wanderers,Premier League,1993-01-17,Portugal,Portero
+Daniel Bentley,Wolverhampton Wanderers,Premier League,1993-07-13,Inglaterra,Portero
+Tom King,Wolverhampton Wanderers,Premier League,1995-03-09,Gales,Portero
+Max Kilman,Wolverhampton Wanderers,Premier League,1997-05-23,Inglaterra,Defensa
+Santiago Bueno,Wolverhampton Wanderers,Premier League,1998-11-09,Uruguay,Defensa
+Toti,Wolverhampton Wanderers,Premier League,1999-01-16,Portugal,Defensa
+Craig Dawson,Wolverhampton Wanderers,Premier League,1990-05-06,Inglaterra,Defensa
+Rayan Aït-Nouri,Wolverhampton Wanderers,Premier League,2001-06-06,Argelia,Defensa
+Jonny Otto,Wolverhampton Wanderers,Premier League,1994-03-03,España,Defensa
+Hugo Bueno,Wolverhampton Wanderers,Premier League,2002-09-18,España,Defensa
+Nélson Semedo,Wolverhampton Wanderers,Premier League,1993-11-16,Portugal,Defensa
+Matt Doherty,Wolverhampton Wanderers,Premier League,1992-01-16,Irlanda,Defensa
+Mario Lemina,Wolverhampton Wanderers,Premier League,1993-09-01,Gabón,Medio campo
+Boubacar Traoré,Wolverhampton Wanderers,Premier League,2001-08-20,Malí,Medio campo
+Joe Hodge,Wolverhampton Wanderers,Premier League,2002-09-14,Irlanda,Medio campo
+João Gomes,Wolverhampton Wanderers,Premier League,2001-02-12,Brasil,Medio campo
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,Premier League,1998-06-27,Francia,Medio campo
+Tommy Doyle,Wolverhampton Wanderers,Premier League,2001-10-17,Inglaterra,Medio campo
+Bruno Jordão,Wolverhampton Wanderers,Premier League,1998-10-12,Portugal,Medio campo
+Enso González,Wolverhampton Wanderers,Premier League,2005-01-20,Paraguay,Delantero
+Pedro Neto,Wolverhampton Wanderers,Premier League,2000-03-09,Portugal,Delantero
+Pablo Sarabia,Wolverhampton Wanderers,Premier League,1992-05-11,España,Delantero
+Matheus Cunha,Wolverhampton Wanderers,Premier League,1999-05-27,Brasil,Delantero
+Hee-chan Hwang,Wolverhampton Wanderers,Premier League,1996-01-26,Corea del Sur,Delantero
+Fábio Silva,Wolverhampton Wanderers,Premier League,2002-07-19,Portugal,Delantero
+Sasa Kalajdzic,Wolverhampton Wanderers,Premier League,1997-07-07,Austria,Delantero

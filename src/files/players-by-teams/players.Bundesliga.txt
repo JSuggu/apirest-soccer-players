@@ -1,0 +1,516 @@
+Manuel Neuer,Bayern Múnich,Bundesliga,1986-03-27,Alemania,Portero
+Daniel Peretz,Bayern Múnich,Bundesliga,2000-07-10,Israel,Portero
+Sven Ulreich,Bayern Múnich,Bundesliga,1988-08-03,Alemania,Portero
+Tom Hülsmann,Bayern Múnich,Bundesliga,2004-04-11,Alemania,Portero
+Matthijs de Ligt,Bayern Múnich,Bundesliga,1999-08-12,Países Bajos,Defensa
+Dayot Upamecano,Bayern Múnich,Bundesliga,1998-10-27,Francia,Defensa
+Min-jae Kim,Bayern Múnich,Bundesliga,1996-11-15,Corea del Sur,Defensa
+Tarek Buchmann,Bayern Múnich,Bundesliga,2005-02-28,Alemania,Defensa
+Alphonso Davies,Bayern Múnich,Bundesliga,2000-11-02,Canadá,Defensa
+Raphaël Guerreiro,Bayern Múnich,Bundesliga,1993-12-22,Portugal,Defensa
+Frans Krätzig,Bayern Múnich,Bundesliga,2003-01-14,Alemania,Defensa
+Noussair Mazraoui,Bayern Múnich,Bundesliga,1997-11-14,Marruecos,Defensa
+Bouna Sarr,Bayern Múnich,Bundesliga,1992-01-31,Senegal,Defensa
+Joshua Kimmich,Bayern Múnich,Bundesliga,1995-02-08,Alemania,Medio campo
+Aleksandar Pavlovic,Bayern Múnich,Bundesliga,2004-05-03,Alemania,Medio campo
+Leon Goretzka,Bayern Múnich,Bundesliga,1995-02-06,Alemania,Medio campo
+Konrad Laimer,Bayern Múnich,Bundesliga,1997-05-27,Austria,Medio campo
+Taichi Fukui,Bayern Múnich,Bundesliga,2004-07-15,Japón,Medio campo
+Jamal Musiala,Bayern Múnich,Bundesliga,2003-02-26,Alemania,Medio campo
+Kingsley Coman,Bayern Múnich,Bundesliga,1996-06-13,Francia,Delantero
+Leroy Sané,Bayern Múnich,Bundesliga,1996-01-11,Alemania,Delantero
+Serge Gnabry,Bayern Múnich,Bundesliga,1995-07-14,Alemania,Delantero
+Thomas Müller,Bayern Múnich,Bundesliga,1989-09-13,Alemania,Delantero
+Harry Kane,Bayern Múnich,Bundesliga,1993-07-28,Inglaterra,Delantero
+Mathys Tel,Bayern Múnich,Bundesliga,2005-04-27,Francia,Delantero
+Eric Maxim Choupo-Moting,Bayern Múnich,Bundesliga,1989-03-23,Camerún,Delantero
+Gregor Kobel,Borussia Dortmund,Bundesliga,1997-12-06,Suiza,Portero
+Marcel Lotka,Borussia Dortmund,Bundesliga,2001-05-25,Alemania,Portero
+Alexander Meyer,Borussia Dortmund,Bundesliga,1991-04-13,Alemania,Portero
+Nico Schlotterbeck,Borussia Dortmund,Bundesliga,1999-12-01,Alemania,Defensa
+Niklas Süle,Borussia Dortmund,Bundesliga,1995-09-03,Alemania,Defensa
+Mats Hummels,Borussia Dortmund,Bundesliga,1988-12-16,Alemania,Defensa
+Antonios Papadopoulos,Borussia Dortmund,Bundesliga,1999-09-10,Alemania,Defensa
+Ramy Bensebaini,Borussia Dortmund,Bundesliga,1995-04-16,Argelia,Defensa
+Julian Ryerson,Borussia Dortmund,Bundesliga,1997-11-17,Noruega,Defensa
+Marius Wolf,Borussia Dortmund,Bundesliga,1995-05-27,Alemania,Defensa
+Thomas Meunier,Borussia Dortmund,Bundesliga,1991-09-12,Bélgica,Defensa
+Mateu Morey,Borussia Dortmund,Bundesliga,2000-03-02,España,Defensa
+Emre Can,Borussia Dortmund,Bundesliga,1994-01-12,Alemania,Medio campo
+Salih Özcan,Borussia Dortmund,Bundesliga,1998-01-11,Turquía,Medio campo
+Abdoulaye Kamara,Borussia Dortmund,Bundesliga,2004-11-06,Francia,Medio campo
+Marcel Sabitzer,Borussia Dortmund,Bundesliga,1994-03-17,Austria,Medio campo
+Felix Nmecha,Borussia Dortmund,Bundesliga,2000-10-10,Alemania,Medio campo
+Ole Pohlmann,Borussia Dortmund,Bundesliga,2001-04-05,Alemania,Medio campo
+Julian Brandt,Borussia Dortmund,Bundesliga,1996-05-02,Alemania,Medio campo
+Giovanni Reyna,Borussia Dortmund,Bundesliga,2002-11-13,Estados Unidos,Medio campo
+Marco Reus,Borussia Dortmund,Bundesliga,1989-05-31,Alemania,Medio campo
+Karim Adeyemi,Borussia Dortmund,Bundesliga,2002-01-18,Alemania,Delantero
+Jamie Bynoe-Gittens,Borussia Dortmund,Bundesliga,2004-08-08,Inglaterra,Delantero
+Donyell Malen,Borussia Dortmund,Bundesliga,1999-01-19,Países Bajos,Delantero
+Julien Duranville,Borussia Dortmund,Bundesliga,2006-05-05,Bélgica,Delantero
+Sébastien Haller,Borussia Dortmund,Bundesliga,1994-06-22,Costa de Marfil,Delantero
+Youssoufa Moukoko,Borussia Dortmund,Bundesliga,2004-11-20,Alemania,Delantero
+Niclas Füllkrug,Borussia Dortmund,Bundesliga,1993-02-09,Alemania,Delantero
+Péter Gulácsi,RB Leipzig,Bundesliga,1990-05-06,Hungría,Portero
+Janis Blaswich,RB Leipzig,Bundesliga,1991-05-02,Alemania,Portero
+Leopold Zingerle,RB Leipzig,Bundesliga,1994-04-10,Alemania,Portero
+Timo Schlieck,RB Leipzig,Bundesliga,2006-03-02,Alemania,Portero
+Mohamed Simakan,RB Leipzig,Bundesliga,2000-05-03,Francia,Defensa
+Castello Lukeba,RB Leipzig,Bundesliga,2002-12-17,Francia,Defensa
+Willi Orbán,RB Leipzig,Bundesliga,1992-11-03,Hungría,Defensa
+El Chadaille Bitshiabu,RB Leipzig,Bundesliga,2005-05-16,Francia,Defensa
+Tim Köhler,RB Leipzig,Bundesliga,2005-05-02,Alemania,Defensa
+David Raum,RB Leipzig,Bundesliga,1998-04-22,Alemania,Defensa
+Christopher Lenz,RB Leipzig,Bundesliga,1994-09-22,Alemania,Defensa
+Benjamin Henrichs,RB Leipzig,Bundesliga,1997-02-23,Alemania,Defensa
+Lukas Klostermann,RB Leipzig,Bundesliga,1996-06-03,Alemania,Defensa
+Xaver Schlager,RB Leipzig,Bundesliga,1997-09-28,Austria,Medio campo
+Nicolas Seiwald,RB Leipzig,Bundesliga,2001-05-04,Austria,Medio campo
+Amadou Haidara,RB Leipzig,Bundesliga,1998-01-31,Malí,Medio campo
+Ilaix Moriba,RB Leipzig,Bundesliga,2003-01-19,Guinea,Medio campo
+Kevin Kampl,RB Leipzig,Bundesliga,1990-10-09,Eslovenia,Medio campo
+Dani Olmo,RB Leipzig,Bundesliga,1998-05-07,España,Medio campo
+Christoph Baumgartner,RB Leipzig,Bundesliga,1999-08-01,Austria,Medio campo
+Fábio Carvalho,RB Leipzig,Bundesliga,2002-08-30,Portugal,Medio campo
+Emil Forsberg,RB Leipzig,Bundesliga,1991-10-23,Suecia,Medio campo
+Xavi Simons,RB Leipzig,Bundesliga,2003-04-21,Países Bajos,Delantero
+Loïs Openda,RB Leipzig,Bundesliga,2000-02-16,Bélgica,Delantero
+Timo Werner,RB Leipzig,Bundesliga,1996-03-06,Alemania,Delantero
+Benjamin Sesko,RB Leipzig,Bundesliga,2003-05-31,Eslovenia,Delantero
+Yussuf Poulsen,RB Leipzig,Bundesliga,1994-06-15,Dinamarca,Delantero
+Frederik Rönnow,1.FC Unión Berlín,Bundesliga,1992-08-04,Dinamarca,Portero
+Alexander Schwolow,1.FC Unión Berlín,Bundesliga,1992-06-02,Alemania,Portero
+Jakob Busk,1.FC Unión Berlín,Bundesliga,1993-09-12,Dinamarca,Portero
+Yannic Stein,1.FC Unión Berlín,Bundesliga,2004-09-17,Alemania,Portero
+Danilho Doekhi,1.FC Unión Berlín,Bundesliga,1998-06-30,Países Bajos,Defensa
+Diogo Leite,1.FC Unión Berlín,Bundesliga,1999-01-23,Portugal,Defensa
+Paul Jaeckel,1.FC Unión Berlín,Bundesliga,1998-07-22,Alemania,Defensa
+Robin Knoche,1.FC Unión Berlín,Bundesliga,1992-05-22,Alemania,Defensa
+Leonardo Bonucci,1.FC Unión Berlín,Bundesliga,1987-05-01,Italia,Defensa
+Jérôme Roussillon,1.FC Unión Berlín,Bundesliga,1993-01-06,Francia,Defensa
+Josip Juranovic,1.FC Unión Berlín,Bundesliga,1995-08-16,Croacia,Defensa
+Christopher Trimmel,1.FC Unión Berlín,Bundesliga,1987-02-24,Austria,Defensa
+Rani Khedira,1.FC Unión Berlín,Bundesliga,1994-01-27,Alemania,Medio campo
+Lucas Tousart,1.FC Unión Berlín,Bundesliga,1997-04-29,Francia,Medio campo
+Alex Kral,1.FC Unión Berlín,Bundesliga,1998-05-19,República Checa,Medio campo
+Aljoscha Kemlein,1.FC Unión Berlín,Bundesliga,2004-08-02,Alemania,Medio campo
+Janik Haberer,1.FC Unión Berlín,Bundesliga,1994-04-02,Alemania,Medio campo
+Aïssa Laïdouni,1.FC Unión Berlín,Bundesliga,1996-12-13,Túnez,Medio campo
+András Schäfer,1.FC Unión Berlín,Bundesliga,1999-04-13,Hungría,Medio campo
+Laurenz Dehl,1.FC Unión Berlín,Bundesliga,2001-12-12,Alemania,Medio campo
+Robin Gosens,1.FC Unión Berlín,Bundesliga,1994-07-05,Alemania,Medio campo
+Brenden Aaronson,1.FC Unión Berlín,Bundesliga,2000-10-22,Estados Unidos,Medio campo
+Sheraldo Becker,1.FC Unión Berlín,Bundesliga,1995-02-09,Surinam,Delantero
+David Datro Fofana,1.FC Unión Berlín,Bundesliga,2002-12-22,Costa de Marfil,Delantero
+Kevin Volland,1.FC Unión Berlín,Bundesliga,1992-07-30,Alemania,Delantero
+Mikkel Kaufmann,1.FC Unión Berlín,Bundesliga,2001-01-03,Dinamarca,Delantero
+Kevin Behrens,1.FC Unión Berlín,Bundesliga,1991-02-03,Alemania,Delantero
+Benedict Hollerbach,1.FC Unión Berlín,Bundesliga,2001-05-17,Alemania,Delantero
+Noah Atubolu,SC Friburgo,Bundesliga,2002-05-25,Alemania,Portero
+Florian Müller,SC Friburgo,Bundesliga,1997-11-13,Alemania,Portero
+Benjamin Uphoff,SC Friburgo,Bundesliga,1993-08-08,Alemania,Portero
+Philipp Lienhart,SC Friburgo,Bundesliga,1996-07-11,Austria,Defensa
+Matthias Ginter,SC Friburgo,Bundesliga,1994-01-19,Alemania,Defensa
+Kenneth Schmidt,SC Friburgo,Bundesliga,2002-06-03,Alemania,Defensa
+Manuel Gulde,SC Friburgo,Bundesliga,1991-02-12,Alemania,Defensa
+Max Rosenfelder,SC Friburgo,Bundesliga,2003-02-10,Alemania,Defensa
+Christian Günter,SC Friburgo,Bundesliga,1993-02-28,Alemania,Defensa
+Jordy Makengo,SC Friburgo,Bundesliga,2001-08-03,Francia,Defensa
+Kiliann Sildillia,SC Friburgo,Bundesliga,2002-05-16,Francia,Defensa
+Lukas Kübler,SC Friburgo,Bundesliga,1992-08-30,Alemania,Defensa
+Yannik Keitel,SC Friburgo,Bundesliga,2000-02-15,Alemania,Medio campo
+Nicolas Höfler,SC Friburgo,Bundesliga,1990-03-09,Alemania,Medio campo
+Fabian Rüdlin,SC Friburgo,Bundesliga,1997-01-13,Alemania,Medio campo
+Maximilian Eggestein,SC Friburgo,Bundesliga,1996-12-08,Alemania,Medio campo
+Merlin Röhl,SC Friburgo,Bundesliga,2002-07-05,Alemania,Medio campo
+Daniel-Kofi Kyereh,SC Friburgo,Bundesliga,1996-03-08,Ghana,Medio campo
+Vincenzo Grifo,SC Friburgo,Bundesliga,1993-04-07,Italia,Delantero
+Noah Weißhaupt,SC Friburgo,Bundesliga,2001-09-20,Alemania,Delantero
+Ritsu Doan,SC Friburgo,Bundesliga,1998-06-16,Japón,Delantero
+Roland Sallai,SC Friburgo,Bundesliga,1997-05-22,Hungría,Delantero
+Maximilian Philipp,SC Friburgo,Bundesliga,1994-03-01,Alemania,Delantero
+Junior Adamu,SC Friburgo,Bundesliga,2001-06-06,Austria,Delantero
+Michael Gregoritsch,SC Friburgo,Bundesliga,1994-04-18,Austria,Delantero
+Lucas Höler,SC Friburgo,Bundesliga,1994-07-10,Alemania,Delantero
+Maximilian Breunig,SC Friburgo,Bundesliga,2000-08-14,Alemania,Delantero
+Lukas Hradecky,Bayer 04 Leverkusen,Bundesliga,1989-11-24,Finlandia,Portero
+Matej Kovar,Bayer 04 Leverkusen,Bundesliga,2000-05-17,República Checa,Portero
+Niklas Lomb,Bayer 04 Leverkusen,Bundesliga,1993-07-28,Alemania,Portero
+Piero Hincapié,Bayer 04 Leverkusen,Bundesliga,2002-01-09,Ecuador,Defensa
+Edmond Tapsoba,Bayer 04 Leverkusen,Bundesliga,1999-02-02,Burkina Faso,Defensa
+Jonathan Tah,Bayer 04 Leverkusen,Bundesliga,1996-02-11,Alemania,Defensa
+Odilon Kossounou,Bayer 04 Leverkusen,Bundesliga,2001-01-04,Costa de Marfil,Defensa
+Madi Monamay,Bayer 04 Leverkusen,Bundesliga,2006-04-06,Bélgica,Defensa
+Alejandro Grimaldo,Bayer 04 Leverkusen,Bundesliga,1995-09-20,España,Defensa
+Jeremie Frimpong,Bayer 04 Leverkusen,Bundesliga,2000-12-10,Países Bajos,Defensa
+Josip Stanisic,Bayer 04 Leverkusen,Bundesliga,2000-04-02,Croacia,Defensa
+Arthur,Bayer 04 Leverkusen,Bundesliga,2003-03-17,Brasil,Defensa
+Timothy Fosu-Mensah,Bayer 04 Leverkusen,Bundesliga,1998-01-02,Países Bajos,Defensa
+Granit Xhaka,Bayer 04 Leverkusen,Bundesliga,1992-09-27,Suiza,Medio campo
+Noah Mbamba,Bayer 04 Leverkusen,Bundesliga,2005-01-05,Bélgica,Medio campo
+Exequiel Palacios,Bayer 04 Leverkusen,Bundesliga,1998-10-05,Argentina,Medio campo
+Robert Andrich,Bayer 04 Leverkusen,Bundesliga,1994-09-22,Alemania,Medio campo
+Nadiem Amiri,Bayer 04 Leverkusen,Bundesliga,1996-10-27,Alemania,Medio campo
+Gustavo Puerta,Bayer 04 Leverkusen,Bundesliga,2003-07-23,Colombia,Medio campo
+Florian Wirtz,Bayer 04 Leverkusen,Bundesliga,2003-05-03,Alemania,Medio campo
+Ayman Aourir,Bayer 04 Leverkusen,Bundesliga,2004-10-06,Marruecos,Medio campo
+Amine Adli,Bayer 04 Leverkusen,Bundesliga,2000-05-10,Marruecos,Delantero
+Nathan Tella,Bayer 04 Leverkusen,Bundesliga,1999-07-05,Inglaterra,Delantero
+Jonas Hofmann,Bayer 04 Leverkusen,Bundesliga,1992-07-14,Alemania,Delantero
+Patrik Schick,Bayer 04 Leverkusen,Bundesliga,1996-01-24,República Checa,Delantero
+Adam Hlozek,Bayer 04 Leverkusen,Bundesliga,2002-07-25,República Checa,Delantero
+Victor Boniface,Bayer 04 Leverkusen,Bundesliga,2000-12-23,Nigeria,Delantero
+Kevin Trapp,Eintracht Fráncfort,Bundesliga,1990-07-08,Alemania,Portero
+Kauã Santos,Eintracht Fráncfort,Bundesliga,2003-04-11,Brasil,Portero
+Jens Grahl,Eintracht Fráncfort,Bundesliga,1988-09-22,Alemania,Portero
+Simon Simoni,Eintracht Fráncfort,Bundesliga,2004-07-14,Albania,Portero
+Robin Koch,Eintracht Fráncfort,Bundesliga,1996-07-17,Alemania,Defensa
+Tuta,Eintracht Fráncfort,Bundesliga,1999-07-04,Brasil,Defensa
+Willian Pacho,Eintracht Fráncfort,Bundesliga,2001-10-16,Ecuador,Defensa
+Hrvoje Smolcic,Eintracht Fráncfort,Bundesliga,2000-08-17,Croacia,Defensa
+Makoto Hasebe,Eintracht Fráncfort,Bundesliga,1984-01-18,Japón,Defensa
+Nnamdi Collins,Eintracht Fráncfort,Bundesliga,2004-01-10,Alemania,Defensa
+Dario Gebuhr,Eintracht Fráncfort,Bundesliga,2003-05-06,Alemania,Defensa
+Davis Bautista,Eintracht Fráncfort,Bundesliga,2005-02-16,Ecuador,Defensa
+Niels Nkounkou,Eintracht Fráncfort,Bundesliga,2000-11-01,Francia,Defensa
+Philipp Max,Eintracht Fráncfort,Bundesliga,1993-09-30,Alemania,Defensa
+Aurélio Buta,Eintracht Fráncfort,Bundesliga,1997-02-10,Portugal,Defensa
+Timothy Chandler,Eintracht Fráncfort,Bundesliga,1990-03-29,Estados Unidos,Defensa
+Ellyes Skhiri,Eintracht Fráncfort,Bundesliga,1995-05-10,Túnez,Medio campo
+Kristijan Jakic,Eintracht Fráncfort,Bundesliga,1997-05-14,Croacia,Medio campo
+Junior Dina Ebimbe,Eintracht Fráncfort,Bundesliga,2000-11-21,Francia,Medio campo
+Hugo Larsson,Eintracht Fráncfort,Bundesliga,2004-06-27,Suecia,Medio campo
+Sebastian Rode,Eintracht Fráncfort,Bundesliga,1990-10-11,Alemania,Medio campo
+Marcel Wenig,Eintracht Fráncfort,Bundesliga,2004-05-04,Alemania,Medio campo
+Sidney Raebiger,Eintracht Fráncfort,Bundesliga,2005-04-17,Alemania,Medio campo
+Mehdi Loune,Eintracht Fráncfort,Bundesliga,2004-05-14,Alemania,Medio campo
+Harpreet Ghotra,Eintracht Fráncfort,Bundesliga,2003-01-17,Alemania,Medio campo
+Ansgar Knauff,Eintracht Fráncfort,Bundesliga,2002-01-10,Alemania,Medio campo
+Mario Götze,Eintracht Fráncfort,Bundesliga,1992-06-03,Alemania,Medio campo
+Paxten Aaronson,Eintracht Fráncfort,Bundesliga,2003-08-26,Estados Unidos,Medio campo
+Farès Chaïbi,Eintracht Fráncfort,Bundesliga,2002-11-28,Argelia,Delantero
+Jens Petter Hauge,Eintracht Fráncfort,Bundesliga,1999-10-12,Noruega,Delantero
+Omar Marmoush,Eintracht Fráncfort,Bundesliga,1999-02-07,Egipto,Delantero
+Jessic Ngankam,Eintracht Fráncfort,Bundesliga,2000-07-20,Alemania,Delantero
+Lucas Alario,Eintracht Fráncfort,Bundesliga,1992-10-08,Argentina,Delantero
+Nacho Ferri,Eintracht Fráncfort,Bundesliga,2004-10-05,España,Delantero
+Koen Casteels,VfL Wolfsburgo,Bundesliga,1992-06-25,Bélgica,Portero
+Pavao Pervan,VfL Wolfsburgo,Bundesliga,1987-11-13,Austria,Portero
+Philipp Schulze,VfL Wolfsburgo,Bundesliga,2003-01-29,Alemania,Portero
+Niklas Klinger,VfL Wolfsburgo,Bundesliga,1995-10-13,Alemania,Portero
+Maxence Lacroix,VfL Wolfsburgo,Bundesliga,2000-04-06,Francia,Defensa
+Sebastiaan Bornauw,VfL Wolfsburgo,Bundesliga,1999-03-22,Bélgica,Defensa
+Moritz Jenz,VfL Wolfsburgo,Bundesliga,1999-04-30,Alemania,Defensa
+Cédric Zesiger,VfL Wolfsburgo,Bundesliga,1998-06-24,Suiza,Defensa
+Felix Lange,VfL Wolfsburgo,Bundesliga,2004-03-13,Alemania,Defensa
+Rogério,VfL Wolfsburgo,Bundesliga,1998-01-13,Brasil,Defensa
+Nicolas Cozza,VfL Wolfsburgo,Bundesliga,1999-01-08,Francia,Defensa
+Joakim Maehle,VfL Wolfsburgo,Bundesliga,1997-05-20,Dinamarca,Defensa
+Ridle Baku,VfL Wolfsburgo,Bundesliga,1998-04-08,Alemania,Defensa
+Kilian Fischer,VfL Wolfsburgo,Bundesliga,2000-10-12,Alemania,Defensa
+Lovro Majer,VfL Wolfsburgo,Bundesliga,1998-01-17,Croacia,Medio campo
+Mattias Svanberg,VfL Wolfsburgo,Bundesliga,1999-01-05,Suecia,Medio campo
+Maximilian Arnold,VfL Wolfsburgo,Bundesliga,1994-05-27,Alemania,Medio campo
+Aster Vranckx,VfL Wolfsburgo,Bundesliga,2002-10-04,Bélgica,Medio campo
+Yannick Gerhardt,VfL Wolfsburgo,Bundesliga,1994-03-13,Alemania,Medio campo
+Kevin Paredes,VfL Wolfsburgo,Bundesliga,2003-05-07,Estados Unidos,Medio campo
+Jakub Kaminski,VfL Wolfsburgo,Bundesliga,2002-06-05,Polonia,Delantero
+Ulysses Llanez,VfL Wolfsburgo,Bundesliga,2001-04-02,Estados Unidos,Delantero
+Patrick Wimmer,VfL Wolfsburgo,Bundesliga,2001-05-30,Austria,Delantero
+Vaclav Cerny,VfL Wolfsburgo,Bundesliga,1997-10-17,República Checa,Delantero
+Jonas Wind,VfL Wolfsburgo,Bundesliga,1999-02-07,Dinamarca,Delantero
+Lukas Nmecha,VfL Wolfsburgo,Bundesliga,1998-12-14,Alemania,Delantero
+Amin Sarr,VfL Wolfsburgo,Bundesliga,2001-03-11,Suecia,Delantero
+Tiago Tomás,VfL Wolfsburgo,Bundesliga,2002-06-16,Portugal,Delantero
+Dzenan Pejcinovic,VfL Wolfsburgo,Bundesliga,2005-02-15,Alemania,Delantero
+Robin Zentner,1.FSV Mainz 05,Bundesliga,1994-10-28,Alemania,Portero
+Daniel Batz,1.FSV Mainz 05,Bundesliga,1991-01-12,Alemania,Portero
+Lasse Rieß,1.FSV Mainz 05,Bundesliga,2001-07-27,Alemania,Portero
+Andreas Hanche-Olsen,1.FSV Mainz 05,Bundesliga,1997-01-17,Noruega,Defensa
+Edimilson Fernandes,1.FSV Mainz 05,Bundesliga,1996-04-15,Suiza,Defensa
+Sepp van den Berg,1.FSV Mainz 05,Bundesliga,2001-12-20,Países Bajos,Defensa
+Maxim Leitsch,1.FSV Mainz 05,Bundesliga,1998-05-18,Alemania,Defensa
+Stefan Bell,1.FSV Mainz 05,Bundesliga,1991-08-24,Alemania,Defensa
+Philipp Schulz,1.FSV Mainz 05,Bundesliga,2005-05-25,Alemania,Defensa
+Anthony Caci,1.FSV Mainz 05,Bundesliga,1997-07-01,Francia,Defensa
+Silvan Widmer,1.FSV Mainz 05,Bundesliga,1993-03-05,Suiza,Defensa
+Phillipp Mwene,1.FSV Mainz 05,Bundesliga,1994-01-29,Austria,Defensa
+Danny da Costa,1.FSV Mainz 05,Bundesliga,1993-07-13,Alemania,Defensa
+Dominik Kohr,1.FSV Mainz 05,Bundesliga,1994-01-31,Alemania,Medio campo
+Josuha Guilavogui,1.FSV Mainz 05,Bundesliga,1990-09-19,Francia,Medio campo
+Leandro Barreiro,1.FSV Mainz 05,Bundesliga,2000-01-03,Luxemburgo,Medio campo
+Tom Krauß,1.FSV Mainz 05,Bundesliga,2001-06-22,Alemania,Medio campo
+Aymen Barkok,1.FSV Mainz 05,Bundesliga,1998-05-21,Marruecos,Medio campo
+Merveille Papela,1.FSV Mainz 05,Bundesliga,2001-01-18,Alemania,Medio campo
+Jae-sung Lee,1.FSV Mainz 05,Bundesliga,1992-08-10,Corea del Sur,Medio campo
+Marco Richter,1.FSV Mainz 05,Bundesliga,1997-11-24,Alemania,Delantero
+Anwar El Ghazi,1.FSV Mainz 05,Bundesliga,1995-05-03,Países Bajos,Delantero
+Brajan Gruda,1.FSV Mainz 05,Bundesliga,2004-05-31,Alemania,Delantero
+Jonathan Burkardt,1.FSV Mainz 05,Bundesliga,2000-07-11,Alemania,Delantero
+Ludovic Ajorque,1.FSV Mainz 05,Bundesliga,1994-02-25,Francia,Delantero
+Nelson Weiper,1.FSV Mainz 05,Bundesliga,2005-03-17,Alemania,Delantero
+Karim Onisiwo,1.FSV Mainz 05,Bundesliga,1992-03-17,Austria,Delantero
+Jonas Omlin,Borussia Mönchengladbach,Bundesliga,1994-01-10,Suiza,Portero
+Jan Olschowsky,Borussia Mönchengladbach,Bundesliga,2001-11-18,Alemania,Portero
+Tobias Sippel,Borussia Mönchengladbach,Bundesliga,1988-03-22,Alemania,Portero
+Moritz Nicolas,Borussia Mönchengladbach,Bundesliga,1997-10-21,Alemania,Portero
+Nico Elvedi,Borussia Mönchengladbach,Bundesliga,1996-09-30,Suiza,Defensa
+Maximilian Wöber,Borussia Mönchengladbach,Bundesliga,1998-02-04,Austria,Defensa
+Ko Itakura,Borussia Mönchengladbach,Bundesliga,1997-01-27,Japón,Defensa
+Marvin Friedrich,Borussia Mönchengladbach,Bundesliga,1995-12-13,Alemania,Defensa
+Fabio Chiarodia,Borussia Mönchengladbach,Bundesliga,2005-06-05,Italia,Defensa
+Tony Jantschke,Borussia Mönchengladbach,Bundesliga,1990-04-07,Alemania,Defensa
+Mamadou Doucouré,Borussia Mönchengladbach,Bundesliga,1998-05-21,Francia,Defensa
+Luca Netz,Borussia Mönchengladbach,Bundesliga,2003-05-15,Alemania,Defensa
+Lukas Ullrich,Borussia Mönchengladbach,Bundesliga,2004-03-16,Alemania,Defensa
+Joe Scally,Borussia Mönchengladbach,Bundesliga,2002-12-31,Estados Unidos,Defensa
+Stefan Lainer,Borussia Mönchengladbach,Bundesliga,1992-08-27,Austria,Defensa
+Simon Walde,Borussia Mönchengladbach,Bundesliga,2005-01-04,Alemania,Defensa
+Julian Weigl,Borussia Mönchengladbach,Bundesliga,1995-09-08,Alemania,Medio campo
+Christoph Kramer,Borussia Mönchengladbach,Bundesliga,1991-02-19,Alemania,Medio campo
+Manu Koné,Borussia Mönchengladbach,Bundesliga,2001-05-17,Francia,Medio campo
+Florian Neuhaus,Borussia Mönchengladbach,Bundesliga,1997-03-16,Alemania,Medio campo
+Rocco Reitz,Borussia Mönchengladbach,Bundesliga,2002-05-29,Alemania,Medio campo
+Hannes Wolf,Borussia Mönchengladbach,Bundesliga,1999-04-16,Austria,Delantero
+Robin Hack,Borussia Mönchengladbach,Bundesliga,1998-08-27,Alemania,Delantero
+Yvandro Borges Sanches,Borussia Mönchengladbach,Bundesliga,2004-05-24,Luxemburgo,Delantero
+Franck Honorat,Borussia Mönchengladbach,Bundesliga,1996-08-11,Francia,Delantero
+Nathan Ngoumou,Borussia Mönchengladbach,Bundesliga,2000-03-14,Francia,Delantero
+Patrick Herrmann,Borussia Mönchengladbach,Bundesliga,1991-02-12,Alemania,Delantero
+Alassane Plea,Borussia Mönchengladbach,Bundesliga,1993-03-10,Francia,Delantero
+Jordan,Borussia Mönchengladbach,Bundesliga,1996-04-26,Estados Unidos,Delantero
+Tomas Cvancara,Borussia Mönchengladbach,Bundesliga,2000-08-13,República Checa,Delantero
+Grant-Leon Ranos,Borussia Mönchengladbach,Bundesliga,2003-07-20,Armenia,Delantero
+Marvin Schwäbe,FC Colonia,Bundesliga,1995-04-25,Alemania,Portero
+Philipp Pentke,FC Colonia,Bundesliga,1985-05-01,Alemania,Portero
+Jonas Nickisch,FC Colonia,Bundesliga,2004-05-21,Alemania,Portero
+Matthias Köbbing,FC Colonia,Bundesliga,1997-05-28,Alemania,Portero
+Timo Hübers,FC Colonia,Bundesliga,1996-07-20,Alemania,Defensa
+Jeff Chabot,FC Colonia,Bundesliga,1998-02-12,Alemania,Defensa
+Luca Kilian,FC Colonia,Bundesliga,1999-09-01,Alemania,Defensa
+Dominique Heintz,FC Colonia,Bundesliga,1993-08-15,Alemania,Defensa
+Elias Bakatukanda,FC Colonia,Bundesliga,2004-04-13,Alemania,Defensa
+Leart Paqarada,FC Colonia,Bundesliga,1994-10-08,República de Kosovo,Defensa
+Noah Katterbach,FC Colonia,Bundesliga,2001-04-13,Alemania,Defensa
+Max Finkgräfe,FC Colonia,Bundesliga,2004-03-27,Alemania,Defensa
+Benno Schmitz,FC Colonia,Bundesliga,1994-11-17,Alemania,Defensa
+Rasmus Carstensen,FC Colonia,Bundesliga,2000-11-10,Dinamarca,Defensa
+Dejan Ljubicic,FC Colonia,Bundesliga,1997-10-08,Austria,Medio campo
+Eric Martel,FC Colonia,Bundesliga,2002-04-29,Alemania,Medio campo
+Jacob Christensen,FC Colonia,Bundesliga,2001-06-25,Dinamarca,Medio campo
+Denis Huseinbasic,FC Colonia,Bundesliga,2001-07-03,Alemania,Medio campo
+Mathias Olesen,FC Colonia,Bundesliga,2001-03-21,Luxemburgo,Medio campo
+Florian Kainz,FC Colonia,Bundesliga,1992-10-24,Austria,Delantero
+Faride Alidou,FC Colonia,Bundesliga,2001-07-18,Alemania,Delantero
+Jan Thielmann,FC Colonia,Bundesliga,2002-05-26,Alemania,Delantero
+Linton Maina,FC Colonia,Bundesliga,1999-06-23,Alemania,Delantero
+Dimitrios Limnios,FC Colonia,Bundesliga,1998-05-27,Grecia,Delantero
+Steffen Tigges,FC Colonia,Bundesliga,1998-07-31,Alemania,Delantero
+Luca Waldschmidt,FC Colonia,Bundesliga,1996-05-19,Alemania,Delantero
+Davie Selke,FC Colonia,Bundesliga,1995-01-20,Alemania,Delantero
+Mark Uth,FC Colonia,Bundesliga,1991-08-24,Alemania,Delantero
+Sargis Adamyan,FC Colonia,Bundesliga,1993-05-23,Armenia,Delantero
+Florian Dietz,FC Colonia,Bundesliga,1998-08-03,Alemania,Delantero
+Damion Downs,FC Colonia,Bundesliga,2004-07-06,Alemania,Delantero
+Oliver Baumann,TSG 1899 Hoffenheim,Bundesliga,1990-06-02,Alemania,Portero
+Luca Philipp,TSG 1899 Hoffenheim,Bundesliga,2000-11-28,Alemania,Portero
+Nahuel Noll,TSG 1899 Hoffenheim,Bundesliga,2003-03-17,Alemania,Portero
+Attila Szalai,TSG 1899 Hoffenheim,Bundesliga,1998-01-20,Hungría,Defensa
+Ozan Kabak,TSG 1899 Hoffenheim,Bundesliga,2000-03-25,Turquía,Defensa
+Stanley Nsoki,TSG 1899 Hoffenheim,Bundesliga,1999-04-09,Francia,Defensa
+Kevin Akpoguma,TSG 1899 Hoffenheim,Bundesliga,1995-04-19,Nigeria,Defensa
+Kevin Vogt,TSG 1899 Hoffenheim,Bundesliga,1991-09-23,Alemania,Defensa
+John Anthony Brooks,TSG 1899 Hoffenheim,Bundesliga,1993-01-28,Estados Unidos,Defensa
+Kasim Adams,TSG 1899 Hoffenheim,Bundesliga,1995-06-22,Ghana,Defensa
+Joshua Quarshie,TSG 1899 Hoffenheim,Bundesliga,2004-07-26,Alemania,Defensa
+Marco John,TSG 1899 Hoffenheim,Bundesliga,2002-04-02,Alemania,Defensa
+Pavel Kaderabek,TSG 1899 Hoffenheim,Bundesliga,1992-04-25,República Checa,Defensa
+Diadié Samassékou,TSG 1899 Hoffenheim,Bundesliga,1996-01-11,Malí,Medio campo
+Florian Grillitsch,TSG 1899 Hoffenheim,Bundesliga,1995-08-07,Austria,Medio campo
+Anton Stach,TSG 1899 Hoffenheim,Bundesliga,1998-11-15,Alemania,Medio campo
+Dennis Geiger,TSG 1899 Hoffenheim,Bundesliga,1998-06-10,Alemania,Medio campo
+Grischa Prömel,TSG 1899 Hoffenheim,Bundesliga,1995-01-09,Alemania,Medio campo
+Finn Ole Becker,TSG 1899 Hoffenheim,Bundesliga,2000-06-08,Alemania,Medio campo
+Umut Tohumcu,TSG 1899 Hoffenheim,Bundesliga,2004-08-11,Alemania,Medio campo
+Tom Bischof,TSG 1899 Hoffenheim,Bundesliga,2005-06-28,Alemania,Medio campo
+Julian Justvan,TSG 1899 Hoffenheim,Bundesliga,1998-04-02,Alemania,Medio campo
+Marius Bülter,TSG 1899 Hoffenheim,Bundesliga,1993-03-29,Alemania,Delantero
+Bambasé Conté,TSG 1899 Hoffenheim,Bundesliga,2003-07-07,Alemania,Delantero
+Robert Skov,TSG 1899 Hoffenheim,Bundesliga,1996-05-20,Dinamarca,Delantero
+Mergim Berisha,TSG 1899 Hoffenheim,Bundesliga,1998-05-11,Alemania,Delantero
+Wout Weghorst,TSG 1899 Hoffenheim,Bundesliga,1992-08-07,Países Bajos,Delantero
+Andrej Kramaric,TSG 1899 Hoffenheim,Bundesliga,1991-06-19,Croacia,Delantero
+Ihlas Bebou,TSG 1899 Hoffenheim,Bundesliga,1994-04-23,Togo,Delantero
+Maximilian Beier,TSG 1899 Hoffenheim,Bundesliga,2002-10-17,Alemania,Delantero
+Jiri Pavlenka,SV Werder Bremen,Bundesliga,1992-04-14,República Checa,Portero
+Michael Zetterer,SV Werder Bremen,Bundesliga,1995-07-12,Alemania,Portero
+Dudu,SV Werder Bremen,Bundesliga,1999-02-10,Alemania,Portero
+Marco Friedl,SV Werder Bremen,Bundesliga,1998-03-16,Austria,Defensa
+Amos Pieper,SV Werder Bremen,Bundesliga,1998-01-17,Alemania,Defensa
+Niklas Stark,SV Werder Bremen,Bundesliga,1995-04-14,Alemania,Defensa
+Milos Veljkovic,SV Werder Bremen,Bundesliga,1995-09-26,Serbia,Defensa
+Anthony Jung,SV Werder Bremen,Bundesliga,1991-11-03,Alemania,Defensa
+Mitchell Weiser,SV Werder Bremen,Bundesliga,1994-04-21,Alemania,Defensa
+Felix Agu,SV Werder Bremen,Bundesliga,1999-09-27,Alemania,Defensa
+Senne Lynen,SV Werder Bremen,Bundesliga,1999-02-19,Bélgica,Medio campo
+Nicolai Rapp,SV Werder Bremen,Bundesliga,1996-12-13,Alemania,Medio campo
+Christian Groß,SV Werder Bremen,Bundesliga,1989-02-08,Alemania,Medio campo
+Naby Keïta,SV Werder Bremen,Bundesliga,1995-02-10,Guinea,Medio campo
+Jens Stage,SV Werder Bremen,Bundesliga,1996-11-08,Dinamarca,Medio campo
+Olivier Deman,SV Werder Bremen,Bundesliga,2000-04-06,Bélgica,Medio campo
+Leon Opitz,SV Werder Bremen,Bundesliga,2005-04-11,Alemania,Medio campo
+Romano Schmid,SV Werder Bremen,Bundesliga,2000-01-27,Austria,Medio campo
+Leonardo Bittencourt,SV Werder Bremen,Bundesliga,1993-12-19,Alemania,Medio campo
+Justin Njinmah,SV Werder Bremen,Bundesliga,2000-11-15,Alemania,Delantero
+Rafael Borré,SV Werder Bremen,Bundesliga,1995-09-15,Colombia,Delantero
+Marvin Ducksch,SV Werder Bremen,Bundesliga,1994-03-07,Alemania,Delantero
+Dawid Kownacki,SV Werder Bremen,Bundesliga,1997-03-14,Polonia,Delantero
+Nick Woltemade,SV Werder Bremen,Bundesliga,2002-02-14,Alemania,Delantero
+Manuel Riemann,VfL Bochum,Bundesliga,1988-09-09,Alemania,Portero
+Niclas Thiede,VfL Bochum,Bundesliga,1999-04-14,Alemania,Portero
+Michael Esser,VfL Bochum,Bundesliga,1987-11-22,Alemania,Portero
+Erhan Masovic,VfL Bochum,Bundesliga,1998-11-22,Serbia,Defensa
+Ivan Ordets,VfL Bochum,Bundesliga,1992-07-08,Ucrania,Defensa
+Keven Schlotterbeck,VfL Bochum,Bundesliga,1997-04-28,Alemania,Defensa
+Bernardo,VfL Bochum,Bundesliga,1995-05-14,Brasil,Defensa
+Tim Oermann,VfL Bochum,Bundesliga,2003-10-06,Alemania,Defensa
+Noah Loosli,VfL Bochum,Bundesliga,1997-01-23,Suiza,Defensa
+Mohammed Tolba,VfL Bochum,Bundesliga,2004-07-19,Alemania,Defensa
+Maximilian Wittek,VfL Bochum,Bundesliga,1995-08-21,Alemania,Defensa
+Danilo Soares,VfL Bochum,Bundesliga,1991-10-29,Brasil,Defensa
+Moritz Römling,VfL Bochum,Bundesliga,2001-04-30,Alemania,Defensa
+Felix Passlack,VfL Bochum,Bundesliga,1998-05-29,Alemania,Defensa
+Jordi Osei-Tutu,VfL Bochum,Bundesliga,1998-10-02,Inglaterra,Defensa
+Cristian Gamboa,VfL Bochum,Bundesliga,1989-10-24,Costa Rica,Defensa
+Anthony Losilla,VfL Bochum,Bundesliga,1986-03-10,Francia,Medio campo
+Patrick Osterhage,VfL Bochum,Bundesliga,2000-02-01,Alemania,Medio campo
+Matus Bero,VfL Bochum,Bundesliga,1995-09-06,Eslovaquia,Medio campo
+Mats Pannewig,VfL Bochum,Bundesliga,2004-10-28,Alemania,Medio campo
+Kevin Stöger,VfL Bochum,Bundesliga,1993-08-27,Austria,Medio campo
+Philipp Förster,VfL Bochum,Bundesliga,1995-02-04,Alemania,Medio campo
+Lukas Daschner,VfL Bochum,Bundesliga,1998-10-01,Alemania,Medio campo
+Moritz-Broni Kwarteng,VfL Bochum,Bundesliga,1998-04-28,Alemania,Medio campo
+Christopher Antwi-Adjei,VfL Bochum,Bundesliga,1994-02-07,Ghana,Delantero
+Takuma Asano,VfL Bochum,Bundesliga,1994-11-10,Japón,Delantero
+Philipp Hofmann,VfL Bochum,Bundesliga,1993-03-30,Alemania,Delantero
+Gonçalo Paciência,VfL Bochum,Bundesliga,1994-08-01,Portugal,Delantero
+Moritz Broschinski,VfL Bochum,Bundesliga,2000-09-23,Alemania,Delantero
+Lys Mousset,VfL Bochum,Bundesliga,1996-02-08,Francia,Delantero
+Finn Dahmen,FC Augsburgo,Bundesliga,1998-03-27,Alemania,Portero
+Tomas Koubek,FC Augsburgo,Bundesliga,1992-08-26,República Checa,Portero
+Marcel Lubik,FC Augsburgo,Bundesliga,2004-05-19,Polonia,Portero
+Felix Uduokhai,FC Augsburgo,Bundesliga,1997-09-09,Alemania,Defensa
+Japhet Tanganga,FC Augsburgo,Bundesliga,1999-03-31,Inglaterra,Defensa
+Reece Oxford,FC Augsburgo,Bundesliga,1998-12-16,Inglaterra,Defensa
+Maximilian Bauer,FC Augsburgo,Bundesliga,2000-02-09,Alemania,Defensa
+Patric Pfeiffer,FC Augsburgo,Bundesliga,1999-08-20,Ghana,Defensa
+Jeffrey Gouweleeuw,FC Augsburgo,Bundesliga,1991-07-10,Países Bajos,Defensa
+Frederik Winther,FC Augsburgo,Bundesliga,2001-01-04,Dinamarca,Defensa
+Iago,FC Augsburgo,Bundesliga,1997-03-23,Brasil,Defensa
+Mads Pedersen,FC Augsburgo,Bundesliga,1996-09-01,Dinamarca,Defensa
+David Colina,FC Augsburgo,Bundesliga,2000-07-19,Croacia,Defensa
+Aaron Zehnter,FC Augsburgo,Bundesliga,2004-10-31,Alemania,Defensa
+Robert Gumny,FC Augsburgo,Bundesliga,1998-06-04,Polonia,Defensa
+Kevin Mbabu,FC Augsburgo,Bundesliga,1995-04-19,Suiza,Defensa
+Raphael Framberger,FC Augsburgo,Bundesliga,1995-09-06,Alemania,Defensa
+Niklas Dorsch,FC Augsburgo,Bundesliga,1998-01-15,Alemania,Medio campo
+Tim Breithaupt,FC Augsburgo,Bundesliga,2002-02-07,Alemania,Medio campo
+Arne Engels,FC Augsburgo,Bundesliga,2003-09-08,Bélgica,Medio campo
+Arne Maier,FC Augsburgo,Bundesliga,1999-01-08,Alemania,Medio campo
+Elvis Rexhbecaj,FC Augsburgo,Bundesliga,1997-11-01,Alemania,Medio campo
+Masaya Okugawa,FC Augsburgo,Bundesliga,1996-04-14,Japón,Medio campo
+Fredrik Jensen,FC Augsburgo,Bundesliga,1997-09-09,Finlandia,Medio campo
+Mert Kömür,FC Augsburgo,Bundesliga,2005-07-17,Alemania,Medio campo
+Nathanaël Mbuku,FC Augsburgo,Bundesliga,2002-03-16,Francia,Delantero
+Rubén Vargas,FC Augsburgo,Bundesliga,1998-08-05,Suiza,Delantero
+Ermedin Demirovic,FC Augsburgo,Bundesliga,1998-03-25,Bosnia y Herzegovina,Delantero
+Dion Beljo,FC Augsburgo,Bundesliga,2002-03-01,Croacia,Delantero
+Phillip Tietz,FC Augsburgo,Bundesliga,1997-07-09,Alemania,Delantero
+Irvin Cardona,FC Augsburgo,Bundesliga,1997-08-08,Francia,Delantero
+Sven Michel,FC Augsburgo,Bundesliga,1990-07-15,Alemania,Delantero
+Alexander Nübel,VfB Stuttgart,Bundesliga,1996-09-30,Alemania,Portero
+Fabian Bredlow,VfB Stuttgart,Bundesliga,1995-03-02,Alemania,Portero
+Dennis Seimen,VfB Stuttgart,Bundesliga,2005-12-01,Alemania,Portero
+Florian Schock,VfB Stuttgart,Bundesliga,2001-05-22,Alemania,Portero
+Hiroki Ito,VfB Stuttgart,Bundesliga,1999-05-12,Japón,Defensa
+Anthony Rouault,VfB Stuttgart,Bundesliga,2001-05-29,Francia,Defensa
+Waldemar Anton,VfB Stuttgart,Bundesliga,1996-07-20,Alemania,Defensa
+Leonidas Stergiou,VfB Stuttgart,Bundesliga,2002-03-03,Suiza,Defensa
+Dan-Axel Zagadou,VfB Stuttgart,Bundesliga,1999-06-03,Francia,Defensa
+Maximilian Mittelstädt,VfB Stuttgart,Bundesliga,1997-03-18,Alemania,Defensa
+Josha Vagnoman,VfB Stuttgart,Bundesliga,2000-12-11,Alemania,Defensa
+Pascal Stenzel,VfB Stuttgart,Bundesliga,1996-03-20,Alemania,Defensa
+Angelo Stiller,VfB Stuttgart,Bundesliga,2001-04-04,Alemania,Medio campo
+Atakan Karazor,VfB Stuttgart,Bundesliga,1996-10-13,Alemania,Medio campo
+Enzo Millot,VfB Stuttgart,Bundesliga,2002-07-17,Francia,Medio campo
+Nikolas Nartey,VfB Stuttgart,Bundesliga,2000-02-22,Dinamarca,Medio campo
+Roberto Massimo,VfB Stuttgart,Bundesliga,2000-10-12,Alemania,Medio campo
+Woo-yeong Jeong,VfB Stuttgart,Bundesliga,1999-09-20,Corea del Sur,Medio campo
+Lilian Egloff,VfB Stuttgart,Bundesliga,2002-08-20,Alemania,Medio campo
+Genki Haraguchi,VfB Stuttgart,Bundesliga,1991-05-09,Japón,Medio campo
+Laurin Ulrich,VfB Stuttgart,Bundesliga,2005-01-31,Alemania,Medio campo
+Chris Führich,VfB Stuttgart,Bundesliga,1998-01-09,Alemania,Delantero
+Silas,VfB Stuttgart,Bundesliga,1998-10-06,República Democrática del Congo,Delantero
+Jamie Leweling,VfB Stuttgart,Bundesliga,2001-02-26,Alemania,Delantero
+Serhou Guirassy,VfB Stuttgart,Bundesliga,1996-03-12,Guinea,Delantero
+Deniz Undav,VfB Stuttgart,Bundesliga,1996-07-19,Alemania,Delantero
+Thomas Kastanaras,VfB Stuttgart,Bundesliga,2003-01-09,Alemania,Delantero
+Jovan Milosevic,VfB Stuttgart,Bundesliga,2005-07-31,Serbia,Delantero
+Kevin Müller,1.FC Heidenheim 1846,Bundesliga,1991-03-15,Alemania,Portero
+Vitus Eicher,1.FC Heidenheim 1846,Bundesliga,1990-11-05,Alemania,Portero
+Paul Tschernuth,1.FC Heidenheim 1846,Bundesliga,2002-01-20,Austria,Portero
+Frank Feller,1.FC Heidenheim 1846,Bundesliga,2004-01-07,Alemania,Portero
+Patrick Mainka,1.FC Heidenheim 1846,Bundesliga,1994-11-06,Alemania,Defensa
+Tim Siersleben,1.FC Heidenheim 1846,Bundesliga,2000-03-09,Alemania,Defensa
+Thomas Keller,1.FC Heidenheim 1846,Bundesliga,1999-08-05,Alemania,Defensa
+Jonas Föhrenbach,1.FC Heidenheim 1846,Bundesliga,1996-01-26,Alemania,Defensa
+Norman Theuerkauf,1.FC Heidenheim 1846,Bundesliga,1987-01-24,Alemania,Defensa
+Seedy Jarju,1.FC Heidenheim 1846,Bundesliga,2004-10-28,Gambia,Defensa
+Marnon Busch,1.FC Heidenheim 1846,Bundesliga,1994-12-08,Alemania,Defensa
+Omar Haktab Traoré,1.FC Heidenheim 1846,Bundesliga,1998-02-04,Alemania,Defensa
+Lennard Maloney,1.FC Heidenheim 1846,Bundesliga,1999-10-08,Estados Unidos,Medio campo
+Benedikt Gimber,1.FC Heidenheim 1846,Bundesliga,1997-02-19,Alemania,Medio campo
+Jan Schöppner,1.FC Heidenheim 1846,Bundesliga,1999-06-12,Alemania,Medio campo
+Kevin Sessa,1.FC Heidenheim 1846,Bundesliga,2000-07-06,Alemania,Medio campo
+Luka Janes,1.FC Heidenheim 1846,Bundesliga,2004-01-19,Alemania,Medio campo
+Denis Thomalla,1.FC Heidenheim 1846,Bundesliga,1992-08-16,Alemania,Medio campo
+Adrian Beck,1.FC Heidenheim 1846,Bundesliga,1997-06-09,Alemania,Medio campo
+Jan-Niklas Beste,1.FC Heidenheim 1846,Bundesliga,1999-01-04,Alemania,Delantero
+Florian Pick,1.FC Heidenheim 1846,Bundesliga,1995-09-08,Alemania,Delantero
+Eren Dinkci,1.FC Heidenheim 1846,Bundesliga,2001-12-13,Alemania,Delantero
+Nikola Dovedan,1.FC Heidenheim 1846,Bundesliga,1994-07-06,Austria,Delantero
+Tim Kleindienst,1.FC Heidenheim 1846,Bundesliga,1995-08-31,Alemania,Delantero
+Marvin Pieringer,1.FC Heidenheim 1846,Bundesliga,1999-10-04,Alemania,Delantero
+Christian Kühlwetter,1.FC Heidenheim 1846,Bundesliga,1996-04-21,Alemania,Delantero
+Stefan Schimmer,1.FC Heidenheim 1846,Bundesliga,1994-04-28,Alemania,Delantero
+Elidon Qenaj,1.FC Heidenheim 1846,Bundesliga,2003-05-22,República de Kosovo,Delantero
+Marcel Schuhen,SV Darmstadt 98,Bundesliga,1993-01-13,Alemania,Portero
+Morten Behrens,SV Darmstadt 98,Bundesliga,1997-04-01,Alemania,Portero
+Alexander Brunst,SV Darmstadt 98,Bundesliga,1995-07-07,Alemania,Portero
+Christoph Klarer,SV Darmstadt 98,Bundesliga,2000-06-14,Austria,Defensa
+Christoph Zimmermann,SV Darmstadt 98,Bundesliga,1993-01-12,Alemania,Defensa
+Matej Maglica,SV Darmstadt 98,Bundesliga,1998-09-25,Croacia,Defensa
+Jannik Müller,SV Darmstadt 98,Bundesliga,1994-01-18,Alemania,Defensa
+Clemens Riedel,SV Darmstadt 98,Bundesliga,2003-07-19,Alemania,Defensa
+Thomas Isherwood,SV Darmstadt 98,Bundesliga,1998-01-28,Suecia,Defensa
+Emir Karic,SV Darmstadt 98,Bundesliga,1997-06-09,Austria,Defensa
+Fabian Holland,SV Darmstadt 98,Bundesliga,1990-07-11,Alemania,Defensa
+Matthias Bader,SV Darmstadt 98,Bundesliga,1997-06-17,Alemania,Defensa
+Frank Ronstadt,SV Darmstadt 98,Bundesliga,1997-07-21,Alemania,Defensa
+Bartol Franjic,SV Darmstadt 98,Bundesliga,2000-01-14,Croacia,Medio campo
+Andreas Müller,SV Darmstadt 98,Bundesliga,2000-07-20,Alemania,Medio campo
+Klaus Gjasula,SV Darmstadt 98,Bundesliga,1989-12-14,Albania,Medio campo
+Fabian Nürnberger,SV Darmstadt 98,Bundesliga,1999-07-28,Alemania,Medio campo
+Fabian Schnellhardt,SV Darmstadt 98,Bundesliga,1994-01-12,Alemania,Medio campo
+Tobias Kempe,SV Darmstadt 98,Bundesliga,1989-06-27,Alemania,Medio campo
+Marvin Mehlem,SV Darmstadt 98,Bundesliga,1997-09-11,Alemania,Medio campo
+Mathias Honsak,SV Darmstadt 98,Bundesliga,1996-12-20,Austria,Delantero
+Tim Skarke,SV Darmstadt 98,Bundesliga,1996-09-07,Alemania,Delantero
+Filip Stojilkovic,SV Darmstadt 98,Bundesliga,2000-01-04,Suiza,Delantero
+Luca Pfeiffer,SV Darmstadt 98,Bundesliga,1996-08-20,Alemania,Delantero
+Braydon Manu,SV Darmstadt 98,Bundesliga,1997-03-28,Ghana,Delantero
+Oscar Vilhelmsson,SV Darmstadt 98,Bundesliga,2003-10-02,Suecia,Delantero
+Fraser Hornby,SV Darmstadt 98,Bundesliga,1999-09-13,Escocia,Delantero
+Aaron Seydel,SV Darmstadt 98,Bundesliga,1996-02-07,Alemania,Delantero
+Fabio Torsiello,SV Darmstadt 98,Bundesliga,2005-02-02,Alemania,Delantero

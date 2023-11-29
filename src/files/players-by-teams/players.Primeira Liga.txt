@@ -1,0 +1,493 @@
+Anatoliy Trubin,SL Benfica,Primeira Liga,2001-08-01,Ucrania,Portero
+Samuel Soares,SL Benfica,Primeira Liga,2002-06-15,Portugal,Portero
+Leo Kokubo,SL Benfica,Primeira Liga,2001-01-23,Japón,Portero
+António Silva,SL Benfica,Primeira Liga,2003-10-30,Portugal,Defensa
+Morato,SL Benfica,Primeira Liga,2001-06-30,Brasil,Defensa
+João Victor,SL Benfica,Primeira Liga,1998-07-17,Brasil,Defensa
+Tomás Araújo,SL Benfica,Primeira Liga,2002-05-16,Portugal,Defensa
+Nicolás Otamendi,SL Benfica,Primeira Liga,1988-02-12,Argentina,Defensa
+Juan Bernat,SL Benfica,Primeira Liga,1993-03-01,España,Defensa
+David Jurásek,SL Benfica,Primeira Liga,2000-08-07,República Checa,Defensa
+Alexander Bah,SL Benfica,Primeira Liga,1997-12-09,Dinamarca,Defensa
+Florentino,SL Benfica,Primeira Liga,1999-08-19,Portugal,Medio campo
+João Neves,SL Benfica,Primeira Liga,2004-09-27,Portugal,Medio campo
+Orkun Kökcü,SL Benfica,Primeira Liga,2000-12-29,Turquía,Medio campo
+Fredrik Aursnes,SL Benfica,Primeira Liga,1995-12-10,Noruega,Medio campo
+João Mário,SL Benfica,Primeira Liga,1993-01-19,Portugal,Medio campo
+Chiquinho,SL Benfica,Primeira Liga,1995-07-19,Portugal,Medio campo
+Gonçalo Guedes,SL Benfica,Primeira Liga,1996-11-29,Portugal,Delantero
+Rafa,SL Benfica,Primeira Liga,1993-05-17,Portugal,Delantero
+Tiago Gouveia,SL Benfica,Primeira Liga,2001-06-18,Portugal,Delantero
+David Neres,SL Benfica,Primeira Liga,1997-03-03,Brasil,Delantero
+Ángel Di María,SL Benfica,Primeira Liga,1988-02-14,Argentina,Delantero
+Arthur Cabral,SL Benfica,Primeira Liga,1998-04-25,Brasil,Delantero
+Petar Musa,SL Benfica,Primeira Liga,1998-03-04,Croacia,Delantero
+Casper Tengstedt,SL Benfica,Primeira Liga,2000-06-01,Dinamarca,Delantero
+Diogo Costa,FC Oporto,Primeira Liga,1999-09-19,Portugal,Portero
+Cláudio Ramos,FC Oporto,Primeira Liga,1991-11-16,Portugal,Portero
+Samuel Portugal,FC Oporto,Primeira Liga,1994-03-29,Brasil,Portero
+David Carmo,FC Oporto,Primeira Liga,1999-07-19,Portugal,Defensa
+Fábio Cardoso,FC Oporto,Primeira Liga,1994-04-19,Portugal,Defensa
+Pepe,FC Oporto,Primeira Liga,1983-02-26,Portugal,Defensa
+Iván Marcano,FC Oporto,Primeira Liga,1987-06-23,España,Defensa
+Zaidu,FC Oporto,Primeira Liga,1997-06-13,Nigeria,Defensa
+Wendell,FC Oporto,Primeira Liga,1993-07-20,Brasil,Defensa
+João Mário,FC Oporto,Primeira Liga,2000-01-03,Portugal,Defensa
+Jorge Sánchez,FC Oporto,Primeira Liga,1997-12-10,México,Defensa
+Marko Grujić,FC Oporto,Primeira Liga,1996-04-13,Serbia,Medio campo
+Alan Varela,FC Oporto,Primeira Liga,2001-07-04,Argentina,Medio campo
+Stephen Eustaquio,FC Oporto,Primeira Liga,1996-12-21,Canadá,Medio campo
+Nico González,FC Oporto,Primeira Liga,2002-01-03,España,Medio campo
+Romário Baró,FC Oporto,Primeira Liga,2000-01-25,Portugal,Medio campo
+Iván Jaime,FC Oporto,Primeira Liga,2000-09-26,España,Medio campo
+André Franco,FC Oporto,Primeira Liga,1998-04-12,Portugal,Medio campo
+Pepê,FC Oporto,Primeira Liga,1997-02-24,Brasil,Delantero
+Galeno,FC Oporto,Primeira Liga,1997-10-22,Brasil,Delantero
+Gabriel Veron,FC Oporto,Primeira Liga,2002-09-03,Brasil,Delantero
+Francisco Conceição,FC Oporto,Primeira Liga,2002-12-14,Portugal,Delantero
+Gonçalo Borges,FC Oporto,Primeira Liga,2001-03-29,Portugal,Delantero
+Evanilson,FC Oporto,Primeira Liga,1999-10-06,Brasil,Delantero
+Mehdi Taremi,FC Oporto,Primeira Liga,1992-07-18,Irán,Delantero
+Fran Navarro,FC Oporto,Primeira Liga,1998-02-03,España,Delantero
+Toni Martínez,FC Oporto,Primeira Liga,1997-06-30,España,Delantero
+Danny Namaso,FC Oporto,Primeira Liga,2000-08-28,Inglaterra,Delantero
+Matheus,SC Braga,Primeira Liga,1992-03-29,Brasil,Portero
+Lukas Hornicek,SC Braga,Primeira Liga,2002-07-13,República Checa,Portero
+Tiago Sá,SC Braga,Primeira Liga,1995-01-11,Portugal,Portero
+Sikou Niakaté,SC Braga,Primeira Liga,1999-07-10,Malí,Defensa
+Paulo Oliveira,SC Braga,Primeira Liga,1992-01-08,Portugal,Defensa
+Serdar Saatci,SC Braga,Primeira Liga,2003-02-14,Turquía,Defensa
+José Fonte,SC Braga,Primeira Liga,1983-12-22,Portugal,Defensa
+Cristián Borja,SC Braga,Primeira Liga,1993-02-18,Colombia,Defensa
+Adrián Marín,SC Braga,Primeira Liga,1997-01-09,España,Defensa
+Víctor Gómez,SC Braga,Primeira Liga,2000-04-01,España,Defensa
+Joe Mendes,SC Braga,Primeira Liga,2002-12-31,Suecia,Defensa
+Al-Musrati,SC Braga,Primeira Liga,1996-04-06,Libia,Medio campo
+Vitor Carvalho,SC Braga,Primeira Liga,1997-05-27,Brasil,Medio campo
+André Horta,SC Braga,Primeira Liga,1996-11-07,Portugal,Medio campo
+Rodrigo Zalazar,SC Braga,Primeira Liga,1999-08-12,Uruguay,Medio campo
+João Moutinho,SC Braga,Primeira Liga,1986-09-08,Portugal,Medio campo
+Castro,SC Braga,Primeira Liga,1988-04-02,Portugal,Medio campo
+Pizzi,SC Braga,Primeira Liga,1989-10-06,Portugal,Medio campo
+Lucas Piazón,SC Braga,Primeira Liga,1994-01-20,Brasil,Medio campo
+Ricardo Horta,SC Braga,Primeira Liga,1994-09-15,Portugal,Delantero
+Bruma,SC Braga,Primeira Liga,1994-10-24,Portugal,Delantero
+Álvaro Djaló,SC Braga,Primeira Liga,1999-08-16,España,Delantero
+Roger,SC Braga,Primeira Liga,2005-11-21,Portugal,Delantero
+Rony Lopes,SC Braga,Primeira Liga,1995-12-28,Portugal,Delantero
+Abel Ruiz,SC Braga,Primeira Liga,2000-01-28,España,Delantero
+Simon Banza,SC Braga,Primeira Liga,1996-08-13,República Democrática del Congo,Delantero
+Franco Israel,Sporting de Lisboa,Primeira Liga,2000-04-22,Uruguay,Portero
+Antonio Adán,Sporting de Lisboa,Primeira Liga,1987-05-13,España,Portero
+Diego Callai,Sporting de Lisboa,Primeira Liga,2004-07-18,Brasil,Portero
+Gonçalo Inácio,Sporting de Lisboa,Primeira Liga,2001-08-25,Portugal,Defensa
+Ousmane Diomande,Sporting de Lisboa,Primeira Liga,2003-12-04,Costa de Marfil,Defensa
+Jerry St. Juste,Sporting de Lisboa,Primeira Liga,1996-10-19,Países Bajos,Defensa
+Sebastián Coates,Sporting de Lisboa,Primeira Liga,1990-10-07,Uruguay,Defensa
+Eduardo Quaresma,Sporting de Lisboa,Primeira Liga,2002-03-02,Portugal,Defensa
+Luís Neto,Sporting de Lisboa,Primeira Liga,1988-05-26,Portugal,Defensa
+João Muniz,Sporting de Lisboa,Primeira Liga,2005-06-26,Portugal,Defensa
+Nuno Santos,Sporting de Lisboa,Primeira Liga,1995-02-13,Portugal,Defensa
+Matheus Reis,Sporting de Lisboa,Primeira Liga,1995-02-18,Brasil,Defensa
+Iván Fresneda,Sporting de Lisboa,Primeira Liga,2004-09-28,España,Defensa
+Ricardo Esgaio,Sporting de Lisboa,Primeira Liga,1993-05-16,Portugal,Defensa
+Morten Hjulmand,Sporting de Lisboa,Primeira Liga,1999-06-25,Dinamarca,Medio campo
+Dário Essugo,Sporting de Lisboa,Primeira Liga,2005-03-14,Portugal,Medio campo
+Hidemasa Morita,Sporting de Lisboa,Primeira Liga,1995-05-10,Japón,Medio campo
+Daniel Bragança,Sporting de Lisboa,Primeira Liga,1999-05-27,Portugal,Medio campo
+Trincão,Sporting de Lisboa,Primeira Liga,1999-12-29,Portugal,Delantero
+Afonso Moreira,Sporting de Lisboa,Primeira Liga,2005-03-19,Portugal,Delantero
+Pedro Gonçalves,Sporting de Lisboa,Primeira Liga,1998-06-28,Portugal,Delantero
+Marcus Edwards,Sporting de Lisboa,Primeira Liga,1998-12-03,Inglaterra,Delantero
+Rafael Camacho,Sporting de Lisboa,Primeira Liga,2000-05-22,Portugal,Delantero
+Geny Catamo,Sporting de Lisboa,Primeira Liga,2001-01-26,Mozambique,Delantero
+Viktor Gyökeres,Sporting de Lisboa,Primeira Liga,1998-06-04,Suecia,Delantero
+Paulinho,Sporting de Lisboa,Primeira Liga,1992-11-09,Portugal,Delantero
+Rodrigo Ribeiro,Sporting de Lisboa,Primeira Liga,2005-04-28,Portugal,Delantero
+Ignacio de Arruabarrena,FC Arouca,Primeira Liga,1997-01-16,Uruguay,Portero
+João Valido,FC Arouca,Primeira Liga,2000-03-03,Portugal,Portero
+Thiago Silva,FC Arouca,Primeira Liga,1996-06-12,Brasil,Portero
+Javi Montero,FC Arouca,Primeira Liga,1999-01-14,España,Defensa
+Nino Galovic,FC Arouca,Primeira Liga,1992-07-06,Croacia,Defensa
+Rafael Fernandes,FC Arouca,Primeira Liga,2002-06-28,Portugal,Defensa
+Matías Rocha,FC Arouca,Primeira Liga,2001-02-13,Uruguay,Defensa
+Quaresma,FC Arouca,Primeira Liga,1996-08-22,Brasil,Defensa
+Weverson,FC Arouca,Primeira Liga,2000-07-05,Brasil,Defensa
+Tiago Esgaio,FC Arouca,Primeira Liga,1995-08-01,Portugal,Defensa
+Bogdan Milovanov,FC Arouca,Primeira Liga,1998-04-19,Ucrania,Defensa
+Eboue Kouassi,FC Arouca,Primeira Liga,1997-12-13,Costa de Marfil,Medio campo
+Uri Busquets,FC Arouca,Primeira Liga,1999-01-20,España,Medio campo
+Morlaye Sylla,FC Arouca,Primeira Liga,1998-07-27,Guinea,Medio campo
+Vitinho,FC Arouca,Primeira Liga,2000-01-04,Brasil,Medio campo
+David Simão,FC Arouca,Primeira Liga,1990-05-15,Portugal,Medio campo
+Yaw Moses,FC Arouca,Primeira Liga,1999-01-07,Ghana,Medio campo
+Pedro Santos,FC Arouca,Primeira Liga,2000-10-12,Portugal,Medio campo
+Pedro Moreira,FC Arouca,Primeira Liga,1989-03-15,Portugal,Medio campo
+Benji Michel,FC Arouca,Primeira Liga,1997-10-23,Estados Unidos,Delantero
+Yusuf Lawal,FC Arouca,Primeira Liga,1998-03-23,Nigeria,Delantero
+Miguel Puche,FC Arouca,Primeira Liga,2001-04-30,España,Delantero
+Jason,FC Arouca,Primeira Liga,1994-07-06,España,Delantero
+Alfonso Trezza,FC Arouca,Primeira Liga,1999-06-22,Uruguay,Delantero
+André Bukia,FC Arouca,Primeira Liga,1995-03-03,República Democrática del Congo,Delantero
+Cristo,FC Arouca,Primeira Liga,1997-10-24,España,Delantero
+Rafa Mújica,FC Arouca,Primeira Liga,1998-10-29,España,Delantero
+Ricardo Ferreira,FC Arouca,Primeira Liga,2005-12-10,Portugal,Delantero
+Bruno Varela,Vitória Guimarães SC,Primeira Liga,1994-11-04,Cabo Verde,Portero
+Celton Biai,Vitória Guimarães SC,Primeira Liga,2000-08-13,Guinea-Bisáu,Portero
+Charles,Vitória Guimarães SC,Primeira Liga,1994-02-04,Brasil,Portero
+Rafa,Vitória Guimarães SC,Primeira Liga,2003-09-28,Portugal,Portero
+Mikel Villanueva,Vitória Guimarães SC,Primeira Liga,1993-04-14,Venezuela,Defensa
+Tomás Ribeiro,Vitória Guimarães SC,Primeira Liga,1999-04-30,Portugal,Defensa
+Toni Borevkovic,Vitória Guimarães SC,Primeira Liga,1997-06-18,Croacia,Defensa
+Jorge Fernandes,Vitória Guimarães SC,Primeira Liga,1997-04-02,Portugal,Defensa
+Mamadou Tounkara,Vitória Guimarães SC,Primeira Liga,2001-12-14,Francia,Defensa
+Ricardo Mangas,Vitória Guimarães SC,Primeira Liga,1998-03-19,Portugal,Defensa
+Afonso Freitas,Vitória Guimarães SC,Primeira Liga,2000-04-07,Portugal,Defensa
+Maga,Vitória Guimarães SC,Primeira Liga,2002-11-16,Portugal,Defensa
+Zé Carlos,Vitória Guimarães SC,Primeira Liga,2001-10-30,Portugal,Defensa
+Bruno Gaspar,Vitória Guimarães SC,Primeira Liga,1993-04-21,Angola,Defensa
+Tomás Händel,Vitória Guimarães SC,Primeira Liga,2000-11-27,Portugal,Medio campo
+Manu,Vitória Guimarães SC,Primeira Liga,2001-06-12,Portugal,Medio campo
+Dani Silva,Vitória Guimarães SC,Primeira Liga,2000-04-11,Portugal,Medio campo
+André André,Vitória Guimarães SC,Primeira Liga,1989-08-26,Portugal,Medio campo
+Gonçalo Nogueira,Vitória Guimarães SC,Primeira Liga,2003-12-28,Portugal,Medio campo
+Tiago Silva,Vitória Guimarães SC,Primeira Liga,1993-06-02,Portugal,Medio campo
+Nuno Santos,Vitória Guimarães SC,Primeira Liga,1999-03-02,Portugal,Medio campo
+Telmo Arcanjo,Vitória Guimarães SC,Primeira Liga,2001-06-21,Cabo Verde,Medio campo
+João Mendes,Vitória Guimarães SC,Primeira Liga,1994-10-21,Portugal,Medio campo
+Jota Silva,Vitória Guimarães SC,Primeira Liga,1999-08-01,Portugal,Delantero
+Nélson da Luz,Vitória Guimarães SC,Primeira Liga,1998-02-04,Angola,Delantero
+Jota,Vitória Guimarães SC,Primeira Liga,2002-07-22,Portugal,Delantero
+Clinton,Vitória Guimarães SC,Primeira Liga,2002-01-15,Nigeria,Delantero
+André Silva,Vitória Guimarães SC,Primeira Liga,1997-06-03,Brasil,Delantero
+Alisson Safira,Vitória Guimarães SC,Primeira Liga,1995-03-17,Brasil,Delantero
+Adrián Butzke,Vitória Guimarães SC,Primeira Liga,1999-03-30,España,Delantero
+Hugo Souza,GD Chaves,Primeira Liga,1999-01-31,Brasil,Portero
+Rodrigo Moura,GD Chaves,Primeira Liga,1996-01-25,Brasil,Portero
+Gonçalo Pinto,GD Chaves,Primeira Liga,2000-04-30,Portugal,Portero
+Bruno Rodrigues,GD Chaves,Primeira Liga,2001-06-08,Portugal,Defensa
+Ygor Nogueira,GD Chaves,Primeira Liga,1995-03-27,Brasil,Defensa
+Edu,GD Chaves,Primeira Liga,2002-05-27,Portugal,Defensa
+João Queirós,GD Chaves,Primeira Liga,1998-04-22,Portugal,Defensa
+Steven Vitória,GD Chaves,Primeira Liga,1987-01-11,Canadá,Defensa
+Bruno Langa,GD Chaves,Primeira Liga,1997-10-31,Mozambique,Defensa
+Sandro Cruz,GD Chaves,Primeira Liga,2001-05-12,Portugal,Defensa
+Carraça,GD Chaves,Primeira Liga,1993-03-01,Portugal,Defensa
+João Correia,GD Chaves,Primeira Liga,1996-09-05,Cabo Verde,Defensa
+Habib Sylla,GD Chaves,Primeira Liga,1999-02-12,Costa de Marfil,Defensa
+Guima,GD Chaves,Primeira Liga,1995-11-14,Mozambique,Medio campo
+Cafú Phete,GD Chaves,Primeira Liga,1994-04-04,Sudáfrica,Medio campo
+Hélder Morim,GD Chaves,Primeira Liga,2001-05-14,Portugal,Medio campo
+Pedro Pinho,GD Chaves,Primeira Liga,2000-04-06,Portugal,Medio campo
+Kelechi Nwakali,GD Chaves,Primeira Liga,1998-06-05,Nigeria,Medio campo
+João Pedro,GD Chaves,Primeira Liga,1993-04-03,Portugal,Medio campo
+Rúben Ribeiro,GD Chaves,Primeira Liga,1987-08-01,Portugal,Medio campo
+Rodrigo Melro,GD Chaves,Primeira Liga,2004-03-14,Portugal,Medio campo
+Issah Abass,GD Chaves,Primeira Liga,1998-09-26,Ghana,Delantero
+Paulo Victor,GD Chaves,Primeira Liga,2001-03-21,Brasil,Delantero
+Rúben Lameiras,GD Chaves,Primeira Liga,1994-12-22,Portugal,Delantero
+Benny,GD Chaves,Primeira Liga,2000-03-27,Portugal,Delantero
+Leandro Sanca,GD Chaves,Primeira Liga,2000-01-04,Guinea-Bisáu,Delantero
+Héctor Hernández,GD Chaves,Primeira Liga,1995-09-14,España,Delantero
+Jô,GD Chaves,Primeira Liga,1995-05-01,Brasil,Delantero
+Júnior Reis,FC Famalicão,Primeira Liga,2001-01-14,Brasil,Portero
+Ivan Zlobin,FC Famalicão,Primeira Liga,1997-03-07,Rusia,Portero
+Hugo Cunha,FC Famalicão,Primeira Liga,2001-09-06,Portugal,Portero
+Riccieli,FC Famalicão,Primeira Liga,1998-09-17,Brasil,Defensa
+Enea Mihaj,FC Famalicão,Primeira Liga,1998-07-05,Albania,Defensa
+Otávio,FC Famalicão,Primeira Liga,2002-04-21,Brasil,Defensa
+Justin de Haas,FC Famalicão,Primeira Liga,2000-02-01,Países Bajos,Defensa
+Francisco Moura,FC Famalicão,Primeira Liga,1999-08-16,Portugal,Defensa
+Rúben Lima,FC Famalicão,Primeira Liga,1989-10-03,Portugal,Defensa
+Nathan,FC Famalicão,Primeira Liga,2001-09-05,Brasil,Defensa
+Martín Aguirregabiria,FC Famalicão,Primeira Liga,1996-05-10,España,Defensa
+Dani Morer,FC Famalicão,Primeira Liga,1998-02-05,España,Defensa
+Mirko Topic,FC Famalicão,Primeira Liga,2001-02-05,Serbia,Medio campo
+Gustavo Assunção,FC Famalicão,Primeira Liga,2000-03-30,Brasil,Medio campo
+Tom Lacoux,FC Famalicão,Primeira Liga,2002-01-25,Francia,Medio campo
+Zaydou Youssouf,FC Famalicão,Primeira Liga,1999-07-11,Francia,Medio campo
+Gustavo Sá,FC Famalicão,Primeira Liga,2004-11-11,Portugal,Medio campo
+Otso Liimatta,FC Famalicão,Primeira Liga,2004-07-10,Finlandia,Medio campo
+Chiquinho,FC Famalicão,Primeira Liga,2000-02-05,Portugal,Delantero
+Puma,FC Famalicão,Primeira Liga,1998-06-19,Panamá,Delantero
+Óscar Aranda,FC Famalicão,Primeira Liga,2002-04-29,España,Delantero
+Afonso Rodrigues,FC Famalicão,Primeira Liga,2002-08-19,Portugal,Delantero
+Alex Dobre,FC Famalicão,Primeira Liga,1998-08-30,Rumanía,Delantero
+Théo Fonseca,FC Famalicão,Primeira Liga,2000-06-11,Portugal,Delantero
+Henrique Araújo,FC Famalicão,Primeira Liga,2002-01-19,Portugal,Delantero
+Jhonder Cádiz,FC Famalicão,Primeira Liga,1995-07-29,Venezuela,Delantero
+Pablo,FC Famalicão,Primeira Liga,2004-01-02,Brasil,Delantero
+João Gonçalves,Boavista Porto FC,Primeira Liga,2000-11-05,Portugal,Portero
+César,Boavista Porto FC,Primeira Liga,1992-01-27,Brasil,Portero
+Luís Pires,Boavista Porto FC,Primeira Liga,2004-11-17,Brasil,Portero
+Chidozie Awaziem,Boavista Porto FC,Primeira Liga,1997-01-01,Nigeria,Defensa
+Rodrigo Abascal,Boavista Porto FC,Primeira Liga,1994-01-14,Uruguay,Defensa
+Vincent Sasso,Boavista Porto FC,Primeira Liga,1991-02-16,Francia,Defensa
+Bruno Onyemaechi,Boavista Porto FC,Primeira Liga,1999-04-03,Nigeria,Defensa
+Filipe Ferreira,Boavista Porto FC,Primeira Liga,1990-09-27,Portugal,Defensa
+Augusto Dabó,Boavista Porto FC,Primeira Liga,2004-03-13,Portugal,Defensa
+Pedro Malheiro,Boavista Porto FC,Primeira Liga,2001-01-21,Portugal,Defensa
+Gonçalo Miguel,Boavista Porto FC,Primeira Liga,2003-05-06,Portugal,Defensa
+Seba Pérez,Boavista Porto FC,Primeira Liga,1993-03-29,Colombia,Medio campo
+Ibrahima,Boavista Porto FC,Primeira Liga,1999-01-25,Guinea,Medio campo
+Ilija Vukotic,Boavista Porto FC,Primeira Liga,1999-01-07,Montenegro,Medio campo
+Gaius Makouta,Boavista Porto FC,Primeira Liga,1997-07-25,República del Congo,Medio campo
+Miguel Reisinho,Boavista Porto FC,Primeira Liga,1999-04-09,Portugal,Medio campo
+Joel Silva,Boavista Porto FC,Primeira Liga,2003-02-11,Portugal,Medio campo
+Masa,Boavista Porto FC,Primeira Liga,1999-07-18,Japón,Medio campo
+Tiago Morais,Boavista Porto FC,Primeira Liga,2003-09-03,Portugal,Delantero
+Cristiano Fitzgerald,Boavista Porto FC,Primeira Liga,2003-11-10,Irlanda,Delantero
+Berna,Boavista Porto FC,Primeira Liga,2003-09-15,Portugal,Delantero
+Bruno Lourenço,Boavista Porto FC,Primeira Liga,1998-02-02,Portugal,Delantero
+Salvador Agra,Boavista Porto FC,Primeira Liga,1991-11-11,Portugal,Delantero
+Luís dos Santos,Boavista Porto FC,Primeira Liga,2000-01-20,Portugal,Delantero
+Róbert Bozeník,Boavista Porto FC,Primeira Liga,1999-11-18,Eslovaquia,Delantero
+Jeriel de Santis,Boavista Porto FC,Primeira Liga,2002-06-18,Venezuela,Delantero
+Martim Tavares,Boavista Porto FC,Primeira Liga,2003-11-10,Portugal,Delantero
+Tiago Machado,Boavista Porto FC,Primeira Liga,2004-04-02,Portugal,Delantero
+Lucas Paes,Casa Pia AC,Primeira Liga,1997-12-07,Brasil,Portero
+Afonso Monteiro,Casa Pia AC,Primeira Liga,2005-06-27,Portugal,Portero
+Ricardo Batista,Casa Pia AC,Primeira Liga,1986-11-19,Portugal,Portero
+João Nunes,Casa Pia AC,Primeira Liga,1995-11-19,Portugal,Defensa
+Nermin Zolotic,Casa Pia AC,Primeira Liga,1993-07-07,Bosnia y Herzegovina,Defensa
+Tchamba,Casa Pia AC,Primeira Liga,1998-07-10,Camerún,Defensa
+Fernando Varela,Casa Pia AC,Primeira Liga,1987-11-26,Cabo Verde,Defensa
+Vasco Fernandes,Casa Pia AC,Primeira Liga,1986-11-12,Portugal,Defensa
+Isaac,Casa Pia AC,Primeira Liga,2004-03-04,Portugal,Defensa
+Leonardo Lelo,Casa Pia AC,Primeira Liga,2000-03-30,Portugal,Defensa
+Tiago Dias,Casa Pia AC,Primeira Liga,1998-05-04,Portugal,Defensa
+Gaizka Larrazabal,Casa Pia AC,Primeira Liga,1997-12-17,España,Defensa
+André Geraldes,Casa Pia AC,Primeira Liga,1991-05-02,Portugal,Defensa
+Rafael Brito,Casa Pia AC,Primeira Liga,2002-01-19,Portugal,Medio campo
+Beni,Casa Pia AC,Primeira Liga,2002-05-21,Angola,Medio campo
+Telasco Segovia,Casa Pia AC,Primeira Liga,2003-04-02,Venezuela,Medio campo
+Pablo Roberto,Casa Pia AC,Primeira Liga,1999-11-14,Brasil,Medio campo
+Neto,Casa Pia AC,Primeira Liga,1991-09-02,Brasil,Medio campo
+Samuel Justo,Casa Pia AC,Primeira Liga,2004-04-02,Portugal,Medio campo
+Fernando Andrade,Casa Pia AC,Primeira Liga,1993-01-08,Brasil,Delantero
+Jajá,Casa Pia AC,Primeira Liga,2001-04-15,Brasil,Delantero
+Yuki Soma,Casa Pia AC,Primeira Liga,1997-02-25,Japón,Delantero
+Kiki,Casa Pia AC,Primeira Liga,1998-02-14,Portugal,Delantero
+Artur Serobyan,Casa Pia AC,Primeira Liga,2003-07-02,Armenia,Delantero
+Samu,Casa Pia AC,Primeira Liga,2006-09-15,Portugal,Delantero
+Clayton,Casa Pia AC,Primeira Liga,1999-01-11,Brasil,Delantero
+Felippe Cardoso,Casa Pia AC,Primeira Liga,1998-10-04,Brasil,Delantero
+Fabijan Buntic,FC Vizela,Primeira Liga,1997-02-24,Croacia,Portero
+Francesco Ruberto,FC Vizela,Primeira Liga,1993-03-19,Suiza,Portero
+Nikola Bursac,FC Vizela,Primeira Liga,2001-09-11,Serbia,Portero
+Bruno Wilson,FC Vizela,Primeira Liga,1996-12-27,Portugal,Defensa
+Anderson,FC Vizela,Primeira Liga,1995-03-02,Brasil,Defensa
+Rodrigo Escoval,FC Vizela,Primeira Liga,1997-05-08,Portugal,Defensa
+Joaquín Novillo,FC Vizela,Primeira Liga,1998-02-19,Argentina,Defensa
+Matheus Pereira,FC Vizela,Primeira Liga,2000-12-21,Brasil,Defensa
+Orest Lebedenko,FC Vizela,Primeira Liga,1998-09-23,Ucrania,Defensa
+Tomás Silva,FC Vizela,Primeira Liga,1999-10-15,Portugal,Defensa
+Hugo Oliveira,FC Vizela,Primeira Liga,2002-02-10,Portugal,Defensa
+Houssem Mrezigue,FC Vizela,Primeira Liga,2000-03-23,Argelia,Medio campo
+Aleksandar Busnic,FC Vizela,Primeira Liga,1997-12-04,Serbia,Medio campo
+Rafael Bustamante,FC Vizela,Primeira Liga,1999-10-02,Colombia,Medio campo
+Osama Rashid,FC Vizela,Primeira Liga,1992-01-13,Irak,Medio campo
+Pedro Ortiz,FC Vizela,Primeira Liga,2000-08-19,España,Medio campo
+Diogo Nascimento,FC Vizela,Primeira Liga,2002-11-02,Portugal,Medio campo
+Samu,FC Vizela,Primeira Liga,1996-04-21,Portugal,Medio campo
+Alex Méndez,FC Vizela,Primeira Liga,2000-09-06,Estados Unidos,Medio campo
+Nuno Moreira,FC Vizela,Primeira Liga,1999-06-16,Portugal,Delantero
+Matías Lacava,FC Vizela,Primeira Liga,2002-10-24,Venezuela,Delantero
+Alberto Soro,FC Vizela,Primeira Liga,1999-03-09,España,Delantero
+Dylan Saint-Louis,FC Vizela,Primeira Liga,1995-04-26,República del Congo,Delantero
+Samuel Essende,FC Vizela,Primeira Liga,1998-01-23,Francia,Delantero
+Jardel,FC Vizela,Primeira Liga,1997-09-20,Guinea-Bisáu,Delantero
+Iker Unzueta,FC Vizela,Primeira Liga,1998-08-04,España,Delantero
+Jhonatan,Rio Ave FC,Primeira Liga,1991-05-08,Brasil,Portero
+Magrão,Rio Ave FC,Primeira Liga,2000-05-15,Brasil,Portero
+Lucas Flores,Rio Ave FC,Primeira Liga,2002-07-04,Brasil,Portero
+Patrick William,Rio Ave FC,Primeira Liga,1997-06-03,Brasil,Defensa
+Josué Sá,Rio Ave FC,Primeira Liga,1992-06-17,Portugal,Defensa
+Renato Pantalon,Rio Ave FC,Primeira Liga,1997-10-27,Croacia,Defensa
+Miguel Nóbrega,Rio Ave FC,Primeira Liga,2000-04-17,Portugal,Defensa
+Aderllan Santos,Rio Ave FC,Primeira Liga,1989-04-09,Brasil,Defensa
+Fábio Ronaldo,Rio Ave FC,Primeira Liga,2001-04-28,Portugal,Defensa
+Sávio,Rio Ave FC,Primeira Liga,1995-05-26,Brasil,Defensa
+Nuno Namora,Rio Ave FC,Primeira Liga,1998-02-12,Portugal,Defensa
+Costinha,Rio Ave FC,Primeira Liga,2000-03-26,Portugal,Defensa
+Karse,Rio Ave FC,Primeira Liga,2005-03-18,Georgia,Defensa
+Amine,Rio Ave FC,Primeira Liga,1992-11-04,Marruecos,Medio campo
+Vítor Gomes,Rio Ave FC,Primeira Liga,1987-12-25,Portugal,Medio campo
+Guga,Rio Ave FC,Primeira Liga,1997-07-18,Portugal,Medio campo
+João Graça,Rio Ave FC,Primeira Liga,1995-06-18,Portugal,Medio campo
+Bruno Ventura,Rio Ave FC,Primeira Liga,2001-02-27,Portugal,Medio campo
+Emmanuel Boateng,Rio Ave FC,Primeira Liga,1996-05-23,Ghana,Delantero
+Hernâni,Rio Ave FC,Primeira Liga,1991-08-20,Portugal,Delantero
+Joca,Rio Ave FC,Primeira Liga,1996-01-30,Portugal,Delantero
+Ukra,Rio Ave FC,Primeira Liga,1988-03-16,Portugal,Delantero
+Zé Manuel,Rio Ave FC,Primeira Liga,1990-10-23,Portugal,Delantero
+Leonardo Ruiz,Rio Ave FC,Primeira Liga,1996-04-18,Colombia,Delantero
+André Pereira,Rio Ave FC,Primeira Liga,1995-05-05,Portugal,Delantero
+Andrew,Gil Vicente FC,Primeira Liga,2001-07-01,Brasil,Portero
+Stanislav Kritsyuk,Gil Vicente FC,Primeira Liga,1990-12-01,Rusia,Portero
+Vinícius,Gil Vicente FC,Primeira Liga,1997-06-19,Brasil,Portero
+Brian Araújo,Gil Vicente FC,Primeira Liga,2000-04-29,Portugal,Portero
+Gabriel Pereira,Gil Vicente FC,Primeira Liga,2000-05-07,Brasil,Defensa
+Né Lopes,Gil Vicente FC,Primeira Liga,2000-05-29,Portugal,Defensa
+Rúben Fernandes,Gil Vicente FC,Primeira Liga,1986-05-06,Portugal,Defensa
+Felipe Silva,Gil Vicente FC,Primeira Liga,2002-02-19,Brasil,Defensa
+Leonardo Buta,Gil Vicente FC,Primeira Liga,2002-06-05,Portugal,Defensa
+Kiko,Gil Vicente FC,Primeira Liga,1999-09-08,Portugal,Defensa
+Zé Carlos,Gil Vicente FC,Primeira Liga,1998-07-31,Portugal,Defensa
+Thomas Luciano,Gil Vicente FC,Primeira Liga,2002-01-14,Brasil,Defensa
+Jesús Castillo,Gil Vicente FC,Primeira Liga,2001-06-11,Perú,Medio campo
+Mory Gbane,Gil Vicente FC,Primeira Liga,2000-12-25,Costa de Marfil,Medio campo
+Martim Neto,Gil Vicente FC,Primeira Liga,2003-01-14,Portugal,Medio campo
+Roan Wilson,Gil Vicente FC,Primeira Liga,2002-05-01,Costa Rica,Medio campo
+Pedro Tiba,Gil Vicente FC,Primeira Liga,1988-08-31,Portugal,Medio campo
+Kanya Fujimoto,Gil Vicente FC,Primeira Liga,1999-07-01,Japón,Medio campo
+Maxime Dominguez,Gil Vicente FC,Primeira Liga,1996-02-01,Suiza,Medio campo
+André Simões,Gil Vicente FC,Primeira Liga,2003-08-17,Portugal,Medio campo
+Félix Correia,Gil Vicente FC,Primeira Liga,2001-01-22,Portugal,Delantero
+Tidjany Touré,Gil Vicente FC,Primeira Liga,2002-07-15,Francia,Delantero
+Marlon,Gil Vicente FC,Primeira Liga,1997-09-15,Brasil,Delantero
+Murilo de Souza,Gil Vicente FC,Primeira Liga,1994-10-31,Brasil,Delantero
+Ali Alipour,Gil Vicente FC,Primeira Liga,1995-11-11,Irán,Delantero
+Roko Baturina,Gil Vicente FC,Primeira Liga,2000-06-20,Croacia,Delantero
+Depú,Gil Vicente FC,Primeira Liga,2000-01-08,Angola,Delantero
+Miguel Monteiro,Gil Vicente FC,Primeira Liga,2003-07-24,Portugal,Delantero
+Dani Figueira,GD Estoril Praia,Primeira Liga,1998-07-20,Portugal,Portero
+Marcelo Carné,GD Estoril Praia,Primeira Liga,1990-02-06,Brasil,Portero
+Diogo Dias,GD Estoril Praia,Primeira Liga,2003-06-17,Portugal,Portero
+Alan Gobetti,GD Estoril Praia,Primeira Liga,2001-02-12,Brasil,Portero
+Bernardo Vital,GD Estoril Praia,Primeira Liga,2000-12-29,Portugal,Defensa
+Pedro Álvaro,GD Estoril Praia,Primeira Liga,2000-03-02,Portugal,Defensa
+Erick Cabaco,GD Estoril Praia,Primeira Liga,1995-04-19,Uruguay,Defensa
+Eliaquim Mangala,GD Estoril Praia,Primeira Liga,1991-02-13,Francia,Defensa
+Volnei,GD Estoril Praia,Primeira Liga,2000-04-15,Brasil,Defensa
+Tiago Araújo,GD Estoril Praia,Primeira Liga,2001-03-27,Portugal,Defensa
+Harouna Sy,GD Estoril Praia,Primeira Liga,1996-03-30,Francia,Defensa
+Ricardo Fernandes,GD Estoril Praia,Primeira Liga,2002-08-28,Santo Tomé y Príncipe,Defensa
+Raúl Parra,GD Estoril Praia,Primeira Liga,1999-11-26,España,Defensa
+Mor Ndiaye,GD Estoril Praia,Primeira Liga,2000-11-22,Senegal,Medio campo
+Jordan Holsgrove,GD Estoril Praia,Primeira Liga,1999-09-10,Escocia,Medio campo
+Fran Pereira,GD Estoril Praia,Primeira Liga,2002-02-06,Portugal,Medio campo
+Finn Dicke,GD Estoril Praia,Primeira Liga,2004-09-14,Países Bajos,Medio campo
+Koba Koindredi,GD Estoril Praia,Primeira Liga,2001-10-27,Francia,Medio campo
+Alex Soares,GD Estoril Praia,Primeira Liga,1991-03-01,Portugal,Medio campo
+Ivan Pavlic,GD Estoril Praia,Primeira Liga,2001-11-10,Bélgica,Medio campo
+Mateus Fernandes,GD Estoril Praia,Primeira Liga,2004-07-10,Portugal,Medio campo
+João Marques,GD Estoril Praia,Primeira Liga,2002-02-13,Portugal,Medio campo
+Rodrigo Martins,GD Estoril Praia,Primeira Liga,1998-09-15,Portugal,Delantero
+Dele,GD Estoril Praia,Primeira Liga,2001-02-22,Nigeria,Delantero
+Rodrigo Gomes,GD Estoril Praia,Primeira Liga,2003-07-07,Portugal,Delantero
+Rafik Guitane,GD Estoril Praia,Primeira Liga,1999-05-26,Francia,Delantero
+Heri Tavares,GD Estoril Praia,Primeira Liga,1997-02-19,Portugal,Delantero
+Alejandro Marqués,GD Estoril Praia,Primeira Liga,2000-08-04,Venezuela,Delantero
+João Carlos,GD Estoril Praia,Primeira Liga,1995-03-01,Brasil,Delantero
+Cassiano,GD Estoril Praia,Primeira Liga,1989-06-16,Brasil,Delantero
+Vinícius,Portimonense SC,Primeira Liga,1994-03-28,Brasil,Portero
+Kosuke Nakamura,Portimonense SC,Primeira Liga,1995-02-27,Japón,Portero
+Gabriel Souza,Portimonense SC,Primeira Liga,2004-08-03,Brasil,Portero
+Filipe Relvas,Portimonense SC,Primeira Liga,1999-09-20,Portugal,Defensa
+Pedrão,Portimonense SC,Primeira Liga,1997-05-03,Brasil,Defensa
+Tornich,Portimonense SC,Primeira Liga,2002-11-06,Brasil,Defensa
+Rafael Alcobia,Portimonense SC,Primeira Liga,2003-06-22,Portugal,Defensa
+Moustapha Seck,Portimonense SC,Primeira Liga,1996-02-23,España,Defensa
+Gonçalo Costa,Portimonense SC,Primeira Liga,2000-02-18,Portugal,Defensa
+Igor Formiga,Portimonense SC,Primeira Liga,1999-01-08,Brasil,Defensa
+Guga,Portimonense SC,Primeira Liga,2003-10-23,Portugal,Defensa
+Lucas Ventura,Portimonense SC,Primeira Liga,1998-05-19,Brasil,Medio campo
+Maurício,Portimonense SC,Primeira Liga,1988-10-21,Brasil,Medio campo
+Paulo Estrela,Portimonense SC,Primeira Liga,1999-02-20,Portugal,Medio campo
+Dennis Adeniran,Portimonense SC,Primeira Liga,1999-01-02,Inglaterra,Medio campo
+Dener,Portimonense SC,Primeira Liga,1992-03-13,Brasil,Medio campo
+Carlinhos,Portimonense SC,Primeira Liga,1994-06-22,Brasil,Medio campo
+Luquinha,Portimonense SC,Primeira Liga,2000-10-03,Brasil,Medio campo
+Rildo,Portimonense SC,Primeira Liga,2000-01-21,Brasil,Delantero
+Zinho,Portimonense SC,Primeira Liga,2003-05-09,Brasil,Delantero
+Hélio Varela,Portimonense SC,Primeira Liga,2002-05-03,Cabo Verde,Delantero
+Sylvester Jasper,Portimonense SC,Primeira Liga,2001-09-13,Bulgaria,Delantero
+Luan,Portimonense SC,Primeira Liga,2002-03-19,Brasil,Delantero
+Yong-hak Kim,Portimonense SC,Primeira Liga,2003-05-20,Corea del Sur,Delantero
+Ângelo Taveira,Portimonense SC,Primeira Liga,2000-05-13,Portugal,Delantero
+Ronie Carrillo,Portimonense SC,Primeira Liga,1996-09-08,Ecuador,Delantero
+Paulinho,Portimonense SC,Primeira Liga,1999-09-21,Portugal,Delantero
+Kewin,Moreirense FC,Primeira Liga,1995-01-25,Brasil,Portero
+Caio Secco,Moreirense FC,Primeira Liga,1990-12-22,Brasil,Portero
+Ponck,Moreirense FC,Primeira Liga,1995-01-13,Cabo Verde,Defensa
+Maracás,Moreirense FC,Primeira Liga,1994-04-27,Brasil,Defensa
+Rafael Santos,Moreirense FC,Primeira Liga,1998-02-02,Brasil,Defensa
+Marcelo,Moreirense FC,Primeira Liga,1989-07-27,Brasil,Defensa
+Gilberto Batista,Moreirense FC,Primeira Liga,2003-12-29,Portugal,Defensa
+Godfried Frimpong,Moreirense FC,Primeira Liga,1999-04-21,Países Bajos,Defensa
+Pedro Amador,Moreirense FC,Primeira Liga,1998-12-18,Portugal,Defensa
+Fabiano,Moreirense FC,Primeira Liga,2000-03-14,Brasil,Defensa
+Dinis Pinto,Moreirense FC,Primeira Liga,2000-08-24,Portugal,Defensa
+Alhassane Sylla,Moreirense FC,Primeira Liga,1995-08-24,Senegal,Defensa
+Wallisson,Moreirense FC,Primeira Liga,1997-09-23,Brasil,Medio campo
+Ismael,Moreirense FC,Primeira Liga,1999-03-25,Portugal,Medio campo
+Gonçalo Franco,Moreirense FC,Primeira Liga,2000-11-17,Portugal,Medio campo
+Lawrence Ofori,Moreirense FC,Primeira Liga,1998-06-28,Ghana,Medio campo
+Alan,Moreirense FC,Primeira Liga,2000-03-08,Brasil,Medio campo
+Pedro Aparício,Moreirense FC,Primeira Liga,1995-08-22,Portugal,Medio campo
+Jeremy Antonisse,Moreirense FC,Primeira Liga,2002-03-29,Francia,Delantero
+João Camacho,Moreirense FC,Primeira Liga,1994-06-23,Portugal,Delantero
+Madson,Moreirense FC,Primeira Liga,1999-08-26,Brasil,Delantero
+Kobamelo Kodisang,Moreirense FC,Primeira Liga,1999-08-28,Sudáfrica,Delantero
+Hernâni,Moreirense FC,Primeira Liga,2001-04-03,Portugal,Delantero
+Matar Manga,Moreirense FC,Primeira Liga,2004-05-10,Gambia,Delantero
+André Luis,Moreirense FC,Primeira Liga,1994-03-09,Brasil,Delantero
+Matheus Aiás,Moreirense FC,Primeira Liga,1996-12-30,Brasil,Delantero
+Rodrigo Macedo,Moreirense FC,Primeira Liga,2003-07-09,Portugal,Delantero
+Ebrima Ndow,Moreirense FC,Primeira Liga,2004-01-04,Gambia,Delantero
+Ricardo Velho,SC Farense,Primeira Liga,1998-08-20,Portugal,Portero
+Luiz Felipe,SC Farense,Primeira Liga,1997-04-24,Brasil,Portero
+Miguel Carvalho,SC Farense,Primeira Liga,1996-06-20,Portugal,Portero
+Artur Jorge,SC Farense,Primeira Liga,1994-08-14,Portugal,Defensa
+Zach Muscat,SC Farense,Primeira Liga,1993-08-22,Malta,Defensa
+Igor Rossi,SC Farense,Primeira Liga,1989-03-10,Brasil,Defensa
+Gonçalo Silva,SC Farense,Primeira Liga,1991-06-04,Portugal,Defensa
+Talys,SC Farense,Primeira Liga,1999-02-10,Brasil,Defensa
+Talocha,SC Farense,Primeira Liga,1989-08-30,Portugal,Defensa
+Fran Delgado,SC Farense,Primeira Liga,2001-07-11,España,Defensa
+Pastor,SC Farense,Primeira Liga,2000-02-20,Brasil,Defensa
+Claudio Falcão,SC Farense,Primeira Liga,1994-07-03,Brasil,Medio campo
+Seruca,SC Farense,Primeira Liga,2000-10-29,Portugal,Medio campo
+Facundo Cáseres,SC Farense,Primeira Liga,2001-05-28,Argentina,Medio campo
+Mattheus,SC Farense,Primeira Liga,1994-07-07,Brasil,Medio campo
+Vítor Gonçalves,SC Farense,Primeira Liga,1992-03-29,Portugal,Medio campo
+Fabrício Isidoro,SC Farense,Primeira Liga,1992-01-28,Brasil,Medio campo
+Diogo Paulo,SC Farense,Primeira Liga,2001-07-06,Portugal,Medio campo
+Rafael Barbosa,SC Farense,Primeira Liga,1996-03-29,Portugal,Medio campo
+Jhon Velásquez,SC Farense,Primeira Liga,1995-05-02,Colombia,Medio campo
+Sapara,SC Farense,Primeira Liga,1995-01-27,Nigeria,Delantero
+Marco Matias,SC Farense,Primeira Liga,1989-05-10,Portugal,Delantero
+Cristian Ponde,SC Farense,Primeira Liga,1995-01-26,Portugal,Delantero
+Belloumi,SC Farense,Primeira Liga,2002-06-01,Argelia,Delantero
+Elves Baldé,SC Farense,Primeira Liga,1999-10-02,Portugal,Delantero
+Rui Costa,SC Farense,Primeira Liga,1996-02-20,Portugal,Delantero
+Bruno Duarte,SC Farense,Primeira Liga,1996-03-24,Brasil,Delantero
+Zé Luís,SC Farense,Primeira Liga,1991-01-24,Cabo Verde,Delantero
+Bruno Brígido,CF Estrela Amadora SAD,Primeira Liga,1991-03-09,Brasil,Portero
+Dida,CF Estrela Amadora SAD,Primeira Liga,1998-04-28,Brasil,Portero
+António Filipe,CF Estrela Amadora SAD,Primeira Liga,1985-04-14,Portugal,Portero
+Pedro Mendes,CF Estrela Amadora SAD,Primeira Liga,1990-10-01,Portugal,Defensa
+Kialonda Gaspar,CF Estrela Amadora SAD,Primeira Liga,1997-09-27,Angola,Defensa
+Erivaldo Almeida,CF Estrela Amadora SAD,Primeira Liga,2000-01-15,Brasil,Defensa
+Omurwa,CF Estrela Amadora SAD,Primeira Liga,1998-08-08,Kenia,Defensa
+Mansur,CF Estrela Amadora SAD,Primeira Liga,1993-04-17,Brasil,Defensa
+Shinga,CF Estrela Amadora SAD,Primeira Liga,2000-03-30,Sudáfrica,Defensa
+João Reis,CF Estrela Amadora SAD,Primeira Liga,1992-06-24,Portugal,Defensa
+Jean Felipe,CF Estrela Amadora SAD,Primeira Liga,1994-03-18,Brasil,Defensa
+Hevertton,CF Estrela Amadora SAD,Primeira Liga,2001-02-01,Brasil,Defensa
+Miguel Lopes,CF Estrela Amadora SAD,Primeira Liga,1986-12-19,Portugal,Defensa
+Pedro Sá,CF Estrela Amadora SAD,Primeira Liga,1993-12-01,Portugal,Medio campo
+Aloísio,CF Estrela Amadora SAD,Primeira Liga,1996-05-03,Brasil,Medio campo
+Keliano Manuel,CF Estrela Amadora SAD,Primeira Liga,2003-01-16,Angola,Medio campo
+Léo Cordeiro,CF Estrela Amadora SAD,Primeira Liga,1995-09-27,Brasil,Medio campo
+Vitó,CF Estrela Amadora SAD,Primeira Liga,1997-09-18,Portugal,Medio campo
+Gustavo Henrique,CF Estrela Amadora SAD,Primeira Liga,1999-05-24,Brasil,Delantero
+Léo Jabá,CF Estrela Amadora SAD,Primeira Liga,1998-08-02,Brasil,Delantero
+Ronald,CF Estrela Amadora SAD,Primeira Liga,2001-06-14,Brasil,Delantero
+Régis N'Do,CF Estrela Amadora SAD,Primeira Liga,2001-05-22,Malí,Delantero
+Buba Jammeh,CF Estrela Amadora SAD,Primeira Liga,2001-06-15,Gambia,Delantero
+Kikas,CF Estrela Amadora SAD,Primeira Liga,1998-09-17,Portugal,Delantero
+Ronaldo Tavares,CF Estrela Amadora SAD,Primeira Liga,1997-07-22,Portugal,Delantero
+Alioune Ndour,CF Estrela Amadora SAD,Primeira Liga,2001-03-03,Senegal,Delantero
+André Luiz,CF Estrela Amadora SAD,Primeira Liga,2002-02-23,Brasil,Delantero

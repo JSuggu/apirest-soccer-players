@@ -1,0 +1,854 @@
+Drake Callender,Inter Miami CF,Major League Soccer,1997-10-07,Estados Unidos,Portero
+CJ dos Santos,Inter Miami CF,Major League Soccer,2000-08-24,Estados Unidos,Portero
+Cole Jensen,Inter Miami CF,Major League Soccer,2001-01-22,Estados Unidos,Portero
+Tomás Avilés,Inter Miami CF,Major League Soccer,2004-02-03,Argentina,Defensa
+Kamal Miller,Inter Miami CF,Major League Soccer,1997-05-16,Canadá,Defensa
+Sergiy Kryvtsov,Inter Miami CF,Major League Soccer,1991-03-15,Ucrania,Defensa
+Christopher McVey,Inter Miami CF,Major League Soccer,1997-04-12,Suecia,Defensa
+Ian Fray,Inter Miami CF,Major League Soccer,2002-08-31,Jamaica,Defensa
+Ryan Sailor,Inter Miami CF,Major League Soccer,1998-11-27,Estados Unidos,Defensa
+Jordi Alba,Inter Miami CF,Major League Soccer,1989-03-21,España,Defensa
+Noah Allen,Inter Miami CF,Major League Soccer,2004-04-28,Estados Unidos,Defensa
+Franco Negri,Inter Miami CF,Major League Soccer,1995-02-20,Argentina,Defensa
+DeAndre Yedlin,Inter Miami CF,Major League Soccer,1993-07-09,Estados Unidos,Defensa
+Sergio Busquets,Inter Miami CF,Major League Soccer,1988-07-16,España,Medio campo
+Gregore,Inter Miami CF,Major League Soccer,1994-03-02,Brasil,Medio campo
+Dixon Arroyo,Inter Miami CF,Major League Soccer,1992-06-01,Ecuador,Medio campo
+David Ruíz,Inter Miami CF,Major League Soccer,2004-02-08,Honduras,Medio campo
+Víctor Ulloa,Inter Miami CF,Major League Soccer,1992-03-04,México,Medio campo
+Benja Cremaschi,Inter Miami CF,Major League Soccer,2005-03-02,Estados Unidos,Medio campo
+Diego Gómez,Inter Miami CF,Major League Soccer,2003-03-27,Paraguay,Medio campo
+Jean Mota,Inter Miami CF,Major League Soccer,1993-10-15,Brasil,Medio campo
+Lawson Sunderland,Inter Miami CF,Major League Soccer,2001-11-07,Estados Unidos,Medio campo
+Facundo Farías,Inter Miami CF,Major League Soccer,2002-08-28,Argentina,Medio campo
+Santiago Morales,Inter Miami CF,Major League Soccer,2007-02-09,Estados Unidos,Medio campo
+Robert Taylor,Inter Miami CF,Major League Soccer,1994-10-21,Finlandia,Delantero
+Robbie Robinson,Inter Miami CF,Major League Soccer,1998-12-17,Estados Unidos,Delantero
+Edison Azcona,Inter Miami CF,Major League Soccer,2003-11-21,República Dominicana,Delantero
+Lionel Messi,Inter Miami CF,Major League Soccer,1987-06-24,Argentina,Delantero
+Felipe Valencia,Inter Miami CF,Major League Soccer,2005-03-01,Estados Unidos,Delantero
+Josef Martínez,Inter Miami CF,Major League Soccer,1993-05-19,Venezuela,Delantero
+Leonardo Campana,Inter Miami CF,Major League Soccer,2000-07-24,Ecuador,Delantero
+Nicolás Stefanelli,Inter Miami CF,Major League Soccer,1994-11-22,Argentina,Delantero
+Corentin Jean,Inter Miami CF,Major League Soccer,1995-07-15,Francia,Delantero
+Pedro Gallese,Orlando City SC,Major League Soccer,1990-02-23,Perú,Portero
+Mason Stajduhar,Orlando City SC,Major League Soccer,1997-12-02,Estados Unidos,Portero
+Adam Grinwis,Orlando City SC,Major League Soccer,1992-04-21,Estados Unidos,Portero
+Javier Otero,Orlando City SC,Major League Soccer,2002-11-18,Venezuela,Portero
+Rodrigo Schlegel,Orlando City SC,Major League Soccer,1997-04-03,Argentina,Defensa
+Antônio Carlos,Orlando City SC,Major League Soccer,1993-03-07,Brasil,Defensa
+Robin Jansson,Orlando City SC,Major League Soccer,1991-11-15,Suecia,Defensa
+Thomas Williams,Orlando City SC,Major League Soccer,2004-08-15,Estados Unidos,Defensa
+Abdi Salim,Orlando City SC,Major League Soccer,2001-04-01,Somalia,Defensa
+Luca Petrasso,Orlando City SC,Major League Soccer,2000-06-16,Canadá,Defensa
+Rafael Santos,Orlando City SC,Major League Soccer,1998-02-05,Brasil,Defensa
+Kyle Smith,Orlando City SC,Major League Soccer,1992-01-09,Estados Unidos,Defensa
+Michael Halliday,Orlando City SC,Major League Soccer,2003-01-22,Estados Unidos,Defensa
+Alex Freeman,Orlando City SC,Major League Soccer,2004-08-09,Estados Unidos,Defensa
+Wilder Cartagena,Orlando City SC,Major League Soccer,1994-09-23,Perú,Medio campo
+César Araújo,Orlando City SC,Major League Soccer,2001-04-02,Uruguay,Medio campo
+Dagur Dan Thórhallsson,Orlando City SC,Major League Soccer,2000-05-02,Islandia,Medio campo
+Júnior Urso,Orlando City SC,Major League Soccer,1989-03-10,Brasil,Medio campo
+Felipe Martins,Orlando City SC,Major League Soccer,1990-09-30,Brasil,Medio campo
+Mauricio Pereyra,Orlando City SC,Major League Soccer,1990-03-15,Uruguay,Medio campo
+Favian Loyola,Orlando City SC,Major League Soccer,2005-05-18,Estados Unidos,Medio campo
+Martín Ojeda,Orlando City SC,Major League Soccer,1998-11-27,Argentina,Delantero
+Gastón González,Orlando City SC,Major League Soccer,2001-06-27,Argentina,Delantero
+Iván Angulo,Orlando City SC,Major League Soccer,1999-03-22,Colombia,Delantero
+Facundo Torres,Orlando City SC,Major League Soccer,2000-04-13,Uruguay,Delantero
+Shak Mohammed,Orlando City SC,Major League Soccer,2003-08-27,Ghana,Delantero
+Ramiro Enrique,Orlando City SC,Major League Soccer,2001-05-04,Argentina,Delantero
+Duncan McGuire,Orlando City SC,Major League Soccer,2001-02-05,Estados Unidos,Delantero
+Jack Lynn,Orlando City SC,Major League Soccer,2000-01-12,Estados Unidos,Delantero
+Wilfredo Rivera,Orlando City SC,Major League Soccer,2003-10-14,Estados Unidos,Delantero
+Luis Barraza,New York City FC,Major League Soccer,1996-11-08,Estados Unidos,Portero
+Matt Freese,New York City FC,Major League Soccer,1998-09-02,Estados Unidos,Portero
+Cody Mizell,New York City FC,Major League Soccer,1991-09-30,Estados Unidos,Portero
+Thiago Martins,New York City FC,Major League Soccer,1995-03-17,Brasil,Defensa
+James Sands,New York City FC,Major League Soccer,2000-07-06,Estados Unidos,Defensa
+Birk Risa,New York City FC,Major League Soccer,1998-02-13,Noruega,Defensa
+Samuel Owusu,New York City FC,Major League Soccer,2000-12-13,Ghana,Defensa
+Nico Benalcázar,New York City FC,Major League Soccer,2001-06-06,Estados Unidos,Defensa
+Braian Cufré,New York City FC,Major League Soccer,1996-12-15,Argentina,Defensa
+Kevin O'Toole,New York City FC,Major League Soccer,1998-12-14,Estados Unidos,Defensa
+Christian McFarlane,New York City FC,Major League Soccer,2007-01-25,Estados Unidos,Defensa
+Tayvon Gray,New York City FC,Major League Soccer,2002-08-19,Jamaica,Defensa
+Mitja Ilenic,New York City FC,Major League Soccer,2004-12-26,Eslovenia,Defensa
+Stephen Turnbull,New York City FC,Major League Soccer,1998-03-13,Estados Unidos,Defensa
+Drew Baiera,New York City FC,Major League Soccer,2007-02-28,Estados Unidos,Defensa
+Keaton Parks,New York City FC,Major League Soccer,1997-08-06,Estados Unidos,Medio campo
+Andrés Perea,New York City FC,Major League Soccer,2000-11-14,Estados Unidos,Medio campo
+Justin Haak,New York City FC,Major League Soccer,2001-09-12,Estados Unidos,Medio campo
+Alfredo Morales,New York City FC,Major League Soccer,1990-05-12,Estados Unidos,Medio campo
+Jonathan Shore,New York City FC,Major League Soccer,2007-04-13,Estados Unidos,Medio campo
+Santiago Rodríguez,New York City FC,Major League Soccer,2000-01-08,Uruguay,Medio campo
+Richard Ledezma,New York City FC,Major League Soccer,2000-09-06,Estados Unidos,Medio campo
+Maxi Moralez,New York City FC,Major League Soccer,1987-02-27,Argentina,Medio campo
+Máximo Carrizo,New York City FC,Major League Soccer,2008-02-28,Estados Unidos,Medio campo
+Talles Magno,New York City FC,Major League Soccer,2002-06-26,Brasil,Delantero
+Matías Pellegrini,New York City FC,Major League Soccer,2000-03-11,Argentina,Delantero
+Andres Jasson,New York City FC,Major League Soccer,2002-01-17,Estados Unidos,Delantero
+Julián Fernández,New York City FC,Major League Soccer,2004-01-30,Argentina,Delantero
+Alonso Martínez,New York City FC,Major League Soccer,1998-10-15,Costa Rica,Delantero
+Jonathan Jiménez,New York City FC,Major League Soccer,2001-04-25,Estados Unidos,Delantero
+Monsef Bakrar,New York City FC,Major League Soccer,2001-01-13,Argelia,Delantero
+Andre Blake,Philadelphia Union,Major League Soccer,1990-11-21,Jamaica,Portero
+Joe Bendik,Philadelphia Union,Major League Soccer,1989-04-25,Estados Unidos,Portero
+Holden Trent,Philadelphia Union,Major League Soccer,1999-07-07,Estados Unidos,Portero
+Jakob Glesnes,Philadelphia Union,Major League Soccer,1994-03-25,Noruega,Defensa
+Jack Elliott,Philadelphia Union,Major League Soccer,1995-08-25,Inglaterra,Defensa
+Damion Lowe,Philadelphia Union,Major League Soccer,1993-05-05,Jamaica,Defensa
+Olwethu Makhanya,Philadelphia Union,Major League Soccer,2004-04-30,Sudáfrica,Defensa
+Kai Wagner,Philadelphia Union,Major League Soccer,1997-02-15,Alemania,Defensa
+Matt Real,Philadelphia Union,Major League Soccer,1999-07-10,Estados Unidos,Defensa
+Anton Sorenson,Philadelphia Union,Major League Soccer,2003-01-25,Haití,Defensa
+Olivier Mbaizo,Philadelphia Union,Major League Soccer,1997-08-15,Camerún,Defensa
+Nathan Harriel,Philadelphia Union,Major League Soccer,2001-04-23,Estados Unidos,Defensa
+José Martínez,Philadelphia Union,Major League Soccer,1994-08-07,Venezuela,Medio campo
+Jesús Bueno,Philadelphia Union,Major League Soccer,1999-04-15,Venezuela,Medio campo
+Leon Flach,Philadelphia Union,Major League Soccer,2001-02-28,Estados Unidos,Medio campo
+Jack McGlynn,Philadelphia Union,Major League Soccer,2003-07-07,Estados Unidos,Medio campo
+Alejandro Bedoya,Philadelphia Union,Major League Soccer,1987-04-29,Estados Unidos,Medio campo
+Dániel Gazdag,Philadelphia Union,Major League Soccer,1996-03-02,Hungría,Medio campo
+Jeremy Rafanello,Philadelphia Union,Major League Soccer,2000-04-14,Estados Unidos,Medio campo
+Quinn Sullivan,Philadelphia Union,Major League Soccer,2004-03-27,Estados Unidos,Delantero
+Joaquín Torres,Philadelphia Union,Major League Soccer,1997-01-28,Argentina,Delantero
+Julián Carranza,Philadelphia Union,Major League Soccer,2000-05-22,Argentina,Delantero
+Mikael Uhre,Philadelphia Union,Major League Soccer,1994-09-30,Dinamarca,Delantero
+Tai Baribo,Philadelphia Union,Major League Soccer,1998-01-15,Israel,Delantero
+Chris Donovan,Philadelphia Union,Major League Soccer,2000-08-08,Estados Unidos,Delantero
+Nelson Pierre,Philadelphia Union,Major League Soccer,2005-03-22,Estados Unidos,Delantero
+Sean Johnson,Toronto FC,Major League Soccer,1989-05-31,Estados Unidos,Portero
+Greg Ranjitsingh,Toronto FC,Major League Soccer,1993-07-18,Trinidad y Tobago,Portero
+Tomás Romero,Toronto FC,Major League Soccer,2000-12-19,El Salvador,Portero
+Luka Gavran,Toronto FC,Major League Soccer,2000-05-09,Canadá,Portero
+Sigurd Rosted,Toronto FC,Major League Soccer,1994-07-22,Noruega,Defensa
+Aimé Mabika,Toronto FC,Major League Soccer,1998-08-16,Zambia,Defensa
+Shane O'Neill,Toronto FC,Major League Soccer,1993-09-02,Estados Unidos,Defensa
+Cristián Gutiérrez,Toronto FC,Major League Soccer,1997-02-18,Canadá,Defensa
+Raoul Petretta,Toronto FC,Major League Soccer,1997-03-24,Italia,Defensa
+Themi Antonoglou,Toronto FC,Major League Soccer,2001-06-02,Canadá,Defensa
+Jahkeele Marshall-Rutty,Toronto FC,Major League Soccer,2004-06-16,Canadá,Defensa
+Kobe Franklin,Toronto FC,Major League Soccer,2003-05-10,Canadá,Defensa
+Franco Ibarra,Toronto FC,Major League Soccer,2001-04-28,Argentina,Medio campo
+Alonso Coello,Toronto FC,Major League Soccer,1999-10-12,España,Medio campo
+Jonathan Osorio,Toronto FC,Major League Soccer,1992-06-12,Canadá,Medio campo
+Brandon Servania,Toronto FC,Major League Soccer,1999-03-12,Estados Unidos,Medio campo
+Michael Bradley,Toronto FC,Major League Soccer,1987-07-31,Estados Unidos,Medio campo
+Latif Blessing,Toronto FC,Major League Soccer,1996-12-30,Ghana,Medio campo
+Víctor Vázquez,Toronto FC,Major League Soccer,1987-01-20,España,Medio campo
+Lorenzo Insigne,Toronto FC,Major League Soccer,1991-06-04,Italia,Delantero
+Federico Bernardeschi,Toronto FC,Major League Soccer,1994-02-16,Italia,Delantero
+Deandre Kerr,Toronto FC,Major League Soccer,2002-11-29,Canadá,Delantero
+Cassius Mailula,Toronto FC,Major League Soccer,2001-06-12,Sudáfrica,Delantero
+Prince Osei Owusu,Toronto FC,Major League Soccer,1997-01-07,Alemania,Delantero
+Hugo Mbongue,Toronto FC,Major League Soccer,2004-07-27,Canadá,Delantero
+C.J. Sapong,Toronto FC,Major League Soccer,1988-12-27,Estados Unidos,Delantero
+Adama Diomande,Toronto FC,Major League Soccer,1990-02-14,Noruega,Delantero
+Clément Diop,Atlanta United FC,Major League Soccer,1993-10-13,Senegal,Portero
+Brad Guzan,Atlanta United FC,Major League Soccer,1984-09-09,Estados Unidos,Portero
+Quentin Westberg,Atlanta United FC,Major League Soccer,1986-04-25,Estados Unidos,Portero
+Miles Robinson,Atlanta United FC,Major League Soccer,1997-03-14,Estados Unidos,Defensa
+Luis Abram,Atlanta United FC,Major League Soccer,1996-02-27,Perú,Defensa
+Juan José Purata,Atlanta United FC,Major League Soccer,1998-01-09,México,Defensa
+Noah Cobb,Atlanta United FC,Major League Soccer,2005-07-20,Estados Unidos,Defensa
+Caleb Wiley,Atlanta United FC,Major League Soccer,2004-12-22,Estados Unidos,Defensa
+Brooks Lennon,Atlanta United FC,Major League Soccer,1997-09-22,Estados Unidos,Defensa
+Ronald Hernández,Atlanta United FC,Major League Soccer,1997-09-21,Venezuela,Defensa
+Santiago Sosa,Atlanta United FC,Major League Soccer,1999-05-03,Argentina,Medio campo
+Tristan Muyumba,Atlanta United FC,Major League Soccer,1997-03-07,Francia,Medio campo
+Amar Sejdic,Atlanta United FC,Major League Soccer,1996-11-29,Estados Unidos,Medio campo
+Osvaldo Alonso,Atlanta United FC,Major League Soccer,1985-11-11,Cuba,Medio campo
+Matheus Rossetto,Atlanta United FC,Major League Soccer,1996-06-03,Brasil,Medio campo
+Ajani Fortune,Atlanta United FC,Major League Soccer,2002-12-30,Trinidad y Tobago,Medio campo
+Thiago Almada,Atlanta United FC,Major League Soccer,2001-04-26,Argentina,Medio campo
+Saba Lobjanidze,Atlanta United FC,Major League Soccer,1994-12-18,Georgia,Delantero
+Derrick Etienne Jr.,Atlanta United FC,Major League Soccer,1996-11-25,Haití,Delantero
+Edwin Mosquera,Atlanta United FC,Major League Soccer,2001-06-27,Colombia,Delantero
+Tyler Wolff,Atlanta United FC,Major League Soccer,2003-02-13,Estados Unidos,Delantero
+Xande Silva,Atlanta United FC,Major League Soccer,1997-03-16,Portugal,Delantero
+Machop Chol,Atlanta United FC,Major League Soccer,1998-11-14,Sudán del Sur,Delantero
+Georgios Giakoumakis,Atlanta United FC,Major League Soccer,1994-12-09,Grecia,Delantero
+Jamal Thiaré,Atlanta United FC,Major League Soccer,1993-03-31,Senegal,Delantero
+Miguel Berry,Atlanta United FC,Major League Soccer,1997-09-16,España,Delantero
+Roman Celentano,FC Cincinnati,Major League Soccer,2000-09-14,Estados Unidos,Portero
+Evan Louro,FC Cincinnati,Major League Soccer,1996-01-19,Estados Unidos,Portero
+Alec Kann,FC Cincinnati,Major League Soccer,1990-08-08,Estados Unidos,Portero
+Paul Walters,FC Cincinnati,Major League Soccer,2004-04-11,Estados Unidos,Portero
+Yerson Mosquera,FC Cincinnati,Major League Soccer,2001-05-02,Colombia,Defensa
+Matt Miazga,FC Cincinnati,Major League Soccer,1995-07-19,Estados Unidos,Defensa
+Nick Hagglund,FC Cincinnati,Major League Soccer,1992-09-14,Estados Unidos,Defensa
+Ian Murphy,FC Cincinnati,Major League Soccer,2000-01-16,Estados Unidos,Defensa
+Joey Akpunonu,FC Cincinnati,Major League Soccer,2001-12-21,Estados Unidos,Defensa
+London Aghedo,FC Cincinnati,Major League Soccer,2000-05-31,Estados Unidos,Defensa
+Santiago Arias,FC Cincinnati,Major League Soccer,1992-01-13,Colombia,Defensa
+Alvas Powell,FC Cincinnati,Major League Soccer,1994-07-18,Jamaica,Defensa
+Raymon Gaddis,FC Cincinnati,Major League Soccer,1990-01-13,Estados Unidos,Defensa
+Bret Halsey,FC Cincinnati,Major League Soccer,2000-06-01,Estados Unidos,Defensa
+Marco Angulo,FC Cincinnati,Major League Soccer,2002-05-08,Ecuador,Medio campo
+Obinna Nwobodo,FC Cincinnati,Major League Soccer,1996-11-29,Nigeria,Medio campo
+Júnior Moreno,FC Cincinnati,Major League Soccer,1993-07-20,Venezuela,Medio campo
+Malik Pinto,FC Cincinnati,Major League Soccer,2002-08-09,Estados Unidos,Medio campo
+Stiven Jimenez,FC Cincinnati,Major League Soccer,2007-06-24,Estados Unidos,Medio campo
+Luciano Acosta,FC Cincinnati,Major League Soccer,1994-05-31,Argentina,Medio campo
+Yuya Kubo,FC Cincinnati,Major League Soccer,1993-12-24,Japón,Medio campo
+Gerardo Valenzuela,FC Cincinnati,Major League Soccer,2004-09-28,Estados Unidos,Medio campo
+Álvaro Barreal,FC Cincinnati,Major League Soccer,2000-08-17,Argentina,Delantero
+Brandon Vazquez,FC Cincinnati,Major League Soccer,1998-10-14,Estados Unidos,Delantero
+Aaron Boupendza,FC Cincinnati,Major League Soccer,1996-08-07,Gabón,Delantero
+Sergio Santos,FC Cincinnati,Major League Soccer,1994-09-04,Brasil,Delantero
+Arquímides Ordóñez,FC Cincinnati,Major League Soccer,2003-08-05,Guatemala,Delantero
+Dominique Badji,FC Cincinnati,Major League Soccer,1992-10-16,Senegal,Delantero
+Joe Willis,Nashville SC,Major League Soccer,1988-08-10,Estados Unidos,Portero
+Elliot Panicco,Nashville SC,Major League Soccer,1996-11-18,Estados Unidos,Portero
+Ben Martino,Nashville SC,Major League Soccer,2002-09-13,Estados Unidos,Portero
+Walker Zimmerman,Nashville SC,Major League Soccer,1993-05-19,Estados Unidos,Defensa
+Jack Maher,Nashville SC,Major League Soccer,1999-10-28,Estados Unidos,Defensa
+Lukas MacNaughton,Nashville SC,Major League Soccer,1995-03-08,Canadá,Defensa
+Nick DePuy,Nashville SC,Major League Soccer,1994-11-14,Estados Unidos,Defensa
+Laurence Wyke,Nashville SC,Major League Soccer,1996-09-20,Inglaterra,Defensa
+Josh Bauer,Nashville SC,Major League Soccer,1998-07-22,Estados Unidos,Defensa
+Ahmed Longmire,Nashville SC,Major League Soccer,1999-10-11,Estados Unidos,Defensa
+Daniel Lovitz,Nashville SC,Major League Soccer,1991-08-27,Estados Unidos,Defensa
+Taylor Washington,Nashville SC,Major League Soccer,1993-08-16,Estados Unidos,Defensa
+Joey Skinner,Nashville SC,Major League Soccer,2003-03-22,Estados Unidos,Defensa
+Shaq Moore,Nashville SC,Major League Soccer,1996-11-02,Estados Unidos,Defensa
+Aníbal Godoy,Nashville SC,Major League Soccer,1990-02-10,Panamá,Medio campo
+Sean Davis,Nashville SC,Major League Soccer,1993-02-08,Estados Unidos,Medio campo
+Tah Anunga,Nashville SC,Major League Soccer,1996-08-10,Camerún,Medio campo
+Dax McCarty,Nashville SC,Major League Soccer,1987-04-30,Estados Unidos,Medio campo
+Kemy Amiche,Nashville SC,Major League Soccer,2000-12-10,Francia,Medio campo
+Hany Mukhtar,Nashville SC,Major League Soccer,1995-03-21,Alemania,Medio campo
+Randall Leal,Nashville SC,Major League Soccer,1997-01-14,Costa Rica,Delantero
+Jacob Shaffelburg,Nashville SC,Major League Soccer,1999-11-26,Canadá,Delantero
+Fafà Picault,Nashville SC,Major League Soccer,1991-02-23,Haití,Delantero
+Luke Haakenson,Nashville SC,Major League Soccer,1997-09-10,Estados Unidos,Delantero
+Nebiyou Perry,Nashville SC,Major League Soccer,1999-10-02,Estados Unidos,Delantero
+Alex Muyl,Nashville SC,Major League Soccer,1995-09-30,Estados Unidos,Delantero
+Sam Surridge,Nashville SC,Major League Soccer,1998-07-28,Inglaterra,Delantero
+Teal Bunbury,Nashville SC,Major League Soccer,1990-02-27,Estados Unidos,Delantero
+Ethan Zubak,Nashville SC,Major League Soccer,1998-04-15,Estados Unidos,Delantero
+Jonathan Sirois,CF Montréal,Major League Soccer,2001-06-27,Canadá,Portero
+James Pantemis,CF Montréal,Major League Soccer,1997-02-21,Canadá,Portero
+Logan Ketterer,CF Montréal,Major League Soccer,1993-11-09,Estados Unidos,Portero
+Joel Waterman,CF Montréal,Major League Soccer,1996-01-24,Canadá,Defensa
+George Campbell,CF Montréal,Major League Soccer,2001-06-22,Estados Unidos,Defensa
+Gabriele Corbo,CF Montréal,Major League Soccer,2000-01-11,Italia,Defensa
+Róbert Orri Thorkelsson,CF Montréal,Major League Soccer,2002-04-03,Islandia,Defensa
+Fernando Álvarez,CF Montréal,Major League Soccer,2003-08-24,Colombia,Defensa
+Aarón Herrera,CF Montréal,Major League Soccer,1997-06-06,Guatemala,Defensa
+Zachary Brault-Guillard,CF Montréal,Major League Soccer,1998-12-30,Canadá,Defensa
+Victor Wanyama,CF Montréal,Major League Soccer,1991-06-25,Kenia,Medio campo
+Samuel Piette,CF Montréal,Major League Soccer,1994-11-12,Canadá,Medio campo
+Ousman Jabang,CF Montréal,Major League Soccer,2001-03-29,Estados Unidos,Medio campo
+Bryce Duke,CF Montréal,Major League Soccer,2001-02-28,Estados Unidos,Medio campo
+Mathieu Choinière,CF Montréal,Major League Soccer,1999-02-07,Canadá,Medio campo
+Nathan-Dylan Saliba,CF Montréal,Major League Soccer,2004-02-07,Canadá,Medio campo
+Jojea Kwizera,CF Montréal,Major League Soccer,1999-01-01,República Democrática del Congo,Medio campo
+Sean Rea,CF Montréal,Major League Soccer,2002-05-15,Canadá,Medio campo
+Ahmed Hamdi,CF Montréal,Major League Soccer,1998-02-10,Egipto,Medio campo
+Lassi Lappalainen,CF Montréal,Major League Soccer,1998-08-24,Finlandia,Delantero
+Ariel Lassiter,CF Montréal,Major League Soccer,1994-09-27,Costa Rica,Delantero
+Kwadwo Opoku,CF Montréal,Major League Soccer,2001-07-13,Ghana,Delantero
+Romell Quioto,CF Montréal,Major League Soccer,1991-08-09,Honduras,Delantero
+Mason Toye,CF Montréal,Major League Soccer,1998-10-16,Estados Unidos,Delantero
+Chinonso Offor,CF Montréal,Major League Soccer,2000-05-27,Nigeria,Delantero
+Sunusi Ibrahim,CF Montréal,Major League Soccer,2002-10-01,Nigeria,Delantero
+Jules-Anthony Vilsaint,CF Montréal,Major League Soccer,2003-01-06,Canadá,Delantero
+Tyler Miller,D.C. United,Major League Soccer,1993-03-12,Estados Unidos,Portero
+Alex Bono,D.C. United,Major League Soccer,1994-04-25,Estados Unidos,Portero
+Luis Zamudio,D.C. United,Major League Soccer,1998-06-24,Estados Unidos,Portero
+Donovan Pines,D.C. United,Major League Soccer,1998-03-07,Estados Unidos,Defensa
+Brendan Hines-Ike,D.C. United,Major League Soccer,1994-11-30,Estados Unidos,Defensa
+Derrick Williams,D.C. United,Major League Soccer,1993-01-17,Irlanda,Defensa
+Steve Birnbaum,D.C. United,Major League Soccer,1991-01-23,Estados Unidos,Defensa
+Matai Akinmboni,D.C. United,Major League Soccer,2006-10-17,Estados Unidos,Defensa
+Hayden Sargis,D.C. United,Major League Soccer,2002-05-02,Estados Unidos,Defensa
+Mohanad Jeahze,D.C. United,Major League Soccer,1997-04-10,Irak,Defensa
+Éric Davis,D.C. United,Major League Soccer,1991-03-31,Panamá,Defensa
+Gaoussou Samaké,D.C. United,Major League Soccer,1997-11-04,Costa de Marfil,Defensa
+Ruan,D.C. United,Major League Soccer,1995-05-29,Brasil,Defensa
+Andy Nájar,D.C. United,Major League Soccer,1993-03-16,Honduras,Defensa
+Chris Durkin,D.C. United,Major League Soccer,2000-02-08,Estados Unidos,Medio campo
+Gabriel Pirani,D.C. United,Major League Soccer,2002-04-12,Brasil,Medio campo
+Mateusz Klich,D.C. United,Major League Soccer,1990-06-13,Polonia,Medio campo
+Russell Canouse,D.C. United,Major League Soccer,1995-06-11,Estados Unidos,Medio campo
+Theodore Ku-DiPietro,D.C. United,Major League Soccer,2002-01-28,Estados Unidos,Medio campo
+Ravel Morrison,D.C. United,Major League Soccer,1993-02-02,Jamaica,Medio campo
+Cristian Dájome,D.C. United,Major League Soccer,1994-01-03,Colombia,Delantero
+Yamil Asad,D.C. United,Major League Soccer,1994-07-27,Argentina,Delantero
+Martín Rodríguez,D.C. United,Major League Soccer,1994-08-05,Chile,Delantero
+Pedro Santos,D.C. United,Major League Soccer,1988-04-22,Portugal,Delantero
+Christian Benteke,D.C. United,Major League Soccer,1990-12-03,Bélgica,Delantero
+Nigel Robertha,D.C. United,Major League Soccer,1998-02-13,Países Bajos,Delantero
+Jackson Hopkins,D.C. United,Major League Soccer,2004-07-01,Estados Unidos,Delantero
+José Fajardo,D.C. United,Major League Soccer,1993-08-18,Panamá,Delantero
+Erik Hurtado,D.C. United,Major League Soccer,1990-11-15,Estados Unidos,Delantero
+Kristijan Kahlina,Charlotte FC,Major League Soccer,1992-07-24,Croacia,Portero
+Pablo Sisniega,Charlotte FC,Major League Soccer,1995-07-07,México,Portero
+George Marks,Charlotte FC,Major League Soccer,1999-11-10,Estados Unidos,Portero
+Isaac Walker,Charlotte FC,Major League Soccer,2000-07-03,Estados Unidos,Portero
+Bill Tuiloma,Charlotte FC,Major League Soccer,1995-03-27,Nueva Zelanda,Defensa
+Adilson Malanda,Charlotte FC,Major League Soccer,2001-10-29,Francia,Defensa
+Guzmán Corujo,Charlotte FC,Major League Soccer,1996-08-02,Uruguay,Defensa
+Jan Sobocinski,Charlotte FC,Major League Soccer,1999-03-20,Polonia,Defensa
+Andrew Privett,Charlotte FC,Major League Soccer,2000-08-02,Estados Unidos,Defensa
+Jack Neeley,Charlotte FC,Major League Soccer,2005-03-11,Estados Unidos,Defensa
+Jere Uronen,Charlotte FC,Major League Soccer,1994-07-13,Finlandia,Defensa
+Hamady Diop,Charlotte FC,Major League Soccer,2002-06-06,Senegal,Defensa
+Jaylin Lindsey,Charlotte FC,Major League Soccer,2000-03-27,Estados Unidos,Defensa
+Nathan Byrne,Charlotte FC,Major League Soccer,1992-06-05,Inglaterra,Defensa
+Harrison Afful,Charlotte FC,Major League Soccer,1986-07-24,Ghana,Defensa
+Ashley Westwood,Charlotte FC,Major League Soccer,1990-04-01,Inglaterra,Medio campo
+Ben Bender,Charlotte FC,Major League Soccer,2001-03-07,Estados Unidos,Medio campo
+Brandt Bronico,Charlotte FC,Major League Soccer,1995-06-20,Estados Unidos,Medio campo
+Brecht Dejaegere,Charlotte FC,Major League Soccer,1991-05-29,Bélgica,Medio campo
+Derrick Jones,Charlotte FC,Major League Soccer,1997-03-03,Estados Unidos,Medio campo
+Scott Arfield,Charlotte FC,Major League Soccer,1988-11-01,Canadá,Medio campo
+Kamil Józwiak,Charlotte FC,Major League Soccer,1998-04-22,Polonia,Delantero
+Justin Meram,Charlotte FC,Major League Soccer,1988-12-04,Irak,Delantero
+Nick Scardina,Charlotte FC,Major League Soccer,2001-06-22,Estados Unidos,Delantero
+Nimfasha Berchimas,Charlotte FC,Major League Soccer,2008-02-22,Estados Unidos,Delantero
+McKinze Gaines,Charlotte FC,Major League Soccer,1998-03-02,Estados Unidos,Delantero
+Brandon Cambridge,Charlotte FC,Major League Soccer,2002-02-09,Canadá,Delantero
+Brian Romero,Charlotte FC,Major League Soccer,2006-05-11,Estados Unidos,Delantero
+Karol Swiderski,Charlotte FC,Major League Soccer,1997-01-23,Polonia,Delantero
+Enzo Copetti,Charlotte FC,Major League Soccer,1996-01-16,Argentina,Delantero
+Kerwin Vargas,Charlotte FC,Major League Soccer,2002-01-02,Colombia,Delantero
+Vinicius Mello,Charlotte FC,Major League Soccer,2002-08-19,Brasil,Delantero
+Patrick Agyemang,Charlotte FC,Major League Soccer,2000-11-07,Ghana,Delantero
+Patrick Schulte,Columbus Crew,Major League Soccer,2001-03-13,Estados Unidos,Portero
+Brady Scott,Columbus Crew,Major League Soccer,1999-06-30,Estados Unidos,Portero
+Evan Bush,Columbus Crew,Major League Soccer,1986-03-06,Estados Unidos,Portero
+Gustavo Vallecilla,Columbus Crew,Major League Soccer,1999-05-28,Ecuador,Defensa
+Yevgen Cheberko,Columbus Crew,Major League Soccer,1998-01-23,Ucrania,Defensa
+Rudy Camacho,Columbus Crew,Major League Soccer,1991-03-05,Francia,Defensa
+Philip Quinton,Columbus Crew,Major League Soccer,1999-11-16,Estados Unidos,Defensa
+Josh Williams,Columbus Crew,Major League Soccer,1988-04-18,Estados Unidos,Defensa
+Malte Amundsen,Columbus Crew,Major League Soccer,1998-02-11,Dinamarca,Defensa
+Jimmy Medranda,Columbus Crew,Major League Soccer,1994-02-07,Colombia,Defensa
+Will Sands,Columbus Crew,Major League Soccer,2000-07-06,Estados Unidos,Defensa
+Mohamed Farsi,Columbus Crew,Major League Soccer,1999-12-16,Canadá,Defensa
+Steven Moreira,Columbus Crew,Major League Soccer,1994-08-13,Cabo Verde,Defensa
+Aidan Morris,Columbus Crew,Major League Soccer,2001-11-16,Estados Unidos,Medio campo
+Darlington Nagbe,Columbus Crew,Major League Soccer,1990-07-19,Estados Unidos,Medio campo
+Sean Zawadzki,Columbus Crew,Major League Soccer,2000-04-21,Estados Unidos,Medio campo
+Isaiah Parente,Columbus Crew,Major League Soccer,2000-03-16,Estados Unidos,Medio campo
+Julian Gressel,Columbus Crew,Major League Soccer,1993-12-16,Estados Unidos,Medio campo
+Diego Rossi,Columbus Crew,Major League Soccer,1998-03-05,Uruguay,Delantero
+Alexandru Matan,Columbus Crew,Major League Soccer,1999-08-29,Rumanía,Delantero
+Yaw Yeboah,Columbus Crew,Major League Soccer,1997-03-28,Ghana,Delantero
+Kevin Molino,Columbus Crew,Major League Soccer,1990-06-17,Trinidad y Tobago,Delantero
+Max Arfsten,Columbus Crew,Major League Soccer,2001-04-19,Estados Unidos,Delantero
+Cucho Hernández,Columbus Crew,Major League Soccer,1999-04-20,Colombia,Delantero
+Jacen Russell-Rowe,Columbus Crew,Major League Soccer,2002-09-13,Canadá,Delantero
+Christian Ramirez,Columbus Crew,Major League Soccer,1991-04-04,Estados Unidos,Delantero
+Tomas Vaclik,New England Revolution,Major League Soccer,1989-03-29,República Checa,Portero
+Jacob Jackson,New England Revolution,Major League Soccer,2000-04-25,Estados Unidos,Portero
+Earl Edwards Jr.,New England Revolution,Major League Soccer,1992-01-24,Estados Unidos,Portero
+Henry Kessler,New England Revolution,Major League Soccer,1998-06-25,Estados Unidos,Defensa
+Dave Romney,New England Revolution,Major League Soccer,1993-06-12,Estados Unidos,Defensa
+Christian Makoun,New England Revolution,Major League Soccer,2000-03-05,Venezuela,Defensa
+Andrew Farrell,New England Revolution,Major League Soccer,1992-04-02,Estados Unidos,Defensa
+Omar González,New England Revolution,Major League Soccer,1988-10-11,Estados Unidos,Defensa
+DeJuan Jones,New England Revolution,Major League Soccer,1997-06-24,Estados Unidos,Defensa
+Ben Sweat,New England Revolution,Major League Soccer,1991-09-04,Estados Unidos,Defensa
+Ryan Spaulding,New England Revolution,Major League Soccer,1998-09-10,Estados Unidos,Defensa
+Brandon Bye,New England Revolution,Major League Soccer,1995-11-29,Estados Unidos,Defensa
+Matt Polster,New England Revolution,Major League Soccer,1993-06-08,Estados Unidos,Medio campo
+Mark-Anthony Kaye,New England Revolution,Major League Soccer,1994-12-02,Canadá,Medio campo
+Noel Buck,New England Revolution,Major League Soccer,2005-04-05,Inglaterra,Medio campo
+Maciel,New England Revolution,Major League Soccer,2000-01-18,Brasil,Medio campo
+Ian Harkes,New England Revolution,Major League Soccer,1995-03-30,Estados Unidos,Medio campo
+Josh Bolma,New England Revolution,Major League Soccer,2002-04-10,Ghana,Medio campo
+Emmanuel Boateng,New England Revolution,Major League Soccer,1994-01-17,Ghana,Medio campo
+Carles Gil,New England Revolution,Major League Soccer,1992-11-22,España,Medio campo
+Jack Panayotou,New England Revolution,Major League Soccer,2004-06-05,Estados Unidos,Medio campo
+Tomás Chancalay,New England Revolution,Major League Soccer,1999-01-01,Argentina,Delantero
+Dylan Borrero,New England Revolution,Major League Soccer,2002-01-05,Colombia,Delantero
+Damián Rivera,New England Revolution,Major League Soccer,2002-12-08,Costa Rica,Delantero
+Nacho Gil,New England Revolution,Major League Soccer,1995-09-09,España,Delantero
+Tommy McNamara,New England Revolution,Major League Soccer,1991-02-06,Estados Unidos,Delantero
+Esmir Bajraktarevic,New England Revolution,Major League Soccer,2005-03-10,Estados Unidos,Delantero
+Giacomo Vrioni,New England Revolution,Major League Soccer,1998-10-15,Albania,Delantero
+Gustavo Bou,New England Revolution,Major League Soccer,1990-02-18,Argentina,Delantero
+Bobby Wood,New England Revolution,Major League Soccer,1992-11-15,Estados Unidos,Delantero
+Justin Rennicks,New England Revolution,Major League Soccer,1999-03-20,Estados Unidos,Delantero
+Carlos Coronel,New York Red Bulls,Major League Soccer,1996-12-29,Paraguay,Portero
+Ryan Meara,New York Red Bulls,Major League Soccer,1990-11-15,Irlanda,Portero
+AJ Marcucci,New York Red Bulls,Major League Soccer,1999-07-31,Estados Unidos,Portero
+Sean Nealis,New York Red Bulls,Major League Soccer,1997-01-13,Estados Unidos,Defensa
+Andrés Reyes,New York Red Bulls,Major League Soccer,1999-09-08,Colombia,Defensa
+Hassan Ndam,New York Red Bulls,Major League Soccer,1998-10-29,Camerún,Defensa
+Matthew Nocita,New York Red Bulls,Major League Soccer,2000-04-24,Estados Unidos,Defensa
+John Tolkin,New York Red Bulls,Major League Soccer,2002-07-31,Estados Unidos,Defensa
+Curtis Ofori,New York Red Bulls,Major League Soccer,2005-11-20,Estados Unidos,Defensa
+Jayden Reid,New York Red Bulls,Major League Soccer,2001-08-30,Estados Unidos,Defensa
+Kyle Duncan,New York Red Bulls,Major League Soccer,1997-08-08,Estados Unidos,Defensa
+Dylan Nealis,New York Red Bulls,Major League Soccer,1998-07-30,Estados Unidos,Defensa
+Juan Mina,New York Red Bulls,Major League Soccer,2004-07-27,Colombia,Defensa
+Daniel Edelman,New York Red Bulls,Major League Soccer,2003-04-28,Estados Unidos,Medio campo
+Dru Yearwood,New York Red Bulls,Major League Soccer,2000-02-17,Inglaterra,Medio campo
+Peter Stroud,New York Red Bulls,Major League Soccer,2002-04-23,Estados Unidos,Medio campo
+Steven Sserwadda,New York Red Bulls,Major League Soccer,2002-08-28,Uganda,Medio campo
+Bento Estrela,New York Red Bulls,Major League Soccer,2006-02-10,Estados Unidos,Medio campo
+Ronald Donkor,New York Red Bulls,Major League Soccer,2004-11-20,Ghana,Medio campo
+Luquinhas,New York Red Bulls,Major League Soccer,1996-09-28,Brasil,Medio campo
+Frankie Amaya,New York Red Bulls,Major League Soccer,2000-09-26,Estados Unidos,Medio campo
+Wikelman Carmona,New York Red Bulls,Major League Soccer,2003-02-24,Venezuela,Medio campo
+Lewis Morgan,New York Red Bulls,Major League Soccer,1996-09-30,Escocia,Delantero
+Julian Hall,New York Red Bulls,Major League Soccer,2008-03-24,Estados Unidos,Delantero
+Omir Fernandez,New York Red Bulls,Major League Soccer,1999-02-08,Estados Unidos,Delantero
+Serge Ngoma,New York Red Bulls,Major League Soccer,2005-07-09,Estados Unidos,Delantero
+Cameron Harper,New York Red Bulls,Major League Soccer,2001-11-19,Estados Unidos,Delantero
+Dante Vanzeir,New York Red Bulls,Major League Soccer,1998-04-16,Bélgica,Delantero
+Elias Manoel,New York Red Bulls,Major League Soccer,2001-11-30,Brasil,Delantero
+Cory Burke,New York Red Bulls,Major League Soccer,1991-12-28,Jamaica,Delantero
+Jorge Cabezas,New York Red Bulls,Major League Soccer,2003-09-06,Colombia,Delantero
+Tom Barlow,New York Red Bulls,Major League Soccer,1995-07-08,Estados Unidos,Delantero
+Chris Brady,Chicago Fire FC,Major League Soccer,2004-03-03,Estados Unidos,Portero
+Spencer Richey,Chicago Fire FC,Major League Soccer,1992-05-30,Estados Unidos,Portero
+Jeff Gal,Chicago Fire FC,Major League Soccer,1993-04-06,Estados Unidos,Portero
+Carlos Terán,Chicago Fire FC,Major League Soccer,2000-09-24,Colombia,Defensa
+Mauricio Pineda,Chicago Fire FC,Major League Soccer,1997-10-17,Estados Unidos,Defensa
+Rafael Czichos,Chicago Fire FC,Major League Soccer,1990-05-14,Alemania,Defensa
+Wyatt Omsberg,Chicago Fire FC,Major League Soccer,1995-09-21,Estados Unidos,Defensa
+Kendall Burks,Chicago Fire FC,Major League Soccer,1999-10-08,Estados Unidos,Defensa
+Alonso Aceves,Chicago Fire FC,Major League Soccer,2001-03-28,México,Defensa
+Miguel Navarro,Chicago Fire FC,Major League Soccer,1999-02-26,Venezuela,Defensa
+Arnaud Souquet,Chicago Fire FC,Major League Soccer,1992-02-12,Francia,Defensa
+Jonathan Dean,Chicago Fire FC,Major League Soccer,1997-05-15,Estados Unidos,Defensa
+Justin Reynolds,Chicago Fire FC,Major League Soccer,2004-04-08,Estados Unidos,Defensa
+Federico Navarro,Chicago Fire FC,Major League Soccer,2000-03-09,Argentina,Medio campo
+Gastón Giménez,Chicago Fire FC,Major League Soccer,1991-07-27,Paraguay,Medio campo
+Ousmane Doumbia,Chicago Fire FC,Major League Soccer,1992-05-21,Costa de Marfil,Medio campo
+Allan Rodriguez,Chicago Fire FC,Major League Soccer,2004-05-27,Estados Unidos,Medio campo
+Javier Casas,Chicago Fire FC,Major League Soccer,2003-05-14,Estados Unidos,Medio campo
+Sergio Oregel,Chicago Fire FC,Major League Soccer,2005-05-16,Estados Unidos,Medio campo
+Maren Haile-Selassie,Chicago Fire FC,Major League Soccer,1999-03-13,Suiza,Medio campo
+Xherdan Shaqiri,Chicago Fire FC,Major League Soccer,1991-10-10,Suiza,Medio campo
+Brian Gutiérrez,Chicago Fire FC,Major League Soccer,2003-06-17,Estados Unidos,Medio campo
+Jairo Torres,Chicago Fire FC,Major League Soccer,2000-07-05,México,Delantero
+Chris Mueller,Chicago Fire FC,Major League Soccer,1996-08-29,Estados Unidos,Delantero
+Fabian Herbers,Chicago Fire FC,Major League Soccer,1993-08-17,Alemania,Delantero
+Georgios Koutsias,Chicago Fire FC,Major League Soccer,2004-02-08,Grecia,Delantero
+Kacper Przybylko,Chicago Fire FC,Major League Soccer,1993-03-25,Polonia,Delantero
+Victor Bezerra,Chicago Fire FC,Major League Soccer,2000-02-05,Estados Unidos,Delantero
+Kei Kamara,Chicago Fire FC,Major League Soccer,1984-09-01,Sierra Leona,Delantero
+Missael Rodríguez,Chicago Fire FC,Major League Soccer,2003-02-09,Estados Unidos,Delantero
+Brad Stuver,Austin FC,Major League Soccer,1991-04-16,Estados Unidos,Portero
+Matt Bersano,Austin FC,Major League Soccer,1992-09-10,Estados Unidos,Portero
+Damian Las,Austin FC,Major League Soccer,2002-04-11,Estados Unidos,Portero
+Leo Väisänen,Austin FC,Major League Soccer,1997-07-23,Finlandia,Defensa
+Julio Cascante,Austin FC,Major League Soccer,1993-10-03,Costa Rica,Defensa
+Matt Hedges,Austin FC,Major League Soccer,1990-04-01,Estados Unidos,Defensa
+Brandan Craig,Austin FC,Major League Soccer,2004-04-07,Estados Unidos,Defensa
+Kipp Keller,Austin FC,Major League Soccer,2000-07-14,Estados Unidos,Defensa
+Adam Lundqvist,Austin FC,Major League Soccer,1994-03-20,Suecia,Defensa
+Zan Kolmanic,Austin FC,Major League Soccer,2000-03-03,Eslovenia,Defensa
+Charlie Asensio,Austin FC,Major League Soccer,2000-01-18,Estados Unidos,Defensa
+Jon Gallagher,Austin FC,Major League Soccer,1996-02-23,Irlanda,Defensa
+Nick Lima,Austin FC,Major League Soccer,1994-11-17,Estados Unidos,Defensa
+Héctor Jiménez,Austin FC,Major League Soccer,1988-11-03,Estados Unidos,Defensa
+Jhojan Valencia,Austin FC,Major League Soccer,1996-07-27,Colombia,Medio campo
+Daniel Pereira,Austin FC,Major League Soccer,2000-07-14,Venezuela,Medio campo
+Owen Wolff,Austin FC,Major League Soccer,2004-12-30,Estados Unidos,Medio campo
+Alexander Ring,Austin FC,Major League Soccer,1991-04-09,Finlandia,Medio campo
+Sofiane Djeffal,Austin FC,Major League Soccer,1999-04-09,Francia,Medio campo
+Memo Rodríguez,Austin FC,Major League Soccer,1995-12-27,Estados Unidos,Medio campo
+Sebastián Driussi,Austin FC,Major League Soccer,1996-02-09,Argentina,Medio campo
+CJ Fodrey,Austin FC,Major League Soccer,2004-02-10,Estados Unidos,Delantero
+Emiliano Rigoni,Austin FC,Major League Soccer,1993-02-04,Argentina,Delantero
+Rodney Redes,Austin FC,Major League Soccer,2000-02-22,Paraguay,Delantero
+Ethan Finlay,Austin FC,Major League Soccer,1990-08-06,Estados Unidos,Delantero
+Gyasi Zardes,Austin FC,Major League Soccer,1991-09-02,Estados Unidos,Delantero
+Maximiliano Urruti,Austin FC,Major League Soccer,1991-02-22,Argentina,Delantero
+Alfonso Ocampo-Chávez,Austin FC,Major League Soccer,2002-03-25,Estados Unidos,Delantero
+Will Bruin,Austin FC,Major League Soccer,1989-10-24,Estados Unidos,Delantero
+Roman Bürki,St. Louis CITY SC,Major League Soccer,1990-11-14,Suiza,Portero
+Ben Lundt,St. Louis CITY SC,Major League Soccer,1995-09-24,Alemania,Portero
+Michael Creek,St. Louis CITY SC,Major League Soccer,1998-03-05,Estados Unidos,Portero
+Joakim Nilsson,St. Louis CITY SC,Major League Soccer,1994-02-06,Suecia,Defensa
+Kyle Hiebert,St. Louis CITY SC,Major League Soccer,1997-07-30,Canadá,Defensa
+Tim Parker,St. Louis CITY SC,Major League Soccer,1993-02-23,Estados Unidos,Defensa
+Lucas Bartlett,St. Louis CITY SC,Major League Soccer,1997-07-26,Estados Unidos,Defensa
+Joshua Yaro,St. Louis CITY SC,Major League Soccer,1994-03-24,Estados Unidos,Defensa
+Jon Bell,St. Louis CITY SC,Major League Soccer,1997-08-26,Estados Unidos,Defensa
+John Nelson,St. Louis CITY SC,Major League Soccer,1998-07-11,Estados Unidos,Defensa
+Anthony Markanich,St. Louis CITY SC,Major League Soccer,1999-12-26,Estados Unidos,Defensa
+Jake Nerwinski,St. Louis CITY SC,Major League Soccer,1994-10-17,Estados Unidos,Defensa
+Owen O'Malley,St. Louis CITY SC,Major League Soccer,2001-10-01,Estados Unidos,Defensa
+Njabulo Blom,St. Louis CITY SC,Major League Soccer,1999-12-11,Sudáfrica,Medio campo
+Akil Watts,St. Louis CITY SC,Major League Soccer,2000-02-04,Estados Unidos,Medio campo
+Eduard Löwen,St. Louis CITY SC,Major League Soccer,1997-01-28,Alemania,Medio campo
+Miguel Perez,St. Louis CITY SC,Major League Soccer,2005-04-28,Estados Unidos,Medio campo
+Aziel Jackson,St. Louis CITY SC,Major League Soccer,2001-10-25,Estados Unidos,Medio campo
+Tomás Ostrák,St. Louis CITY SC,Major League Soccer,2000-02-05,República Checa,Medio campo
+Indiana Vassilev,St. Louis CITY SC,Major League Soccer,2001-02-16,Estados Unidos,Medio campo
+Jared Stroud,St. Louis CITY SC,Major League Soccer,1996-07-10,Estados Unidos,Delantero
+Célio Pompeu,St. Louis CITY SC,Major League Soccer,1999-12-10,Brasil,Delantero
+Nökkvi Thórisson,St. Louis CITY SC,Major League Soccer,1999-08-13,Islandia,Delantero
+Rasmus Alm,St. Louis CITY SC,Major League Soccer,1995-08-17,Suecia,Delantero
+João Klauss,St. Louis CITY SC,Major League Soccer,1997-03-01,Brasil,Delantero
+Nicholas Gioacchini,St. Louis CITY SC,Major League Soccer,2000-07-25,Estados Unidos,Delantero
+Samuel Adeniran,St. Louis CITY SC,Major League Soccer,1998-09-30,Estados Unidos,Delantero
+Caden Glover,St. Louis CITY SC,Major League Soccer,2007-03-08,Estados Unidos,Delantero
+Dayne St. Clair,Minnesota United FC,Major League Soccer,1997-05-09,Canadá,Portero
+Eric Dick,Minnesota United FC,Major League Soccer,1994-10-03,Estados Unidos,Portero
+Clint Irwin,Minnesota United FC,Major League Soccer,1989-04-01,Estados Unidos,Portero
+Fred Emmings,Minnesota United FC,Major League Soccer,2004-02-08,Estados Unidos,Portero
+Miguel Tapias,Minnesota United FC,Major League Soccer,1997-01-09,México,Defensa
+Bakaye Dibassy,Minnesota United FC,Major League Soccer,1989-08-11,Malí,Defensa
+Mikael Marqués,Minnesota United FC,Major League Soccer,2001-09-08,Suecia,Defensa
+Brent Kallman,Minnesota United FC,Major League Soccer,1990-10-04,Estados Unidos,Defensa
+Michael Boxall,Minnesota United FC,Major League Soccer,1988-08-18,Nueva Zelanda,Defensa
+Ethan Bristow,Minnesota United FC,Major League Soccer,2001-11-27,Inglaterra,Defensa
+Devin Padelford,Minnesota United FC,Major League Soccer,2003-01-03,Estados Unidos,Defensa
+Ryen Jiba,Minnesota United FC,Major League Soccer,2001-04-29,Sudán del Sur,Defensa
+D.J. Taylor,Minnesota United FC,Major League Soccer,1997-08-26,Estados Unidos,Defensa
+Zarek Valentin,Minnesota United FC,Major League Soccer,1991-08-06,Estados Unidos,Defensa
+Wil Trapp,Minnesota United FC,Major League Soccer,1993-01-15,Estados Unidos,Medio campo
+Kervin Arriaga,Minnesota United FC,Major League Soccer,1998-01-05,Honduras,Medio campo
+Hassani Dotson,Minnesota United FC,Major League Soccer,1997-08-06,Estados Unidos,Medio campo
+Ján Gregus,Minnesota United FC,Major League Soccer,1991-01-29,Eslovaquia,Medio campo
+Joseph Rosales,Minnesota United FC,Major League Soccer,2000-11-06,Honduras,Medio campo
+Robin Lod,Minnesota United FC,Major League Soccer,1993-04-17,Finlandia,Medio campo
+Emmanuel Iwe,Minnesota United FC,Major League Soccer,2000-09-12,Estados Unidos,Medio campo
+Emanuel Reynoso,Minnesota United FC,Major League Soccer,1995-11-16,Argentina,Medio campo
+Franco Fragapane,Minnesota United FC,Major League Soccer,1993-02-06,Argentina,Delantero
+Bongokuhle Hlongwane,Minnesota United FC,Major League Soccer,2000-06-20,Sudáfrica,Delantero
+Ismael Tajouri-Shradi,Minnesota United FC,Major League Soccer,1994-03-28,Libia,Delantero
+Sang-bin Jeong,Minnesota United FC,Major League Soccer,2002-04-01,Corea del Sur,Delantero
+Teemu Pukki,Minnesota United FC,Major League Soccer,1990-03-29,Finlandia,Delantero
+Mender García,Minnesota United FC,Major League Soccer,1998-10-28,Colombia,Delantero
+Maxime Crépeau,Los Ángeles FC,Major League Soccer,1994-05-11,Canadá,Portero
+John McCarthy,Los Ángeles FC,Major League Soccer,1992-07-04,Estados Unidos,Portero
+Abraham Romero,Los Ángeles FC,Major League Soccer,1998-02-18,México,Portero
+Eldin Jakupovic,Los Ángeles FC,Major League Soccer,1984-10-02,Suiza,Portero
+Eddie Segura,Los Ángeles FC,Major League Soccer,1997-02-02,Colombia,Defensa
+Aaron Long,Los Ángeles FC,Major League Soccer,1992-10-12,Estados Unidos,Defensa
+Jesús Murillo,Los Ángeles FC,Major League Soccer,1994-02-18,Colombia,Defensa
+Giorgio Chiellini,Los Ángeles FC,Major League Soccer,1984-08-14,Italia,Defensa
+Denil Maldonado,Los Ángeles FC,Major League Soccer,1998-05-26,Honduras,Defensa
+Tony Leone,Los Ángeles FC,Major League Soccer,2004-04-28,México,Defensa
+Diego Palacios,Los Ángeles FC,Major League Soccer,1999-07-12,Ecuador,Defensa
+Ryan Hollingshead,Los Ángeles FC,Major League Soccer,1991-04-16,Estados Unidos,Defensa
+Sergi Palencia,Los Ángeles FC,Major League Soccer,1996-03-23,España,Defensa
+Julian Gaines,Los Ángeles FC,Major League Soccer,2002-11-05,Estados Unidos,Defensa
+Diego Rosales,Los Ángeles FC,Major League Soccer,2005-11-01,Estados Unidos,Defensa
+Kellyn Acosta,Los Ángeles FC,Major League Soccer,1995-07-24,Estados Unidos,Medio campo
+Ilie Sánchez,Los Ángeles FC,Major League Soccer,1990-11-21,España,Medio campo
+Danny Crisostomo,Los Ángeles FC,Major League Soccer,1997-01-16,Estados Unidos,Medio campo
+Filip Krastev,Los Ángeles FC,Major League Soccer,2001-10-15,Bulgaria,Medio campo
+Timothy Tillman,Los Ángeles FC,Major League Soccer,1999-01-04,Estados Unidos,Medio campo
+Érik Dueñas,Los Ángeles FC,Major League Soccer,2004-10-18,México,Medio campo
+Mateusz Bogusz,Los Ángeles FC,Major League Soccer,2001-08-22,Polonia,Medio campo
+Denis Bouanga,Los Ángeles FC,Major League Soccer,1994-11-11,Gabón,Delantero
+Stipe Biuk,Los Ángeles FC,Major League Soccer,2002-12-26,Croacia,Delantero
+Christian Torres,Los Ángeles FC,Major League Soccer,2003-04-15,México,Delantero
+Bajung Darboe,Los Ángeles FC,Major League Soccer,2006-11-07,Estados Unidos,Delantero
+Cristian Olivera,Los Ángeles FC,Major League Soccer,2002-04-17,Uruguay,Delantero
+Carlos Vela,Los Ángeles FC,Major League Soccer,1989-03-01,México,Delantero
+Mario González,Los Ángeles FC,Major League Soccer,1996-02-25,España,Delantero
+Nathan Ordaz,Los Ángeles FC,Major League Soccer,2004-01-12,El Salvador,Delantero
+Daniel,San José Earthquakes,Major League Soccer,1994-05-06,Brasil,Portero
+JT Marcinkowski,San José Earthquakes,Major League Soccer,1997-05-09,Estados Unidos,Portero
+Emmanuel Ochoa,San José Earthquakes,Major League Soccer,2005-05-05,México,Portero
+Rodrigues,San José Earthquakes,Major League Soccer,1997-10-10,Brasil,Defensa
+Nathan,San José Earthquakes,Major League Soccer,1995-05-13,Brasil,Defensa
+Tanner Beason,San José Earthquakes,Major League Soccer,1997-03-23,Estados Unidos,Defensa
+Jonathan Mensah,San José Earthquakes,Major League Soccer,1990-07-13,Ghana,Defensa
+Oskar Agren,San José Earthquakes,Major League Soccer,1998-09-10,Suecia,Defensa
+Casey Walls,San José Earthquakes,Major League Soccer,2003-01-10,Estados Unidos,Defensa
+Daniel Munie,San José Earthquakes,Major League Soccer,2000-02-10,Estados Unidos,Defensa
+Miguel Trauco,San José Earthquakes,Major League Soccer,1992-08-25,Perú,Defensa
+Keegan Tingey,San José Earthquakes,Major League Soccer,2000-08-17,Estados Unidos,Defensa
+Paul Marie,San José Earthquakes,Major League Soccer,1995-03-24,Francia,Defensa
+Carlos Akapo,San José Earthquakes,Major League Soccer,1993-03-12,Guinea Ecuatorial,Defensa
+Tommy Thompson,San José Earthquakes,Major League Soccer,1995-08-15,Estados Unidos,Defensa
+Oscar Verhoeven,San José Earthquakes,Major League Soccer,2006-05-31,Estados Unidos,Defensa
+Carlos Gruezo,San José Earthquakes,Major League Soccer,1995-04-19,Ecuador,Medio campo
+Judson,San José Earthquakes,Major League Soccer,1993-05-25,Brasil,Medio campo
+Michael Baldisimo,San José Earthquakes,Major League Soccer,2000-04-13,Canadá,Medio campo
+Jackson Yueill,San José Earthquakes,Major League Soccer,1997-03-19,Estados Unidos,Medio campo
+Jamiro Monteiro,San José Earthquakes,Major League Soccer,1993-11-23,Cabo Verde,Medio campo
+Niko Tsakiris,San José Earthquakes,Major League Soccer,2005-06-19,Estados Unidos,Medio campo
+Jack Skahan,San José Earthquakes,Major League Soccer,1998-02-07,Estados Unidos,Medio campo
+Cam Cilley,San José Earthquakes,Major League Soccer,2000-11-17,Estados Unidos,Medio campo
+Cruz Medina,San José Earthquakes,Major League Soccer,2006-09-24,Estados Unidos,Medio campo
+Cade Cowell,San José Earthquakes,Major League Soccer,2003-10-14,Estados Unidos,Delantero
+Benjamin Kikanovic,San José Earthquakes,Major League Soccer,2000-01-06,Estados Unidos,Delantero
+Ousseni Bouda,San José Earthquakes,Major League Soccer,2000-04-28,Burkina Faso,Delantero
+Cristian Espinoza,San José Earthquakes,Major League Soccer,1995-04-03,Argentina,Delantero
+Will Richmond,San José Earthquakes,Major League Soccer,2000-04-06,Estados Unidos,Delantero
+Jeremy Ebobisse,San José Earthquakes,Major League Soccer,1997-02-14,Estados Unidos,Delantero
+Ayo Akinola,San José Earthquakes,Major League Soccer,2000-01-20,Canadá,Delantero
+Matthew Hoppe,San José Earthquakes,Major League Soccer,2001-03-13,Estados Unidos,Delantero
+Stefan Frei,Seattle Sounders FC,Major League Soccer,1986-04-20,Estados Unidos,Portero
+Stefan Cleveland,Seattle Sounders FC,Major League Soccer,1994-05-25,Estados Unidos,Portero
+Jacob Castro,Seattle Sounders FC,Major League Soccer,1999-12-18,Estados Unidos,Portero
+Yeimar Gómez Andrade,Seattle Sounders FC,Major League Soccer,1992-06-30,Colombia,Defensa
+Xavier Arreaga,Seattle Sounders FC,Major League Soccer,1994-09-28,Ecuador,Defensa
+Jackson Ragen,Seattle Sounders FC,Major League Soccer,1998-09-24,Estados Unidos,Defensa
+Abdoulaye Cissoko,Seattle Sounders FC,Major League Soccer,1999-12-27,Francia,Defensa
+Stuart Hawkins,Seattle Sounders FC,Major League Soccer,2006-09-18,Estados Unidos,Defensa
+Nouhou,Seattle Sounders FC,Major League Soccer,1997-06-23,Camerún,Defensa
+Álex Roldán,Seattle Sounders FC,Major League Soccer,1996-07-28,El Salvador,Defensa
+Cody Baker,Seattle Sounders FC,Major League Soccer,2004-01-04,Estados Unidos,Defensa
+Josh Atencio,Seattle Sounders FC,Major League Soccer,2002-01-31,Estados Unidos,Medio campo
+Sota Kitahara,Seattle Sounders FC,Major League Soccer,2003-01-11,Estados Unidos,Medio campo
+Cristian Roldán,Seattle Sounders FC,Major League Soccer,1995-06-03,Estados Unidos,Medio campo
+Obed Vargas,Seattle Sounders FC,Major League Soccer,2005-08-05,Estados Unidos,Medio campo
+João Paulo,Seattle Sounders FC,Major League Soccer,1991-03-08,Brasil,Medio campo
+Reed Baker-Whiting,Seattle Sounders FC,Major League Soccer,2005-03-31,Estados Unidos,Medio campo
+Kelyn Rowe,Seattle Sounders FC,Major League Soccer,1991-12-02,Estados Unidos,Medio campo
+Dylan Teves,Seattle Sounders FC,Major League Soccer,2000-05-04,Estados Unidos,Medio campo
+Ethan Dobbelaere,Seattle Sounders FC,Major League Soccer,2002-11-14,Estados Unidos,Medio campo
+Albert Rusnák,Seattle Sounders FC,Major League Soccer,1994-07-07,Eslovaquia,Medio campo
+Nicolás Lodeiro,Seattle Sounders FC,Major League Soccer,1989-03-21,Uruguay,Medio campo
+Jordan Morris,Seattle Sounders FC,Major League Soccer,1994-10-26,Estados Unidos,Delantero
+Léo Chú,Seattle Sounders FC,Major League Soccer,2000-04-06,Brasil,Delantero
+Raúl Ruidíaz,Seattle Sounders FC,Major League Soccer,1990-07-25,Perú,Delantero
+Héber,Seattle Sounders FC,Major League Soccer,1991-08-10,Brasil,Delantero
+Fredy Montero,Seattle Sounders FC,Major League Soccer,1987-07-26,Colombia,Delantero
+Paul Rothrock,Seattle Sounders FC,Major League Soccer,1999-01-09,Estados Unidos,Delantero
+Steve Clark,Houston Dynamo FC,Major League Soccer,1986-04-14,Estados Unidos,Portero
+Andrew Tarbell,Houston Dynamo FC,Major League Soccer,1993-10-07,Estados Unidos,Portero
+Xavier Valdez,Houston Dynamo FC,Major League Soccer,2003-11-23,República Dominicana,Portero
+Teenage Hadebe,Houston Dynamo FC,Major League Soccer,1995-09-17,Zimbabue,Defensa
+Erik Sviatchenko,Houston Dynamo FC,Major League Soccer,1991-10-04,Dinamarca,Defensa
+Micael,Houston Dynamo FC,Major League Soccer,2000-08-12,Brasil,Defensa
+Ethan Bartlow,Houston Dynamo FC,Major League Soccer,2000-02-02,Estados Unidos,Defensa
+Daniel Steres,Houston Dynamo FC,Major League Soccer,1990-11-11,Estados Unidos,Defensa
+Chase Gasper,Houston Dynamo FC,Major League Soccer,1996-01-25,Estados Unidos,Defensa
+Brad Smith,Houston Dynamo FC,Major League Soccer,1994-04-09,Australia,Defensa
+Tate Schmitt,Houston Dynamo FC,Major League Soccer,1997-05-28,Estados Unidos,Defensa
+Franco Escobar,Houston Dynamo FC,Major League Soccer,1995-02-21,Argentina,Defensa
+Griffin Dorsey,Houston Dynamo FC,Major League Soccer,1999-03-05,Estados Unidos,Defensa
+Mujeeb Murana,Houston Dynamo FC,Major League Soccer,2000-09-23,Estados Unidos,Defensa
+Artur,Houston Dynamo FC,Major League Soccer,1996-03-11,Brasil,Medio campo
+Luis Caicedo,Houston Dynamo FC,Major League Soccer,1996-05-18,Colombia,Medio campo
+Adalberto Carrasquilla,Houston Dynamo FC,Major League Soccer,1998-11-28,Panamá,Medio campo
+Héctor Herrera,Houston Dynamo FC,Major League Soccer,1990-04-19,México,Medio campo
+Brooklyn Raines,Houston Dynamo FC,Major League Soccer,2005-03-11,Estados Unidos,Medio campo
+Charles Auguste,Houston Dynamo FC,Major League Soccer,1999-11-25,Canadá,Medio campo
+Amine Bassi,Houston Dynamo FC,Major League Soccer,1997-11-27,Marruecos,Medio campo
+Thor Úlfarsson,Houston Dynamo FC,Major League Soccer,2000-12-27,Islandia,Medio campo
+Sebastian Kowalczyk,Houston Dynamo FC,Major League Soccer,1998-08-22,Polonia,Medio campo
+Iván Franco,Houston Dynamo FC,Major League Soccer,2000-04-16,Paraguay,Delantero
+Nelson Quiñónes,Houston Dynamo FC,Major League Soccer,2002-08-20,Colombia,Delantero
+Corey Baird,Houston Dynamo FC,Major League Soccer,1996-01-30,Estados Unidos,Delantero
+Ibrahim Aliyu,Houston Dynamo FC,Major League Soccer,2002-01-16,Nigeria,Delantero
+Ifunanyachi Achara,Houston Dynamo FC,Major League Soccer,1997-09-28,Nigeria,Delantero
+Maarten Paes,FC Dallas,Major League Soccer,1998-05-14,Países Bajos,Portero
+Jimmy Maurer,FC Dallas,Major League Soccer,1988-10-14,Estados Unidos,Portero
+Antonio Carrera,FC Dallas,Major League Soccer,2004-03-15,Estados Unidos,Portero
+José Antonio Martínez,FC Dallas,Major League Soccer,1993-02-12,España,Defensa
+Nkosi Tafari,FC Dallas,Major League Soccer,1997-03-23,Estados Unidos,Defensa
+Sebastien Ibeagha,FC Dallas,Major League Soccer,1992-01-21,Estados Unidos,Defensa
+Amet Korca,FC Dallas,Major League Soccer,2000-09-16,Estados Unidos,Defensa
+Marco Farfán,FC Dallas,Major League Soccer,1998-11-12,Estados Unidos,Defensa
+Sam Junqua,FC Dallas,Major League Soccer,1996-11-09,Estados Unidos,Defensa
+Nolan Norris,FC Dallas,Major League Soccer,2005-02-17,Estados Unidos,Defensa
+Geovane Jesus,FC Dallas,Major League Soccer,2001-07-31,Brasil,Defensa
+Ema Twumasi,FC Dallas,Major League Soccer,1997-05-18,Ghana,Defensa
+Herbert Endeley,FC Dallas,Major League Soccer,2001-10-09,Estados Unidos,Defensa
+Facundo Quignón,FC Dallas,Major League Soccer,1993-05-02,Argentina,Medio campo
+Asier Illarramendi,FC Dallas,Major League Soccer,1990-03-08,España,Medio campo
+Liam Fraser,FC Dallas,Major League Soccer,1998-02-13,Canadá,Medio campo
+Sebastian Lletget,FC Dallas,Major League Soccer,1992-09-03,Estados Unidos,Medio campo
+Paxton Pomykal,FC Dallas,Major League Soccer,1999-12-17,Estados Unidos,Medio campo
+Tsiki Ntsabeleng,FC Dallas,Major League Soccer,1998-02-09,Sudáfrica,Medio campo
+Alan Velasco,FC Dallas,Major League Soccer,2002-07-27,Argentina,Delantero
+Eugene Ansah,FC Dallas,Major League Soccer,1994-12-16,Ghana,Delantero
+Dante Sealy,FC Dallas,Major League Soccer,2003-04-17,Estados Unidos,Delantero
+Tarik Scott,FC Dallas,Major League Soccer,2005-04-23,Estados Unidos,Delantero
+Paul Arriola,FC Dallas,Major League Soccer,1995-02-05,Estados Unidos,Delantero
+Jáder Obrian,FC Dallas,Major League Soccer,1995-05-18,Colombia,Delantero
+Bernard Kamungo,FC Dallas,Major League Soccer,2002-01-01,Estados Unidos,Delantero
+Jesús Ferreira,FC Dallas,Major League Soccer,2000-12-24,Estados Unidos,Delantero
+Jesús Jiménez,FC Dallas,Major League Soccer,1993-11-05,España,Delantero
+José Mulato,FC Dallas,Major League Soccer,2003-01-09,Colombia,Delantero
+Zac MacMath,Real Salt Lake City,Major League Soccer,1991-08-07,Estados Unidos,Portero
+Gavin Beavers,Real Salt Lake City,Major League Soccer,2005-04-29,Estados Unidos,Portero
+Tomás Gómez,Real Salt Lake City,Major League Soccer,1993-05-20,Estados Unidos,Portero
+Justen Glad,Real Salt Lake City,Major League Soccer,1997-02-28,Estados Unidos,Defensa
+Erik Holt,Real Salt Lake City,Major League Soccer,1996-09-06,Estados Unidos,Defensa
+Marcelo Silva,Real Salt Lake City,Major League Soccer,1989-03-21,Uruguay,Defensa
+Luis Rivera,Real Salt Lake City,Major League Soccer,2007-12-01,Estados Unidos,Defensa
+Andrew Brody,Real Salt Lake City,Major League Soccer,1995-05-03,Estados Unidos,Defensa
+Brayan Vera,Real Salt Lake City,Major League Soccer,1999-01-15,Colombia,Defensa
+Bryan Oviedo,Real Salt Lake City,Major League Soccer,1990-02-18,Costa Rica,Defensa
+Zack Farnsworth,Real Salt Lake City,Major League Soccer,2002-07-13,Estados Unidos,Defensa
+Bode Hidalgo,Real Salt Lake City,Major League Soccer,2002-02-22,Estados Unidos,Defensa
+Emeka Eneli,Real Salt Lake City,Major League Soccer,1999-10-18,Estados Unidos,Defensa
+Moses Nyeman,Real Salt Lake City,Major League Soccer,2003-11-05,Estados Unidos,Medio campo
+Kevon Lambert,Real Salt Lake City,Major League Soccer,1997-03-22,Jamaica,Medio campo
+Braian Ojeda,Real Salt Lake City,Major League Soccer,2000-06-27,Paraguay,Medio campo
+Pablo Ruiz,Real Salt Lake City,Major League Soccer,1998-12-20,Argentina,Medio campo
+Jasper Löffelsend,Real Salt Lake City,Major League Soccer,1997-09-10,Alemania,Medio campo
+Nelson Palacio,Real Salt Lake City,Major League Soccer,2001-06-16,Colombia,Medio campo
+Damir Kreilach,Real Salt Lake City,Major League Soccer,1989-04-16,Croacia,Medio campo
+Jude Wellings,Real Salt Lake City,Major League Soccer,2006-04-26,Estados Unidos,Medio campo
+Scott Caldwell,Real Salt Lake City,Major League Soccer,1991-03-15,Estados Unidos,Medio campo
+Diego Luna,Real Salt Lake City,Major League Soccer,2003-09-07,Estados Unidos,Medio campo
+Jefferson Savarino,Real Salt Lake City,Major League Soccer,1996-11-11,Venezuela,Delantero
+Carlos Andrés Gómez,Real Salt Lake City,Major League Soccer,2002-09-22,Colombia,Delantero
+Anderson Julio,Real Salt Lake City,Major League Soccer,1996-05-31,Ecuador,Delantero
+Maikel Chang,Real Salt Lake City,Major League Soccer,1991-04-18,Cuba,Delantero
+Bertin Jacquesson,Real Salt Lake City,Major League Soccer,2001-01-20,Francia,Delantero
+Cristian Arango,Real Salt Lake City,Major League Soccer,1995-03-09,Colombia,Delantero
+Rubio Rubín,Real Salt Lake City,Major League Soccer,1996-03-01,Guatemala,Delantero
+Danny Musovski,Real Salt Lake City,Major League Soccer,1995-11-30,Estados Unidos,Delantero
+Axel Kei,Real Salt Lake City,Major League Soccer,2007-12-30,Estados Unidos,Delantero
+Yohei Takaoka,Vancouver Whitecaps FC,Major League Soccer,1996-03-16,Japón,Portero
+Isaac Boehmer,Vancouver Whitecaps FC,Major League Soccer,2001-11-20,Canadá,Portero
+Thomas Hasal,Vancouver Whitecaps FC,Major League Soccer,1999-07-09,Canadá,Portero
+Max Anchor,Vancouver Whitecaps FC,Major League Soccer,2004-07-21,Canadá,Portero
+Tristan Blackmon,Vancouver Whitecaps FC,Major League Soccer,1996-08-12,Estados Unidos,Defensa
+Ranko Veselinovic,Vancouver Whitecaps FC,Major League Soccer,1999-03-24,Serbia,Defensa
+Mathías Laborda,Vancouver Whitecaps FC,Major League Soccer,1999-09-15,Uruguay,Defensa
+Matteo Campagna,Vancouver Whitecaps FC,Major League Soccer,2004-06-27,Canadá,Defensa
+Karifa Yao,Vancouver Whitecaps FC,Major League Soccer,2000-09-28,Canadá,Defensa
+Sam Adekugbe,Vancouver Whitecaps FC,Major League Soccer,1995-01-16,Canadá,Defensa
+Luís Martins,Vancouver Whitecaps FC,Major League Soccer,1992-06-10,Portugal,Defensa
+Richie Laryea,Vancouver Whitecaps FC,Major League Soccer,1995-01-07,Canadá,Defensa
+Javain Brown,Vancouver Whitecaps FC,Major League Soccer,1999-03-09,Jamaica,Defensa
+Andrés Cubas,Vancouver Whitecaps FC,Major League Soccer,1996-05-22,Paraguay,Medio campo
+Russell Teibert,Vancouver Whitecaps FC,Major League Soccer,1992-12-22,Canadá,Medio campo
+J.C. Ngando,Vancouver Whitecaps FC,Major League Soccer,1999-11-20,Francia,Medio campo
+Sebastian Berhalter,Vancouver Whitecaps FC,Major League Soccer,2001-05-10,Estados Unidos,Medio campo
+Ali Ahmed,Vancouver Whitecaps FC,Major League Soccer,2000-10-10,Canadá,Medio campo
+Ryan Raposo,Vancouver Whitecaps FC,Major League Soccer,1999-03-05,Canadá,Medio campo
+Ryan Gauld,Vancouver Whitecaps FC,Major League Soccer,1995-12-16,Escocia,Medio campo
+Pedro Vite,Vancouver Whitecaps FC,Major League Soccer,2002-03-09,Ecuador,Medio campo
+Alessandro Schöpf,Vancouver Whitecaps FC,Major League Soccer,1994-02-07,Austria,Medio campo
+Junior Hoilett,Vancouver Whitecaps FC,Major League Soccer,1990-06-05,Canadá,Delantero
+Levonte Johnson,Vancouver Whitecaps FC,Major League Soccer,1999-03-15,Canadá,Delantero
+Kamron Habibullah,Vancouver Whitecaps FC,Major League Soccer,2003-10-23,Canadá,Delantero
+Brian White,Vancouver Whitecaps FC,Major League Soccer,1996-02-03,Estados Unidos,Delantero
+Simon Becher,Vancouver Whitecaps FC,Major League Soccer,1999-07-20,Estados Unidos,Delantero
+Aljaz Ivacic,Portland Timbers,Major League Soccer,1993-12-29,Eslovenia,Portero
+David Bingham,Portland Timbers,Major League Soccer,1989-10-19,Estados Unidos,Portero
+Hunter Sulte,Portland Timbers,Major League Soccer,2002-04-25,Estados Unidos,Portero
+Dario Zuparic,Portland Timbers,Major League Soccer,1992-05-03,Croacia,Defensa
+Zac McGraw,Portland Timbers,Major League Soccer,1997-06-08,Canadá,Defensa
+Miguel Araujo,Portland Timbers,Major League Soccer,1994-10-24,Perú,Defensa
+Larrys Mabiala,Portland Timbers,Major League Soccer,1987-10-08,República Democrática del Congo,Defensa
+Claudio Bravo,Portland Timbers,Major League Soccer,1997-03-13,Argentina,Defensa
+Justin Rasmussen,Portland Timbers,Major League Soccer,1998-12-15,Estados Unidos,Defensa
+Juan David Mosquera,Portland Timbers,Major League Soccer,2002-09-05,Colombia,Defensa
+Eric Miller,Portland Timbers,Major League Soccer,1993-01-15,Estados Unidos,Defensa
+David Ayala,Portland Timbers,Major League Soccer,2002-07-26,Argentina,Medio campo
+Evander,Portland Timbers,Major League Soccer,1998-06-09,Brasil,Medio campo
+Bryan Acosta,Portland Timbers,Major League Soccer,1993-11-24,Honduras,Medio campo
+Eryk Williamson,Portland Timbers,Major League Soccer,1997-06-11,Estados Unidos,Medio campo
+Cristhian Paredes,Portland Timbers,Major League Soccer,1998-05-18,Paraguay,Medio campo
+Diego Chará,Portland Timbers,Major League Soccer,1986-04-05,Colombia,Medio campo
+Noel Caliskan,Portland Timbers,Major League Soccer,2000-08-29,Alemania,Medio campo
+Sebastián Blanco,Portland Timbers,Major League Soccer,1988-03-15,Argentina,Medio campo
+Antony,Portland Timbers,Major League Soccer,2001-09-08,Brasil,Delantero
+Santiago Moreno,Portland Timbers,Major League Soccer,2000-04-21,Colombia,Delantero
+Dairon Asprilla,Portland Timbers,Major League Soccer,1992-05-25,Colombia,Delantero
+Marvin Loría,Portland Timbers,Major League Soccer,1997-04-24,Costa Rica,Delantero
+Yimmi Chará,Portland Timbers,Major League Soccer,1991-04-02,Colombia,Delantero
+Jaroslaw Niezgoda,Portland Timbers,Major League Soccer,1995-03-15,Polonia,Delantero
+Felipe Mora,Portland Timbers,Major League Soccer,1993-08-02,Chile,Delantero
+Franck Boli,Portland Timbers,Major League Soccer,1993-12-07,Costa de Marfil,Delantero
+Diego Gutiérrez,Portland Timbers,Major League Soccer,1999-01-05,Estados Unidos,Delantero
+Tega Ikoba,Portland Timbers,Major League Soccer,2003-08-14,Estados Unidos,Delantero
+John Pulskamp,Sporting Kansas City,Major League Soccer,2001-04-19,Estados Unidos,Portero
+Kendall McIntosh,Sporting Kansas City,Major League Soccer,1994-01-24,Estados Unidos,Portero
+Tim Melia,Sporting Kansas City,Major League Soccer,1986-05-15,Estados Unidos,Portero
+Robert Voloder,Sporting Kansas City,Major League Soccer,2001-05-09,Alemania,Defensa
+Dany Rosero,Sporting Kansas City,Major League Soccer,1993-10-06,Colombia,Defensa
+Kortne Ford,Sporting Kansas City,Major League Soccer,1996-01-26,Estados Unidos,Defensa
+Andreu Fontàs,Sporting Kansas City,Major League Soccer,1989-11-14,España,Defensa
+Robert Castellanos,Sporting Kansas City,Major League Soccer,1998-05-11,Estados Unidos,Defensa
+Chris Rindov,Sporting Kansas City,Major League Soccer,2001-10-08,Estados Unidos,Defensa
+Logan Ndenbe,Sporting Kansas City,Major League Soccer,2000-02-09,Bélgica,Defensa
+Tim Leibold,Sporting Kansas City,Major League Soccer,1993-11-30,Alemania,Defensa
+Kayden Pierre,Sporting Kansas City,Major League Soccer,2003-02-16,Estados Unidos,Defensa
+Jake Davis,Sporting Kansas City,Major League Soccer,2002-01-03,Estados Unidos,Defensa
+Graham Zusi,Sporting Kansas City,Major League Soccer,1986-08-18,Estados Unidos,Defensa
+Nemanja Radoja,Sporting Kansas City,Major League Soccer,1993-02-06,Serbia,Medio campo
+Rémi Walter,Sporting Kansas City,Major League Soccer,1995-04-26,Francia,Medio campo
+Felipe Hernández,Sporting Kansas City,Major League Soccer,1998-06-08,Estados Unidos,Medio campo
+Cameron Duke,Sporting Kansas City,Major League Soccer,2001-02-13,Estados Unidos,Medio campo
+Felipe Gutiérrez,Sporting Kansas City,Major League Soccer,1990-10-08,Chile,Medio campo
+Róger Espinoza,Sporting Kansas City,Major League Soccer,1986-10-25,Honduras,Medio campo
+Danny Flores,Sporting Kansas City,Major League Soccer,2002-04-06,Estados Unidos,Medio campo
+Gadi Kinda,Sporting Kansas City,Major League Soccer,1994-03-23,Israel,Medio campo
+Erik Thommy,Sporting Kansas City,Major League Soccer,1994-08-20,Alemania,Medio campo
+Ozzie Cisneros,Sporting Kansas City,Major League Soccer,2004-03-13,Estados Unidos,Medio campo
+Dániel Sallói,Sporting Kansas City,Major League Soccer,1996-07-19,Hungría,Delantero
+Marinos Tzionis,Sporting Kansas City,Major League Soccer,2001-07-16,Chipre,Delantero
+Johnny Russell,Sporting Kansas City,Major League Soccer,1990-04-08,Escocia,Delantero
+Alan Pulido,Sporting Kansas City,Major League Soccer,1991-03-08,México,Delantero
+Willy Agada,Sporting Kansas City,Major League Soccer,1999-09-17,Nigeria,Delantero
+Khiry Shelton,Sporting Kansas City,Major League Soccer,1993-06-26,Estados Unidos,Delantero
+Stephen Afrifa,Sporting Kansas City,Major League Soccer,2001-02-19,Canadá,Delantero
+Marko Ilic,Colorado Rapids,Major League Soccer,1998-02-03,Serbia,Portero
+William Yarbrough,Colorado Rapids,Major League Soccer,1989-03-20,Estados Unidos,Portero
+Abraham Rodriguez,Colorado Rapids,Major League Soccer,2002-07-19,Estados Unidos,Portero
+Andreas Maxsö,Colorado Rapids,Major League Soccer,1994-03-18,Dinamarca,Defensa
+Lalas Abubakar,Colorado Rapids,Major League Soccer,1994-12-25,Ghana,Defensa
+Aboubacar Keita,Colorado Rapids,Major League Soccer,2000-04-06,Estados Unidos,Defensa
+Moïse Bombito,Colorado Rapids,Major League Soccer,2000-03-30,Canadá,Defensa
+Danny Wilson,Colorado Rapids,Major League Soccer,1991-12-27,Escocia,Defensa
+Michael Edwards,Colorado Rapids,Major League Soccer,2000-11-27,Estados Unidos,Defensa
+Andrew Gutman,Colorado Rapids,Major League Soccer,1996-10-02,Estados Unidos,Defensa
+Alex Gersbach,Colorado Rapids,Major League Soccer,1997-05-08,Australia,Defensa
+Jackson Travis,Colorado Rapids,Major League Soccer,2004-02-23,Estados Unidos,Defensa
+Keegan Rosenberry,Colorado Rapids,Major League Soccer,1993-12-11,Estados Unidos,Defensa
+Sebastian Anderson,Colorado Rapids,Major League Soccer,2002-08-08,Estados Unidos,Defensa
+Steven Beitashour,Colorado Rapids,Major League Soccer,1987-02-01,Irán,Defensa
+Danny Leyva,Colorado Rapids,Major League Soccer,2003-05-05,Estados Unidos,Medio campo
+Ralph Priso-Mbongue,Colorado Rapids,Major League Soccer,2002-08-02,Canadá,Medio campo
+Jack Price,Colorado Rapids,Major League Soccer,1992-12-19,Inglaterra,Medio campo
+Connor Ronan,Colorado Rapids,Major League Soccer,1998-03-06,Irlanda,Medio campo
+Sidnei Tavares,Colorado Rapids,Major League Soccer,2001-09-29,Portugal,Medio campo
+Oliver Larraz,Colorado Rapids,Major League Soccer,2001-09-16,Estados Unidos,Medio campo
+Luis Díaz,Colorado Rapids,Major League Soccer,1998-12-06,Costa Rica,Medio campo
+Sam Nicholson,Colorado Rapids,Major League Soccer,1995-01-20,Escocia,Medio campo
+Cole Bassett,Colorado Rapids,Major League Soccer,2001-07-28,Estados Unidos,Medio campo
+Max,Colorado Rapids,Major League Soccer,2001-05-12,Brasil,Medio campo
+Kévin Cabral,Colorado Rapids,Major League Soccer,1999-07-10,Francia,Delantero
+Jonathan Lewis,Colorado Rapids,Major League Soccer,1997-06-04,Estados Unidos,Delantero
+Calvin Harris,Colorado Rapids,Major League Soccer,2000-03-20,Inglaterra,Delantero
+Braian Galván,Colorado Rapids,Major League Soccer,2000-10-06,Argentina,Delantero
+Rafael Navarro,Colorado Rapids,Major League Soccer,2000-04-14,Brasil,Delantero
+Diego Rubio,Colorado Rapids,Major League Soccer,1993-05-15,Chile,Delantero
+Darren Yapi,Colorado Rapids,Major League Soccer,2004-11-19,Estados Unidos,Delantero
+Jonathan Bond,Los Ángeles Galaxy,Major League Soccer,1993-05-19,Inglaterra,Portero
+Novak Micovic,Los Ángeles Galaxy,Major League Soccer,2001-10-25,Serbia,Portero
+Jonathan Klinsmann,Los Ángeles Galaxy,Major League Soccer,1997-04-08,Estados Unidos,Portero
+Jalen Neal,Los Ángeles Galaxy,Major League Soccer,2003-08-24,Estados Unidos,Defensa
+Tony Alfaro,Los Ángeles Galaxy,Major League Soccer,1993-06-15,México,Defensa
+Maya Yoshida,Los Ángeles Galaxy,Major League Soccer,1988-08-24,Japón,Defensa
+Chris Mavinga,Los Ángeles Galaxy,Major League Soccer,1991-05-26,República Democrática del Congo,Defensa
+Marcus Ferkranus,Los Ángeles Galaxy,Major League Soccer,2003-05-10,Estados Unidos,Defensa
+Martín Cáceres,Los Ángeles Galaxy,Major League Soccer,1987-04-07,Uruguay,Defensa
+Eriq Zavaleta,Los Ángeles Galaxy,Major League Soccer,1992-08-02,El Salvador,Defensa
+Julián Aude,Los Ángeles Galaxy,Major League Soccer,2003-03-24,Argentina,Defensa
+Raheem Edwards,Los Ángeles Galaxy,Major League Soccer,1995-07-17,Canadá,Defensa
+Calegari,Los Ángeles Galaxy,Major League Soccer,2002-02-27,Brasil,Defensa
+Kelvin Leerdam,Los Ángeles Galaxy,Major League Soccer,1990-06-24,Surinam,Defensa
+Mauricio Cuevas,Los Ángeles Galaxy,Major League Soccer,2003-02-10,Estados Unidos,Defensa
+Gastón Brugman,Los Ángeles Galaxy,Major League Soccer,1992-09-07,Uruguay,Medio campo
+Edwin Cerrillo,Los Ángeles Galaxy,Major League Soccer,2000-10-03,Estados Unidos,Medio campo
+Uri Rosell,Los Ángeles Galaxy,Major League Soccer,1992-07-07,España,Medio campo
+Riqui Puig,Los Ángeles Galaxy,Major League Soccer,1999-08-13,España,Medio campo
+Mark Delgado,Los Ángeles Galaxy,Major League Soccer,1995-05-16,Estados Unidos,Medio campo
+Daniel Aguirre,Los Ángeles Galaxy,Major League Soccer,1999-07-28,Estados Unidos,Medio campo
+Adam Saldaña,Los Ángeles Galaxy,Major League Soccer,2002-02-07,Estados Unidos,Medio campo
+Diego Fagúndez,Los Ángeles Galaxy,Major League Soccer,1995-02-14,Uruguay,Delantero
+Tyler Boyd,Los Ángeles Galaxy,Major League Soccer,1994-12-30,Estados Unidos,Delantero
+Gino Vivi,Los Ángeles Galaxy,Major League Soccer,2000-12-20,Costa Rica,Delantero
+Jonathan Pérez,Los Ángeles Galaxy,Major League Soccer,2003-01-18,México,Delantero
+Douglas Costa,Los Ángeles Galaxy,Major League Soccer,1990-09-14,Brasil,Delantero
+Michael Barrios,Los Ángeles Galaxy,Major League Soccer,1991-04-21,Colombia,Delantero
+Dejan Joveljic,Los Ángeles Galaxy,Major League Soccer,1999-08-07,Serbia,Delantero
+Chicharito,Los Ángeles Galaxy,Major League Soccer,1988-06-01,México,Delantero
+Preston Judd,Los Ángeles Galaxy,Major League Soccer,1999-05-28,Estados Unidos,Delantero
+Billy Sharp,Los Ángeles Galaxy,Major League Soccer,1986-02-05,Inglaterra,Delantero

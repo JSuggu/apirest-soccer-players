@@ -1,0 +1,811 @@
+Rodrigo Rey,CA Independiente,Liga Profesional de Fútbol,1991-03-08,Argentina,Portero
+Renzo Bacchia,CA Independiente,Liga Profesional de Fútbol,1999-01-23,Uruguay,Portero
+Manuel Tasso,CA Independiente,Liga Profesional de Fútbol,2001-03-05,Argentina,Portero
+Diego Segovia,CA Independiente,Liga Profesional de Fútbol,2000-05-15,Uruguay,Portero
+Felipe Aguilar,CA Independiente,Liga Profesional de Fútbol,1993-01-20,Colombia,Defensa
+Javier Báez,CA Independiente,Liga Profesional de Fútbol,1990-04-09,Paraguay,Defensa
+Edgar Elizalde,CA Independiente,Liga Profesional de Fútbol,2000-02-27,Uruguay,Defensa
+Joaquín Laso,CA Independiente,Liga Profesional de Fútbol,1990-07-04,Argentina,Defensa
+Patricio Ostachuk,CA Independiente,Liga Profesional de Fútbol,2000-05-05,Argentina,Defensa
+Ayrton Costa,CA Independiente,Liga Profesional de Fútbol,1999-07-12,Argentina,Defensa
+Damián Pérez,CA Independiente,Liga Profesional de Fútbol,1988-12-22,Argentina,Defensa
+Mauricio Isla,CA Independiente,Liga Profesional de Fútbol,1988-06-12,Chile,Defensa
+Julio Buffarini,CA Independiente,Liga Profesional de Fútbol,1988-08-18,Argentina,Defensa
+Iván Marcone,CA Independiente,Liga Profesional de Fútbol,1990-06-03,Argentina,Medio campo
+Agustín Mulet,CA Independiente,Liga Profesional de Fútbol,2000-02-22,Argentina,Medio campo
+Lucas González,CA Independiente,Liga Profesional de Fútbol,2000-06-03,Argentina,Medio campo
+Federico Mancuello,CA Independiente,Liga Profesional de Fútbol,1989-03-26,Argentina,Medio campo
+Kevin López,CA Independiente,Liga Profesional de Fútbol,2001-12-28,Argentina,Medio campo
+Sergio Ortíz,CA Independiente,Liga Profesional de Fútbol,2001-02-23,Argentina,Medio campo
+Santiago Salle,CA Independiente,Liga Profesional de Fútbol,2004-06-04,Argentina,Medio campo
+Santiago Toloza,CA Independiente,Liga Profesional de Fútbol,2002-10-28,Argentina,Medio campo
+Tomás Pozzo,CA Independiente,Liga Profesional de Fútbol,2000-09-27,Argentina,Medio campo
+Baltasar Barcia,CA Independiente,Liga Profesional de Fútbol,2001-02-19,Uruguay,Medio campo
+Martín Sarrafiore,CA Independiente,Liga Profesional de Fútbol,1997-07-20,Argentina,Medio campo
+Braian Martínez,CA Independiente,Liga Profesional de Fútbol,1999-08-18,Argentina,Delantero
+Rodrigo Márquez,CA Independiente,Liga Profesional de Fútbol,2002-02-15,Argentina,Delantero
+Matías Giménez,CA Independiente,Liga Profesional de Fútbol,1999-03-06,Argentina,Delantero
+Alexis Canelo,CA Independiente,Liga Profesional de Fútbol,1992-02-03,Argentina,Delantero
+Santiago Hidalgo,CA Independiente,Liga Profesional de Fútbol,2005-02-17,Argentina,Delantero
+Martín Cauteruccio,CA Independiente,Liga Profesional de Fútbol,1987-04-14,Uruguay,Delantero
+Lautaro Morales,CA Talleres,Liga Profesional de Fútbol,1999-12-16,Argentina,Portero
+Guido Herrera,CA Talleres,Liga Profesional de Fútbol,1992-02-29,Argentina,Portero
+Kevin Mantilla,CA Talleres,Liga Profesional de Fútbol,2003-05-22,Colombia,Defensa
+Matías Catalán,CA Talleres,Liga Profesional de Fútbol,1992-08-19,Chile,Defensa
+Juan Gabriel Rodríguez,CA Talleres,Liga Profesional de Fútbol,1994-02-28,Argentina,Defensa
+Lucas Suárez,CA Talleres,Liga Profesional de Fútbol,1995-03-17,Argentina,Defensa
+Tomás Palacios,CA Talleres,Liga Profesional de Fútbol,2003-04-28,Argentina,Defensa
+Imanol Segovia,CA Talleres,Liga Profesional de Fútbol,2001-02-06,Argentina,Defensa
+Blas Riveros,CA Talleres,Liga Profesional de Fútbol,1998-02-03,Paraguay,Defensa
+Fernando Bersano,CA Talleres,Liga Profesional de Fútbol,1998-01-03,Argentina,Defensa
+Gastón Benavídez,CA Talleres,Liga Profesional de Fútbol,1995-10-23,Argentina,Defensa
+Rodrigo Villagra,CA Talleres,Liga Profesional de Fútbol,2001-02-14,Argentina,Medio campo
+Juan Carlos Portillo,CA Talleres,Liga Profesional de Fútbol,2000-05-18,Argentina,Medio campo
+Ulises Ortegoza,CA Talleres,Liga Profesional de Fútbol,1997-04-19,Argentina,Medio campo
+Mateo Seoane,CA Talleres,Liga Profesional de Fútbol,2004-02-09,Argentina,Medio campo
+Matías Galarza,CA Talleres,Liga Profesional de Fútbol,2002-02-11,Paraguay,Medio campo
+Rodrigo Garro,CA Talleres,Liga Profesional de Fútbol,1998-01-04,Argentina,Medio campo
+Luis Sequeira,CA Talleres,Liga Profesional de Fútbol,2003-01-08,Argentina,Medio campo
+Luis Miguel Angulo,CA Talleres,Liga Profesional de Fútbol,2004-03-23,Colombia,Delantero
+Valentín Depietri,CA Talleres,Liga Profesional de Fútbol,2000-10-31,Argentina,Delantero
+Ramón Sosa,CA Talleres,Liga Profesional de Fútbol,1999-08-31,Paraguay,Delantero
+Nicolás Vallejo,CA Talleres,Liga Profesional de Fútbol,2004-01-03,Argentina,Delantero
+Nahuel Bustos,CA Talleres,Liga Profesional de Fútbol,1998-07-04,Argentina,Delantero
+Tomás Molina,CA Talleres,Liga Profesional de Fútbol,1995-04-12,Argentina,Delantero
+Bruno Barticciotto,CA Talleres,Liga Profesional de Fútbol,2001-05-07,Chile,Delantero
+David Romero,CA Talleres,Liga Profesional de Fútbol,2003-03-25,Argentina,Delantero
+Lautaro Ovando,CA Talleres,Liga Profesional de Fútbol,2003-02-10,Argentina,Delantero
+Francisco Pozzo,CA Talleres,Liga Profesional de Fútbol,2003-07-15,Argentina,Delantero
+Alejandro Medina,Arsenal Fútbol Club,Liga Profesional de Fútbol,1986-12-17,Argentina,Portero
+Tomás Sultani,Arsenal Fútbol Club,Liga Profesional de Fútbol,1998-06-22,Argentina,Portero
+Francisco Rivadeneira,Arsenal Fútbol Club,Liga Profesional de Fútbol,2000-05-19,Argentina,Portero
+Joaquín Pombo,Arsenal Fútbol Club,Liga Profesional de Fútbol,2001-03-18,Argentina,Defensa
+Maximiliano Centurión,Arsenal Fútbol Club,Liga Profesional de Fútbol,1999-02-20,Argentina,Defensa
+Ignacio Gariglio,Arsenal Fútbol Club,Liga Profesional de Fútbol,1998-04-25,Argentina,Defensa
+Facundo Cardozo,Arsenal Fútbol Club,Liga Profesional de Fútbol,1995-04-06,Argentina,Defensa
+Iván Cabrera,Arsenal Fútbol Club,Liga Profesional de Fútbol,2003-02-17,Argentina,Defensa
+Adrián Spörle,Arsenal Fútbol Club,Liga Profesional de Fútbol,1995-07-13,Argentina,Defensa
+Elías López,Arsenal Fútbol Club,Liga Profesional de Fútbol,2000-07-08,Argentina,Defensa
+Néstor Breitenbruch,Arsenal Fútbol Club,Liga Profesional de Fútbol,1995-09-13,Argentina,Defensa
+Cristian Chimino,Arsenal Fútbol Club,Liga Profesional de Fútbol,1988-02-09,Argentina,Defensa
+Braian Rivero,Arsenal Fútbol Club,Liga Profesional de Fútbol,1996-02-22,Argentina,Medio campo
+Gonzalo Muscia,Arsenal Fútbol Club,Liga Profesional de Fútbol,2000-01-09,Argentina,Medio campo
+Alfredo Amarilla,Arsenal Fútbol Club,Liga Profesional de Fútbol,2001-09-06,Paraguay,Medio campo
+Franco Vega,Arsenal Fútbol Club,Liga Profesional de Fútbol,2001-09-09,Argentina,Medio campo
+Mauro Burruchaga,Arsenal Fútbol Club,Liga Profesional de Fútbol,1998-06-27,Argentina,Medio campo
+Juan Cavallaro,Arsenal Fútbol Club,Liga Profesional de Fútbol,1994-06-28,Argentina,Medio campo
+Nicolás Aguirre,Arsenal Fútbol Club,Liga Profesional de Fútbol,1990-06-27,Argentina,Medio campo
+Tomás Sives,Arsenal Fútbol Club,Liga Profesional de Fútbol,2003-12-09,Argentina,Medio campo
+Bautista Cejas,Arsenal Fútbol Club,Liga Profesional de Fútbol,1998-03-06,Argentina,Delantero
+Lautaro Guzmán,Arsenal Fútbol Club,Liga Profesional de Fútbol,2000-01-18,Argentina,Delantero
+Lucas Brochero,Arsenal Fútbol Club,Liga Profesional de Fútbol,1999-01-23,Argentina,Delantero
+Facundo Pons,Arsenal Fútbol Club,Liga Profesional de Fútbol,1995-11-22,Argentina,Delantero
+Flabián Londoño,Arsenal Fútbol Club,Liga Profesional de Fútbol,2000-07-09,Colombia,Delantero
+Leandro Moreira,Arsenal Fútbol Club,Liga Profesional de Fútbol,2002-01-14,Argentina,Delantero
+Daniel Lucero,Arsenal Fútbol Club,Liga Profesional de Fútbol,2002-04-17,Argentina,Delantero
+Juan Peinipil,Arsenal Fútbol Club,Liga Profesional de Fútbol,2002-01-15,Argentina,Delantero
+Lucas Chaves,CA Huracán,Liga Profesional de Fútbol,1995-08-09,Argentina,Portero
+Sebastián Meza,CA Huracán,Liga Profesional de Fútbol,2000-03-14,Argentina,Portero
+Rodrigo Echeverría,CA Huracán,Liga Profesional de Fútbol,1995-04-07,Chile,Defensa
+Fabio Pereyra,CA Huracán,Liga Profesional de Fútbol,1990-01-31,Argentina,Defensa
+Fernando Tobio,CA Huracán,Liga Profesional de Fútbol,1989-10-18,Argentina,Defensa
+Patricio Pizarro,CA Huracán,Liga Profesional de Fútbol,2000-07-27,Argentina,Defensa
+Lucas Carrizo,CA Huracán,Liga Profesional de Fútbol,1997-05-20,Argentina,Defensa
+Guillermo Benítez,CA Huracán,Liga Profesional de Fútbol,1993-12-08,Argentina,Defensa
+César Ibáñez,CA Huracán,Liga Profesional de Fútbol,1999-06-17,Argentina,Defensa
+Lucas Souto,CA Huracán,Liga Profesional de Fútbol,1998-10-11,Argentina,Defensa
+Fernando Torrent,CA Huracán,Liga Profesional de Fútbol,1991-10-02,Argentina,Defensa
+Williams Alarcón,CA Huracán,Liga Profesional de Fútbol,2000-11-29,Chile,Medio campo
+Federico Fattori,CA Huracán,Liga Profesional de Fútbol,1992-07-22,Argentina,Medio campo
+Agostino Spina,CA Huracán,Liga Profesional de Fútbol,2001-10-31,Argentina,Medio campo
+Fernando Godoy,CA Huracán,Liga Profesional de Fútbol,1990-05-01,Argentina,Medio campo
+Alan Soñora,CA Huracán,Liga Profesional de Fútbol,1998-08-03,Estados Unidos,Medio campo
+Santiago Luján,CA Huracán,Liga Profesional de Fútbol,2002-01-23,Argentina,Medio campo
+Andrés Roa,CA Huracán,Liga Profesional de Fútbol,1993-05-25,Colombia,Medio campo
+Joel Soñora,CA Huracán,Liga Profesional de Fútbol,1996-09-15,Estados Unidos,Medio campo
+Valentín Burgoa,CA Huracán,Liga Profesional de Fútbol,2000-08-16,Argentina,Medio campo
+Matias Gómez,CA Huracán,Liga Profesional de Fútbol,2003-09-23,Argentina,Medio campo
+Héctor Fertoli,CA Huracán,Liga Profesional de Fútbol,1994-12-03,Argentina,Delantero
+Ignacio Pussetto,CA Huracán,Liga Profesional de Fútbol,1995-12-21,Argentina,Delantero
+Franco Alfonso,CA Huracán,Liga Profesional de Fútbol,2002-05-04,Argentina,Delantero
+Walter Mazzantti,CA Huracán,Liga Profesional de Fútbol,1996-09-05,Argentina,Delantero
+Matías Cóccaro,CA Huracán,Liga Profesional de Fútbol,1997-11-15,Uruguay,Delantero
+Marcelo Pérez,CA Huracán,Liga Profesional de Fútbol,2001-03-23,Paraguay,Delantero
+Enzo Luna,CA Huracán,Liga Profesional de Fútbol,2002-06-10,Argentina,Delantero
+Manuel Roffo,Instituto AC Córdoba,Liga Profesional de Fútbol,2000-04-04,Argentina,Portero
+Emanuel Bilbao,Instituto AC Córdoba,Liga Profesional de Fútbol,1989-11-03,Argentina,Portero
+Jorge Carranza,Instituto AC Córdoba,Liga Profesional de Fútbol,1981-05-07,Argentina,Portero
+Emanuel Sittaro,Instituto AC Córdoba,Liga Profesional de Fútbol,1999-10-15,Argentina,Portero
+Fernando Alarcón,Instituto AC Córdoba,Liga Profesional de Fútbol,1994-06-16,Argentina,Defensa
+Leonel Mosevich,Instituto AC Córdoba,Liga Profesional de Fútbol,1997-02-04,Argentina,Defensa
+Ezequiel Parnisari,Instituto AC Córdoba,Liga Profesional de Fútbol,1990-06-01,Argentina,Defensa
+Gonzalo Requena,Instituto AC Córdoba,Liga Profesional de Fútbol,2003-03-04,Argentina,Defensa
+Sebastián Corda,Instituto AC Córdoba,Liga Profesional de Fútbol,1995-06-29,Argentina,Defensa
+Jonathan Bay,Instituto AC Córdoba,Liga Profesional de Fútbol,1993-02-01,Argentina,Defensa
+Lucas Rodríguez,Instituto AC Córdoba,Liga Profesional de Fútbol,1993-09-27,Argentina,Defensa
+Giuliano Cerato,Instituto AC Córdoba,Liga Profesional de Fútbol,1998-06-10,Argentina,Defensa
+Oscar Garrido,Instituto AC Córdoba,Liga Profesional de Fútbol,1997-08-20,Argentina,Defensa
+Juan Franco,Instituto AC Córdoba,Liga Profesional de Fútbol,1992-02-10,Paraguay,Defensa
+Nicolás Linares,Instituto AC Córdoba,Liga Profesional de Fútbol,1996-03-06,Argentina,Medio campo
+Nicolás Watson,Instituto AC Córdoba,Liga Profesional de Fútbol,1998-05-22,Argentina,Medio campo
+Roberto Bochi,Instituto AC Córdoba,Liga Profesional de Fútbol,1987-07-06,Argentina,Medio campo
+Gastón Lodico,Instituto AC Córdoba,Liga Profesional de Fútbol,1998-05-28,Argentina,Medio campo
+Matías Romero,Instituto AC Córdoba,Liga Profesional de Fútbol,1996-02-01,Argentina,Medio campo
+Luciano Aued,Instituto AC Córdoba,Liga Profesional de Fútbol,1987-03-01,Argentina,Medio campo
+Gabriel Graciani,Instituto AC Córdoba,Liga Profesional de Fútbol,1993-11-28,Argentina,Medio campo
+Brahian Cuello,Instituto AC Córdoba,Liga Profesional de Fútbol,1997-09-30,Argentina,Medio campo
+Leonardo Monje,Instituto AC Córdoba,Liga Profesional de Fútbol,2002-03-26,Argentina,Medio campo
+Nicolás Barrientos,Instituto AC Córdoba,Liga Profesional de Fútbol,1995-04-05,Argentina,Medio campo
+Damián Puebla,Instituto AC Córdoba,Liga Profesional de Fútbol,2002-09-15,Argentina,Medio campo
+Jonás Acevedo,Instituto AC Córdoba,Liga Profesional de Fútbol,1997-02-06,Argentina,Delantero
+Manuel Liendo,Instituto AC Córdoba,Liga Profesional de Fútbol,1999-07-08,Argentina,Delantero
+Adrián Martínez,Instituto AC Córdoba,Liga Profesional de Fútbol,1992-07-07,Argentina,Delantero
+Santiago Rodríguez,Instituto AC Córdoba,Liga Profesional de Fútbol,1997-08-23,Argentina,Delantero
+Djorkaeff Reasco,Instituto AC Córdoba,Liga Profesional de Fútbol,1999-01-18,Ecuador,Delantero
+Lucas Albertengo,Instituto AC Córdoba,Liga Profesional de Fútbol,1991-01-30,Argentina,Delantero
+Gregorio Rodríguez,Instituto AC Córdoba,Liga Profesional de Fútbol,2000-01-17,Argentina,Delantero
+Axel Werner,CA Rosario Central,Liga Profesional de Fútbol,1996-02-28,Argentina,Portero
+Jorge Broun,CA Rosario Central,Liga Profesional de Fútbol,1986-05-26,Argentina,Portero
+Valentino Quintero,CA Rosario Central,Liga Profesional de Fútbol,2003-04-14,Argentina,Portero
+Juan Komar,CA Rosario Central,Liga Profesional de Fútbol,1996-08-13,Argentina,Defensa
+Facundo Mallo,CA Rosario Central,Liga Profesional de Fútbol,1995-01-16,Uruguay,Defensa
+Facundo Agüero,CA Rosario Central,Liga Profesional de Fútbol,1995-01-21,Argentina,Defensa
+Carlos Quintana,CA Rosario Central,Liga Profesional de Fútbol,1988-02-11,Argentina,Defensa
+Alan Rodríguez,CA Rosario Central,Liga Profesional de Fútbol,2000-08-15,Paraguay,Defensa
+Agustín Sández,CA Rosario Central,Liga Profesional de Fútbol,2001-01-16,Argentina,Defensa
+Damián Martínez,CA Rosario Central,Liga Profesional de Fútbol,1990-01-31,Argentina,Defensa
+Ulises Ciccioli,CA Rosario Central,Liga Profesional de Fútbol,2003-07-02,Argentina,Defensa
+Ismael Cortéz,CA Rosario Central,Liga Profesional de Fútbol,2000-06-26,Argentina,Defensa
+Kevin Ortiz,CA Rosario Central,Liga Profesional de Fútbol,2000-09-18,Argentina,Medio campo
+Francis Mac Allister,CA Rosario Central,Liga Profesional de Fútbol,1995-10-30,Argentina,Medio campo
+Dannovi Quiñones,CA Rosario Central,Liga Profesional de Fútbol,2001-01-05,Colombia,Medio campo
+Agustín Toledo,CA Rosario Central,Liga Profesional de Fútbol,2000-03-01,Argentina,Medio campo
+Marcelo Acosta,CA Rosario Central,Liga Profesional de Fútbol,2000-12-06,Paraguay,Medio campo
+Juan Cruz Cerrudo,CA Rosario Central,Liga Profesional de Fútbol,2004-01-20,Argentina,Medio campo
+Jaminton Campaz,CA Rosario Central,Liga Profesional de Fútbol,2000-05-24,Colombia,Medio campo
+Francesco Lo Celso,CA Rosario Central,Liga Profesional de Fútbol,2000-03-05,Argentina,Medio campo
+Giovanni Bogado,CA Rosario Central,Liga Profesional de Fútbol,2001-09-16,Paraguay,Medio campo
+Lautaro Giaccone,CA Rosario Central,Liga Profesional de Fútbol,2001-02-01,Argentina,Delantero
+Maximiliano Lovera,CA Rosario Central,Liga Profesional de Fútbol,1999-03-09,Argentina,Delantero
+Ignacio Malcorra,CA Rosario Central,Liga Profesional de Fútbol,1987-07-24,Argentina,Delantero
+Walter Montoya,CA Rosario Central,Liga Profesional de Fútbol,1993-07-21,Argentina,Delantero
+Tobías Cervera,CA Rosario Central,Liga Profesional de Fútbol,2002-08-06,Argentina,Delantero
+Octavio Bianchi,CA Rosario Central,Liga Profesional de Fútbol,1995-10-05,Argentina,Delantero
+Luca Martínez Dupuy,CA Rosario Central,Liga Profesional de Fútbol,2001-06-05,México,Delantero
+Fabricio Oviedo,CA Rosario Central,Liga Profesional de Fútbol,2004-02-12,Argentina,Delantero
+Tomás Durso,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1999-02-26,Argentina,Portero
+Nelson Insfrán,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1995-05-24,Argentina,Portero
+Leonardo Morales,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1991-04-11,Argentina,Defensa
+Felipe Sánchez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2004-04-07,Argentina,Defensa
+Yonathan Cabral,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1992-05-10,Argentina,Defensa
+Germán Guiffrey,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1997-12-31,Argentina,Defensa
+Bruno Palazzo,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-11-18,Argentina,Defensa
+Nicolás Colazo,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1990-07-08,Argentina,Defensa
+Rodrigo Gallo,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-11-04,Argentina,Defensa
+Guillermo Enrique,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-02-24,Argentina,Defensa
+Bautista Barros Schelotto,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-01-13,Argentina,Defensa
+Luciano Gómez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1996-03-22,Argentina,Defensa
+Gonzalo González,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2003-04-15,Argentina,Defensa
+Rodrigo Saravia,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-08-17,Uruguay,Medio campo
+Agustín Bolívar,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1996-01-09,Argentina,Medio campo
+Antonio Napolitano,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1999-02-16,Argentina,Medio campo
+Matías Miranda,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-05-05,Argentina,Medio campo
+Nicolás Sánchez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2004-07-20,Argentina,Medio campo
+Alexis Steimbach,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2002-07-25,Argentina,Medio campo
+Pablo de Blasis,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1988-02-04,Argentina,Medio campo
+Lucas Castro,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1989-04-09,Argentina,Medio campo
+Lautaro Chávez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2001-01-17,Argentina,Medio campo
+Leandro Mamut,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2003-12-31,Argentina,Medio campo
+Benjamín Domínguez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2003-09-19,Argentina,Delantero
+Alan Sosa,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2003-05-05,Argentina,Delantero
+Agustín Ramírez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-05-02,Argentina,Delantero
+Matías Abaldo,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2004-04-02,Uruguay,Delantero
+Franco Torres,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1999-05-25,Argentina,Delantero
+Eric Ramírez,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1996-09-21,Argentina,Delantero
+Cristian Tarragona,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1991-04-09,Argentina,Delantero
+Franco Soldano,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1994-09-14,Argentina,Delantero
+Ivo Mammini,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2003-04-15,Argentina,Delantero
+Rodrigo Castillo,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,1999-02-26,Argentina,Delantero
+Sebastián Cocimano,Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,2000-05-19,Argentina,Delantero
+Ignacio Chicco,Club Atlético Colón,Liga Profesional de Fútbol,1996-06-30,Argentina,Portero
+Matías Ibáñez,Club Atlético Colón,Liga Profesional de Fútbol,1986-12-16,Argentina,Portero
+Facundo Garcés,Club Atlético Colón,Liga Profesional de Fútbol,1999-09-05,Argentina,Defensa
+Germán Conti,Club Atlético Colón,Liga Profesional de Fútbol,1994-06-03,Argentina,Defensa
+Gian Nardelli,Club Atlético Colón,Liga Profesional de Fútbol,2000-03-11,Argentina,Defensa
+Paolo Goltz,Club Atlético Colón,Liga Profesional de Fútbol,1985-05-12,Argentina,Defensa
+Rafael Delgado,Club Atlético Colón,Liga Profesional de Fútbol,1990-01-13,Argentina,Defensa
+Emmanuel Más,Club Atlético Colón,Liga Profesional de Fútbol,1989-01-15,Argentina,Defensa
+Eric Meza,Club Atlético Colón,Liga Profesional de Fútbol,1999-04-08,Argentina,Defensa
+Alberto Espínola,Club Atlético Colón,Liga Profesional de Fútbol,1991-02-08,Paraguay,Defensa
+Cristian Vega,Club Atlético Colón,Liga Profesional de Fútbol,1993-09-17,Argentina,Medio campo
+Fabián Henríquez,Club Atlético Colón,Liga Profesional de Fútbol,1995-06-08,Argentina,Medio campo
+Stefano Moreyra,Club Atlético Colón,Liga Profesional de Fútbol,2001-09-19,Argentina,Medio campo
+Ángel Cardozo Lucena,Club Atlético Colón,Liga Profesional de Fútbol,1994-10-19,Paraguay,Medio campo
+Baldomero Perlaza,Club Atlético Colón,Liga Profesional de Fútbol,1992-06-02,Colombia,Medio campo
+Tomás Galván,Club Atlético Colón,Liga Profesional de Fútbol,2000-04-11,Argentina,Medio campo
+Rubén Botta,Club Atlético Colón,Liga Profesional de Fútbol,1990-01-31,Argentina,Medio campo
+Carlos Arrúa,Club Atlético Colón,Liga Profesional de Fútbol,1997-07-30,Paraguay,Medio campo
+Favio Álvarez,Club Atlético Colón,Liga Profesional de Fútbol,1993-01-23,Argentina,Medio campo
+Gonzalo Silva,Club Atlético Colón,Liga Profesional de Fútbol,1999-07-12,Argentina,Medio campo
+Joaquín Ibáñez,Club Atlético Colón,Liga Profesional de Fútbol,1996-09-05,Argentina,Delantero
+Santiago Pierotti,Club Atlético Colón,Liga Profesional de Fútbol,2001-04-03,Argentina,Delantero
+Damián Batallini,Club Atlético Colón,Liga Profesional de Fútbol,1996-06-24,Argentina,Delantero
+Ramón Ábila,Club Atlético Colón,Liga Profesional de Fútbol,1989-10-14,Argentina,Delantero
+Jorge Benítez,Club Atlético Colón,Liga Profesional de Fútbol,1992-09-02,Paraguay,Delantero
+Braian Guille,Club Atlético Colón,Liga Profesional de Fútbol,1997-07-31,Argentina,Delantero
+Javier Toledo,Club Atlético Colón,Liga Profesional de Fútbol,1986-04-24,Argentina,Delantero
+Laureano Troncoso,Club Atlético Colón,Liga Profesional de Fútbol,2001-03-26,Argentina,Delantero
+Alexis Martín Arias,AA Argentinos Juniors,Liga Profesional de Fútbol,1992-07-04,Argentina,Portero
+Federico Lanzillotta,AA Argentinos Juniors,Liga Profesional de Fútbol,1992-12-01,Argentina,Portero
+Marco Di Cesare,AA Argentinos Juniors,Liga Profesional de Fútbol,2002-01-30,Argentina,Defensa
+Lucas Villalba,AA Argentinos Juniors,Liga Profesional de Fútbol,1994-08-19,Argentina,Defensa
+Jonathan Galván,AA Argentinos Juniors,Liga Profesional de Fútbol,1992-06-25,Argentina,Defensa
+Tomás Lecanda,AA Argentinos Juniors,Liga Profesional de Fútbol,2002-01-29,Argentina,Defensa
+Miguel Torrén,AA Argentinos Juniors,Liga Profesional de Fútbol,1988-08-12,Argentina,Defensa
+Pablo Minissale,AA Argentinos Juniors,Liga Profesional de Fútbol,2001-01-14,Argentina,Defensa
+Santiago Montiel,AA Argentinos Juniors,Liga Profesional de Fútbol,2000-11-22,Argentina,Defensa
+Leonel González,AA Argentinos Juniors,Liga Profesional de Fútbol,1994-03-15,Argentina,Defensa
+Mariano Bíttolo,AA Argentinos Juniors,Liga Profesional de Fútbol,1990-04-24,Argentina,Defensa
+Luciano Sánchez,AA Argentinos Juniors,Liga Profesional de Fútbol,1994-01-25,Argentina,Defensa
+Federico Redondo,AA Argentinos Juniors,Liga Profesional de Fútbol,2003-01-18,Argentina,Medio campo
+Matías Vera,AA Argentinos Juniors,Liga Profesional de Fútbol,1995-10-26,Argentina,Medio campo
+Franco Moyano,AA Argentinos Juniors,Liga Profesional de Fútbol,1997-09-13,Argentina,Medio campo
+Alan Lescano,AA Argentinos Juniors,Liga Profesional de Fútbol,2001-11-11,Argentina,Medio campo
+Alan Rodríguez,AA Argentinos Juniors,Liga Profesional de Fútbol,2000-01-25,Uruguay,Medio campo
+Fabricio Domínguez,AA Argentinos Juniors,Liga Profesional de Fútbol,1998-06-24,Uruguay,Medio campo
+Francisco González Metilli,AA Argentinos Juniors,Liga Profesional de Fútbol,1997-03-29,Argentina,Medio campo
+Leonardo Heredia,AA Argentinos Juniors,Liga Profesional de Fútbol,1996-01-11,Argentina,Medio campo
+Rodrigo Cabral,AA Argentinos Juniors,Liga Profesional de Fútbol,2000-08-08,Argentina,Delantero
+Lucas Ambrogio,AA Argentinos Juniors,Liga Profesional de Fútbol,1999-07-14,Argentina,Delantero
+Thiago Nuss,AA Argentinos Juniors,Liga Profesional de Fútbol,2001-02-02,Argentina,Delantero
+Javier Cabrera,AA Argentinos Juniors,Liga Profesional de Fútbol,1992-03-18,Uruguay,Delantero
+José Herrera,AA Argentinos Juniors,Liga Profesional de Fútbol,2003-04-16,Argentina,Delantero
+Luciano Gondou,AA Argentinos Juniors,Liga Profesional de Fútbol,2001-06-22,Argentina,Delantero
+Gabriel Ávalos,AA Argentinos Juniors,Liga Profesional de Fútbol,1990-10-12,Paraguay,Delantero
+Gastón Verón,AA Argentinos Juniors,Liga Profesional de Fútbol,2001-04-23,Argentina,Delantero
+Gastón Gómez,CA Vélez Sarsfield,Liga Profesional de Fútbol,1996-03-04,Argentina,Portero
+Leonardo Burián,CA Vélez Sarsfield,Liga Profesional de Fútbol,1984-01-21,Uruguay,Portero
+Valentín Gómez,CA Vélez Sarsfield,Liga Profesional de Fútbol,2003-06-26,Argentina,Defensa
+Lautaro Giannetti,CA Vélez Sarsfield,Liga Profesional de Fútbol,1993-11-13,Argentina,Defensa
+Miguel Brizuela,CA Vélez Sarsfield,Liga Profesional de Fútbol,1997-01-05,Argentina,Defensa
+Damián Fernández,CA Vélez Sarsfield,Liga Profesional de Fútbol,2001-01-02,Argentina,Defensa
+Patricio Pernicone,CA Vélez Sarsfield,Liga Profesional de Fútbol,2001-07-04,Argentina,Defensa
+Elías Gómez,CA Vélez Sarsfield,Liga Profesional de Fútbol,1994-06-09,Argentina,Defensa
+Tomás Guidara,CA Vélez Sarsfield,Liga Profesional de Fútbol,1996-03-13,Argentina,Defensa
+Joaquín García,CA Vélez Sarsfield,Liga Profesional de Fútbol,2001-08-20,Argentina,Defensa
+Leonardo Jara,CA Vélez Sarsfield,Liga Profesional de Fútbol,1991-05-20,Argentina,Defensa
+Santiago Cáseres,CA Vélez Sarsfield,Liga Profesional de Fútbol,1997-02-25,Argentina,Medio campo
+Yeison Gordillo,CA Vélez Sarsfield,Liga Profesional de Fútbol,1992-06-25,Colombia,Medio campo
+Juan Ignacio Méndez,CA Vélez Sarsfield,Liga Profesional de Fútbol,1997-04-28,Argentina,Medio campo
+Nicolás Garayalde,CA Vélez Sarsfield,Liga Profesional de Fútbol,1999-07-21,Argentina,Medio campo
+José Florentín,CA Vélez Sarsfield,Liga Profesional de Fútbol,1996-07-05,Paraguay,Medio campo
+Christian Ordóñez,CA Vélez Sarsfield,Liga Profesional de Fútbol,2004-07-24,Argentina,Medio campo
+Elías Cabrera,CA Vélez Sarsfield,Liga Profesional de Fútbol,2003-02-25,Argentina,Medio campo
+Francisco Pizzini,CA Vélez Sarsfield,Liga Profesional de Fútbol,1993-09-19,Argentina,Delantero
+Lenny Lobato,CA Vélez Sarsfield,Liga Profesional de Fútbol,2001-02-03,Brasil,Delantero
+Gianluca Prestianni,CA Vélez Sarsfield,Liga Profesional de Fútbol,2006-01-31,Argentina,Delantero
+Claudio Aquino,CA Vélez Sarsfield,Liga Profesional de Fútbol,1991-07-24,Argentina,Delantero
+Santiago Castro,CA Vélez Sarsfield,Liga Profesional de Fútbol,2004-09-18,Argentina,Delantero
+Abiel Osorio,CA Vélez Sarsfield,Liga Profesional de Fútbol,2002-06-13,Argentina,Delantero
+Walter Bou,CA Vélez Sarsfield,Liga Profesional de Fútbol,1993-08-25,Argentina,Delantero
+Braian Romero,CA Vélez Sarsfield,Liga Profesional de Fútbol,1991-06-15,Argentina,Delantero
+omás Marchiori,Club Atlético Tucumán,Liga Profesional de Fútbol,1995-06-20,Argentina,Portero
+Luis Ojeda,Club Atlético Tucumán,Liga Profesional de Fútbol,1990-03-21,Argentina,Portero
+Nicolás Romero,Club Atlético Tucumán,Liga Profesional de Fútbol,2003-11-28,Argentina,Defensa
+Francisco Flores,Club Atlético Tucumán,Liga Profesional de Fútbol,2002-01-11,Argentina,Defensa
+Bruno Bianchi,Club Atlético Tucumán,Liga Profesional de Fútbol,1989-02-17,Argentina,Defensa
+Matías Orihuela,Club Atlético Tucumán,Liga Profesional de Fútbol,1992-02-17,Argentina,Defensa
+Gonzalo Paz,Club Atlético Tucumán,Liga Profesional de Fútbol,1993-06-06,Argentina,Defensa
+Wilson Ibarrola,Club Atlético Tucumán,Liga Profesional de Fútbol,1996-07-02,Paraguay,Defensa
+Hernán de la Fuente,Club Atlético Tucumán,Liga Profesional de Fútbol,1997-01-07,Argentina,Defensa
+Marcelo Ortiz,Club Atlético Tucumán,Liga Profesional de Fútbol,1994-01-13,Argentina,Defensa
+Agustín Lagos,Club Atlético Tucumán,Liga Profesional de Fútbol,2001-10-09,Argentina,Defensa
+Joaquín Pereyra,Club Atlético Tucumán,Liga Profesional de Fútbol,1998-12-01,Argentina,Medio campo
+Adrián Sánchez,Club Atlético Tucumán,Liga Profesional de Fútbol,1999-05-14,Argentina,Medio campo
+Bautista Kociubinski,Club Atlético Tucumán,Liga Profesional de Fútbol,2001-04-26,Argentina,Medio campo
+Guillermo Acosta,Club Atlético Tucumán,Liga Profesional de Fútbol,1988-10-31,Argentina,Medio campo
+Ramiro Carrera,Club Atlético Tucumán,Liga Profesional de Fútbol,1993-10-24,Argentina,Medio campo
+Marcelo González,Club Atlético Tucumán,Liga Profesional de Fútbol,1996-05-27,Paraguay,Medio campo
+Tomás Castro Ponce,Club Atlético Tucumán,Liga Profesional de Fútbol,2001-03-03,Argentina,Medio campo
+Mateo Coronel,Club Atlético Tucumán,Liga Profesional de Fútbol,1998-10-24,Argentina,Medio campo
+Francisco Di Franco,Club Atlético Tucumán,Liga Profesional de Fútbol,1995-01-28,Argentina,Medio campo
+Julián Carrasco,Club Atlético Tucumán,Liga Profesional de Fútbol,2002-03-13,Argentina,Medio campo
+Justo Giani,Club Atlético Tucumán,Liga Profesional de Fútbol,1999-04-07,Argentina,Delantero
+Renzo Tesuri,Club Atlético Tucumán,Liga Profesional de Fútbol,1996-06-07,Argentina,Delantero
+Ignacio Maestro Puch,Club Atlético Tucumán,Liga Profesional de Fútbol,2003-08-13,Argentina,Delantero
+Ramiro Ruíz Rodríguez,Club Atlético Tucumán,Liga Profesional de Fútbol,2000-03-21,Argentina,Delantero
+Marcelo Estigarribia,Club Atlético Tucumán,Liga Profesional de Fútbol,1995-04-10,Argentina,Delantero
+Axel Rodríguez,Club Atlético Tucumán,Liga Profesional de Fútbol,1997-03-25,Argentina,Delantero
+Cristian Menéndez,Club Atlético Tucumán,Liga Profesional de Fútbol,1988-04-02,Argentina,Delantero
+Facundo Cambeses,CA Banfield,Liga Profesional de Fútbol,1997-04-09,Argentina,Portero
+Marcelo Barovero,CA Banfield,Liga Profesional de Fútbol,1984-02-18,Argentina,Portero
+Facundo Sanguinetti,CA Banfield,Liga Profesional de Fútbol,2001-03-01,Argentina,Portero
+Aarón Quirós,CA Banfield,Liga Profesional de Fútbol,2001-10-31,Argentina,Defensa
+Alejandro Maciel,CA Banfield,Liga Profesional de Fútbol,1997-04-22,Argentina,Defensa
+Alexis Maldonado,CA Banfield,Liga Profesional de Fútbol,1997-09-02,Argentina,Defensa
+Luis Mago,CA Banfield,Liga Profesional de Fútbol,1994-09-15,Venezuela,Defensa
+Gabriel Aranda,CA Banfield,Liga Profesional de Fútbol,2001-04-16,Argentina,Defensa
+Gregorio Tanco,CA Banfield,Liga Profesional de Fútbol,1999-10-18,Argentina,Defensa
+Pedro Souto,CA Banfield,Liga Profesional de Fútbol,2000-05-05,Argentina,Defensa
+Emanuel Insúa,CA Banfield,Liga Profesional de Fútbol,1991-04-10,Argentina,Defensa
+Franco Quinteros,CA Banfield,Liga Profesional de Fútbol,1998-10-13,Argentina,Defensa
+Emanuel Coronel,CA Banfield,Liga Profesional de Fútbol,1997-02-01,Argentina,Defensa
+Eric Remedi,CA Banfield,Liga Profesional de Fútbol,1995-06-04,Argentina,Medio campo
+Alejandro Cabrera,CA Banfield,Liga Profesional de Fútbol,1992-09-30,Argentina,Medio campo
+Yvo Calleros,CA Banfield,Liga Profesional de Fútbol,1998-03-14,Uruguay,Medio campo
+Lautaro Ríos,CA Banfield,Liga Profesional de Fútbol,2000-10-09,Argentina,Medio campo
+Alan Di Pippa,CA Banfield,Liga Profesional de Fútbol,2000-06-16,Argentina,Medio campo
+Matías González,CA Banfield,Liga Profesional de Fútbol,2002-02-28,Argentina,Medio campo
+Ezequiel Cañete,CA Banfield,Liga Profesional de Fútbol,1999-06-17,Argentina,Medio campo
+Jesús Soraire,CA Banfield,Liga Profesional de Fútbol,1988-12-03,Argentina,Medio campo
+Ezequiel Bonifacio,CA Banfield,Liga Profesional de Fútbol,1994-05-09,Argentina,Medio campo
+Ignacio Rodríguez,CA Banfield,Liga Profesional de Fútbol,2002-02-22,Argentina,Medio campo
+Gerónimo Rivera,CA Banfield,Liga Profesional de Fútbol,2003-08-18,Argentina,Delantero
+Matías Ramírez,CA Banfield,Liga Profesional de Fútbol,1999-03-14,Argentina,Delantero
+Horacio Tijanovich,CA Banfield,Liga Profesional de Fútbol,1996-02-28,Argentina,Delantero
+Juan Bisanz,CA Banfield,Liga Profesional de Fútbol,2001-08-28,Argentina,Delantero
+Juan Pablo Álvarez,CA Banfield,Liga Profesional de Fútbol,1996-02-10,Argentina,Delantero
+Milton Giménez,CA Banfield,Liga Profesional de Fútbol,1996-08-12,Argentina,Delantero
+Sebastián Sosa Sánchez,CA Banfield,Liga Profesional de Fútbol,1994-03-13,Uruguay,Delantero
+Nicolás Sosa Sánchez,CA Banfield,Liga Profesional de Fútbol,1996-04-06,Uruguay,Delantero
+Guido Villar,CA Barracas Central,Liga Profesional de Fútbol,1998-02-15,Argentina,Portero
+Andrés Desábato,CA Barracas Central,Liga Profesional de Fútbol,1990-03-30,Argentina,Portero
+Franco Herrera,CA Barracas Central,Liga Profesional de Fútbol,2003-09-19,Argentina,Portero
+Cristian Arce,CA Barracas Central,Liga Profesional de Fútbol,1993-08-27,Argentina,Portero
+Francisco Álvarez,CA Barracas Central,Liga Profesional de Fútbol,2000-02-26,Argentina,Defensa
+Nicolás Capraro,CA Barracas Central,Liga Profesional de Fútbol,1998-03-03,Argentina,Defensa
+Jeremías James,CA Barracas Central,Liga Profesional de Fútbol,2001-01-29,Argentina,Defensa
+Rodrigo Insúa,CA Barracas Central,Liga Profesional de Fútbol,1997-12-16,Argentina,Defensa
+Juan Ignacio Díaz,CA Barracas Central,Liga Profesional de Fútbol,1998-05-26,Argentina,Defensa
+Brian Calderara,CA Barracas Central,Liga Profesional de Fútbol,1998-01-10,Argentina,Defensa
+Fernando Prado,CA Barracas Central,Liga Profesional de Fútbol,2001-03-21,Uruguay,Defensa
+Nicolás Tolosa,CA Barracas Central,Liga Profesional de Fútbol,2001-05-31,Argentina,Defensa
+Mauro Peinipil,CA Barracas Central,Liga Profesional de Fútbol,1999-04-03,Argentina,Defensa
+Maximiliano Rodríguez,CA Barracas Central,Liga Profesional de Fútbol,1988-02-14,Argentina,Defensa
+Rodrigo Herrera,CA Barracas Central,Liga Profesional de Fútbol,2000-08-02,Argentina,Medio campo
+Siro Rosané,CA Barracas Central,Liga Profesional de Fútbol,2000-06-07,Argentina,Medio campo
+Matías Laba,CA Barracas Central,Liga Profesional de Fútbol,1991-12-11,Argentina,Medio campo
+Carlos Arce,CA Barracas Central,Liga Profesional de Fútbol,1990-09-16,Argentina,Medio campo
+Marcos Benítez,CA Barracas Central,Liga Profesional de Fútbol,2001-09-21,Argentina,Medio campo
+Maximiliano Puig,CA Barracas Central,Liga Profesional de Fútbol,2000-09-18,Argentina,Medio campo
+Lucas López,CA Barracas Central,Liga Profesional de Fútbol,1998-04-28,Argentina,Medio campo
+Iván Tapia,CA Barracas Central,Liga Profesional de Fútbol,1998-11-23,Argentina,Medio campo
+Facundo Mater,CA Barracas Central,Liga Profesional de Fútbol,1998-07-23,Argentina,Medio campo
+Lucas Colitto,CA Barracas Central,Liga Profesional de Fútbol,1994-06-01,Argentina,Delantero
+David Zalazar,CA Barracas Central,Liga Profesional de Fútbol,2002-05-09,Argentina,Delantero
+Ricardo Centurión,CA Barracas Central,Liga Profesional de Fútbol,1993-01-19,Argentina,Delantero
+Bruno Sepúlveda,CA Barracas Central,Liga Profesional de Fútbol,1992-09-17,Argentina,Delantero
+Franco Frías,CA Barracas Central,Liga Profesional de Fútbol,2002-03-17,Argentina,Delantero
+Joaquín Susvielles,CA Barracas Central,Liga Profesional de Fútbol,1991-02-28,Argentina,Delantero
+Alan Cantero,CA Barracas Central,Liga Profesional de Fútbol,1998-06-28,Argentina,Delantero
+Alexis Domínguez,CA Barracas Central,Liga Profesional de Fútbol,1996-10-30,Argentina,Delantero
+Franco Armani,CA River Plate,Liga Profesional de Fútbol,1986-10-16,Argentina,Portero
+Ezequiel Centurión,CA River Plate,Liga Profesional de Fútbol,1997-05-20,Argentina,Portero
+Lucas Lavagnino,CA River Plate,Liga Profesional de Fútbol,2004-08-22,Argentina,Portero
+Sebastián Boselli,CA River Plate,Liga Profesional de Fútbol,2003-12-04,Uruguay,Defensa
+Paulo Díaz,CA River Plate,Liga Profesional de Fútbol,1994-08-25,Chile,Defensa
+Emanuel Mammana,CA River Plate,Liga Profesional de Fútbol,1996-02-10,Argentina,Defensa
+David Martínez,CA River Plate,Liga Profesional de Fútbol,1998-01-21,Paraguay,Defensa
+Leandro González Pírez,CA River Plate,Liga Profesional de Fútbol,1992-02-26,Argentina,Defensa
+Ramiro Funes Mori,CA River Plate,Liga Profesional de Fútbol,1991-03-05,Argentina,Defensa
+Jonatan Maidana,CA River Plate,Liga Profesional de Fútbol,1985-07-29,Argentina,Defensa
+Enzo Díaz,CA River Plate,Liga Profesional de Fútbol,1995-12-07,Argentina,Defensa
+Milton Casco,CA River Plate,Liga Profesional de Fútbol,1988-04-11,Argentina,Defensa
+Andrés Herrera,CA River Plate,Liga Profesional de Fútbol,1998-11-03,Argentina,Defensa
+Matías Kranevitter,CA River Plate,Liga Profesional de Fútbol,1993-05-21,Argentina,Medio campo
+Bruno Zuculini,CA River Plate,Liga Profesional de Fútbol,1993-04-02,Argentina,Medio campo
+Enzo Pérez,CA River Plate,Liga Profesional de Fútbol,1986-02-22,Argentina,Medio campo
+Nicolás de la Cruz,CA River Plate,Liga Profesional de Fútbol,1997-06-01,Uruguay,Medio campo
+Rodrigo Aliendro,CA River Plate,Liga Profesional de Fútbol,1991-02-16,Argentina,Medio campo
+Manuel Lanzini,CA River Plate,Liga Profesional de Fútbol,1993-02-15,Argentina,Medio campo
+Pity Martínez,CA River Plate,Liga Profesional de Fútbol,1993-06-13,Argentina,Medio campo
+Claudio Echeverri,CA River Plate,Liga Profesional de Fútbol,2006-01-02,Argentina,Medio campo
+Agustín Palavecino,CA River Plate,Liga Profesional de Fútbol,1996-11-09,Argentina,Medio campo
+Nacho Fernández,CA River Plate,Liga Profesional de Fútbol,1990-01-12,Argentina,Medio campo
+Esequiel Barco,CA River Plate,Liga Profesional de Fútbol,1999-03-29,Argentina,Delantero
+Pablo Solari,CA River Plate,Liga Profesional de Fútbol,2001-03-22,Argentina,Delantero
+Santiago Simón,CA River Plate,Liga Profesional de Fútbol,2002-06-13,Argentina,Delantero
+Miguel Borja,CA River Plate,Liga Profesional de Fútbol,1993-01-26,Colombia,Delantero
+Facundo Colidio,CA River Plate,Liga Profesional de Fútbol,2000-01-04,Argentina,Delantero
+Salomón Rondón,CA River Plate,Liga Profesional de Fútbol,1989-09-16,Venezuela,Delantero
+Matías Suárez,CA River Plate,Liga Profesional de Fútbol,1988-05-09,Argentina,Delantero
+Marcos Ledesma,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1996-09-15,Argentina,Portero
+Matías Mansilla,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1996-02-15,Argentina,Portero
+Daniel Juárez,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2001-12-04,Argentina,Portero
+Gonzalo Goñi,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1998-08-16,Argentina,Defensa
+Andrés Ferro,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2001-08-02,Venezuela,Defensa
+Gustavo Canto,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1994-02-25,Argentina,Defensa
+Brian Blasi,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1996-02-08,Argentina,Defensa
+Juan Patiño,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1989-11-29,Paraguay,Defensa
+Brian Leizza,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2000-04-28,Argentina,Defensa
+Sebastián Valdéz,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1995-11-06,Argentina,Defensa
+Andrés Meli,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2000-09-01,Argentina,Defensa
+Marcelo Benítez,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1991-01-13,Argentina,Defensa
+Lucas Angelini,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1995-01-28,Argentina,Defensa
+Delfor Minervino,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1996-04-10,Argentina,Defensa
+José Gómez,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2000-03-06,Argentina,Defensa
+Julián Navas,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1993-11-30,Argentina,Defensa
+Mauro Pittón,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1994-08-08,Argentina,Medio campo
+Leandro Maciel,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1995-12-29,Argentina,Medio campo
+Dardo Miloc,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1990-10-16,Argentina,Medio campo
+Gino Olguín,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2000-03-13,Argentina,Medio campo
+Enzo Kalinski,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1987-03-10,Argentina,Medio campo
+Federico Jourdan,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1991-01-13,Argentina,Medio campo
+Brian Farioli,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1998-02-19,Argentina,Medio campo
+Gonzalo Álvez,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2003-11-23,Argentina,Medio campo
+Mateo Sanabria,CA Central Córdoba (SdE),Liga Profesional de Fútbol,2004-03-31,Argentina,Delantero
+Gonzalo Torres,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1999-12-24,Argentina,Delantero
+Luis Miguel Rodríguez,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1985-01-01,Argentina,Delantero
+Cristhian Ocampos,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1999-07-13,Paraguay,Delantero
+Michael Rangel,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1991-03-08,Colombia,Delantero
+Lucas Gamba,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1987-06-24,Argentina,Delantero
+Nicolás Leguizamón,CA Central Córdoba (SdE),Liga Profesional de Fútbol,1995-01-26,Argentina,Delantero
+Diego Rodríguez,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1989-06-25,Argentina,Portero
+Rodrigo Saracho,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1994-01-06,Argentina,Portero
+Gianluca Ferrari,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1997-06-30,Argentina,Defensa
+Pier Barrios,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1990-07-01,Argentina,Defensa
+Federico Rasmussen,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1992-03-04,Argentina,Defensa
+Braian Salvareschi,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1999-04-13,Argentina,Defensa
+Thomas Galdames,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1998-11-20,Chile,Defensa
+Martín Luciano,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2003-08-12,Argentina,Defensa
+Elías Pereyra,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1999-02-15,Argentina,Defensa
+Lucas Arce,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1997-08-14,Argentina,Defensa
+Manuel Guillén,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2001-09-06,Argentina,Defensa
+Nicolás Fernández,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1998-03-02,Uruguay,Medio campo
+Bruno Leyes,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2001-10-30,Argentina,Medio campo
+Cristian Núñez,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1997-09-20,Paraguay,Medio campo
+Juan Andrada,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1995-01-04,Argentina,Medio campo
+Enzo Gaggi,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1998-01-14,Argentina,Medio campo
+Julián Eseiza,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2002-02-16,Argentina,Medio campo
+Hernán López Muñoz,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2000-09-07,Argentina,Medio campo
+Luciano Cingolani,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2001-04-06,Argentina,Delantero
+Tomás Conechny,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1998-03-30,Argentina,Delantero
+Salomón Rodríguez,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2000-02-16,Uruguay,Delantero
+Tadeo Allende,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,1999-02-20,Argentina,Delantero
+Enzo Larrosa,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2001-04-21,Uruguay,Delantero
+Nahuel Ulariaga,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2002-03-02,Argentina,Delantero
+Daniel Barrea,CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol,2001-07-22,Argentina,Delantero
+José Devecchi,CA Sarmiento (Junín),Liga Profesional de Fútbol,1995-07-09,Argentina,Portero
+Fernando Monetti,CA Sarmiento (Junín),Liga Profesional de Fútbol,1989-02-21,Argentina,Portero
+Emanuel Hernández,CA Sarmiento (Junín),Liga Profesional de Fútbol,1997-10-30,Uruguay,Defensa
+Diego Calcaterra,CA Sarmiento (Junín),Liga Profesional de Fútbol,2001-07-26,Argentina,Defensa
+Juan Manuel Insaurralde,CA Sarmiento (Junín),Liga Profesional de Fútbol,1984-10-03,Argentina,Defensa
+Alejandro Donatti,CA Sarmiento (Junín),Liga Profesional de Fútbol,1986-10-24,Argentina,Defensa
+Franco Sbuttoni,CA Sarmiento (Junín),Liga Profesional de Fútbol,1989-05-06,Argentina,Defensa
+Gabriel Díaz,CA Sarmiento (Junín),Liga Profesional de Fútbol,2000-04-19,Argentina,Defensa
+Nahuel Gallardo,CA Sarmiento (Junín),Liga Profesional de Fútbol,1998-05-09,Argentina,Defensa
+Franco Paredes,CA Sarmiento (Junín),Liga Profesional de Fútbol,1999-03-18,Argentina,Defensa
+Gonzalo Bettini,CA Sarmiento (Junín),Liga Profesional de Fútbol,1992-09-26,Argentina,Defensa
+Jean Rosso,CA Sarmiento (Junín),Liga Profesional de Fútbol,1997-04-07,Uruguay,Defensa
+Yamil Garnier,CA Sarmiento (Junín),Liga Profesional de Fútbol,1982-12-22,Argentina,Defensa
+Manuel García,CA Sarmiento (Junín),Liga Profesional de Fútbol,1999-06-11,Argentina,Medio campo
+Fernando Martínez,CA Sarmiento (Junín),Liga Profesional de Fútbol,1994-05-13,Paraguay,Medio campo
+Harrinson Mancilla,CA Sarmiento (Junín),Liga Profesional de Fútbol,1991-12-22,Colombia,Medio campo
+José Mauri,CA Sarmiento (Junín),Liga Profesional de Fútbol,1996-05-16,Italia,Medio campo
+Federico Paradela,CA Sarmiento (Junín),Liga Profesional de Fútbol,2001-07-03,Argentina,Medio campo
+Manuel Mónaco,CA Sarmiento (Junín),Liga Profesional de Fútbol,2002-05-11,Argentina,Medio campo
+Sergio Quiroga,CA Sarmiento (Junín),Liga Profesional de Fútbol,1994-06-07,Argentina,Medio campo
+Maico Quiroz,CA Sarmiento (Junín),Liga Profesional de Fútbol,2001-11-20,Argentina,Medio campo
+Cristian Ojeda,CA Sarmiento (Junín),Liga Profesional de Fútbol,1999-01-22,Argentina,Medio campo
+Alan Marinelli,CA Sarmiento (Junín),Liga Profesional de Fútbol,1999-04-07,Argentina,Delantero
+Yair Arismendi,CA Sarmiento (Junín),Liga Profesional de Fútbol,1998-04-05,Argentina,Delantero
+Gastón Gerzel,CA Sarmiento (Junín),Liga Profesional de Fútbol,2000-01-05,Argentina,Delantero
+Guido Mainero,CA Sarmiento (Junín),Liga Profesional de Fútbol,1995-03-23,Argentina,Delantero
+Gabriel Azcurra,CA Sarmiento (Junín),Liga Profesional de Fútbol,1998-05-24,Argentina,Delantero
+Facundo Ferreyra,CA Sarmiento (Junín),Liga Profesional de Fútbol,1991-03-14,Argentina,Delantero
+Agustín Fontana,CA Sarmiento (Junín),Liga Profesional de Fútbol,1996-06-11,Argentina,Delantero
+Juan Cruz Kaprof,CA Sarmiento (Junín),Liga Profesional de Fútbol,1995-03-12,Argentina,Delantero
+Lisandro López,CA Sarmiento (Junín),Liga Profesional de Fútbol,1983-03-02,Argentina,Delantero
+Lautaro Cerato,CA Sarmiento (Junín),Liga Profesional de Fútbol,2000-09-20,Argentina,Delantero
+Santiago Rojas,Club Atlético Tigre,Liga Profesional de Fútbol,1996-04-05,Paraguay,Portero
+Federico Gomes Gerth,Club Atlético Tigre,Liga Profesional de Fútbol,2004-03-05,Argentina,Portero
+Gonzalo Marinelli,Club Atlético Tigre,Liga Profesional de Fútbol,1989-02-07,Argentina,Portero
+Robert Rojas,Club Atlético Tigre,Liga Profesional de Fútbol,1996-04-30,Paraguay,Defensa
+Abel Luciatti,Club Atlético Tigre,Liga Profesional de Fútbol,1993-03-18,Argentina,Defensa
+Kevin Lomónaco,Club Atlético Tigre,Liga Profesional de Fútbol,2002-01-08,Argentina,Defensa
+Emanuel Aguilera,Club Atlético Tigre,Liga Profesional de Fútbol,1989-06-11,Argentina,Defensa
+Víctor Cabrera,Club Atlético Tigre,Liga Profesional de Fútbol,1993-02-07,Argentina,Defensa
+Sebastián Prieto,Club Atlético Tigre,Liga Profesional de Fútbol,1993-04-09,Argentina,Defensa
+Lautaro Montoya,Club Atlético Tigre,Liga Profesional de Fútbol,1994-10-07,Argentina,Defensa
+Martín Garay,Club Atlético Tigre,Liga Profesional de Fútbol,1999-06-12,Argentina,Defensa
+Martín Ortega,Club Atlético Tigre,Liga Profesional de Fútbol,1999-08-20,Argentina,Defensa
+Agustin Baldi,Club Atlético Tigre,Liga Profesional de Fútbol,2002-05-11,Argentina,Medio campo
+Sebastián Prediger,Club Atlético Tigre,Liga Profesional de Fútbol,1986-09-04,Argentina,Medio campo
+José Paradela,Club Atlético Tigre,Liga Profesional de Fútbol,1998-12-15,Argentina,Medio campo
+Alexis Castro,Club Atlético Tigre,Liga Profesional de Fútbol,1994-10-18,Argentina,Medio campo
+Agustín Cardozo,Club Atlético Tigre,Liga Profesional de Fútbol,1997-05-30,Argentina,Medio campo
+Lucas Menossi,Club Atlético Tigre,Liga Profesional de Fútbol,1992-07-11,Argentina,Medio campo
+Cristian Zabala,Club Atlético Tigre,Liga Profesional de Fútbol,1998-03-04,Argentina,Medio campo
+Sebastián Medina,Club Atlético Tigre,Liga Profesional de Fútbol,2000-03-15,Argentina,Medio campo
+Aarón Molinas,Club Atlético Tigre,Liga Profesional de Fútbol,2000-08-02,Argentina,Medio campo
+Ezequiel Forclaz,Club Atlético Tigre,Liga Profesional de Fútbol,2003-04-03,Argentina,Medio campo
+Blas Armoa,Club Atlético Tigre,Liga Profesional de Fútbol,2000-02-03,Paraguay,Delantero
+Juan Cruz Esquivel,Club Atlético Tigre,Liga Profesional de Fútbol,2000-08-22,Argentina,Delantero
+Agustín Obando,Club Atlético Tigre,Liga Profesional de Fútbol,2000-03-11,Argentina,Delantero
+Renzo López,Club Atlético Tigre,Liga Profesional de Fútbol,1994-04-16,Uruguay,Delantero
+Tomás Badaloni,Club Atlético Tigre,Liga Profesional de Fútbol,2000-05-02,Argentina,Delantero
+Nicolás Reniero,Club Atlético Tigre,Liga Profesional de Fútbol,1995-03-18,Argentina,Delantero
+Ijiel Protti,Club Atlético Tigre,Liga Profesional de Fútbol,1995-01-31,Argentina,Delantero
+Gonzalo Flores,Club Atlético Tigre,Liga Profesional de Fútbol,2002-02-22,Argentina,Delantero
+Sebastián Moyano,Club Atlético Unión,Liga Profesional de Fútbol,1990-08-26,Argentina,Portero
+Nicolás Campisi,Club Atlético Unión,Liga Profesional de Fútbol,1996-10-29,Argentina,Portero
+Lucas Meuli,Club Atlético Unión,Liga Profesional de Fútbol,2001-06-30,Argentina,Portero
+Franco Calderón,Club Atlético Unión,Liga Profesional de Fútbol,1998-05-13,Argentina,Defensa
+Franco Pardo,Club Atlético Unión,Liga Profesional de Fútbol,1997-04-05,Argentina,Defensa
+Oscar Piris,Club Atlético Unión,Liga Profesional de Fútbol,1989-06-06,Argentina,Defensa
+Juan Pablo Ludueña,Club Atlético Unión,Liga Profesional de Fútbol,2003-02-11,Argentina,Defensa
+Claudio Corvalán,Club Atlético Unión,Liga Profesional de Fútbol,1989-03-23,Argentina,Defensa
+Jairo O'Neil,Club Atlético Unión,Liga Profesional de Fútbol,2001-07-31,Uruguay,Defensa
+Federico Vera,Club Atlético Unión,Liga Profesional de Fútbol,1998-03-24,Argentina,Defensa
+Nicolás Paz,Club Atlético Unión,Liga Profesional de Fútbol,2002-10-16,Argentina,Defensa
+Francisco Gerometta,Club Atlético Unión,Liga Profesional de Fútbol,1999-09-01,Argentina,Defensa
+Joaquín Mosqueira,Club Atlético Unión,Liga Profesional de Fútbol,2004-11-01,Argentina,Medio campo
+Tiago Banega,Club Atlético Unión,Liga Profesional de Fútbol,1999-07-01,Argentina,Medio campo
+Patricio Tanda,Club Atlético Unión,Liga Profesional de Fútbol,2002-04-05,Argentina,Medio campo
+Enzo Roldán,Club Atlético Unión,Liga Profesional de Fútbol,2000-12-08,Argentina,Medio campo
+Kevin Zenón,Club Atlético Unión,Liga Profesional de Fútbol,2001-07-30,Argentina,Delantero
+Bryan Castrillón,Club Atlético Unión,Liga Profesional de Fútbol,1999-03-30,Colombia,Delantero
+Daniel Juárez,Club Atlético Unión,Liga Profesional de Fútbol,2001-07-30,Argentina,Delantero
+Mateo Del Blanco,Club Atlético Unión,Liga Profesional de Fútbol,2003-10-31,Argentina,Delantero
+Jerónimo Dómina,Club Atlético Unión,Liga Profesional de Fútbol,2005-10-17,Argentina,Delantero
+Gonzalo Morales,Club Atlético Unión,Liga Profesional de Fútbol,2003-03-04,Argentina,Delantero
+Mauro Luna Diale,Club Atlético Unión,Liga Profesional de Fútbol,1999-04-26,Argentina,Delantero
+Nicolás Orsini,Club Atlético Unión,Liga Profesional de Fútbol,1994-09-12,Argentina,Delantero
+Tomás González,Club Atlético Unión,Liga Profesional de Fútbol,2003-05-18,Argentina,Delantero
+Sergio Romero,CA Boca Juniors,Liga Profesional de Fútbol,1987-02-22,Argentina,Portero
+Javier García,CA Boca Juniors,Liga Profesional de Fútbol,1987-01-29,Argentina,Portero
+Nicolás Figal,CA Boca Juniors,Liga Profesional de Fútbol,1994-04-03,Argentina,Defensa
+Nicolás Valentini,CA Boca Juniors,Liga Profesional de Fútbol,2001-04-06,Argentina,Defensa
+Marcos Rojo,CA Boca Juniors,Liga Profesional de Fútbol,1990-03-20,Argentina,Defensa
+Bruno Valdez,CA Boca Juniors,Liga Profesional de Fútbol,1992-10-06,Paraguay,Defensa
+Facundo Roncaglia,CA Boca Juniors,Liga Profesional de Fútbol,1987-02-10,Argentina,Defensa
+Valentín Barco,CA Boca Juniors,Liga Profesional de Fútbol,2004-07-23,Argentina,Defensa
+Marcelo Saracchi,CA Boca Juniors,Liga Profesional de Fútbol,1998-04-23,Uruguay,Defensa
+Frank Fabra,CA Boca Juniors,Liga Profesional de Fútbol,1991-02-22,Colombia,Defensa
+Lucas Blondel,CA Boca Juniors,Liga Profesional de Fútbol,1996-09-14,Argentina,Defensa
+Marcelo Weigandt,CA Boca Juniors,Liga Profesional de Fútbol,2000-01-11,Argentina,Defensa
+Luis Advíncula,CA Boca Juniors,Liga Profesional de Fútbol,1990-03-02,Perú,Defensa
+Ezequiel Fernández,CA Boca Juniors,Liga Profesional de Fútbol,2002-07-25,Argentina,Medio campo
+Jorman Campuzano,CA Boca Juniors,Liga Profesional de Fútbol,1996-04-30,Colombia,Medio campo
+Cristian Medina,CA Boca Juniors,Liga Profesional de Fútbol,2002-06-01,Argentina,Medio campo
+Pol Fernández,CA Boca Juniors,Liga Profesional de Fútbol,1991-10-11,Argentina,Medio campo
+Juan Ramírez,CA Boca Juniors,Liga Profesional de Fútbol,1993-05-25,Argentina,Medio campo
+Diego González,CA Boca Juniors,Liga Profesional de Fútbol,1988-02-09,Argentina,Medio campo
+Ezequiel Bullaude,CA Boca Juniors,Liga Profesional de Fútbol,2000-10-26,Argentina,Medio campo
+Vicente Taborda,CA Boca Juniors,Liga Profesional de Fútbol,2001-06-14,Argentina,Medio campo
+Exequiel Zeballos,CA Boca Juniors,Liga Profesional de Fútbol,2002-04-24,Argentina,Delantero
+Lucas Janson,CA Boca Juniors,Liga Profesional de Fútbol,1994-08-16,Argentina,Delantero
+Luca Langoni,CA Boca Juniors,Liga Profesional de Fútbol,2002-02-09,Argentina,Delantero
+Norberto Briasco,CA Boca Juniors,Liga Profesional de Fútbol,1996-02-29,Armenia,Delantero
+Miguel Merentiel,CA Boca Juniors,Liga Profesional de Fútbol,1996-02-24,Uruguay,Delantero
+Edinson Cavani,CA Boca Juniors,Liga Profesional de Fútbol,1987-02-14,Uruguay,Delantero
+Darío Benedetto,CA Boca Juniors,Liga Profesional de Fútbol,1990-05-17,Argentina,Delantero
+Nahuel Losada,Club Atlético Belgrano,Liga Profesional de Fútbol,1993-04-17,Argentina,Portero
+Manuel Vicentini,Club Atlético Belgrano,Liga Profesional de Fútbol,1990-08-29,Argentina,Portero
+Juan Strumia,Club Atlético Belgrano,Liga Profesional de Fútbol,1999-10-14,Argentina,Portero
+Nicolás Meriano,Club Atlético Belgrano,Liga Profesional de Fútbol,2000-11-09,Argentina,Defensa
+Érik Godoy,Club Atlético Belgrano,Liga Profesional de Fútbol,1993-08-16,Argentina,Defensa
+Francisco Oliver,Club Atlético Belgrano,Liga Profesional de Fútbol,1995-05-30,Argentina,Defensa
+Alejandro Rébola,Club Atlético Belgrano,Liga Profesional de Fútbol,1988-07-24,Argentina,Defensa
+Diego Novaretti,Club Atlético Belgrano,Liga Profesional de Fútbol,1985-05-09,Argentina,Defensa
+Alex Ibacache,Club Atlético Belgrano,Liga Profesional de Fútbol,1999-01-11,Chile,Defensa
+Lucas Diarte,Club Atlético Belgrano,Liga Profesional de Fútbol,1993-06-04,Argentina,Defensa
+Juan Barinaga,Club Atlético Belgrano,Liga Profesional de Fútbol,2000-10-10,Argentina,Defensa
+Facundo Lencioni,Club Atlético Belgrano,Liga Profesional de Fútbol,2001-02-14,Argentina,Medio campo
+Santiago Longo,Club Atlético Belgrano,Liga Profesional de Fútbol,1998-04-12,Argentina,Medio campo
+Esteban Rolón,Club Atlético Belgrano,Liga Profesional de Fútbol,1995-03-25,Argentina,Medio campo
+Matías Marín,Club Atlético Belgrano,Liga Profesional de Fútbol,1999-12-19,Chile,Medio campo
+Ariel Rojas,Club Atlético Belgrano,Liga Profesional de Fútbol,1986-01-16,Argentina,Medio campo
+Guillermo Pereira,Club Atlético Belgrano,Liga Profesional de Fútbol,1994-01-16,Argentina,Medio campo
+Tomás Castro,Club Atlético Belgrano,Liga Profesional de Fútbol,2002-09-03,Argentina,Medio campo
+Matías Palavecino,Club Atlético Belgrano,Liga Profesional de Fútbol,1998-05-23,Argentina,Medio campo
+Mariano Miño,Club Atlético Belgrano,Liga Profesional de Fútbol,1994-03-28,Argentina,Medio campo
+Ibrahim Hesar,Club Atlético Belgrano,Liga Profesional de Fútbol,1993-11-15,Siria,Medio campo
+Ignacio Tapia,Club Atlético Belgrano,Liga Profesional de Fútbol,2004-09-01,Argentina,Medio campo
+Lautaro Pastrán,Club Atlético Belgrano,Liga Profesional de Fútbol,2002-06-27,Chile,Delantero
+Nicolás Schiappacasse,Club Atlético Belgrano,Liga Profesional de Fútbol,1999-01-12,Uruguay,Delantero
+Matías García,Club Atlético Belgrano,Liga Profesional de Fútbol,1991-10-22,Argentina,Delantero
+Ulises Sánchez,Club Atlético Belgrano,Liga Profesional de Fútbol,1998-06-26,Argentina,Delantero
+Andrés Amaya,Club Atlético Belgrano,Liga Profesional de Fútbol,2001-04-24,Colombia,Delantero
+Fabián Bordagaray,Club Atlético Belgrano,Liga Profesional de Fútbol,1987-02-15,Argentina,Delantero
+Lucas Passerini,Club Atlético Belgrano,Liga Profesional de Fútbol,1994-07-16,Argentina,Delantero
+Franco Jara,Club Atlético Belgrano,Liga Profesional de Fútbol,1988-07-15,Argentina,Delantero
+Pablo Chavarría,Club Atlético Belgrano,Liga Profesional de Fútbol,1988-01-02,Argentina,Delantero
+Cristopher Fiermarín,CSD Defensa y Justicia,Liga Profesional de Fútbol,1998-01-01,Uruguay,Portero
+Enrique Bologna,CSD Defensa y Justicia,Liga Profesional de Fútbol,1982-02-13,Argentina,Portero
+Tomás Cardona,CSD Defensa y Justicia,Liga Profesional de Fútbol,1995-10-10,Argentina,Defensa
+Santiago Ramos Mingo,CSD Defensa y Justicia,Liga Profesional de Fútbol,2001-11-21,Argentina,Defensa
+Francisco Marco,CSD Defensa y Justicia,Liga Profesional de Fútbol,2003-06-27,Argentina,Defensa
+Dylan Gissi,CSD Defensa y Justicia,Liga Profesional de Fútbol,1991-04-27,Suiza,Defensa
+Alexis Soto,CSD Defensa y Justicia,Liga Profesional de Fútbol,1993-10-20,Argentina,Defensa
+Darío Cáceres,CSD Defensa y Justicia,Liga Profesional de Fútbol,1998-01-26,Paraguay,Defensa
+Agustín Sant'Anna,CSD Defensa y Justicia,Liga Profesional de Fútbol,1997-09-27,Uruguay,Defensa
+Julián Malatini,CSD Defensa y Justicia,Liga Profesional de Fútbol,2001-05-31,Argentina,Defensa
+Nicolás Tripichio,CSD Defensa y Justicia,Liga Profesional de Fútbol,1996-01-05,Argentina,Defensa
+Kevin Gutiérrez,CSD Defensa y Justicia,Liga Profesional de Fútbol,1997-06-03,Argentina,Medio campo
+Julián López,CSD Defensa y Justicia,Liga Profesional de Fútbol,2000-01-08,Argentina,Medio campo
+Ángel Benítez,CSD Defensa y Justicia,Liga Profesional de Fútbol,1996-01-27,Paraguay,Medio campo
+Lautaro López,CSD Defensa y Justicia,Liga Profesional de Fútbol,2005-03-30,Argentina,Medio campo
+Lautaro Escalante,CSD Defensa y Justicia,Liga Profesional de Fútbol,1999-07-02,Argentina,Medio campo
+Gonzalo Castellani,CSD Defensa y Justicia,Liga Profesional de Fútbol,1987-08-10,Argentina,Medio campo
+Gabriel Alanís,CSD Defensa y Justicia,Liga Profesional de Fútbol,1994-03-16,Argentina,Medio campo
+Manuel Duarte,CSD Defensa y Justicia,Liga Profesional de Fútbol,2001-08-23,Argentina,Medio campo
+Rodrigo Bogarín,CSD Defensa y Justicia,Liga Profesional de Fútbol,1997-05-24,Paraguay,Medio campo
+Tomás Ortiz,CSD Defensa y Justicia,Liga Profesional de Fútbol,2000-03-10,Argentina,Medio campo
+Gastón Togni,CSD Defensa y Justicia,Liga Profesional de Fútbol,1997-09-20,Argentina,Delantero
+David Barbona,CSD Defensa y Justicia,Liga Profesional de Fútbol,1995-02-22,Argentina,Delantero
+Santiago Solari,CSD Defensa y Justicia,Liga Profesional de Fútbol,1998-01-19,Argentina,Delantero
+Jonathan Berón,CSD Defensa y Justicia,Liga Profesional de Fútbol,2002-06-09,Argentina,Delantero
+Federico Versaci,CSD Defensa y Justicia,Liga Profesional de Fútbol,2002-02-16,Argentina,Delantero
+Nicolás Fernández,CSD Defensa y Justicia,Liga Profesional de Fútbol,1996-02-08,Argentina,Delantero
+Lucas Pratto,CSD Defensa y Justicia,Liga Profesional de Fútbol,1988-06-04,Argentina,Delantero
+Andrés Ríos,CSD Defensa y Justicia,Liga Profesional de Fútbol,1989-08-01,Argentina,Delantero
+Augusto Batalla,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1996-04-30,Argentina,Portero
+Facundo Altamirano,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1996-03-21,Argentina,Portero
+Lautaro López Kaleniuk,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2001-01-24,Argentina,Portero
+Gastón Hernández,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1998-01-19,Argentina,Defensa
+Rafael Pérez,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1990-01-09,Colombia,Defensa
+Fabricio Formiliano,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1993-01-14,Uruguay,Defensa
+Gastón Campi,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1991-04-06,Argentina,Defensa
+Tomás Silva,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2003-03-08,Argentina,Defensa
+Agustín Giay,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2004-01-16,Argentina,Defensa
+Gonzalo Luján,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2001-04-27,Argentina,Defensa
+Jalil Elías,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1996-04-25,Argentina,Medio campo
+Carlos Sánchez,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1986-02-06,Colombia,Medio campo
+Elián Irala,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2004-07-06,Argentina,Medio campo
+Manuel Insaurralde,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1999-01-31,Argentina,Medio campo
+Francisco Perruzzi,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2001-02-09,Argentina,Medio campo
+Malcom Braida,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1997-05-17,Argentina,Medio campo
+Gonzalo Maroni,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1999-03-18,Argentina,Medio campo
+Alexis Sabella,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2001-06-20,Argentina,Medio campo
+Gastón Ramírez,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1990-12-02,Uruguay,Medio campo
+Nahuel Barrios,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1998-05-07,Argentina,Delantero
+Iván Leguizamón,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,2002-07-03,Paraguay,Delantero
+Carlos Auzqui,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1991-03-16,Argentina,Delantero
+Ezequiel Cerutti,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1992-01-17,Argentina,Delantero
+Adam Bareiro,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1996-07-26,Paraguay,Delantero
+Federico Girotti,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1999-06-02,Argentina,Delantero
+Nicolás Blandi,CA San Lorenzo de Almagro,Liga Profesional de Fútbol,1990-01-13,Argentina,Delantero
+Gabriel Arias,Racing Club,Liga Profesional de Fútbol,1987-09-13,Chile,Portero
+Matías Tagliamonte,Racing Club,Liga Profesional de Fútbol,1998-02-19,Argentina,Portero
+Nazareno Colombo,Racing Club,Liga Profesional de Fútbol,1999-03-20,Argentina,Defensa
+Leonardo Sigali,Racing Club,Liga Profesional de Fútbol,1987-05-29,Argentina,Defensa
+Emiliano Insúa,Racing Club,Liga Profesional de Fútbol,1989-01-07,Argentina,Defensa
+Santiago Quirós,Racing Club,Liga Profesional de Fútbol,2003-03-04,Argentina,Defensa
+Gabriel Rojas,Racing Club,Liga Profesional de Fútbol,1997-06-22,Argentina,Defensa
+Gonzalo Piovi,Racing Club,Liga Profesional de Fútbol,1994-09-08,Argentina,Defensa
+Gastón Martirena,Racing Club,Liga Profesional de Fútbol,2000-01-05,Uruguay,Defensa
+Facundo Mura,Racing Club,Liga Profesional de Fútbol,1999-03-23,Argentina,Defensa
+Iván Pillud,Racing Club,Liga Profesional de Fútbol,1986-04-24,Argentina,Defensa
+Aníbal Moreno,Racing Club,Liga Profesional de Fútbol,1999-05-13,Argentina,Medio campo
+Juan Ignacio Nardoni,Racing Club,Liga Profesional de Fútbol,2002-07-14,Argentina,Medio campo
+Leonel Miranda,Racing Club,Liga Profesional de Fútbol,1994-01-07,Argentina,Medio campo
+Agustín Almendra,Racing Club,Liga Profesional de Fútbol,2000-02-11,Argentina,Medio campo
+Catriel Cabellos,Racing Club,Liga Profesional de Fútbol,2004-08-18,Perú,Medio campo
+Juan Fernando Quintero,Racing Club,Liga Profesional de Fútbol,1993-01-18,Colombia,Medio campo
+Baltasar Rodríguez,Racing Club,Liga Profesional de Fútbol,2003-07-09,Argentina,Medio campo
+Nicolás Oroz,Racing Club,Liga Profesional de Fútbol,1994-04-01,Argentina,Medio campo
+Jonatan Gómez,Racing Club,Liga Profesional de Fútbol,1989-12-21,Argentina,Medio campo
+Emiliano Vecchio,Racing Club,Liga Profesional de Fútbol,1988-11-16,Argentina,Medio campo
+Johan Carbonero,Racing Club,Liga Profesional de Fútbol,1999-07-20,Colombia,Delantero
+Agustín Ojeda,Racing Club,Liga Profesional de Fútbol,2004-06-19,Argentina,Delantero
+Roger Martínez,Racing Club,Liga Profesional de Fútbol,1994-06-23,Colombia,Delantero
+Maximiliano Romero,Racing Club,Liga Profesional de Fútbol,1999-01-09,Argentina,Delantero
+Gabriel Hauche,Racing Club,Liga Profesional de Fútbol,1986-11-27,Argentina,Delantero
+Emiliano Saliadarre,Racing Club,Liga Profesional de Fútbol,2002-05-05,Argentina,Delantero
+Lucas Hoyos,CA Newell's Old Boys,Liga Profesional de Fútbol,1989-04-29,Argentina,Portero
+Williams Barlasina,CA Newell's Old Boys,Liga Profesional de Fútbol,1998-06-29,Argentina,Portero
+Gustavo Velázquez,CA Newell's Old Boys,Liga Profesional de Fútbol,1991-04-17,Paraguay,Defensa
+Guillermo Ortiz,CA Newell's Old Boys,Liga Profesional de Fútbol,1992-08-09,Argentina,Defensa
+Facundo Mansilla,CA Newell's Old Boys,Liga Profesional de Fútbol,1999-02-27,Argentina,Defensa
+Carlos Ordóñez,CA Newell's Old Boys,Liga Profesional de Fútbol,2002-06-16,Colombia,Defensa
+Ángelo Martino,CA Newell's Old Boys,Liga Profesional de Fútbol,1998-06-05,Argentina,Defensa
+Bruno Pittón,CA Newell's Old Boys,Liga Profesional de Fútbol,1993-02-01,Argentina,Defensa
+Leonel Vangioni,CA Newell's Old Boys,Liga Profesional de Fútbol,1987-05-05,Argentina,Defensa
+Jherson Mosquera,CA Newell's Old Boys,Liga Profesional de Fútbol,1999-09-18,Colombia,Defensa
+Armando Méndez,CA Newell's Old Boys,Liga Profesional de Fútbol,1996-03-31,Uruguay,Defensa
+Augusto Schott,CA Newell's Old Boys,Liga Profesional de Fútbol,2000-01-17,Argentina,Defensa
+Tomás Jacob,CA Newell's Old Boys,Liga Profesional de Fútbol,2004-04-20,Argentina,Defensa
+Juan Sforza,CA Newell's Old Boys,Liga Profesional de Fútbol,2002-02-14,Argentina,Medio campo
+Iván Gómez,CA Newell's Old Boys,Liga Profesional de Fútbol,1997-02-28,Argentina,Medio campo
+Cristian Ferreira,CA Newell's Old Boys,Liga Profesional de Fútbol,1999-09-12,Argentina,Medio campo
+Marcos Portillo,CA Newell's Old Boys,Liga Profesional de Fútbol,2000-01-31,Argentina,Medio campo
+Marcelo Esponda,CA Newell's Old Boys,Liga Profesional de Fútbol,2003-01-14,Argentina,Medio campo
+Pablo Pérez,CA Newell's Old Boys,Liga Profesional de Fútbol,1985-08-10,Argentina,Medio campo
+Lisandro Montenegro,CA Newell's Old Boys,Liga Profesional de Fútbol,2003-03-27,Argentina,Medio campo
+Guillermo Balzi,CA Newell's Old Boys,Liga Profesional de Fútbol,2001-07-23,Argentina,Medio campo
+Esteban Fernández,CA Newell's Old Boys,Liga Profesional de Fútbol,2002-01-06,Argentina,Medio campo
+Brian Aguirre,CA Newell's Old Boys,Liga Profesional de Fútbol,2003-01-06,Argentina,Delantero
+Ramiro Sordo,CA Newell's Old Boys,Liga Profesional de Fútbol,2000-06-29,Argentina,Delantero
+Francisco González,CA Newell's Old Boys,Liga Profesional de Fútbol,2001-04-06,Argentina,Delantero
+Ignacio Schor,CA Newell's Old Boys,Liga Profesional de Fútbol,2000-08-04,Argentina,Delantero
+Jorge Recalde,CA Newell's Old Boys,Liga Profesional de Fútbol,1992-05-08,Paraguay,Delantero
+Guillermo May,CA Newell's Old Boys,Liga Profesional de Fútbol,1998-03-11,Uruguay,Delantero
+Jeremías Pérez Tica,CA Newell's Old Boys,Liga Profesional de Fútbol,2003-04-16,Argentina,Delantero
+Genaro Rossi,CA Newell's Old Boys,Liga Profesional de Fútbol,2002-02-07,Argentina,Delantero
+Ramiro Macagno,CA Platense,Liga Profesional de Fútbol,1997-03-18,Argentina,Portero
+Joaquín Blázquez,CA Platense,Liga Profesional de Fútbol,2001-01-28,Argentina,Portero
+Alejandro Sánchez,CA Platense,Liga Profesional de Fútbol,1986-10-25,Argentina,Portero
+Miguel Jacquet,CA Platense,Liga Profesional de Fútbol,1995-05-20,Paraguay,Defensa
+Ignacio Vázquez,CA Platense,Liga Profesional de Fútbol,1997-06-15,Argentina,Defensa
+Gastón Suso,CA Platense,Liga Profesional de Fútbol,1991-03-12,Argentina,Defensa
+Juan Pablo Pignani,CA Platense,Liga Profesional de Fútbol,2001-07-02,Argentina,Defensa
+Sasha Marcich,CA Platense,Liga Profesional de Fútbol,1998-05-29,Argentina,Defensa
+Juan Infante,CA Platense,Liga Profesional de Fútbol,1996-01-07,Argentina,Defensa
+Gonzalo Valdivia,CA Platense,Liga Profesional de Fútbol,2001-04-05,Argentina,Defensa
+Nicolás Morgantini,CA Platense,Liga Profesional de Fútbol,1994-09-11,Argentina,Defensa
+Raúl Lozano,CA Platense,Liga Profesional de Fútbol,1997-09-02,Argentina,Defensa
+Gonzalo Asís,CA Platense,Liga Profesional de Fútbol,1996-03-28,Argentina,Defensa
+Iván Rossi,CA Platense,Liga Profesional de Fútbol,1993-11-01,Argentina,Medio campo
+Leonel Picco,CA Platense,Liga Profesional de Fútbol,1998-10-22,Argentina,Medio campo
+Franco Díaz,CA Platense,Liga Profesional de Fútbol,2000-08-28,Argentina,Medio campo
+Jerónimo Cacciabue,CA Platense,Liga Profesional de Fútbol,1998-01-24,Argentina,Medio campo
+Nicolás Castro,CA Platense,Liga Profesional de Fútbol,1990-05-11,Argentina,Medio campo
+Agustín Ocampo,CA Platense,Liga Profesional de Fútbol,1997-11-23,Uruguay,Delantero
+Luciano Ferreyra,CA Platense,Liga Profesional de Fútbol,2002-02-19,Argentina,Delantero
+Agustín Alonso,CA Platense,Liga Profesional de Fútbol,2001-01-23,Argentina,Delantero
+Gabriel Gudiño,CA Platense,Liga Profesional de Fútbol,1992-03-16,Argentina,Delantero
+Ciro Rius,CA Platense,Liga Profesional de Fútbol,1988-10-27,Argentina,Delantero
+Maximiliano Zalazar,CA Platense,Liga Profesional de Fútbol,2001-03-08,Argentina,Delantero
+Facundo Russo,CA Platense,Liga Profesional de Fútbol,2000-07-20,Argentina,Delantero
+Ronaldo Martínez,CA Platense,Liga Profesional de Fútbol,1996-04-25,Paraguay,Delantero
+Nicolás Servetto,CA Platense,Liga Profesional de Fútbol,1996-03-27,Argentina,Delantero
+Mauro Quiroga,CA Platense,Liga Profesional de Fútbol,1989-12-07,Argentina,Delantero
+Mateo Pellegrino,CA Platense,Liga Profesional de Fútbol,2001-10-22,Argentina,Delantero
+Nadir Zeineddin,CA Platense,Liga Profesional de Fútbol,2000-05-15,Argentina,Delantero
+Lucas Acosta,Club Atlético Lanús,Liga Profesional de Fútbol,1995-03-12,Argentina,Portero
+Alan Aguerre,Club Atlético Lanús,Liga Profesional de Fútbol,1990-08-23,Argentina,Portero
+Cristian Lema,Club Atlético Lanús,Liga Profesional de Fútbol,1990-03-24,Argentina,Defensa
+Gonzalo Pérez,Club Atlético Lanús,Liga Profesional de Fútbol,2001-01-04,Uruguay,Defensa
+José Canale,Club Atlético Lanús,Liga Profesional de Fútbol,1996-07-20,Paraguay,Defensa
+Diego Braghieri,Club Atlético Lanús,Liga Profesional de Fútbol,1987-02-23,Argentina,Defensa
+Juan Sánchez Miño,Club Atlético Lanús,Liga Profesional de Fútbol,1990-01-01,Argentina,Defensa
+Julio Soler,Club Atlético Lanús,Liga Profesional de Fútbol,2005-02-16,Argentina,Defensa
+Braian Aguirre,Club Atlético Lanús,Liga Profesional de Fútbol,2000-07-28,Argentina,Defensa
+Juan José Cáceres,Club Atlético Lanús,Liga Profesional de Fútbol,2000-06-01,Paraguay,Defensa
+Brian Aguilar,Club Atlético Lanús,Liga Profesional de Fútbol,2003-04-13,Argentina,Defensa
+Felipe Peña Biafore,Club Atlético Lanús,Liga Profesional de Fútbol,2001-04-05,Argentina,Medio campo
+Maximiliano González,Club Atlético Lanús,Liga Profesional de Fútbol,2004-05-04,Argentina,Medio campo
+Raúl Loaiza,Club Atlético Lanús,Liga Profesional de Fútbol,1994-06-08,Colombia,Medio campo
+Julián Fernández,Club Atlético Lanús,Liga Profesional de Fútbol,1995-04-22,Argentina,Medio campo
+Matías Esquivel,Club Atlético Lanús,Liga Profesional de Fútbol,1999-03-22,Argentina,Medio campo
+Luciano Boggio,Club Atlético Lanús,Liga Profesional de Fútbol,1999-03-10,Uruguay,Medio campo
+Agustín Rodríguez,Club Atlético Lanús,Liga Profesional de Fútbol,2004-05-02,Argentina,Medio campo
+Franco Watson,Club Atlético Lanús,Liga Profesional de Fútbol,2002-01-01,Argentina,Medio campo
+Franco Orozco,Club Atlético Lanús,Liga Profesional de Fútbol,2002-01-09,Argentina,Delantero
+Lautaro Acosta,Club Atlético Lanús,Liga Profesional de Fútbol,1988-03-14,Argentina,Delantero
+Pedro de la Vega,Club Atlético Lanús,Liga Profesional de Fútbol,2001-02-07,Argentina,Delantero
+Augusto Lotti,Club Atlético Lanús,Liga Profesional de Fútbol,1996-06-10,Argentina,Delantero
+Leandro Díaz,Club Atlético Lanús,Liga Profesional de Fútbol,1992-06-06,Argentina,Delantero
+Franco Troyansky,Club Atlético Lanús,Liga Profesional de Fútbol,1997-03-06,Argentina,Delantero
+Jonatan Torres,Club Atlético Lanús,Liga Profesional de Fútbol,1996-12-29,Argentina,Delantero
+José Sand,Club Atlético Lanús,Liga Profesional de Fútbol,1980-07-17,Argentina,Delantero
+Mariano Andújar,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1983-07-30,Argentina,Portero
+Daniel Sappa,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1995-02-09,Argentina,Portero
+Fabricio Iacovich,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2002-01-29,Argentina,Portero
+Santiago Núñez,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2000-04-29,Argentina,Defensa
+Zaid Romero,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1999-12-15,Argentina,Defensa
+Federico Fernández,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1989-02-21,Argentina,Defensa
+Juan Cruz Guasone,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2001-03-27,Argentina,Defensa
+Luciano Lollo,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1987-03-29,Argentina,Defensa
+Ezequiel Muñoz,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1990-10-08,Argentina,Defensa
+Gastón Benedetti,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2001-03-29,Argentina,Defensa
+Leonardo Godoy,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1995-04-28,Argentina,Defensa
+Eros Mancuso,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1999-04-17,Argentina,Defensa
+Santiago Ascacíbar,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1997-02-25,Argentina,Medio campo
+Jorge Rodríguez,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1995-09-15,Argentina,Medio campo
+Gonzalo Piñeiro,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2000-10-03,Argentina,Medio campo
+Fernando Zuqui,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1991-11-27,Argentina,Medio campo
+José Sosa,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1985-06-19,Argentina,Medio campo
+Axel Atum,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2006-01-02,Argentina,Medio campo
+Deian Verón,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2000-09-25,Argentina,Medio campo
+Franco Zapiola,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2001-02-19,Argentina,Medio campo
+Javier Altamirano,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1999-08-21,Chile,Medio campo
+Alexis Manyoma,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2003-01-30,Colombia,Medio campo
+Nicolás Palavecino,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2003-03-29,Argentina,Medio campo
+Pablo Piatti,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1989-03-31,Argentina,Delantero
+Benjamín Rollheiser,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2000-03-24,Argentina,Delantero
+Matías Godoy,Club Estudiantes de La Plata,Liga Profesional de Fútbol,2002-01-10,Argentina,Delantero
+Mauro Méndez,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1999-01-17,Uruguay,Delantero
+Guido Carrillo,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1991-05-25,Argentina,Delantero
+Mauro Boselli,Club Estudiantes de La Plata,Liga Profesional de Fútbol,1985-05-22,Argentina,Delantero

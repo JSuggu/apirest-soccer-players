@@ -1,0 +1,483 @@
+Gianluigi Donnarumma,París Saint-Germain FC,Ligue 1,1999-02-25,Italia,Portero
+Arnau Tenas,París Saint-Germain FC,Ligue 1,2001-05-30,España,Portero
+Keylor Navas,París Saint-Germain FC,Ligue 1,1986-12-15,Costa Rica,Portero
+Sergio Rico,París Saint-Germain FC,Ligue 1,1993-09-01,España,Portero
+Alexandre Letellier,París Saint-Germain FC,Ligue 1,1990-12-11,Francia,Portero
+Marquinhos,París Saint-Germain FC,Ligue 1,1994-05-14,Brasil,Defensa
+Milan Skriniar,París Saint-Germain FC,Ligue 1,1995-02-11,Eslovaquia,Defensa
+Lucas Hernández,París Saint-Germain FC,Ligue 1,1996-02-14,Francia,Defensa
+Presnel Kimpembe,París Saint-Germain FC,Ligue 1,1995-08-13,Francia,Defensa
+Nuno Mendes,París Saint-Germain FC,Ligue 1,2002-06-19,Portugal,Defensa
+Layvin Kurzawa,París Saint-Germain FC,Ligue 1,1992-09-04,Francia,Defensa
+Achraf Hakimi,París Saint-Germain FC,Ligue 1,1998-11-04,Marruecos,Defensa
+Nordi Mukiele,París Saint-Germain FC,Ligue 1,1997-11-01,Francia,Defensa
+Manuel Ugarte,París Saint-Germain FC,Ligue 1,2001-04-11,Uruguay,Medio campo
+Danilo Pereira,París Saint-Germain FC,Ligue 1,1991-09-09,Portugal,Medio campo
+Vitinha,París Saint-Germain FC,Ligue 1,2000-02-13,Portugal,Medio campo
+Fabián Ruiz,París Saint-Germain FC,Ligue 1,1996-04-03,España,Medio campo
+Carlos Soler,París Saint-Germain FC,Ligue 1,1997-01-02,España,Medio campo
+Warren Zaïre-Emery,París Saint-Germain FC,Ligue 1,2006-03-08,Francia,Medio campo
+Cher Ndour,París Saint-Germain FC,Ligue 1,2004-07-27,Italia,Medio campo
+Ethan Mbappé,París Saint-Germain FC,Ligue 1,2006-12-29,Francia,Medio campo
+Kang-in Lee,París Saint-Germain FC,Ligue 1,2001-02-19,Corea del Sur,Medio campo
+Marco Asensio,París Saint-Germain FC,Ligue 1,1996-01-21,España,Delantero
+Ousmane Dembélé,París Saint-Germain FC,Ligue 1,1997-05-15,Francia,Delantero
+Bradley Barcola,París Saint-Germain FC,Ligue 1,2002-09-02,Francia,Delantero
+Kylian Mbappé,París Saint-Germain FC,Ligue 1,1998-12-20,Francia,Delantero
+Randal Kolo Muani,París Saint-Germain FC,Ligue 1,1998-12-05,Francia,Delantero
+Gonçalo Ramos,París Saint-Germain FC,Ligue 1,2001-06-20,Portugal,Delantero
+Hugo Ekitiké,París Saint-Germain FC,Ligue 1,2002-06-20,Francia,Delantero
+Brice Samba,RC Lens,Ligue 1,1994-04-25,Francia,Portero
+Wuilker Fariñez,RC Lens,Ligue 1,1998-02-15,Venezuela,Portero
+Jean-Louis Leca,RC Lens,Ligue 1,1985-09-21,Francia,Portero
+Yannick Pandor,RC Lens,Ligue 1,2001-05-01,Comoras,Portero
+Kevin Danso,RC Lens,Ligue 1,1998-09-19,Austria,Defensa
+Facundo Medina,RC Lens,Ligue 1,1999-05-28,Argentina,Defensa
+Jonathan Gradit,RC Lens,Ligue 1,1992-11-24,Francia,Defensa
+Abdukodir Khusanov,RC Lens,Ligue 1,2004-02-29,Uzbekistán,Defensa
+Faitout Maouassa,RC Lens,Ligue 1,1998-07-06,Francia,Defensa
+Deiver Machado,RC Lens,Ligue 1,1993-09-02,Colombia,Defensa
+Massadio Haidara,RC Lens,Ligue 1,1992-12-02,Malí,Defensa
+Ruben Aguilar,RC Lens,Ligue 1,1993-04-26,Francia,Defensa
+Salis Abdul Samed,RC Lens,Ligue 1,2000-03-26,Ghana,Medio campo
+Nampalys Mendy,RC Lens,Ligue 1,1992-06-23,Senegal,Medio campo
+Andy Diouf,RC Lens,Ligue 1,2003-05-17,Francia,Medio campo
+Neil El Aynaoui,RC Lens,Ligue 1,2001-07-02,Marruecos,Medio campo
+Przemyslaw Frankowski,RC Lens,Ligue 1,1995-04-12,Polonia,Medio campo
+Jimmy Cabot,RC Lens,Ligue 1,1994-04-18,Francia,Medio campo
+Angelo Fulgini,RC Lens,Ligue 1,1996-08-20,Francia,Medio campo
+David Pereira da Costa,RC Lens,Ligue 1,2001-01-05,Portugal,Medio campo
+Adrien Thomasson,RC Lens,Ligue 1,1993-12-10,Francia,Medio campo
+Ayanda Sishuba,RC Lens,Ligue 1,2005-02-02,Bélgica,Medio campo
+Nolan Bonte,RC Lens,Ligue 1,2004-01-19,Francia,Medio campo
+Óscar Cortés,RC Lens,Ligue 1,2003-12-03,Colombia,Delantero
+Morgan Guilavogui,RC Lens,Ligue 1,1998-03-10,Guinea,Delantero
+Elye Wahi,RC Lens,Ligue 1,2003-01-02,Francia,Delantero
+Florian Sotoca,RC Lens,Ligue 1,1990-10-25,Francia,Delantero
+Wesley Saïd,RC Lens,Ligue 1,1995-04-19,Francia,Delantero
+Ibrahima Baldé,RC Lens,Ligue 1,2003-01-17,Francia,Delantero
+Pau López,Olympique de Marsella,Ligue 1,1994-12-13,España,Portero
+Rubén Blanco,Olympique de Marsella,Ligue 1,1995-07-25,España,Portero
+Simon Ngapandouetnbu,Olympique de Marsella,Ligue 1,2003-04-12,Camerún,Portero
+Chancel Mbemba,Olympique de Marsella,Ligue 1,1994-08-08,República Democrática del Congo,Defensa
+Samuel Gigot,Olympique de Marsella,Ligue 1,1993-10-12,Francia,Defensa
+Leonardo Balerdi,Olympique de Marsella,Ligue 1,1999-01-26,Argentina,Defensa
+Bamo Meïté,Olympique de Marsella,Ligue 1,2001-12-03,Costa de Marfil,Defensa
+Renan Lodi,Olympique de Marsella,Ligue 1,1998-04-08,Brasil,Defensa
+Jonathan Clauss,Olympique de Marsella,Ligue 1,1992-09-25,Francia,Defensa
+Amir Murillo,Olympique de Marsella,Ligue 1,1996-02-11,Panamá,Defensa
+Geoffrey Kondogbia,Olympique de Marsella,Ligue 1,1993-02-15,República Centroafricana,Medio campo
+Pape Gueye,Olympique de Marsella,Ligue 1,1999-01-24,Senegal,Medio campo
+Valentin Rongier,Olympique de Marsella,Ligue 1,1994-12-07,Francia,Medio campo
+Jordan Veretout,Olympique de Marsella,Ligue 1,1993-03-01,Francia,Medio campo
+Azzedine Ounahi,Olympique de Marsella,Ligue 1,2000-04-19,Marruecos,Medio campo
+Emran Soglo,Olympique de Marsella,Ligue 1,2005-07-11,Inglaterra,Medio campo
+Bilal Nadir,Olympique de Marsella,Ligue 1,2003-11-28,Francia,Medio campo
+Amine Harit,Olympique de Marsella,Ligue 1,1997-06-18,Marruecos,Medio campo
+Ismaïla Sarr,Olympique de Marsella,Ligue 1,1998-02-25,Senegal,Delantero
+François Mughe,Olympique de Marsella,Ligue 1,2004-06-16,Camerún,Delantero
+Iliman Ndiaye,Olympique de Marsella,Ligue 1,2000-03-06,Senegal,Delantero
+Joaquín Correa,Olympique de Marsella,Ligue 1,1994-08-13,Argentina,Delantero
+Vitinha,Olympique de Marsella,Ligue 1,2000-03-15,Portugal,Delantero
+Pierre-Emerick Aubameyang,Olympique de Marsella,Ligue 1,1989-06-18,Gabón,Delantero
+Philipp Köhn,AS Mónaco,Ligue 1,1998-04-02,Suiza,Portero
+Radoslaw Majecki,AS Mónaco,Ligue 1,1999-11-16,Polonia,Portero
+Yann Lienard,AS Mónaco,Ligue 1,2003-03-16,Francia,Portero
+Mohammed Salisu,AS Mónaco,Ligue 1,1999-04-17,Ghana,Defensa
+Guillermo Maripán,AS Mónaco,Ligue 1,1994-05-06,Chile,Defensa
+Chrislain Matsima,AS Mónaco,Ligue 1,2002-05-15,Francia,Defensa
+Soungoutou Magassa,AS Mónaco,Ligue 1,2003-10-08,Francia,Defensa
+Yllan Okou,AS Mónaco,Ligue 1,2002-12-23,Francia,Defensa
+Caio Henrique,AS Mónaco,Ligue 1,1997-07-31,Brasil,Defensa
+Ismail Jakobs,AS Mónaco,Ligue 1,1999-08-17,Senegal,Defensa
+Vanderson,AS Mónaco,Ligue 1,2001-06-21,Brasil,Defensa
+Wilfried Singo,AS Mónaco,Ligue 1,2000-12-25,Costa de Marfil,Defensa
+Mohamed Camara,AS Mónaco,Ligue 1,2000-01-06,Malí,Medio campo
+Denis Zakaria,AS Mónaco,Ligue 1,1996-11-20,Suiza,Medio campo
+Youssouf Fofana,AS Mónaco,Ligue 1,1999-01-10,Francia,Medio campo
+Eliot Matazo,AS Mónaco,Ligue 1,2002-02-15,Bélgica,Medio campo
+Edan Diop,AS Mónaco,Ligue 1,2004-08-28,Francia,Medio campo
+Aleksandr Golovin,AS Mónaco,Ligue 1,1996-05-30,Rusia,Medio campo
+Eliesse Ben Seghir,AS Mónaco,Ligue 1,2005-02-16,Francia,Medio campo
+Maghnes Akliouche,AS Mónaco,Ligue 1,2002-02-25,Francia,Medio campo
+Takumi Minamino,AS Mónaco,Ligue 1,1995-01-16,Japón,Delantero
+Krépin Diatta,AS Mónaco,Ligue 1,1999-02-25,Senegal,Delantero
+Gelson Martins,AS Mónaco,Ligue 1,1995-05-11,Portugal,Delantero
+Folarin Balogun,AS Mónaco,Ligue 1,2001-07-03,Estados Unidos,Delantero
+Breel Embolo,AS Mónaco,Ligue 1,1997-02-14,Suiza,Delantero
+Wissam Ben Yedder,AS Mónaco,Ligue 1,1990-08-12,Francia,Delantero
+Myron Boadu,AS Mónaco,Ligue 1,2001-01-14,Países Bajos,Delantero
+Gauthier Gallon,Stade Rennais FC,Ligue 1,1993-04-23,Francia,Portero
+Steve Mandanda,Stade Rennais FC,Ligue 1,1985-03-28,Francia,Portero
+Geoffrey Lembet,Stade Rennais FC,Ligue 1,1988-09-23,República Centroafricana,Portero
+Arthur Theate,Stade Rennais FC,Ligue 1,2000-05-25,Bélgica,Defensa
+Warmed Omari,Stade Rennais FC,Ligue 1,2000-04-23,Francia,Defensa
+Jeanuël Belocian,Stade Rennais FC,Ligue 1,2005-02-17,Francia,Defensa
+Christopher Wooh,Stade Rennais FC,Ligue 1,2001-09-18,Camerún,Defensa
+Mohamed Jaouab,Stade Rennais FC,Ligue 1,2002-05-14,Marruecos,Defensa
+Jérémy Jacquet,Stade Rennais FC,Ligue 1,2005-07-13,Francia,Defensa
+Adrien Truffert,Stade Rennais FC,Ligue 1,2001-11-20,Francia,Defensa
+Lorenz Assignon,Stade Rennais FC,Ligue 1,2000-06-22,Francia,Defensa
+Guéla Doué,Stade Rennais FC,Ligue 1,2002-10-17,Costa de Marfil,Defensa
+Baptiste Santamaria,Stade Rennais FC,Ligue 1,1995-03-09,Francia,Medio campo
+Nemanja Matic,Stade Rennais FC,Ligue 1,1988-08-01,Serbia,Medio campo
+Benjamin Bourigeaud,Stade Rennais FC,Ligue 1,1994-01-14,Francia,Medio campo
+Ludovic Blas,Stade Rennais FC,Ligue 1,1997-12-31,Francia,Medio campo
+Enzo Le Fée,Stade Rennais FC,Ligue 1,2000-02-03,Francia,Medio campo
+Fabian Rieder,Stade Rennais FC,Ligue 1,2002-02-16,Suiza,Medio campo
+Désiré Doué,Stade Rennais FC,Ligue 1,2005-06-03,Francia,Medio campo
+Martin Terrier,Stade Rennais FC,Ligue 1,1997-03-04,Francia,Delantero
+Ibrahim Salah,Stade Rennais FC,Ligue 1,2001-08-30,Marruecos,Delantero
+Amine Gouiri,Stade Rennais FC,Ligue 1,2000-02-16,Argelia,Delantero
+Arnaud Kalimuendo,Stade Rennais FC,Ligue 1,2002-01-20,Francia,Delantero
+Bertug Yildirim,Stade Rennais FC,Ligue 1,2002-07-12,Turquía,Delantero
+Mathis Lambourde,Stade Rennais FC,Ligue 1,2006-01-09,Francia,Delantero
+Lucas Chevalier,LOSC Lille,Ligue 1,2001-11-06,Francia,Portero
+Vito Mannone,LOSC Lille,Ligue 1,1988-03-02,Italia,Portero
+Adam Jakubech,LOSC Lille,Ligue 1,1997-01-02,Eslovaquia,Portero
+Tiago Djaló,LOSC Lille,Ligue 1,2000-04-09,Portugal,Defensa
+Leny Yoro,LOSC Lille,Ligue 1,2005-11-13,Francia,Defensa
+Bafodé Diakité,LOSC Lille,Ligue 1,2001-01-06,Francia,Defensa
+Alexsandro,LOSC Lille,Ligue 1,1999-08-09,Brasil,Defensa
+Samuel Umtiti,LOSC Lille,Ligue 1,1993-11-14,Francia,Defensa
+Gabriel Gudmundsson,LOSC Lille,Ligue 1,1999-04-29,Suecia,Defensa
+Ismaily,LOSC Lille,Ligue 1,1990-01-11,Brasil,Defensa
+Tiago Santos,LOSC Lille,Ligue 1,2002-07-23,Portugal,Defensa
+Akim Zedadka,LOSC Lille,Ligue 1,1995-05-30,Argelia,Defensa
+Benjamin André,LOSC Lille,Ligue 1,1990-08-03,Francia,Medio campo
+Ignacio Miramón,LOSC Lille,Ligue 1,2003-06-12,Argentina,Medio campo
+Angel Gomes,LOSC Lille,Ligue 1,2000-08-31,Inglaterra,Medio campo
+Nabil Bentaleb,LOSC Lille,Ligue 1,1994-11-24,Argelia,Medio campo
+Yusuf Yazici,LOSC Lille,Ligue 1,1997-01-29,Turquía,Medio campo
+Rémy Cabella,LOSC Lille,Ligue 1,1990-03-08,Francia,Medio campo
+Hákon Arnar Haraldsson,LOSC Lille,Ligue 1,2003-04-10,Islandia,Delantero
+Alan Virginius,LOSC Lille,Ligue 1,2003-01-03,Francia,Delantero
+Ivan Cavaleiro,LOSC Lille,Ligue 1,1993-10-18,Angola,Delantero
+Edon Zhegrova,LOSC Lille,Ligue 1,1999-03-31,República de Kosovo,Delantero
+Adam Ounas,LOSC Lille,Ligue 1,1996-11-11,Argelia,Delantero
+Jonathan David,LOSC Lille,Ligue 1,2000-01-14,Canadá,Delantero
+Anthony Lopes,Olympique de Lyon,Ligue 1,1990-10-01,Portugal,Portero
+Rémy Riou,Olympique de Lyon,Ligue 1,1987-08-06,Francia,Portero
+Duje Caleta-Car,Olympique de Lyon,Ligue 1,1996-09-17,Croacia,Defensa
+Sinaly Diomandé,Olympique de Lyon,Ligue 1,2001-04-09,Costa de Marfil,Defensa
+Dejan Lovren,Olympique de Lyon,Ligue 1,1989-07-05,Croacia,Defensa
+Mamadou Sarr,Olympique de Lyon,Ligue 1,2005-08-29,Francia,Defensa
+Jake O'Brien,Olympique de Lyon,Ligue 1,2001-05-15,Irlanda,Defensa
+Nicolás Tagliafico,Olympique de Lyon,Ligue 1,1992-08-31,Argentina,Defensa
+Henrique Silva,Olympique de Lyon,Ligue 1,1994-04-25,Brasil,Defensa
+Achraf Laâziri,Olympique de Lyon,Ligue 1,2003-07-08,Marruecos,Defensa
+Saël Kumbedi,Olympique de Lyon,Ligue 1,2005-03-26,Francia,Defensa
+Clinton Mata,Olympique de Lyon,Ligue 1,1992-11-07,Angola,Defensa
+Johann Lepenant,Olympique de Lyon,Ligue 1,2002-10-22,Francia,Medio campo
+Paul Akouokou,Olympique de Lyon,Ligue 1,1997-12-20,Costa de Marfil,Medio campo
+Maxence Caqueret,Olympique de Lyon,Ligue 1,2000-02-15,Francia,Medio campo
+Corentin Tolisso,Olympique de Lyon,Ligue 1,1994-08-03,Francia,Medio campo
+Ainsley Maitland-Niles,Olympique de Lyon,Ligue 1,1997-08-29,Inglaterra,Medio campo
+Skelly Alvero,Olympique de Lyon,Ligue 1,2002-05-04,Francia,Medio campo
+Mohamed El Arouch,Olympique de Lyon,Ligue 1,2004-04-06,Francia,Medio campo
+Rayan Cherki,Olympique de Lyon,Ligue 1,2003-08-17,Francia,Medio campo
+Jeffinho,Olympique de Lyon,Ligue 1,1999-12-30,Brasil,Delantero
+Ernest Nuamah,Olympique de Lyon,Ligue 1,2003-11-01,Ghana,Delantero
+Diego Moreira,Olympique de Lyon,Ligue 1,2004-08-06,Portugal,Delantero
+Alexandre Lacazette,Olympique de Lyon,Ligue 1,1991-05-28,Francia,Delantero
+Mama Baldé,Olympique de Lyon,Ligue 1,1995-11-06,Guinea-Bisáu,Delantero
+Tino Kadewere,Olympique de Lyon,Ligue 1,1996-01-05,Zimbabue,Delantero
+Mory Diaw,Clermont Foot 63,Ligue 1,1993-06-22,Senegal,Portero
+Massamba N'Diaye,Clermont Foot 63,Ligue 1,2001-10-08,Senegal,Portero
+Théo Borne,Clermont Foot 63,Ligue 1,2002-07-15,Francia,Portero
+Alidu Seidu,Clermont Foot 63,Ligue 1,2000-06-04,Ghana,Defensa
+Andy Pelmard,Clermont Foot 63,Ligue 1,2000-03-12,Francia,Defensa
+Maximiliano Caufriez,Clermont Foot 63,Ligue 1,1997-02-16,Bélgica,Defensa
+Florent Ogier,Clermont Foot 63,Ligue 1,1989-03-21,Francia,Defensa
+Neto Borges,Clermont Foot 63,Ligue 1,1996-09-13,Brasil,Defensa
+Yoël Armougom,Clermont Foot 63,Ligue 1,1998-06-05,Francia,Defensa
+Cheick Oumar Konaté,Clermont Foot 63,Ligue 1,2004-04-02,Malí,Defensa
+Mehdi Zeffane,Clermont Foot 63,Ligue 1,1992-05-19,Argelia,Defensa
+Yohann Magnin,Clermont Foot 63,Ligue 1,1997-06-21,Francia,Medio campo
+Maxime Gonalons,Clermont Foot 63,Ligue 1,1989-03-10,Francia,Medio campo
+Johan Gastien,Clermont Foot 63,Ligue 1,1988-01-25,Francia,Medio campo
+Habib Keïta,Clermont Foot 63,Ligue 1,2002-02-05,Malí,Medio campo
+Jim Allevinah,Clermont Foot 63,Ligue 1,1995-02-27,Gabón,Medio campo
+Muhammed Cham,Clermont Foot 63,Ligue 1,2000-09-26,Austria,Medio campo
+Aïman Maurer,Clermont Foot 63,Ligue 1,2004-09-25,Marruecos,Medio campo
+Elbasan Rashani,Clermont Foot 63,Ligue 1,1993-05-09,República de Kosovo,Delantero
+Jérémie Bela,Clermont Foot 63,Ligue 1,1993-04-08,Angola,Delantero
+Bilal Boutobba,Clermont Foot 63,Ligue 1,1998-08-29,Francia,Delantero
+Shamar Nicholson,Clermont Foot 63,Ligue 1,1997-03-16,Jamaica,Delantero
+Grejohn Kyei,Clermont Foot 63,Ligue 1,1995-08-12,Francia,Delantero
+Komnen Andric,Clermont Foot 63,Ligue 1,1995-07-01,Serbia,Delantero
+Marcin Bulka,OGC Niza,Ligue 1,1999-10-04,Polonia,Portero
+Salvatore Sirigu,OGC Niza,Ligue 1,1987-01-12,Italia,Portero
+Teddy Boulhendi,OGC Niza,Ligue 1,2001-04-09,Argelia,Portero
+Jean-Clair Todibo,OGC Niza,Ligue 1,1999-12-30,Francia,Defensa
+Dante,OGC Niza,Ligue 1,1983-10-18,Brasil,Defensa
+Yannis Nahounou,OGC Niza,Ligue 1,2004-05-16,Francia,Defensa
+Amidou Doumbouya,OGC Niza,Ligue 1,2007-08-05,Francia,Defensa
+Romain Perraud,OGC Niza,Ligue 1,1997-09-22,Francia,Defensa
+Melvin Bard,OGC Niza,Ligue 1,2000-11-06,Francia,Defensa
+Ayoub Amraoui,OGC Niza,Ligue 1,2004-05-14,Marruecos,Defensa
+Jordan Lotomba,OGC Niza,Ligue 1,1998-09-29,Suiza,Defensa
+Youcef Atal,OGC Niza,Ligue 1,1996-05-17,Argelia,Defensa
+Antoine Mendy,OGC Niza,Ligue 1,2004-05-27,Francia,Defensa
+Youssouf Ndayishimiye,OGC Niza,Ligue 1,1998-10-27,Burundi,Medio campo
+Pablo Rosario,OGC Niza,Ligue 1,1997-01-07,Países Bajos,Medio campo
+Alexis Beka Beka,OGC Niza,Ligue 1,2001-03-29,Francia,Medio campo
+Reda Belahyane,OGC Niza,Ligue 1,2004-06-01,Francia,Medio campo
+Khéphren Thuram,OGC Niza,Ligue 1,2001-03-26,Francia,Medio campo
+Hicham Boudaoui,OGC Niza,Ligue 1,1999-09-23,Argelia,Medio campo
+Morgan Sanson,OGC Niza,Ligue 1,1994-08-18,Francia,Medio campo
+Daouda Traoré,OGC Niza,Ligue 1,2006-07-22,Francia,Medio campo
+Alexis Claude-Maurice,OGC Niza,Ligue 1,1998-06-06,Francia,Medio campo
+Sofiane Diop,OGC Niza,Ligue 1,2000-06-09,Francia,Delantero
+Jérémie Boga,OGC Niza,Ligue 1,1997-01-03,Costa de Marfil,Delantero
+Aliou Baldé,OGC Niza,Ligue 1,2002-12-12,Senegal,Delantero
+Badredine Bouanani,OGC Niza,Ligue 1,2004-12-08,Argelia,Delantero
+Terem Moffi,OGC Niza,Ligue 1,1999-05-25,Nigeria,Delantero
+Gaëtan Laborde,OGC Niza,Ligue 1,1994-05-03,Francia,Delantero
+Evann Guessand,OGC Niza,Ligue 1,2001-07-01,Francia,Delantero
+Yvon Mvogo,FC Lorient,Ligue 1,1994-06-06,Suiza,Portero
+Alfred Gomis,FC Lorient,Ligue 1,1993-09-05,Senegal,Portero
+Dominique Youfeigane,FC Lorient,Ligue 1,2000-02-07,República Centroafricana,Portero
+Montassar Talbi,FC Lorient,Ligue 1,1998-05-26,Túnez,Defensa
+Isaak Touré,FC Lorient,Ligue 1,2003-03-28,Francia,Defensa
+Formose Mendy,FC Lorient,Ligue 1,2001-01-02,Senegal,Defensa
+Julien Laporte,FC Lorient,Ligue 1,1993-11-04,Francia,Defensa
+Loris Mouyokolo,FC Lorient,Ligue 1,2001-05-22,Francia,Defensa
+Benjamin Mendy,FC Lorient,Ligue 1,1994-07-17,Francia,Defensa
+Darlin Yongwa,FC Lorient,Ligue 1,2000-09-22,Camerún,Defensa
+Vincent Le Goff,FC Lorient,Ligue 1,1989-10-15,Francia,Defensa
+Gédéon Kalulu,FC Lorient,Ligue 1,1997-08-29,República Democrática del Congo,Defensa
+Igor Silva,FC Lorient,Ligue 1,1996-08-21,Brasil,Defensa
+Dembo Sylla,FC Lorient,Ligue 1,2002-11-10,Guinea,Defensa
+Laurent Abergel,FC Lorient,Ligue 1,1993-02-01,Francia,Medio campo
+Tiemoué Bakayoko,FC Lorient,Ligue 1,1994-08-17,Francia,Medio campo
+Bonke Innocent,FC Lorient,Ligue 1,1996-01-20,Nigeria,Medio campo
+Jean-Victor Makengo,FC Lorient,Ligue 1,1998-06-12,Francia,Medio campo
+Ayman Kari,FC Lorient,Ligue 1,2004-11-19,Francia,Medio campo
+Romain Faivre,FC Lorient,Ligue 1,1998-07-14,Francia,Medio campo
+Théo Le Bris,FC Lorient,Ligue 1,2002-10-01,Francia,Medio campo
+Julien Ponceau,FC Lorient,Ligue 1,2000-11-28,Francia,Medio campo
+Quentin Boisgard,FC Lorient,Ligue 1,1997-03-17,Francia,Medio campo
+Eli Junior Kroupi,FC Lorient,Ligue 1,2006-06-23,Francia,Medio campo
+Joel Mvuka,FC Lorient,Ligue 1,2002-11-12,Noruega,Delantero
+Bamba Dieng,FC Lorient,Ligue 1,2000-03-23,Senegal,Delantero
+Aiyegun Tosin,FC Lorient,Ligue 1,1998-06-26,Benín,Delantero
+Pablo Pagis,FC Lorient,Ligue 1,2002-12-29,Francia,Delantero
+Adrian Grbic,FC Lorient,Ligue 1,1996-08-04,Austria,Delantero
+Siriné Doucouré,FC Lorient,Ligue 1,2002-04-08,Francia,Delantero
+Yehvann Diouf,Stade de Reims,Ligue 1,1999-11-16,Francia,Portero
+Alexandre Olliero,Stade de Reims,Ligue 1,1996-02-15,Francia,Portero
+Ludovic Butelle,Stade de Reims,Ligue 1,1983-04-03,Francia,Portero
+Emmanuel Agbadou,Stade de Reims,Ligue 1,1997-06-17,Costa de Marfil,Defensa
+Joseph Okumu,Stade de Reims,Ligue 1,1997-05-26,Kenia,Defensa
+Yunis Abdelhamid,Stade de Reims,Ligue 1,1987-09-28,Marruecos,Defensa
+Thibault De Smet,Stade de Reims,Ligue 1,1998-06-05,Bélgica,Defensa
+Josh Wilson-Esbrand,Stade de Reims,Ligue 1,2002-12-26,Inglaterra,Defensa
+Thomas Foket,Stade de Reims,Ligue 1,1994-09-25,Bélgica,Defensa
+Maxime Busi,Stade de Reims,Ligue 1,1999-10-14,Bélgica,Defensa
+Ibrahim Diakité,Stade de Reims,Ligue 1,2003-10-31,Guinea,Defensa
+Marshall Munetsi,Stade de Reims,Ligue 1,1996-06-22,Zimbabue,Medio campo
+Azor Matusiwa,Stade de Reims,Ligue 1,1998-04-28,Países Bajos,Medio campo
+Valentin Atangana Edoa,Stade de Reims,Ligue 1,2005-08-25,Francia,Medio campo
+Teddy Teuma,Stade de Reims,Ligue 1,1993-09-30,Malta,Medio campo
+Amir Richardson,Stade de Reims,Ligue 1,2002-01-24,Marruecos,Medio campo
+Reda Khadra,Stade de Reims,Ligue 1,2001-07-04,Alemania,Medio campo
+Keito Nakamura,Stade de Reims,Ligue 1,2000-07-28,Japón,Delantero
+Mohamed Daramy,Stade de Reims,Ligue 1,2002-01-07,Dinamarca,Delantero
+Mamadou Diakhon,Stade de Reims,Ligue 1,2005-09-22,Francia,Delantero
+Junya Ito,Stade de Reims,Ligue 1,1993-03-09,Japón,Delantero
+Amine Salama,Stade de Reims,Ligue 1,2000-07-18,Francia,Delantero
+Oumar Diakité,Stade de Reims,Ligue 1,2003-12-20,Costa de Marfil,Delantero
+Adama Bojang,Stade de Reims,Ligue 1,2004-05-28,Gambia,Delantero
+Benjamin Lecomte,Montpellier HSC,Ligue 1,1991-04-26,Francia,Portero
+Dimitry Bertaud,Montpellier HSC,Ligue 1,1998-06-06,República Democrática del Congo,Portero
+Belmin Dizdarevic,Montpellier HSC,Ligue 1,2001-08-09,Bosnia y Herzegovina,Portero
+Maxime Estève,Montpellier HSC,Ligue 1,2002-05-26,Francia,Defensa
+Kiki Kouyaté,Montpellier HSC,Ligue 1,1997-04-15,Malí,Defensa
+Christopher Jullien,Montpellier HSC,Ligue 1,1993-03-22,Francia,Defensa
+Becir Omeragic,Montpellier HSC,Ligue 1,2002-01-20,Suiza,Defensa
+Mamadou Sakho,Montpellier HSC,Ligue 1,1990-02-13,Francia,Defensa
+Issiaga Sylla,Montpellier HSC,Ligue 1,1994-01-01,Guinea,Defensa
+Théo Sainte-Luce,Montpellier HSC,Ligue 1,1998-10-20,Francia,Defensa
+Falaye Sacko,Montpellier HSC,Ligue 1,1995-05-01,Malí,Defensa
+Enzo Tchato,Montpellier HSC,Ligue 1,2002-11-23,Camerún,Defensa
+Joris Chotard,Montpellier HSC,Ligue 1,2001-09-24,Francia,Medio campo
+Jordan Ferri,Montpellier HSC,Ligue 1,1992-03-12,Francia,Medio campo
+Khalil Fayad,Montpellier HSC,Ligue 1,2004-06-09,Francia,Medio campo
+Léo Leroy,Montpellier HSC,Ligue 1,2000-02-14,Francia,Medio campo
+Téji Savanier,Montpellier HSC,Ligue 1,1991-12-22,Francia,Medio campo
+Sacha Delaye,Montpellier HSC,Ligue 1,2002-04-23,Francia,Medio campo
+Arnaud Nordin,Montpellier HSC,Ligue 1,1998-06-17,Francia,Delantero
+Mousa Al-Tamari,Montpellier HSC,Ligue 1,1997-06-10,Jordania,Delantero
+Akor Adams,Montpellier HSC,Ligue 1,2000-01-29,Nigeria,Delantero
+Kelvin Yeboah,Montpellier HSC,Ligue 1,2000-05-06,Italia,Delantero
+Wahbi Khazri,Montpellier HSC,Ligue 1,1991-02-08,Túnez,Delantero
+Yanis Guermouche,Montpellier HSC,Ligue 1,2001-04-15,Argelia,Delantero
+Guillaume Restes,Toulouse FC,Ligue 1,2005-03-11,Francia,Portero
+Álex Domínguez,Toulouse FC,Ligue 1,1998-07-30,España,Portero
+Thomas Himeur,Toulouse FC,Ligue 1,2001-01-17,Francia,Portero
+Justin Lacombe,Toulouse FC,Ligue 1,2003-04-09,Francia,Portero
+Rasmus Nicolaisen,Toulouse FC,Ligue 1,1997-03-16,Dinamarca,Defensa
+Logan Costa,Toulouse FC,Ligue 1,2001-04-01,Cabo Verde,Defensa
+Moussa Diarra,Toulouse FC,Ligue 1,2000-11-10,Malí,Defensa
+Kévin Keben,Toulouse FC,Ligue 1,2004-01-26,Camerún,Defensa
+Christian Mawissa Elebi,Toulouse FC,Ligue 1,2005-04-18,Francia,Defensa
+Gabriel Suazo,Toulouse FC,Ligue 1,1997-08-09,Chile,Defensa
+Oliver Zandén,Toulouse FC,Ligue 1,2001-08-14,Suecia,Defensa
+Mikkel Desler,Toulouse FC,Ligue 1,1995-02-19,Dinamarca,Defensa
+Warren Kamanzi,Toulouse FC,Ligue 1,2000-11-11,Noruega,Defensa
+Stijn Spierings,Toulouse FC,Ligue 1,1996-03-12,Países Bajos,Medio campo
+Cristian Cásseres Jr.,Toulouse FC,Ligue 1,2000-01-20,Venezuela,Medio campo
+Vincent Sierro,Toulouse FC,Ligue 1,1995-10-08,Suiza,Medio campo
+Kléri Serber,Toulouse FC,Ligue 1,1998-07-03,Francia,Medio campo
+Noah Lahmadi,Toulouse FC,Ligue 1,2005-01-05,Francia,Medio campo
+Aron Dønnum,Toulouse FC,Ligue 1,1998-04-20,Noruega,Medio campo
+Mamady Bangré,Toulouse FC,Ligue 1,2001-06-15,Burkina Faso,Medio campo
+Niklas Schmidt,Toulouse FC,Ligue 1,1998-03-01,Alemania,Medio campo
+Denis Genreau,Toulouse FC,Ligue 1,1999-05-21,Australia,Medio campo
+César Gelabert,Toulouse FC,Ligue 1,2000-10-31,España,Medio campo
+Naatan Skyttä,Toulouse FC,Ligue 1,2002-05-07,Finlandia,Medio campo
+Ibrahim Cissoko,Toulouse FC,Ligue 1,2003-03-26,Países Bajos,Delantero
+Zakaria Aboukhlal,Toulouse FC,Ligue 1,2000-02-18,Marruecos,Delantero
+Noah Edjouma,Toulouse FC,Ligue 1,2005-10-04,Francia,Delantero
+Thijs Dallinga,Toulouse FC,Ligue 1,2000-08-03,Países Bajos,Delantero
+Yanis Begraoui,Toulouse FC,Ligue 1,2001-07-04,Marruecos,Delantero
+Frank Magri,Toulouse FC,Ligue 1,1999-09-04,Camerún,Delantero
+Bonota Traoré,Toulouse FC,Ligue 1,2003-06-30,Francia,Delantero
+Marco Bizot,Stade Brestois 29,Ligue 1,1991-03-10,Países Bajos,Portero
+Yan Marillat,Stade Brestois 29,Ligue 1,1994-08-12,Francia,Portero
+Grégoire Coudert,Stade Brestois 29,Ligue 1,1999-04-03,Francia,Portero
+Lilian Brassier,Stade Brestois 29,Ligue 1,1999-11-02,Francia,Defensa
+Brendan Chardonnet,Stade Brestois 29,Ligue 1,1994-12-22,Francia,Defensa
+Achraf Dari,Stade Brestois 29,Ligue 1,1999-05-06,Marruecos,Defensa
+Josué Escartin,Stade Brestois 29,Ligue 1,2003-03-21,Francia,Defensa
+Bradley Locko,Stade Brestois 29,Ligue 1,2002-05-06,Francia,Defensa
+Jordan Amavi,Stade Brestois 29,Ligue 1,1994-03-09,Francia,Defensa
+Julien Le Cardinal,Stade Brestois 29,Ligue 1,1997-08-03,Francia,Defensa
+Kenny Lala,Stade Brestois 29,Ligue 1,1991-10-03,Francia,Defensa
+Pierre Lees-Melou,Stade Brestois 29,Ligue 1,1993-05-25,Francia,Medio campo
+Jonas Martin,Stade Brestois 29,Ligue 1,1990-04-09,Francia,Medio campo
+Mahdi Camara,Stade Brestois 29,Ligue 1,1998-06-30,Francia,Medio campo
+Hugo Magnetti,Stade Brestois 29,Ligue 1,1998-05-30,Francia,Medio campo
+Mathias Pereira Lage,Stade Brestois 29,Ligue 1,1996-11-30,Francia,Medio campo
+Axel Camblan,Stade Brestois 29,Ligue 1,2003-08-30,Francia,Medio campo
+Kamory Doumbia,Stade Brestois 29,Ligue 1,2003-02-18,Malí,Medio campo
+Billal Brahimi,Stade Brestois 29,Ligue 1,2000-03-14,Argelia,Delantero
+Jérémy Le Douaron,Stade Brestois 29,Ligue 1,1998-04-21,Francia,Delantero
+Adrien Lebeau,Stade Brestois 29,Ligue 1,1999-07-08,Francia,Delantero
+Romain Del Castillo,Stade Brestois 29,Ligue 1,1996-03-29,Francia,Delantero
+Martín Satriano,Stade Brestois 29,Ligue 1,2001-02-20,Uruguay,Delantero
+Steve Mounié,Stade Brestois 29,Ligue 1,1994-09-29,Benín,Delantero
+Matz Sels,Racing Club de Estrasburgo,Ligue 1,1992-02-26,Bélgica,Portero
+Alaa Bellaarouch,Racing Club de Estrasburgo,Ligue 1,2002-02-01,Marruecos,Portero
+Alexandre Pierre,Racing Club de Estrasburgo,Ligue 1,2001-02-25,Haití,Portero
+Abakar Sylla,Racing Club de Estrasburgo,Ligue 1,2002-12-25,Costa de Marfil,Defensa
+Ismaël Doukouré,Racing Club de Estrasburgo,Ligue 1,2003-07-24,Francia,Defensa
+Gerzino Nyamsi,Racing Club de Estrasburgo,Ligue 1,1997-01-22,Francia,Defensa
+Junior Mwanga,Racing Club de Estrasburgo,Ligue 1,2003-05-11,Francia,Defensa
+Saïdou Sow,Racing Club de Estrasburgo,Ligue 1,2002-07-04,Guinea,Defensa
+Lucas Perrin,Racing Club de Estrasburgo,Ligue 1,1998-11-19,Francia,Defensa
+Steven Baseya,Racing Club de Estrasburgo,Ligue 1,2005-01-14,Francia,Defensa
+Eduard Sobol,Racing Club de Estrasburgo,Ligue 1,1995-04-20,Ucrania,Defensa
+Thomas Delaine,Racing Club de Estrasburgo,Ligue 1,1992-03-24,Francia,Defensa
+Maxime Bastian,Racing Club de Estrasburgo,Ligue 1,2001-05-09,Francia,Defensa
+Frédéric Guilbert,Racing Club de Estrasburgo,Ligue 1,1994-12-24,Francia,Defensa
+Karol Fila,Racing Club de Estrasburgo,Ligue 1,1998-06-13,Polonia,Defensa
+Marvin Senaya,Racing Club de Estrasburgo,Ligue 1,2001-01-28,Francia,Defensa
+Ibrahima Sissoko,Racing Club de Estrasburgo,Ligue 1,1997-10-27,Malí,Medio campo
+Jean-Eudes Aholou,Racing Club de Estrasburgo,Ligue 1,1994-03-20,Costa de Marfil,Medio campo
+Sanjin Prcic,Racing Club de Estrasburgo,Ligue 1,1993-11-20,Bosnia y Herzegovina,Medio campo
+Jessy Deminguet,Racing Club de Estrasburgo,Ligue 1,1998-01-07,Francia,Medio campo
+Habib Diarra,Racing Club de Estrasburgo,Ligue 1,2004-01-03,Francia,Medio campo
+Dilane Bakwa,Racing Club de Estrasburgo,Ligue 1,2002-08-26,Francia,Delantero
+Ângelo,Racing Club de Estrasburgo,Ligue 1,2004-12-21,Brasil,Delantero
+Emanuel Emegha,Racing Club de Estrasburgo,Ligue 1,2003-02-03,Países Bajos,Delantero
+Moïse Sahi Dion,Racing Club de Estrasburgo,Ligue 1,2001-12-20,Costa de Marfil,Delantero
+Kévin Gameiro,Racing Club de Estrasburgo,Ligue 1,1987-05-09,Francia,Delantero
+Lebo Mothiba,Racing Club de Estrasburgo,Ligue 1,1996-01-28,Sudáfrica,Delantero
+Alban Lafont,FC Nantes,Ligue 1,1999-01-23,Francia,Portero
+Rémy Descamps,FC Nantes,Ligue 1,1996-06-25,Francia,Portero
+Denis Petric,FC Nantes,Ligue 1,1988-05-24,Eslovenia,Portero
+Jean-Kévin Duverne,FC Nantes,Ligue 1,1997-07-12,Haití,Defensa
+Jean-Charles Castelletto,FC Nantes,Ligue 1,1995-01-26,Camerún,Defensa
+Eray Cömert,FC Nantes,Ligue 1,1998-02-04,Suiza,Defensa
+Nicolas Pallois,FC Nantes,Ligue 1,1987-09-19,Francia,Defensa
+Nathan Zeze,FC Nantes,Ligue 1,2005-06-18,Francia,Defensa
+Bastien Meupiyou,FC Nantes,Ligue 1,2006-03-19,Francia,Defensa
+Quentin Merlin,FC Nantes,Ligue 1,2002-05-16,Francia,Defensa
+Jaouen Hadjam,FC Nantes,Ligue 1,2003-03-26,Argelia,Defensa
+Fabien Centonze,FC Nantes,Ligue 1,1996-01-16,Francia,Defensa
+Ronaël Pierre-Gabriel,FC Nantes,Ligue 1,1998-06-13,Francia,Defensa
+Pedro Chirivella,FC Nantes,Ligue 1,1997-05-23,España,Medio campo
+Lamine Diack,FC Nantes,Ligue 1,2000-11-15,Senegal,Medio campo
+Samuel Moutoussamy,FC Nantes,Ligue 1,1996-08-12,República Democrática del Congo,Medio campo
+Douglas Augusto,FC Nantes,Ligue 1,1997-01-13,Brasil,Medio campo
+Moussa Sissoko,FC Nantes,Ligue 1,1989-08-16,Francia,Medio campo
+Adson,FC Nantes,Ligue 1,2000-10-06,Brasil,Medio campo
+Florent Mollet,FC Nantes,Ligue 1,1991-11-19,Francia,Medio campo
+Moses Simon,FC Nantes,Ligue 1,1995-07-12,Nigeria,Delantero
+Stredair Appuah,FC Nantes,Ligue 1,2004-06-27,Francia,Delantero
+Marquinhos,FC Nantes,Ligue 1,2003-04-07,Brasil,Delantero
+Marcus Coco,FC Nantes,Ligue 1,1996-06-24,Francia,Delantero
+Abdoul Kader Bamba,FC Nantes,Ligue 1,1994-04-25,Francia,Delantero
+Mostafa Mohamed,FC Nantes,Ligue 1,1997-11-28,Egipto,Delantero
+Matthis Abline,FC Nantes,Ligue 1,2003-03-28,Francia,Delantero
+Ignatius Ganago,FC Nantes,Ligue 1,1999-02-16,Camerún,Delantero
+Arthur Desmas,Le Havre AC,Ligue 1,1994-04-07,Francia,Portero
+Mathieu Gorgelin,Le Havre AC,Ligue 1,1990-08-05,Francia,Portero
+Mohamed Koné,Le Havre AC,Ligue 1,2002-03-07,Costa de Marfil,Portero
+Arouna Sangante,Le Havre AC,Ligue 1,2002-04-12,Senegal,Defensa
+Yoann Salmier,Le Havre AC,Ligue 1,1992-11-21,Francia,Defensa
+Gautier Lloris,Le Havre AC,Ligue 1,1995-07-18,Francia,Defensa
+Étienne Youté Kinkoué,Le Havre AC,Ligue 1,2002-01-14,Francia,Defensa
+Yoni Gomis,Le Havre AC,Ligue 1,2005-09-23,Francia,Defensa
+Christopher Operi,Le Havre AC,Ligue 1,1997-04-29,Costa de Marfil,Defensa
+Cheick Doumbia,Le Havre AC,Ligue 1,2004-10-18,Francia,Defensa
+Oualid El Hajjam,Le Havre AC,Ligue 1,1991-02-19,Marruecos,Defensa
+Loïc Nego,Le Havre AC,Ligue 1,1991-01-15,Hungría,Defensa
+Abdoulaye Touré,Le Havre AC,Ligue 1,1994-03-03,Guinea,Medio campo
+Nolan Mbemba,Le Havre AC,Ligue 1,1995-02-19,República del Congo,Medio campo
+Aloïs Confais,Le Havre AC,Ligue 1,1996-09-07,Francia,Medio campo
+Daler Kuzyaev,Le Havre AC,Ligue 1,1993-01-15,Rusia,Medio campo
+Rassoul Ndiaye,Le Havre AC,Ligue 1,2001-12-11,Senegal,Medio campo
+Yassine Kechta,Le Havre AC,Ligue 1,2002-02-25,Marruecos,Medio campo
+Oussama Targhalline,Le Havre AC,Ligue 1,2002-05-20,Marruecos,Medio campo
+Mokrane Bentoumi,Le Havre AC,Ligue 1,2005-06-16,Francia,Medio campo
+Nabil Alioui,Le Havre AC,Ligue 1,1999-02-18,Francia,Delantero
+Issa Soumaré,Le Havre AC,Ligue 1,2000-10-10,Senegal,Delantero
+Kandet Diawara,Le Havre AC,Ligue 1,2000-02-10,Francia,Delantero
+Samuel Grandsir,Le Havre AC,Ligue 1,1996-08-14,Francia,Delantero
+Josué Casimir,Le Havre AC,Ligue 1,2001-09-24,Francia,Delantero
+Emmanuel Sabbi,Le Havre AC,Ligue 1,1997-12-24,Estados Unidos,Delantero
+Mohamed Bayo,Le Havre AC,Ligue 1,1998-06-04,Guinea,Delantero
+Antoine Joujou,Le Havre AC,Ligue 1,2003-03-12,Francia,Delantero
+Andy Logbo,Le Havre AC,Ligue 1,2004-05-06,Francia,Delantero
+Guillaume Dietsch,FC Metz,Ligue 1,2001-04-17,Francia,Portero
+Alexandre Oukidja,FC Metz,Ligue 1,1988-07-19,Argelia,Portero
+Marc-Aurèle Caillard,FC Metz,Ligue 1,1994-05-12,Francia,Portero
+Fali Candé,FC Metz,Ligue 1,1998-01-24,Guinea-Bisáu,Defensa
+Christophe Hérelle,FC Metz,Ligue 1,1992-08-22,Francia,Defensa
+Ismaël Traoré,FC Metz,Ligue 1,1986-08-18,Costa de Marfil,Defensa
+Abou Lo,FC Metz,Ligue 1,2000-01-02,Senegal,Defensa
+Sadibou Sané,FC Metz,Ligue 1,2004-06-10,Senegal,Defensa
+Matthieu Udol,FC Metz,Ligue 1,1996-03-20,Francia,Defensa
+Kevin Van Den Kerkhof,FC Metz,Ligue 1,1996-03-14,Argelia,Defensa
+Koffi Kouao,FC Metz,Ligue 1,1998-05-20,Costa de Marfil,Defensa
+Maxime Colin,FC Metz,Ligue 1,1991-11-15,Francia,Defensa
+Habib Maïga,FC Metz,Ligue 1,1996-01-01,Costa de Marfil,Medio campo
+Kévin N'Doram,FC Metz,Ligue 1,1996-01-22,Francia,Medio campo
+Danley Jean Jacques,FC Metz,Ligue 1,2000-05-20,Haití,Medio campo
+Arthur Atta,FC Metz,Ligue 1,2003-01-14,Francia,Medio campo
+Jean N'Guessan,FC Metz,Ligue 1,2003-04-17,Costa de Marfil,Medio campo
+Sami Lahssaini,FC Metz,Ligue 1,1998-09-18,Bélgica,Medio campo
+Joseph Nduquidi,FC Metz,Ligue 1,2004-10-31,Francia,Medio campo
+Lamine Camara,FC Metz,Ligue 1,2004-01-01,Senegal,Medio campo
+Cheikh Sabaly,FC Metz,Ligue 1,1999-03-04,Senegal,Delantero
+Ablie Jallow,FC Metz,Ligue 1,1998-11-14,Gambia,Delantero
+Joel Asoro,FC Metz,Ligue 1,1999-04-27,Suecia,Delantero
+Warren Tchimbembé,FC Metz,Ligue 1,1998-04-21,República del Congo,Delantero
+Malick Mbaye,FC Metz,Ligue 1,2004-04-06,Senegal,Delantero
+Óscar Estupiñán,FC Metz,Ligue 1,1996-12-29,Colombia,Delantero
+Benjamin Tetteh,FC Metz,Ligue 1,1997-07-10,Ghana,Delantero
+Simon Elisor,FC Metz,Ligue 1,1999-07-22,Francia,Delantero
+Ibou Sané,FC Metz,Ligue 1,2005-03-28,Senegal,Delantero

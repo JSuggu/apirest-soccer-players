@@ -1,0 +1,209 @@
+Real Madrid CF,La Liga
+FC Barcelona,La Liga
+Atlético de Madrid,La Liga
+Real Sociedad,La Liga
+Sevilla FC,La Liga
+Real Betis Balompié,La Liga
+Villarreal CF,La Liga
+Athletic Club,La Liga
+Valencia CF,La Liga
+CA Osasuna,La Liga
+RC Celta de Vigo,La Liga
+Girona FC,La Liga
+Getafe CF,La Liga
+RCD Mallorca,La Liga
+UD Almería,La Liga
+Rayo Vallecano,La Liga
+Cádiz CF,La Liga
+Granada CF,La Liga
+Deportivo Alavés,La Liga
+UD Las Palmas,La Liga
+Manchester City,Premier League
+Arsenal FC,Premier League
+Chelsea FC,Premier League
+Liverpool FC,Premier League
+Manchester United,Premier League
+Tottenham Hotspur,Premier League
+Newcastle United,Premier League
+Aston Villa,Premier League
+West Ham United,Premier League
+Brighton And Hove Albion,Premier League
+Nottingham Forest,Premier League
+Brentford FC,Premier League
+Crystal Palace,Premier League
+Everton FC,Premier League
+AFC Bournemouth,Premier League
+Wolverhampton Wanderers,Premier League
+Fulham FC,Premier League
+Burnley FC,Premier League
+Sheffield United,Premier League
+Luton Town,Premier League
+SSC Nápoles,Serie A
+AC Milan,Serie A
+Inter de Milán,Serie A
+Juventus de Turín,Serie A
+AS Roma,Serie A
+Atalanta de Bérgamo,Serie A
+SS Lazio,Serie A
+Fiorentina,Serie A
+Torino FC,Serie A
+Bolonia,Serie A
+US Sassuolo,Serie A
+Udinese,Serie A
+Génova,Serie A
+US Salernitana 1919,Serie A
+AC Monza,Serie A
+FC Empoli,Serie A
+Hellas Verona,Serie A
+US Lecce,Serie A
+Cagliari,Serie A
+Frosinone Calcio,Serie A
+Bayern Múnich,Bundesliga
+Borussia Dortmund,Bundesliga
+Bayer 04 Leverkusen,Bundesliga
+RB Leipzig,Bundesliga
+VfL Wolfsburgo,Bundesliga
+1.FC Unión Berlín,Bundesliga
+Borussia Mönchengladbach,Bundesliga
+Eintracht Fráncfort,Bundesliga
+SC Friburgo,Bundesliga
+TSG 1899 Hoffenheim,Bundesliga
+FC Augsburgo,Bundesliga
+VfB Stuttgart,Bundesliga
+1.FSV Mainz 05,Bundesliga
+FC Colonia,Bundesliga
+SV Werder Bremen,Bundesliga
+VfL Bochum,Bundesliga
+SV Darmstadt 98,Bundesliga
+1.FC Heidenheim 1846,Bundesliga
+París Saint-Germain FC,Ligue 1
+AS Mónaco,Ligue 1
+Stade Rennais FC,Ligue 1
+Olympique de Marsella,Ligue 1
+OGC Niza,Ligue 1
+LOSC Lille,Ligue 1
+RC Lens,Ligue 1
+Olympique de Lyon,Ligue 1
+FC Nantes,Ligue 1
+Racing Club de Estrasburgo,Ligue 1
+FC Lorient,Ligue 1
+Montpellier HSC,Ligue 1
+Stade de Reims,Ligue 1
+Stade Brestois 29,Ligue 1
+Toulouse FC,Ligue 1
+Clermont Foot 63,Ligue 1
+Le Havre AC,Ligue 1
+FC Metz,Ligue 1
+CR Flamengo,Campeonato Brasileño de Serie A
+SE Palmeiras,Campeonato Brasileño de Serie A
+São Paulo FC,Campeonato Brasileño de Serie A
+Club Athletico Paranaense,Campeonato Brasileño de Serie A
+Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A
+Clube Atlético Mineiro,Campeonato Brasileño de Serie A
+Fluminense Football Club,Campeonato Brasileño de Serie A
+Red Bull Bragantino,Campeonato Brasileño de Serie A
+Sport Club Internacional,Campeonato Brasileño de Serie A
+Santos FC,Campeonato Brasileño de Serie A
+Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A
+Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A
+Esporte Clube Bahia,Campeonato Brasileño de Serie A
+Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A
+Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A
+Fortaleza Esporte Clube,Campeonato Brasileño de Serie A
+Coritiba Foot Ball Club,Campeonato Brasileño de Serie A
+América Futebol Clube (MG),Campeonato Brasileño de Serie A
+Goiás EC,Campeonato Brasileño de Serie A
+Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A
+CA River Plate,Liga Profesional de Fútbol
+CA Boca Juniors,Liga Profesional de Fútbol
+CA San Lorenzo de Almagro,Liga Profesional de Fútbol
+CA Talleres,Liga Profesional de Fútbol
+Racing Club,Liga Profesional de Fútbol
+CA Vélez Sarsfield,Liga Profesional de Fútbol
+Club Estudiantes de La Plata,Liga Profesional de Fútbol
+AA Argentinos Juniors,Liga Profesional de Fútbol
+CSD Defensa y Justicia,Liga Profesional de Fútbol
+CA Newell's Old Boys,Liga Profesional de Fútbol
+Club Atlético Lanús,Liga Profesional de Fútbol
+Club Atlético Tigre,Liga Profesional de Fútbol
+CA Huracán,Liga Profesional de Fútbol
+Club Atlético Colón,Liga Profesional de Fútbol
+Club Atlético Tucumán,Liga Profesional de Fútbol
+CA Banfield,Liga Profesional de Fútbol
+CA Independiente,Liga Profesional de Fútbol
+Club de Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol
+Club Atlético Belgrano,Liga Profesional de Fútbol
+CA Rosario Central,Liga Profesional de Fútbol
+Club Atlético Unión,Liga Profesional de Fútbol
+CD Godoy Cruz Antonio Tomba,Liga Profesional de Fútbol
+Instituto AC Córdoba,Liga Profesional de Fútbol
+CA Barracas Central,Liga Profesional de Fútbol
+CA Central Córdoba (SdE),Liga Profesional de Fútbol
+CA Platense,Liga Profesional de Fútbol
+CA Sarmiento (Junín),Liga Profesional de Fútbol
+Arsenal Fútbol Club,Liga Profesional de Fútbol
+Inter Miami CF,Major League Soccer
+Atlanta United FC,Major League Soccer
+Los Ángeles FC,Major League Soccer
+Philadelphia Union,Major League Soccer
+New York City FC,Major League Soccer
+Seattle Sounders FC,Major League Soccer
+FC Cincinnati,Major League Soccer
+FC Dallas,Major League Soccer
+Los Ángeles Galaxy,Major League Soccer
+Austin FC,Major League Soccer
+Orlando City SC,Major League Soccer
+New England Revolution,Major League Soccer
+San José Earthquakes,Major League Soccer
+Nashville SC,Major League Soccer
+Columbus Crew,Major League Soccer
+Portland Timbers,Major League Soccer
+Vancouver Whitecaps FC,Major League Soccer
+Real Salt Lake City,Major League Soccer
+Minnesota United FC,Major League Soccer
+St. Louis CITY SC,Major League Soccer
+Sporting Kansas City,Major League Soccer
+Charlotte FC,Major League Soccer
+New York Red Bulls,Major League Soccer
+Chicago Fire FC,Major League Soccer
+Toronto FC,Major League Soccer
+Colorado Rapids,Major League Soccer
+Houston Dynamo FC,Major League Soccer
+D.C. United,Major League Soccer
+CF Montréal,Major League Soccer
+SL Benfica,Primeira Liga
+FC Oporto,Primeira Liga
+Sporting de Lisboa,Primeira Liga
+SC Braga,Primeira Liga
+FC Famalicão,Primeira Liga
+Vitória Guimarães SC,Primeira Liga
+Boavista Porto FC,Primeira Liga
+FC Arouca,Primeira Liga
+Gil Vicente FC,Primeira Liga
+GD Estoril Praia,Primeira Liga
+Portimonense SC,Primeira Liga
+Moreirense FC,Primeira Liga
+FC Vizela,Primeira Liga
+GD Chaves,Primeira Liga
+Rio Ave FC,Primeira Liga
+Casa Pia AC,Primeira Liga
+SC Farense,Primeira Liga
+CF Estrela Amadora SAD,Primeira Liga
+Feyenoord Rotterdam,Eredivisie
+PSV Eindhoven,Eredivisie
+Ajax de Ámsterdam,Eredivisie
+AZ Alkmaar,Eredivisie
+FC Utrecht,Eredivisie
+FC Twente Enschede,Eredivisie
+SC Heerenveen,Eredivisie
+Vitesse Arnhem,Eredivisie
+NEC Nijmegen,Eredivisie
+Sparta Rotterdam,Eredivisie
+Excelsior Rotterdam,Eredivisie
+Fortuna Sittard,Eredivisie
+Almere City FC,Eredivisie
+Go Ahead Eagles Deventer,Eredivisie
+PEC Zwolle,Eredivisie
+Heracles Almelo,Eredivisie
+FC Volendam,Eredivisie
+RKC Waalwijk

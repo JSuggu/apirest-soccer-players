@@ -1,0 +1,667 @@
+Washington Aguerre,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1993-04-23,Uruguay,Portero
+Mateus Pasinato,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1992-06-28,Brasil,Portero
+Jori,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1996-03-15,Brasil,Portero
+Matheus Cavichioli,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1986-07-27,Brasil,Portero
+Robson,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2000-07-09,Brasil,Portero
+Iago Maidana,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1996-02-06,Brasil,Defensa
+Éder,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1995-04-05,Brasil,Defensa
+Esteban Burgos,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1992-01-09,Argentina,Defensa
+Ricardo Silva,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1992-08-13,Brasil,Defensa
+Wanderson,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1991-02-07,Brasil,Defensa
+Júlio,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2003-09-28,Brasil,Defensa
+Nicolas,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1997-02-24,Brasil,Defensa
+Marlon Lopes,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1994-02-13,Brasil,Defensa
+Danilo Avelar,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1989-06-09,Brasil,Defensa
+Daniel Borges,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1993-03-23,Brasil,Defensa
+Marcinho,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1996-05-16,Brasil,Defensa
+Lucas Kal,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1996-03-16,Brasil,Medio campo
+Breno Cascardo,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2003-09-25,Brasil,Medio campo
+Javier Méndez,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1994-12-05,Uruguay,Medio campo
+Juninho,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1987-10-23,Brasil,Medio campo
+Alê,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1990-06-06,Brasil,Medio campo
+Mateus Henrique,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2002-10-02,Brasil,Medio campo
+Martín Benítez,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1994-06-17,Argentina,Medio campo
+Emmanuel Martínez,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1994-06-04,Argentina,Medio campo
+Matheusinho,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1998-02-11,Brasil,Medio campo
+Juan Cazares,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1992-04-03,Ecuador,Medio campo
+Rodriguinho,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2003-06-05,Brasil,Medio campo
+Pedrinho,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1999-11-10,Brasil,Delantero
+Everaldo,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1994-05-28,Brasil,Delantero
+Paulinho Bóia,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1998-06-26,Brasil,Delantero
+Felipe Azevedo,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1987-01-10,Brasil,Delantero
+Adyson,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2005-09-22,Brasil,Delantero
+Rodrigo Varanda,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2003-01-11,Brasil,Delantero
+Renato Kayzer,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1996-02-17,Brasil,Delantero
+Mikael,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1999-05-28,Brasil,Delantero
+Gonzalo Mastriani,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1993-04-28,Uruguay,Delantero
+Renato Marques,América Futebol Clube (MG),Campeonato Brasileño de Serie A,2003-12-09,Brasil,Delantero
+Aloísio,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1988-06-19,China,Delantero
+Wellington Paulista,América Futebol Clube (MG),Campeonato Brasileño de Serie A,1983-04-22,Brasil,Delantero
+Bento,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1999-06-10,Brasil,Portero
+Mycael,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2004-03-12,Brasil,Portero
+Léo Linck,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2001-03-03,Brasil,Portero
+Gabriel Pereira,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2002-07-02,Brasil,Portero
+Zé Ivaldo,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1997-02-21,Brasil,Defensa
+Pedro Henrique,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1995-10-02,Brasil,Defensa
+Matheus Felipe,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1998-11-09,Brasil,Defensa
+Kaique Rocha,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2001-02-28,Brasil,Defensa
+Thiago Heleno,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1988-09-17,Brasil,Defensa
+Cacá,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1999-04-25,Brasil,Defensa
+Lucas Esquivel,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2001-10-14,Argentina,Defensa
+Fernando,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1999-09-14,Brasil,Defensa
+Vinicius Kauê,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2003-03-01,Brasil,Defensa
+Bruno Peres,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1990-03-01,Brasil,Defensa
+Madson,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1992-01-13,Brasil,Defensa
+Erick,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1997-11-14,Brasil,Medio campo
+Hugo Moura,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1998-01-03,Brasil,Medio campo
+Fernandinho,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1985-05-04,Brasil,Medio campo
+Christian,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2000-12-19,Brasil,Medio campo
+Alex Santana,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1995-05-13,Brasil,Medio campo
+Arturo Vidal,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1987-05-22,Chile,Medio campo
+Bruno Zapelli,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2002-05-16,Argentina,Medio campo
+Vitor Bueno,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1994-09-05,Brasil,Medio campo
+Thiago Andrade,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2000-10-31,Brasil,Delantero
+Tomás Cuello,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2000-03-05,Argentina,Delantero
+Agustín Canobbio,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1998-10-01,Uruguay,Delantero
+Marcelo Cirino,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1992-01-22,Brasil,Delantero
+Emersonn,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2004-07-16,Brasil,Delantero
+Vitor Roque,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2005-02-28,Brasil,Delantero
+Rômulo,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2002-02-08,Brasil,Delantero
+Luciano Arriagada,Club Athletico Paranaense,Campeonato Brasileño de Serie A,2002-04-30,Chile,Delantero
+Pablo,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1992-06-23,Brasil,Delantero
+Willian,Club Athletico Paranaense,Campeonato Brasileño de Serie A,1986-11-19,Brasil,Delantero
+Everson,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1990-07-22,Brasil,Portero
+Matheus Mendes,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1999-03-10,Brasil,Portero
+Gabriel Delfim,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,2002-07-10,Brasil,Portero
+Igor Rabello,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1995-04-28,Brasil,Defensa
+Bruno Fuchs,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1999-04-01,Brasil,Defensa
+Jemerson,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1992-08-24,Brasil,Defensa
+Mauricio Lemos,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1995-12-28,Uruguay,Defensa
+Réver,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1985-01-04,Brasil,Defensa
+Guilherme Arana,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1997-04-14,Brasil,Defensa
+Rubens,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,2001-06-21,Brasil,Defensa
+Renzo Saravia,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1993-06-16,Argentina,Defensa
+Mariano,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1986-06-23,Brasil,Defensa
+Otávio,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1994-05-04,Brasil,Medio campo
+Rodrigo Battaglia,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1991-07-12,Argentina,Medio campo
+Alan Franco,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1998-08-21,Ecuador,Medio campo
+Patrick,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1992-07-29,Brasil,Medio campo
+Edenilson,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1989-12-18,Brasil,Medio campo
+Matías Zaracho,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1998-03-10,Argentina,Medio campo
+Igor Gomes,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1999-03-17,Brasil,Medio campo
+Hyoran,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1993-05-25,Brasil,Medio campo
+Paulinho,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,2000-07-15,Brasil,Delantero
+Cristian Pavón,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1996-01-21,Argentina,Delantero
+Pedrinho,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1998-04-13,Brasil,Delantero
+Hulk,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1986-07-25,Brasil,Delantero
+Eduardo Vargas,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1989-11-20,Chile,Delantero
+Alan Kardec,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,1989-01-12,Brasil,Delantero
+Isaac,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,2004-03-26,Brasil,Delantero
+Cadu,Clube Atlético Mineiro,Campeonato Brasileño de Serie A,2004-05-24,Brasil,Delantero
+Marcos Felipe,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1996-04-13,Brasil,Portero
+Adriel,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2001-01-14,Brasil,Portero
+Mateus Claus,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1994-08-03,Brasil,Portero
+Danilo Fernandes,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1988-04-03,Brasil,Portero
+Kanu,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1997-03-07,Brasil,Defensa
+Vitor Hugo,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1991-05-20,Brasil,Defensa
+Raul Gustavo,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1999-04-24,Brasil,Defensa
+David Duarte,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-01-24,Brasil,Defensa
+Marcos Victor,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2001-12-26,Brasil,Defensa
+Gabriel Xavier,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2001-05-06,Brasil,Defensa
+Camilo Cándido,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-06-02,Uruguay,Defensa
+Matheus Bahia,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1999-08-11,Brasil,Defensa
+Ryan Carlos,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2002-05-14,Brasil,Defensa
+Caio Roque,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2002-01-09,Brasil,Defensa
+Gilberto,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1993-03-07,Brasil,Defensa
+André,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2003-10-07,Brasil,Defensa
+Cicinho,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1988-12-26,Bulgaria,Defensa
+Nicolás Acevedo,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1999-04-14,Uruguay,Medio campo
+Rezende,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-01-02,Brasil,Medio campo
+Diego Rosa,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2002-10-12,Brasil,Medio campo
+Yago Felipe,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-02-03,Brasil,Medio campo
+Léo Cittadini,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1994-02-27,Brasil,Medio campo
+Thaciano,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-05-12,Brasil,Medio campo
+Cauly,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-09-15,Brasil,Medio campo
+Patrick Verhon,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2004-09-08,Brasil,Medio campo
+Lucas Mugni,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1992-01-12,Argentina,Medio campo
+Biel,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2001-04-01,Brasil,Delantero
+Rafael Ratão,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-11-30,Brasil,Delantero
+Luciano Juba,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1999-08-29,Brasil,Delantero
+Vitor Jacaré,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1999-10-24,Brasil,Delantero
+Kayky,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2003-06-11,Brasil,Delantero
+Ademir,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1995-02-16,Brasil,Delantero
+Everaldo,Esporte Clube Bahia,Campeonato Brasileño de Serie A,1991-07-05,Brasil,Delantero
+Vinicius Mingotti,Esporte Clube Bahia,Campeonato Brasileño de Serie A,2000-01-07,Brasil,Delantero
+Lucas Perri,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1997-12-10,Brasil,Portero
+Gatito Fernández,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1988-03-29,Paraguay,Portero
+Igo Gabriel,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-10-13,Brasil,Portero
+João Fernando,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-03-01,Brasil,Portero
+Adryelson,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1998-03-23,Brasil,Defensa
+Bastos,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1991-03-27,Angola,Defensa
+Victor Cuesta,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1988-11-19,Argentina,Defensa
+Philipe Sampaio,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1994-11-11,Brasil,Defensa
+David Sousa,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-07-04,Brasil,Defensa
+Jefferson Maciel,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2003-05-28,Brasil,Defensa
+Hugo,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-09-20,Brasil,Defensa
+Marçal,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1989-02-19,Brasil,Defensa
+Mateo Ponte,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2003-05-24,Uruguay,Defensa
+Rafael,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1990-07-09,Brasil,Defensa
+Leonel Di Placido,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1994-01-28,Argentina,Defensa
+Marlon Freitas,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1995-03-27,Brasil,Medio campo
+Danilo Barbosa,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1996-02-28,Brasil,Medio campo
+JP Galvão,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-05-07,Brasil,Medio campo
+Patrick de Paula,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1999-09-08,Brasil,Medio campo
+Gabriel Pires,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1993-09-18,Brasil,Medio campo
+Tchê Tchê,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1992-08-30,Brasil,Medio campo
+Raí,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2002-04-21,Brasil,Medio campo
+Lucas Fernandes,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1997-09-20,Brasil,Medio campo
+Eduardo,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1989-10-17,Brasil,Medio campo
+Jacob Montes,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1998-10-20,Nicaragua,Medio campo
+Luis Henrique,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2001-12-14,Brasil,Delantero
+Diego Hernández,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2000-06-22,Uruguay,Delantero
+Victor Sá,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1994-03-27,Brasil,Delantero
+Matías Segovia,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2003-01-04,Paraguay,Delantero
+Carlos Alberto,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2002-04-14,Brasil,Delantero
+Júnior Santos,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1994-10-11,Brasil,Delantero
+Matheus Nascimento,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2004-03-03,Brasil,Delantero
+Tiquinho Soares,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1991-01-17,Brasil,Delantero
+Diego Costa,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1988-10-07,España,Delantero
+Valentín Adamo,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,2002-05-04,Uruguay,Delantero
+Janderson,Botafogo de Futebol e Regatas,Campeonato Brasileño de Serie A,1999-05-06,Brasil,Delantero
+Matheus Donelli,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2002-05-17,Brasil,Portero
+Carlos Miguel,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1998-10-09,Brasil,Portero
+Cássio,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1987-06-06,Brasil,Portero
+Lucas Veríssimo,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1995-07-02,Brasil,Defensa
+Bruno Méndez,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1999-09-10,Uruguay,Defensa
+Caetano,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1999-06-24,Brasil,Defensa
+Gil,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1987-06-12,Brasil,Defensa
+Renato Santos,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2004-10-11,Brasil,Defensa
+Matheus Bidu,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1999-05-04,Brasil,Defensa
+Fábio Santos,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1985-09-16,Brasil,Defensa
+Fagner,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1989-06-11,Brasil,Defensa
+Rafael Ramos,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1995-01-09,Portugal,Defensa
+Fausto Vera,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2000-03-26,Argentina,Medio campo
+Roni,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1999-04-15,Brasil,Medio campo
+Gabriel Moscardo,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2005-09-28,Brasil,Medio campo
+Víctor Cantillo,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1993-10-15,Colombia,Medio campo
+Maycon,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1997-07-15,Brasil,Medio campo
+Matheus Araújo,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2002-05-22,Brasil,Medio campo
+Renato Augusto,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1988-02-08,Brasil,Medio campo
+Giuliano,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1990-05-31,Brasil,Medio campo
+Paulinho,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1988-07-25,Brasil,Medio campo
+Ruan Oliveira,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2000-03-23,Brasil,Medio campo
+Matías Rojas,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1995-11-03,Paraguay,Medio campo
+Pedro,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2006-02-05,Brasil,Delantero
+Wesley,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2005-03-05,Brasil,Delantero
+Ángel Romero,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1992-07-04,Paraguay,Delantero
+Biro,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2004-04-20,Brasil,Delantero
+Gustavo Mosquito,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,1997-09-07,Brasil,Delantero
+Yuri Alberto,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2001-03-18,Brasil,Delantero
+Giovane,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2003-11-24,Brasil,Delantero
+Felipe Augusto,Sport Club Corinthians Paulista,Campeonato Brasileño de Serie A,2004-02-18,Brasil,Delantero
+Gabriel,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1992-09-27,Brasil,Portero
+Luan Polli,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1993-04-06,Brasil,Portero
+Rafael William,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2001-09-30,Brasil,Portero
+Marcão,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2000-04-19,Brasil,Portero
+Pedro Morisco,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2004-01-10,Brasil,Portero
+Benjamín Kuscevic,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1996-05-02,Chile,Defensa
+Reynaldo,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1997-01-03,Brasil,Defensa
+Jean Pedroso,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2004-01-28,Brasil,Defensa
+Maurício Antônio,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1992-02-06,Brasil,Defensa
+Thalisson,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2002-01-20,Brasil,Defensa
+Henrique,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1986-10-14,Brasil,Defensa
+Thiago Dombroski,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2002-06-20,Brasil,Defensa
+Jamerson,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1998-09-09,Brasil,Defensa
+Victor Luis,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1993-06-23,Brasil,Defensa
+Natanael,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2002-01-05,Brasil,Defensa
+Hayner,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1995-10-02,Brasil,Defensa
+Diogo Batista,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2003-08-29,Brasil,Defensa
+Andrey,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1998-02-15,Brasil,Medio campo
+Bruno Gomes,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2001-04-04,Brasil,Medio campo
+Gustavo Bochecha,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1996-06-08,Brasil,Medio campo
+Willian Farias,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1989-06-06,Brasil,Medio campo
+Andreas Samaris,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1989-06-13,Grecia,Medio campo
+Sebastián Gómez,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1996-06-03,Colombia,Medio campo
+Fransérgio,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1990-10-18,Brasil,Medio campo
+Matheus Bianqui,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1998-01-31,Brasil,Medio campo
+Marcelino Moreno,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1995-06-25,Argentina,Medio campo
+Boschilia,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1996-03-05,Brasil,Medio campo
+Gabriel Silva,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2002-07-03,Brasil,Medio campo
+Jesé,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1993-02-26,España,Delantero
+Lucas Barbosa,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2001-02-22,Brasil,Delantero
+Maurício Garcez,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1997-03-16,Brasil,Delantero
+Kaio César,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2004-02-15,Brasil,Delantero
+Ruan Assis,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2004-04-20,Brasil,Delantero
+Lucas Ronier,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,2004-11-26,Brasil,Delantero
+Islam Slimani,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1988-06-18,Argelia,Delantero
+Rodrigo Pinho,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1991-05-30,Brasil,Delantero
+Diogo,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1996-12-04,Brasil,Delantero
+Edu,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1993-03-05,Brasil,Delantero
+Robson,Coritiba Foot Ball Club,Campeonato Brasileño de Serie A,1991-05-30,Brasil,Delantero
+Rafael Cabral,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1990-05-20,Brasil,Portero
+Gabriel Mesquita,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1998-09-14,Brasil,Portero
+Anderson Paixão,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1998-03-05,Brasil,Portero
+Rodrigo Bazilio,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2003-03-06,Brasil,Portero
+Lucas Oliveira,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1996-02-02,Brasil,Defensa
+Neris,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1992-06-17,Brasil,Defensa
+João Marcelo,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2000-06-13,Brasil,Defensa
+Luciano Castán,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1989-09-13,Brasil,Defensa
+Marlon,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1997-05-20,Brasil,Defensa
+Kaiki,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2003-03-08,Brasil,Defensa
+William,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1995-04-03,Brasil,Defensa
+Wesley Gasolina,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2000-03-13,Brasil,Defensa
+Helibelton Palacios,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1993-06-11,Colombia,Defensa
+Matheus Jussa,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1996-03-22,Brasil,Medio campo
+Filipe Machado,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1996-01-20,Brasil,Medio campo
+Lucas Silva,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1993-02-16,Brasil,Medio campo
+Ramiro,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1993-05-22,Brasil,Medio campo
+Fernando Henrique,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2001-06-01,Brasil,Medio campo
+Ian Luccas,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2003-02-11,Brasil,Medio campo
+Matheus Pereira,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1996-05-05,Brasil,Medio campo
+Mateus Vital,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1998-02-12,Brasil,Medio campo
+Nikão,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1992-07-29,Brasil,Medio campo
+Wesley,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1999-03-30,Brasil,Delantero
+Arthur Gomes,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1998-07-03,Brasil,Delantero
+Bruno Rodrigues,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1997-03-07,Brasil,Delantero
+Paulo Vitor,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1999-06-24,Brasil,Delantero
+Stênio,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2003-04-05,Brasil,Delantero
+Rafael Bilu,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1999-04-21,Brasil,Delantero
+Robert,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,2005-04-13,Brasil,Delantero
+Rafael Elias,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1999-04-12,Brasil,Delantero
+Gilberto,Cruzeiro Esporte Clube,Campeonato Brasileño de Serie A,1989-06-05,Brasil,Delantero
+Walter,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1987-11-18,Brasil,Portero
+João Carlos,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1988-04-06,Brasil,Portero
+Vinicius Barreta,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1999-04-16,Brasil,Portero
+Alan Empereur,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1994-03-10,Brasil,Defensa
+Marllon,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1992-04-16,Brasil,Defensa
+Allyson,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1990-10-23,Brasil,Defensa
+Vitão,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2000-09-17,Brasil,Defensa
+Rikelme,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2003-07-16,Brasil,Defensa
+Uendel,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1988-10-08,Brasil,Defensa
+Juan Tavares,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2002-04-25,Brasil,Defensa
+Patric Calmon,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1994-07-05,Brasil,Defensa
+Matheus Alexandre,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1999-04-07,Brasil,Defensa
+Matheusinho,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1998-10-07,Brasil,Defensa
+Lucas Mineiro,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1996-02-24,Brasil,Medio campo
+Raniele,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1996-12-31,Brasil,Medio campo
+Ronald,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1997-06-18,Brasil,Medio campo
+Filipe Augusto,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1993-08-12,Brasil,Medio campo
+Fernando Sobral,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1994-12-17,Brasil,Medio campo
+Ricardo Cerqueira,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2002-12-29,Brasil,Medio campo
+Denilson,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2001-03-23,Brasil,Medio campo
+Nicolás Quagliata,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1999-06-05,Uruguay,Delantero
+Clayson,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1995-03-19,Brasil,Delantero
+Gabryel Freitas,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2002-10-28,Brasil,Delantero
+Jonathan Cafu,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1991-07-10,Brasil,Delantero
+Wellington Silva,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1993-01-06,Brasil,Delantero
+Emerson Ramon,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,2000-11-24,Brasil,Delantero
+Isidro Pitta,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1999-08-14,Paraguay,Delantero
+Deyverson,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1991-05-08,Brasil,Delantero
+Derik Lacerda,Cuiabá Esporte Clube (MT),Campeonato Brasileño de Serie A,1999-09-27,Brasil,Delantero
+Agustín Rossi,CR Flamengo,Campeonato Brasileño de Serie A,1995-08-21,Argentina,Portero
+Matheus Cunha,CR Flamengo,Campeonato Brasileño de Serie A,2001-05-24,Brasil,Portero
+Santos,CR Flamengo,Campeonato Brasileño de Serie A,1990-03-17,Brasil,Portero
+Léo Pereira,CR Flamengo,Campeonato Brasileño de Serie A,1996-01-31,Brasil,Defensa
+Fabrício Bruno,CR Flamengo,Campeonato Brasileño de Serie A,1996-02-12,Brasil,Defensa
+Pablo,CR Flamengo,Campeonato Brasileño de Serie A,1991-06-21,Brasil,Defensa
+Gabriel Noga,CR Flamengo,Campeonato Brasileño de Serie A,2002-01-25,Brasil,Defensa
+Rodrigo Caio,CR Flamengo,Campeonato Brasileño de Serie A,1993-08-17,Brasil,Defensa
+David Luiz,CR Flamengo,Campeonato Brasileño de Serie A,1987-04-22,Brasil,Defensa
+Cleiton,CR Flamengo,Campeonato Brasileño de Serie A,2003-04-25,Brasil,Defensa
+Ayrton Lucas,CR Flamengo,Campeonato Brasileño de Serie A,1997-06-19,Brasil,Defensa
+Filipe Luís,CR Flamengo,Campeonato Brasileño de Serie A,1985-08-09,Brasil,Defensa
+Matheuzinho,CR Flamengo,Campeonato Brasileño de Serie A,2000-09-08,Brasil,Defensa
+Wesley,CR Flamengo,Campeonato Brasileño de Serie A,2003-09-06,Brasil,Defensa
+Guillermo Varela,CR Flamengo,Campeonato Brasileño de Serie A,1993-03-24,Uruguay,Defensa
+Allan,CR Flamengo,Campeonato Brasileño de Serie A,1997-03-03,Brasil,Medio campo
+Erick Pulgar,CR Flamengo,Campeonato Brasileño de Serie A,1994-01-15,Chile,Medio campo
+Thiago Maia,CR Flamengo,Campeonato Brasileño de Serie A,1997-03-23,Brasil,Medio campo
+Igor Jesus,CR Flamengo,Campeonato Brasileño de Serie A,2003-03-07,Brasil,Medio campo
+Gerson,CR Flamengo,Campeonato Brasileño de Serie A,1997-05-20,Brasil,Medio campo
+Victor Hugo,CR Flamengo,Campeonato Brasileño de Serie A,2004-05-11,Brasil,Medio campo
+Giorgian de Arrascaeta,CR Flamengo,Campeonato Brasileño de Serie A,1994-06-01,Uruguay,Medio campo
+Éverton Ribeiro,CR Flamengo,Campeonato Brasileño de Serie A,1989-04-10,Brasil,Medio campo
+Lorran,CR Flamengo,Campeonato Brasileño de Serie A,2006-07-04,Brasil,Medio campo
+Everton,CR Flamengo,Campeonato Brasileño de Serie A,1996-03-22,Brasil,Delantero
+Bruno Henrique,CR Flamengo,Campeonato Brasileño de Serie A,1990-12-30,Brasil,Delantero
+Luiz Araújo,CR Flamengo,Campeonato Brasileño de Serie A,1996-06-02,Brasil,Delantero
+Pedro,CR Flamengo,Campeonato Brasileño de Serie A,1997-06-20,Brasil,Delantero
+Gabriel Barbosa,CR Flamengo,Campeonato Brasileño de Serie A,1996-08-30,Brasil,Delantero
+Pedro Rangel,Fluminense Football Club,Campeonato Brasileño de Serie A,2000-06-29,Brasil,Portero
+Fábio,Fluminense Football Club,Campeonato Brasileño de Serie A,1980-09-30,Brasil,Portero
+Vitor Eudes,Fluminense Football Club,Campeonato Brasileño de Serie A,1998-10-21,Brasil,Portero
+Nino,Fluminense Football Club,Campeonato Brasileño de Serie A,1997-04-10,Brasil,Defensa
+Marlon,Fluminense Football Club,Campeonato Brasileño de Serie A,1995-09-07,Brasil,Defensa
+Vitor Mendes,Fluminense Football Club,Campeonato Brasileño de Serie A,1999-02-13,Brasil,Defensa
+Manoel,Fluminense Football Club,Campeonato Brasileño de Serie A,1990-02-26,Brasil,Defensa
+Felipe Melo,Fluminense Football Club,Campeonato Brasileño de Serie A,1983-06-26,Brasil,Defensa
+David Braz,Fluminense Football Club,Campeonato Brasileño de Serie A,1987-05-21,Brasil,Defensa
+Marcelo,Fluminense Football Club,Campeonato Brasileño de Serie A,1988-05-12,Brasil,Defensa
+Jorge,Fluminense Football Club,Campeonato Brasileño de Serie A,1996-03-28,Brasil,Defensa
+Diogo Barbosa,Fluminense Football Club,Campeonato Brasileño de Serie A,1992-08-17,Brasil,Defensa
+Guga,Fluminense Football Club,Campeonato Brasileño de Serie A,1998-08-29,Brasil,Defensa
+Samuel Xavier,Fluminense Football Club,Campeonato Brasileño de Serie A,1990-06-06,Brasil,Defensa
+André,Fluminense Football Club,Campeonato Brasileño de Serie A,2001-07-16,Brasil,Medio campo
+Alexsander,Fluminense Football Club,Campeonato Brasileño de Serie A,2003-10-08,Brasil,Medio campo
+Caio Vinicius,Fluminense Football Club,Campeonato Brasileño de Serie A,1999-01-11,Brasil,Medio campo
+Thiago Santos,Fluminense Football Club,Campeonato Brasileño de Serie A,1989-09-05,Brasil,Medio campo
+Martinelli,Fluminense Football Club,Campeonato Brasileño de Serie A,2001-10-05,Brasil,Medio campo
+Daniel,Fluminense Football Club,Campeonato Brasileño de Serie A,1996-01-11,Brasil,Medio campo
+Jhon Arias,Fluminense Football Club,Campeonato Brasileño de Serie A,1997-09-21,Colombia,Medio campo
+Leonardo Fernández,Fluminense Football Club,Campeonato Brasileño de Serie A,1998-11-08,Uruguay,Medio campo
+Lima,Fluminense Football Club,Campeonato Brasileño de Serie A,1996-06-11,Brasil,Medio campo
+Ganso,Fluminense Football Club,Campeonato Brasileño de Serie A,1989-10-12,Brasil,Medio campo
+Keno,Fluminense Football Club,Campeonato Brasileño de Serie A,1989-09-10,Brasil,Delantero
+Giovanni,Fluminense Football Club,Campeonato Brasileño de Serie A,2002-01-31,Brasil,Delantero
+Yony González,Fluminense Football Club,Campeonato Brasileño de Serie A,1994-07-11,Colombia,Delantero
+John Kennedy,Fluminense Football Club,Campeonato Brasileño de Serie A,2002-05-18,Brasil,Delantero
+Germán Cano,Fluminense Football Club,Campeonato Brasileño de Serie A,1988-02-02,Argentina,Delantero
+Lelê,Fluminense Football Club,Campeonato Brasileño de Serie A,1997-10-01,Brasil,Delantero
+Kauã Elias,Fluminense Football Club,Campeonato Brasileño de Serie A,2006-03-28,Brasil,Delantero
+João Ricardo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1988-09-06,Brasil,Portero
+Mauricio Kozlinski,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1991-06-18,Brasil,Portero
+Fernando Miguel,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1985-02-02,Brasil,Portero
+Kennedy,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1999-12-08,Brasil,Portero
+Marcelo Benevenuto,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1996-01-07,Brasil,Defensa
+Tobias Figueiredo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1994-02-02,Portugal,Defensa
+Tinga,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1993-09-01,Brasil,Defensa
+Bernardo Schappo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1999-03-22,Brasil,Defensa
+Titi,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1988-03-12,Brasil,Defensa
+Bruno Pacheco,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1991-12-08,Brasil,Defensa
+Gonzalo Escobar,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1997-03-16,Argentina,Defensa
+Dudu,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1997-05-30,Brasil,Defensa
+Emanuel Brítez,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1992-03-26,Argentina,Defensa
+Vitor Ricardo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,2000-04-14,Brasil,Defensa
+Zé Welison,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1995-03-11,Brasil,Medio campo
+Lucas Sasha,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1990-03-01,Brasil,Medio campo
+Pedro Augusto,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1997-03-03,Brasil,Medio campo
+Zanocelo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,2001-01-30,Brasil,Medio campo
+Hércules,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,2000-10-20,Brasil,Medio campo
+Caio Alexandre,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1999-02-24,Brasil,Medio campo
+Calebe,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,2000-04-30,Brasil,Medio campo
+Lucas Crispim,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1994-06-19,Brasil,Medio campo
+Tomás Pochettino,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1996-02-01,Argentina,Medio campo
+Pedro Rocha,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1994-10-01,Brasil,Delantero
+Romarinho,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1994-03-01,Brasil,Delantero
+Imanol Machuca,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,2000-01-15,Argentina,Delantero
+Yago Pikachu,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1992-06-05,Brasil,Delantero
+Marinho,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1990-05-29,Brasil,Delantero
+Guilherme,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1995-04-13,Brasil,Delantero
+Juan Martín Lucero,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1991-10-10,Argentina,Delantero
+Thiago Galhardo,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1989-07-20,Brasil,Delantero
+Silvio Romero,Fortaleza Esporte Clube,Campeonato Brasileño de Serie A,1988-07-22,Argentina,Delantero
+Tadeu,Goiás EC,Campeonato Brasileño de Serie A,1992-02-04,Brasil,Portero
+Marcelo Rangel,Goiás EC,Campeonato Brasileño de Serie A,1988-05-17,Brasil,Portero
+Matheus Alves,Goiás EC,Campeonato Brasileño de Serie A,1994-12-15,Brasil,Portero
+Lucas Halter,Goiás EC,Campeonato Brasileño de Serie A,2000-05-02,Brasil,Defensa
+Bruno Melo,Goiás EC,Campeonato Brasileño de Serie A,1992-10-26,Brasil,Defensa
+Edu,Goiás EC,Campeonato Brasileño de Serie A,2000-06-16,Brasil,Defensa
+Sidimar,Goiás EC,Campeonato Brasileño de Serie A,1992-07-09,Brasil,Defensa
+Hugo,Goiás EC,Campeonato Brasileño de Serie A,1997-08-29,Brasil,Defensa
+Sander,Goiás EC,Campeonato Brasileño de Serie A,1990-10-03,Brasil,Defensa
+Bruno Santos,Goiás EC,Campeonato Brasileño de Serie A,1993-02-07,Brasil,Defensa
+Maguinho,Goiás EC,Campeonato Brasileño de Serie A,1992-01-06,Brasil,Defensa
+Apodi,Goiás EC,Campeonato Brasileño de Serie A,1986-12-13,Brasil,Defensa
+Higor Meritão,Goiás EC,Campeonato Brasileño de Serie A,1994-06-23,Brasil,Medio campo
+Luís Oyama,Goiás EC,Campeonato Brasileño de Serie A,1997-01-30,Brasil,Medio campo
+Willian Oliveira,Goiás EC,Campeonato Brasileño de Serie A,1993-05-16,Brasil,Medio campo
+Diego,Goiás EC,Campeonato Brasileño de Serie A,1995-10-31,Brasil,Medio campo
+Raphael Guzzo,Goiás EC,Campeonato Brasileño de Serie A,1995-01-06,Portugal,Medio campo
+Everton Morelli,Goiás EC,Campeonato Brasileño de Serie A,1997-11-04,Brasil,Medio campo
+Guilherme,Goiás EC,Campeonato Brasileño de Serie A,1991-05-21,Brasil,Medio campo
+Julián Palacios,Goiás EC,Campeonato Brasileño de Serie A,1999-02-04,Argentina,Medio campo
+Dodô,Goiás EC,Campeonato Brasileño de Serie A,2001-06-15,Brasil,Medio campo
+Vinícius,Goiás EC,Campeonato Brasileño de Serie A,1993-08-03,Brasil,Delantero
+Diego Gonçalves,Goiás EC,Campeonato Brasileño de Serie A,1994-07-22,Brasil,Delantero
+Anderson Oliveira,Goiás EC,Campeonato Brasileño de Serie A,1998-07-16,Brasil,Delantero
+Alesson,Goiás EC,Campeonato Brasileño de Serie A,1999-02-16,Brasil,Delantero
+Pedro Junqueira,Goiás EC,Campeonato Brasileño de Serie A,2004-03-23,Brasil,Delantero
+Allano,Goiás EC,Campeonato Brasileño de Serie A,1995-04-24,Brasil,Delantero
+Matheus Babi,Goiás EC,Campeonato Brasileño de Serie A,1997-07-18,Brasil,Delantero
+Gabriel Novaes,Goiás EC,Campeonato Brasileño de Serie A,1999-04-05,Brasil,Delantero
+Philippe Costa,Goiás EC,Campeonato Brasileño de Serie A,2000-03-01,Brasil,Delantero
+João Magno,Goiás EC,Campeonato Brasileño de Serie A,1997-02-15,Brasil,Delantero
+Breno Herculano,Goiás EC,Campeonato Brasileño de Serie A,1999-02-16,Brasil,Delantero
+Gabriel Grando,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2000-03-29,Brasil,Portero
+Felipe Scheibig,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2000-03-08,Brasil,Portero
+Caíque,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1997-07-31,Brasil,Portero
+Rodrigo Ely,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1993-11-03,Brasil,Defensa
+Walter Kannemann,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1991-03-14,Argentina,Defensa
+Bruno Alves,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1991-04-16,Brasil,Defensa
+Bruno Uvini,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1991-06-03,Brasil,Defensa
+Gustavo Martins,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2002-08-11,Brasil,Defensa
+Natã,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2001-06-05,Brasil,Defensa
+Pedro Geromel,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1985-09-21,Brasil,Defensa
+Cuiabano,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2003-02-16,Brasil,Defensa
+Reinaldo,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1989-09-28,Brasil,Defensa
+Fábio,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1990-07-09,Brasil,Defensa
+João Pedro,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1996-11-15,Brasil,Defensa
+Mathías Villasanti,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1997-01-24,Paraguay,Medio campo
+Ronald,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2003-02-11,Brasil,Medio campo
+Lucas Milla,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2003-01-28,Brasil,Medio campo
+Felipe Carballo,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1996-10-04,Uruguay,Medio campo
+Pepê,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1998-01-06,Brasil,Medio campo
+Franco Cristaldo,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1996-08-15,Argentina,Medio campo
+Nathan,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1996-03-13,Brasil,Medio campo
+Gustavinho,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2001-10-29,Brasil,Medio campo
+Luan,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1993-03-27,Brasil,Medio campo
+Ferreira,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1997-12-31,Brasil,Delantero
+Lucas Besozzi,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2003-01-22,Argentina,Delantero
+Juan Iturbe,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1993-06-04,Paraguay,Delantero
+Jhonata Robert,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1999-10-26,Brasil,Delantero
+Everton Galdino,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1997-03-17,Brasil,Delantero
+João Pedro,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1992-03-09,Italia,Delantero
+Luis Suárez,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,1987-01-24,Uruguay,Delantero
+André,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileño de Serie A,2001-12-17,Brasil,Delantero
+Sergio Rochet,Sport Club Internacional,Campeonato Brasileño de Serie A,1993-03-23,Uruguay,Portero
+Keiller,Sport Club Internacional,Campeonato Brasileño de Serie A,1996-10-29,Brasil,Portero
+Anthoni,Sport Club Internacional,Campeonato Brasileño de Serie A,2002-01-23,Brasil,Portero
+Emerson Junior,Sport Club Internacional,Campeonato Brasileño de Serie A,2000-02-07,Brasil,Portero
+Vitão,Sport Club Internacional,Campeonato Brasileño de Serie A,2000-02-02,Brasil,Defensa
+Nicolás Hernández,Sport Club Internacional,Campeonato Brasileño de Serie A,1998-01-18,Colombia,Defensa
+Rodrigo Moledo,Sport Club Internacional,Campeonato Brasileño de Serie A,1987-10-27,Brasil,Defensa
+Gabriel Mercado,Sport Club Internacional,Campeonato Brasileño de Serie A,1987-03-18,Argentina,Defensa
+Dalbert,Sport Club Internacional,Campeonato Brasileño de Serie A,1993-09-08,Brasil,Defensa
+Thauan Lara,Sport Club Internacional,Campeonato Brasileño de Serie A,2004-01-22,Brasil,Defensa
+Renê,Sport Club Internacional,Campeonato Brasileño de Serie A,1992-09-14,Brasil,Defensa
+Fabricio Bustos,Sport Club Internacional,Campeonato Brasileño de Serie A,1996-04-28,Argentina,Defensa
+Hugo Mallo,Sport Club Internacional,Campeonato Brasileño de Serie A,1991-06-22,España,Defensa
+Igor Gomes,Sport Club Internacional,Campeonato Brasileño de Serie A,2001-03-06,Brasil,Defensa
+Gabriel,Sport Club Internacional,Campeonato Brasileño de Serie A,1992-07-10,Brasil,Medio campo
+Campanharo,Sport Club Internacional,Campeonato Brasileño de Serie A,1992-04-04,Brasil,Medio campo
+Lucas Ramos,Sport Club Internacional,Campeonato Brasileño de Serie A,2001-01-03,Brasil,Medio campo
+Matheus Dias,Sport Club Internacional,Campeonato Brasileño de Serie A,2002-05-09,Brasil,Medio campo
+Rômulo,Sport Club Internacional,Campeonato Brasileño de Serie A,2000-03-01,Brasil,Medio campo
+Johnny,Sport Club Internacional,Campeonato Brasileño de Serie A,2001-09-20,Estados Unidos,Medio campo
+Carlos de Pena,Sport Club Internacional,Campeonato Brasileño de Serie A,1992-03-11,Uruguay,Medio campo
+Charles Aránguiz,Sport Club Internacional,Campeonato Brasileño de Serie A,1989-04-17,Chile,Medio campo
+Bruno Henrique,Sport Club Internacional,Campeonato Brasileño de Serie A,1989-10-21,Brasil,Medio campo
+Mauricio,Sport Club Internacional,Campeonato Brasileño de Serie A,2001-06-22,Brasil,Medio campo
+Alan Patrick,Sport Club Internacional,Campeonato Brasileño de Serie A,1991-05-13,Brasil,Medio campo
+Estêvão,Sport Club Internacional,Campeonato Brasileño de Serie A,2002-02-03,Brasil,Medio campo
+Wanderson,Sport Club Internacional,Campeonato Brasileño de Serie A,1994-10-07,Brasil,Delantero
+Pedro Henrique,Sport Club Internacional,Campeonato Brasileño de Serie A,1990-06-16,Brasil,Delantero
+Jean Dias,Sport Club Internacional,Campeonato Brasileño de Serie A,1990-10-22,Brasil,Delantero
+Gabriel Barros,Sport Club Internacional,Campeonato Brasileño de Serie A,2001-10-25,Brasil,Delantero
+Enner Valencia,Sport Club Internacional,Campeonato Brasileño de Serie A,1989-11-04,Ecuador,Delantero
+Lucca,Sport Club Internacional,Campeonato Brasileño de Serie A,2003-04-02,Brasil,Delantero
+Luiz Adriano,Sport Club Internacional,Campeonato Brasileño de Serie A,1987-04-12,Brasil,Delantero
+Weverton,SE Palmeiras,Campeonato Brasileño de Serie A,1987-12-13,Brasil,Portero
+Kaique,SE Palmeiras,Campeonato Brasileño de Serie A,2003-04-16,Brasil,Portero
+Marcelo Lomba,SE Palmeiras,Campeonato Brasileño de Serie A,1986-12-18,Brasil,Portero
+Mateus,SE Palmeiras,Campeonato Brasileño de Serie A,2002-05-02,Brasil,Portero
+Gustavo Gómez,SE Palmeiras,Campeonato Brasileño de Serie A,1993-05-06,Paraguay,Defensa
+Murilo,SE Palmeiras,Campeonato Brasileño de Serie A,1997-03-27,Brasil,Defensa
+Luan,SE Palmeiras,Campeonato Brasileño de Serie A,1993-05-10,Brasil,Defensa
+Naves,SE Palmeiras,Campeonato Brasileño de Serie A,2002-05-08,Brasil,Defensa
+Michel,SE Palmeiras,Campeonato Brasileño de Serie A,2003-05-20,Brasil,Defensa
+Joaquín Piquerez,SE Palmeiras,Campeonato Brasileño de Serie A,1998-08-24,Uruguay,Defensa
+Vanderlan,SE Palmeiras,Campeonato Brasileño de Serie A,2002-09-07,Brasil,Defensa
+Mayke,SE Palmeiras,Campeonato Brasileño de Serie A,1992-11-10,Brasil,Defensa
+Garcia,SE Palmeiras,Campeonato Brasileño de Serie A,2002-01-04,Brasil,Defensa
+Marcos Rocha,SE Palmeiras,Campeonato Brasileño de Serie A,1988-12-11,Brasil,Defensa
+Fabinho,SE Palmeiras,Campeonato Brasileño de Serie A,2002-04-09,Brasil,Medio campo
+Jailson,SE Palmeiras,Campeonato Brasileño de Serie A,1995-09-07,Brasil,Medio campo
+Gabriel Menino,SE Palmeiras,Campeonato Brasileño de Serie A,2000-09-29,Brasil,Medio campo
+Zé Rafael,SE Palmeiras,Campeonato Brasileño de Serie A,1993-06-16,Brasil,Medio campo
+Richard Ríos,SE Palmeiras,Campeonato Brasileño de Serie A,2000-06-02,Colombia,Medio campo
+Eduard Atuesta,SE Palmeiras,Campeonato Brasileño de Serie A,1997-06-18,Colombia,Medio campo
+Raphael Veiga,SE Palmeiras,Campeonato Brasileño de Serie A,1995-06-19,Brasil,Medio campo
+Luis Guilherme,SE Palmeiras,Campeonato Brasileño de Serie A,2006-02-09,Brasil,Medio campo
+Jhon Jhon,SE Palmeiras,Campeonato Brasileño de Serie A,2002-09-09,Brasil,Medio campo
+Dudu,SE Palmeiras,Campeonato Brasileño de Serie A,1992-01-07,Brasil,Delantero
+Breno Lopes,SE Palmeiras,Campeonato Brasileño de Serie A,1996-01-24,Brasil,Delantero
+Kevin,SE Palmeiras,Campeonato Brasileño de Serie A,2003-01-04,Brasil,Delantero
+Artur,SE Palmeiras,Campeonato Brasileño de Serie A,1998-02-15,Brasil,Delantero
+Endrick,SE Palmeiras,Campeonato Brasileño de Serie A,2006-07-21,Brasil,Delantero
+Rony,SE Palmeiras,Campeonato Brasileño de Serie A,1995-05-11,Brasil,Delantero
+José Manuel López,SE Palmeiras,Campeonato Brasileño de Serie A,2000-12-06,Argentina,Delantero
+Daniel Silva,SE Palmeiras,Campeonato Brasileño de Serie A,2004-03-04,Brasil,Delantero
+Cleiton,Red Bull Bragantino,Campeonato Brasileño de Serie A,1997-08-19,Brasil,Portero
+Lucão,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-02-26,Brasil,Portero
+Maycon,Red Bull Bragantino,Campeonato Brasileño de Serie A,1998-11-08,Brasil,Portero
+Léo Ortiz,Red Bull Bragantino,Campeonato Brasileño de Serie A,1996-01-03,Brasil,Defensa
+Lucas Cunha,Red Bull Bragantino,Campeonato Brasileño de Serie A,1997-01-23,Brasil,Defensa
+Luan Patrick,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-01-20,Brasil,Defensa
+Leonardo Realpe,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-02-26,Ecuador,Defensa
+Eduardo Santos,Red Bull Bragantino,Campeonato Brasileño de Serie A,1997-11-28,Brasil,Defensa
+Da Silva,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-02-07,Brasil,Defensa
+Lucas Rafael,Red Bull Bragantino,Campeonato Brasileño de Serie A,1998-03-25,Brasil,Defensa
+Cipriano,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-11-09,Brasil,Defensa
+Luan Cândido,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-02-02,Brasil,Defensa
+Juninho Capixaba,Red Bull Bragantino,Campeonato Brasileño de Serie A,1997-07-06,Brasil,Defensa
+Guilherme,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-02-14,Brasil,Defensa
+José Hurtado,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-12-23,Ecuador,Defensa
+Aderlan,Red Bull Bragantino,Campeonato Brasileño de Serie A,1990-08-18,Brasil,Defensa
+Jadsom Silva,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-05-20,Brasil,Medio campo
+Raul,Red Bull Bragantino,Campeonato Brasileño de Serie A,1996-07-11,Brasil,Medio campo
+Matheus Fernandes,Red Bull Bragantino,Campeonato Brasileño de Serie A,1998-06-30,Brasil,Medio campo
+Yani Quintero,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-07-17,Colombia,Medio campo
+Eric Ramires,Red Bull Bragantino,Campeonato Brasileño de Serie A,2000-08-10,Brasil,Medio campo
+Lucas Evangelista,Red Bull Bragantino,Campeonato Brasileño de Serie A,1995-05-06,Brasil,Medio campo
+Bruninho,Red Bull Bragantino,Campeonato Brasileño de Serie A,2003-03-14,Brasil,Medio campo
+Gustavinho,Red Bull Bragantino,Campeonato Brasileño de Serie A,2004-04-23,Brasil,Medio campo
+Vitinho,Red Bull Bragantino,Campeonato Brasileño de Serie A,1999-04-01,Brasil,Delantero
+Henry Mosquera,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-11-15,Colombia,Delantero
+Sorriso,Red Bull Bragantino,Campeonato Brasileño de Serie A,2001-02-23,Brasil,Delantero
+Talisson,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-05-21,Brasil,Delantero
+Helinho,Red Bull Bragantino,Campeonato Brasileño de Serie A,2000-04-25,Brasil,Delantero
+Matheus Gonçalves,Red Bull Bragantino,Campeonato Brasileño de Serie A,2005-08-18,Brasil,Delantero
+Ignacio Laquintana,Red Bull Bragantino,Campeonato Brasileño de Serie A,1999-02-01,Uruguay,Delantero
+Kawê,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-06-22,Brasil,Delantero
+Alerrandro,Red Bull Bragantino,Campeonato Brasileño de Serie A,2000-01-12,Brasil,Delantero
+Thiago Borbas,Red Bull Bragantino,Campeonato Brasileño de Serie A,2002-04-07,Uruguay,Delantero
+Eduardo Sasha,Red Bull Bragantino,Campeonato Brasileño de Serie A,1992-02-24,Brasil,Delantero
+João Paulo,Santos FC,Campeonato Brasileño de Serie A,1995-06-29,Brasil,Portero
+Vladimir,Santos FC,Campeonato Brasileño de Serie A,1989-07-16,Brasil,Portero
+Paulo Mazoti,Santos FC,Campeonato Brasileño de Serie A,2000-07-11,Brasil,Portero
+Diógenes,Santos FC,Campeonato Brasileño de Serie A,2001-01-06,Brasil,Portero
+João Basso,Santos FC,Campeonato Brasileño de Serie A,1997-01-13,Brasil,Defensa
+Messias,Santos FC,Campeonato Brasileño de Serie A,1994-11-03,Brasil,Defensa
+Joaquim,Santos FC,Campeonato Brasileño de Serie A,1998-12-28,Brasil,Defensa
+Alex Nascimento,Santos FC,Campeonato Brasileño de Serie A,1999-05-10,Brasil,Defensa
+Derick,Santos FC,Campeonato Brasileño de Serie A,2002-05-16,Brasil,Defensa
+Felipe Jonatan,Santos FC,Campeonato Brasileño de Serie A,1998-02-15,Brasil,Defensa
+Dodô,Santos FC,Campeonato Brasileño de Serie A,1992-02-06,Brasil,Defensa
+João Lucas,Santos FC,Campeonato Brasileño de Serie A,1998-03-09,Brasil,Defensa
+Júnior Caiçara,Santos FC,Campeonato Brasileño de Serie A,1989-04-27,Brasil,Defensa
+Gabriel Inocêncio,Santos FC,Campeonato Brasileño de Serie A,1994-08-20,Brasil,Defensa
+Cadu,Santos FC,Campeonato Brasileño de Serie A,2002-02-21,Brasil,Defensa
+Sandry,Santos FC,Campeonato Brasileño de Serie A,2002-08-30,Brasil,Medio campo
+Rodrigo Fernández,Santos FC,Campeonato Brasileño de Serie A,1996-01-03,Uruguay,Medio campo
+Tomás Rincón,Santos FC,Campeonato Brasileño de Serie A,1988-01-13,Venezuela,Medio campo
+Dodi,Santos FC,Campeonato Brasileño de Serie A,1996-04-17,Brasil,Medio campo
+Alison,Santos FC,Campeonato Brasileño de Serie A,1993-03-01,Brasil,Medio campo
+Camacho,Santos FC,Campeonato Brasileño de Serie A,1990-03-02,Brasil,Medio campo
+Jean Lucas,Santos FC,Campeonato Brasileño de Serie A,1998-06-22,Brasil,Medio campo
+Nonato,Santos FC,Campeonato Brasileño de Serie A,1998-03-03,Brasil,Medio campo
+Ed Carlos,Santos FC,Campeonato Brasileño de Serie A,2001-03-19,Brasil,Medio campo
+Kevin Malthus,Santos FC,Campeonato Brasileño de Serie A,2003-01-11,Brasil,Medio campo
+Lucas Lima,Santos FC,Campeonato Brasileño de Serie A,1990-07-09,Brasil,Medio campo
+Luan Dias,Santos FC,Campeonato Brasileño de Serie A,1997-07-31,Brasil,Medio campo
+Miguelito,Santos FC,Campeonato Brasileño de Serie A,2004-04-25,Bolivia,Medio campo
+Yeferson Soteldo,Santos FC,Campeonato Brasileño de Serie A,1997-06-30,Venezuela,Delantero
+Lucas Braga,Santos FC,Campeonato Brasileño de Serie A,1996-11-10,Brasil,Delantero
+Weslley Patati,Santos FC,Campeonato Brasileño de Serie A,2003-10-01,Brasil,Delantero
+Renyer,Santos FC,Campeonato Brasileño de Serie A,2003-07-12,Brasil,Delantero
+Stiven Mendoza,Santos FC,Campeonato Brasileño de Serie A,1992-06-27,Colombia,Delantero
+Marcos Leonardo,Santos FC,Campeonato Brasileño de Serie A,2003-05-02,Brasil,Delantero
+Alfredo Morelos,Santos FC,Campeonato Brasileño de Serie A,1996-06-21,Colombia,Delantero
+Julio Furch,Santos FC,Campeonato Brasileño de Serie A,1989-07-29,Argentina,Delantero
+Maximiliano Silvera,Santos FC,Campeonato Brasileño de Serie A,1997-09-05,Uruguay,Delantero
+Bruno Mezenga,Santos FC,Campeonato Brasileño de Serie A,1988-08-08,Brasil,Delantero
+Jandrei,São Paulo FC,Campeonato Brasileño de Serie A,1993-03-01,Brasil,Portero
+Rafael,São Paulo FC,Campeonato Brasileño de Serie A,1989-06-23,Brasil,Portero
+Felipe Alves,São Paulo FC,Campeonato Brasileño de Serie A,1988-05-21,Brasil,Portero
+Young,São Paulo FC,Campeonato Brasileño de Serie A,2002-03-07,Brasil,Portero
+Lucas Beraldo,São Paulo FC,Campeonato Brasileño de Serie A,2003-11-24,Brasil,Defensa
+Diego Costa,São Paulo FC,Campeonato Brasileño de Serie A,1999-07-21,Brasil,Defensa
+Alan Franco,São Paulo FC,Campeonato Brasileño de Serie A,1996-10-11,Argentina,Defensa
+Nahuel Ferraresi,São Paulo FC,Campeonato Brasileño de Serie A,1998-11-19,Venezuela,Defensa
+Robert Arboleda,São Paulo FC,Campeonato Brasileño de Serie A,1991-10-22,Ecuador,Defensa
+Walce,São Paulo FC,Campeonato Brasileño de Serie A,1999-02-02,Brasil,Defensa
+Matheus Belém,São Paulo FC,Campeonato Brasileño de Serie A,2003-03-13,Brasil,Defensa
+Welington,São Paulo FC,Campeonato Brasileño de Serie A,2001-02-19,Brasil,Defensa
+Caio Paulista,São Paulo FC,Campeonato Brasileño de Serie A,1998-05-11,Brasil,Defensa
+Patryck,São Paulo FC,Campeonato Brasileño de Serie A,2003-01-18,Brasil,Defensa
+Igor Vinícius,São Paulo FC,Campeonato Brasileño de Serie A,1997-04-01,Brasil,Defensa
+João Moreira,São Paulo FC,Campeonato Brasileño de Serie A,2004-05-21,Portugal,Defensa
+Nathan Mendes,São Paulo FC,Campeonato Brasileño de Serie A,2002-08-19,Brasil,Defensa
+Raí Ramos,São Paulo FC,Campeonato Brasileño de Serie A,1994-05-06,Brasil,Defensa
+Rafinha,São Paulo FC,Campeonato Brasileño de Serie A,1985-09-07,Brasil,Defensa
+Pablo Maia,São Paulo FC,Campeonato Brasileño de Serie A,2002-01-10,Brasil,Medio campo
+Luan,São Paulo FC,Campeonato Brasileño de Serie A,1999-05-14,Brasil,Medio campo
+Gabriel Neves,São Paulo FC,Campeonato Brasileño de Serie A,1997-08-11,Uruguay,Medio campo
+Jhegson Méndez,São Paulo FC,Campeonato Brasileño de Serie A,1997-04-26,Ecuador,Medio campo
+Rodrigo Nestor,São Paulo FC,Campeonato Brasileño de Serie A,2000-08-09,Brasil,Medio campo
+Rodriguinho,São Paulo FC,Campeonato Brasileño de Serie A,2004-03-16,Brasil,Medio campo
+Talles Costa,São Paulo FC,Campeonato Brasileño de Serie A,2002-08-02,Brasil,Medio campo
+Alisson,São Paulo FC,Campeonato Brasileño de Serie A,1993-06-25,Brasil,Medio campo
+Pedro Vilhena,São Paulo FC,Campeonato Brasileño de Serie A,2002-02-18,Brasil,Medio campo
+Giuliano Galoppo,São Paulo FC,Campeonato Brasileño de Serie A,1999-06-18,Argentina,Medio campo
+James Rodríguez,São Paulo FC,Campeonato Brasileño de Serie A,1991-07-12,Colombia,Medio campo
+Michel Araújo,São Paulo FC,Campeonato Brasileño de Serie A,1996-09-28,Uruguay,Medio campo
+Wellington Rato,São Paulo FC,Campeonato Brasileño de Serie A,1992-06-28,Brasil,Medio campo
+Marcos Paulo,São Paulo FC,Campeonato Brasileño de Serie A,2001-02-01,Portugal,Delantero
+David,São Paulo FC,Campeonato Brasileño de Serie A,1995-10-17,Brasil,Delantero
+Lucas Moura,São Paulo FC,Campeonato Brasileño de Serie A,1992-08-13,Brasil,Delantero
+Jonathan Calleri,São Paulo FC,Campeonato Brasileño de Serie A,1993-09-23,Argentina,Delantero
+Erison,São Paulo FC,Campeonato Brasileño de Serie A,1999-04-13,Brasil,Delantero
+Luciano,São Paulo FC,Campeonato Brasileño de Serie A,1993-05-18,Brasil,Delantero
+Juan,São Paulo FC,Campeonato Brasileño de Serie A,2002-03-07,Brasil,Delantero
+Alexandre Pato,São Paulo FC,Campeonato Brasileño de Serie A,1989-09-02,Brasil,Delantero
+Léo Jardim,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1995-03-20,Brasil,Portero
+Ivan,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1997-07-02,Brasil,Portero
+Halls,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1999-06-17,Brasil,Portero
+Léo,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1996-03-06,Brasil,Defensa
+Manuel Capasso,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1996-04-19,Argentina,Defensa
+Robson Bambu,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1997-11-12,Brasil,Defensa
+Miranda,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2000-01-19,Brasil,Defensa
+Maicon,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1988-09-14,Brasil,Defensa
+Zé Vitor,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2002-06-10,Brasil,Defensa
+Lucas Piton,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2000-10-09,Italia,Defensa
+Riquelme,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2002-08-28,Brasil,Defensa
+Jefferson,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1997-01-03,Brasil,Defensa
+José Luis Rodríguez,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1997-03-14,Uruguay,Defensa
+Gabriel Dias,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1994-05-10,Brasil,Defensa
+Paulo Henrique,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1996-07-25,Brasil,Defensa
+Patrick de Lucca,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2000-03-02,Brasil,Medio campo
+Zé Gabriel,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1999-01-21,Brasil,Medio campo
+Gary Medel,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1987-08-03,Chile,Medio campo
+Mateus Carvalho,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2002-03-18,Brasil,Medio campo
+Praxedes,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2002-02-08,Brasil,Medio campo
+Jair,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1994-08-26,Brasil,Medio campo
+Marlon Gomes,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2003-12-14,Brasil,Medio campo
+Paulinho Paula,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1997-01-08,Brasil,Medio campo
+Cauan Barros,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2004-05-06,Brasil,Medio campo
+Dimitri Payet,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1987-03-29,Francia,Medio campo
+Rayan,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2006-08-03,Brasil,Medio campo
+Alex Teixeira,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1990-01-06,Brasil,Medio campo
+Figueiredo,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2001-08-14,Brasil,Delantero
+Erick Marcus,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2004-03-01,Brasil,Delantero
+Luca Orellano,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2000-03-22,Argentina,Delantero
+Gabriel Pec,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,2001-02-11,Brasil,Delantero
+Serginho,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1995-04-06,Brasil,Delantero
+Rossi,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1993-04-22,Brasil,Delantero
+Sebastián Ferreira,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1998-02-13,Paraguay,Delantero
+Pablo Vegetti,Clube de Regatas Vasco da Gama,Campeonato Brasileño de Serie A,1988-10-15,Argentina,Delantero

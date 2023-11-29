@@ -1,0 +1,475 @@
+Gerónimo Rulli,Ajax de Ámsterdam,Eredivisie,1992-05-20,Argentina,Portero
+Jay Gorter,Ajax de Ámsterdam,Eredivisie,2000-05-30,Países Bajos,Portero
+Diant Ramaj,Ajax de Ámsterdam,Eredivisie,2001-09-19,Alemania,Portero
+Remko Pasveer,Ajax de Ámsterdam,Eredivisie,1983-11-08,Países Bajos,Portero
+Josip Sutalo,Ajax de Ámsterdam,Eredivisie,2000-02-28,Croacia,Defensa
+Jorrel Hato,Ajax de Ámsterdam,Eredivisie,2006-03-07,Países Bajos,Defensa
+Ahmetcan Kaplan,Ajax de Ámsterdam,Eredivisie,2003-01-16,Turquía,Defensa
+Jakov Medic,Ajax de Ámsterdam,Eredivisie,1998-09-07,Croacia,Defensa
+Borna Sosa,Ajax de Ámsterdam,Eredivisie,1998-01-21,Croacia,Defensa
+Gastón Ávila,Ajax de Ámsterdam,Eredivisie,2001-09-30,Argentina,Defensa
+Anass Salah-Eddine,Ajax de Ámsterdam,Eredivisie,2002-01-18,Países Bajos,Defensa
+Devyne Rensch,Ajax de Ámsterdam,Eredivisie,2003-01-18,Países Bajos,Defensa
+Anton Gaaei,Ajax de Ámsterdam,Eredivisie,2002-11-19,Dinamarca,Defensa
+Sivert Mannsverk,Ajax de Ámsterdam,Eredivisie,2002-05-08,Noruega,Medio campo
+Benjamin Tahirovic,Ajax de Ámsterdam,Eredivisie,2003-03-03,Bosnia y Herzegovina,Medio campo
+Silvano Vos,Ajax de Ámsterdam,Eredivisie,2005-03-16,Países Bajos,Medio campo
+Kenneth Taylor,Ajax de Ámsterdam,Eredivisie,2002-05-16,Países Bajos,Medio campo
+Branco van den Boomen,Ajax de Ámsterdam,Eredivisie,1995-07-21,Países Bajos,Medio campo
+Steven Berghuis,Ajax de Ámsterdam,Eredivisie,1991-12-19,Países Bajos,Medio campo
+Steven Bergwijn,Ajax de Ámsterdam,Eredivisie,1997-10-08,Países Bajos,Delantero
+Carlos Forbs,Ajax de Ámsterdam,Eredivisie,2004-03-19,Portugal,Delantero
+Amourricho van Axel Dongen,Ajax de Ámsterdam,Eredivisie,2004-09-29,Países Bajos,Delantero
+Brian Brobbey,Ajax de Ámsterdam,Eredivisie,2002-02-01,Países Bajos,Delantero
+Chuba Akpom,Ajax de Ámsterdam,Eredivisie,1995-10-09,Inglaterra,Delantero
+Georges Mikautadze,Ajax de Ámsterdam,Eredivisie,2000-10-31,Georgia,Delantero
+Samuel Sahin-Radlinger,Almere City FC,Eredivisie,1992-11-07,Austria,Portero
+Nordin Bakker,Almere City FC,Eredivisie,1997-10-31,Países Bajos,Portero
+Stijn Keller,Almere City FC,Eredivisie,2000-04-10,Suiza,Portero
+Loïc Mbe Soh,Almere City FC,Eredivisie,2001-06-13,Francia,Defensa
+Damian van Bruggen,Almere City FC,Eredivisie,1996-03-18,Países Bajos,Defensa
+Théo Barbet,Almere City FC,Eredivisie,2001-03-06,Francia,Defensa
+Joey Jacobs,Almere City FC,Eredivisie,2000-04-10,Países Bajos,Defensa
+Christopher Mamengi,Almere City FC,Eredivisie,2001-04-03,Países Bajos,Defensa
+Manel Royo,Almere City FC,Eredivisie,1994-02-28,España,Defensa
+Sherel Floranus,Almere City FC,Eredivisie,1998-08-23,Países Bajos,Defensa
+Hamdi Akujobi,Almere City FC,Eredivisie,2000-01-20,Países Bajos,Defensa
+Peer Koopmeiners,Almere City FC,Eredivisie,2000-05-04,Países Bajos,Medio campo
+Álvaro Peña,Almere City FC,Eredivisie,1991-10-24,España,Medio campo
+Danny Post,Almere City FC,Eredivisie,1989-04-07,Países Bajos,Medio campo
+Stije Resink,Almere City FC,Eredivisie,2003-05-28,Países Bajos,Medio campo
+Jochem Ritmeester van de Kamp,Almere City FC,Eredivisie,2003-11-02,Países Bajos,Medio campo
+Marcelencio Esajas,Almere City FC,Eredivisie,2002-06-10,Países Bajos,Medio campo
+Lance Duijvestijn,Almere City FC,Eredivisie,1999-01-15,Países Bajos,Medio campo
+Pascu,Almere City FC,Eredivisie,2000-04-02,España,Medio campo
+Milan Corryn,Almere City FC,Eredivisie,1999-04-04,Bélgica,Medio campo
+Yoann Cathline,Almere City FC,Eredivisie,2002-07-22,Francia,Delantero
+Faiz Mattoir,Almere City FC,Eredivisie,2000-07-12,Comoras,Delantero
+Rajiv van La Parra,Almere City FC,Eredivisie,1991-06-04,Países Bajos,Delantero
+Bradly van Hoeven,Almere City FC,Eredivisie,2000-04-17,Países Bajos,Delantero
+Yann Kitala,Almere City FC,Eredivisie,1998-04-09,República Democrática del Congo,Delantero
+Thomas Robinet,Almere City FC,Eredivisie,1996-08-18,Francia,Delantero
+Kornelius Hansen,Almere City FC,Eredivisie,2001-05-06,Noruega,Delantero
+Mathew Ryan,AZ Alkmaar,Eredivisie,1992-04-08,Australia,Portero
+Hobie Verhulst,AZ Alkmaar,Eredivisie,1993-04-02,Países Bajos,Portero
+Sem Westerveld,AZ Alkmaar,Eredivisie,2002-07-18,Países Bajos,Portero
+Rome Jayden Owusu-Oduro,AZ Alkmaar,Eredivisie,2004-07-02,Países Bajos,Portero
+Alexandre Penetra,AZ Alkmaar,Eredivisie,2001-09-09,Portugal,Defensa
+Bruno Martins Indi,AZ Alkmaar,Eredivisie,1992-02-08,Países Bajos,Defensa
+Wouter Goes,AZ Alkmaar,Eredivisie,2004-06-10,Países Bajos,Defensa
+Maxim Dekker,AZ Alkmaar,Eredivisie,2004-04-21,Países Bajos,Defensa
+David Møller Wolfe,AZ Alkmaar,Eredivisie,2002-04-23,Noruega,Defensa
+Mees de Wit,AZ Alkmaar,Eredivisie,1998-04-17,Países Bajos,Defensa
+Yukinari Sugawara,AZ Alkmaar,Eredivisie,2000-06-28,Japón,Defensa
+Denso Kasius,AZ Alkmaar,Eredivisie,2002-10-06,Países Bajos,Defensa
+Jordy Clasie,AZ Alkmaar,Eredivisie,1991-06-27,Países Bajos,Medio campo
+Riechedly Bazoer,AZ Alkmaar,Eredivisie,1996-10-12,Países Bajos,Medio campo
+Tiago Dantas,AZ Alkmaar,Eredivisie,2000-12-24,Portugal,Medio campo
+Lewis Schouten,AZ Alkmaar,Eredivisie,2004-02-04,Países Bajos,Medio campo
+Djordje Mihailovic,AZ Alkmaar,Eredivisie,1998-11-10,Estados Unidos,Medio campo
+Dani de Wit,AZ Alkmaar,Eredivisie,1998-01-28,Países Bajos,Medio campo
+Sven Mijnans,AZ Alkmaar,Eredivisie,2000-03-09,Países Bajos,Medio campo
+Kenzo Goudmijn,AZ Alkmaar,Eredivisie,2001-12-18,Países Bajos,Medio campo
+Myron van Brederode,AZ Alkmaar,Eredivisie,2003-07-06,Países Bajos,Delantero
+Ruben van Bommel,AZ Alkmaar,Eredivisie,2004-08-03,Países Bajos,Delantero
+Jens Odgaard,AZ Alkmaar,Eredivisie,1999-03-31,Dinamarca,Delantero
+Ibrahim Sadiq,AZ Alkmaar,Eredivisie,2000-05-07,Ghana,Delantero
+Mayckel Lahdo,AZ Alkmaar,Eredivisie,2002-12-30,Suecia,Delantero
+Vangelis Pavlidis,AZ Alkmaar,Eredivisie,1998-11-21,Grecia,Delantero
+Mexx Meerdink,AZ Alkmaar,Eredivisie,2003-07-24,Países Bajos,Delantero
+Ernest Poku,AZ Alkmaar,Eredivisie,2004-01-28,Países Bajos,Delantero
+Stijn van Gassel,Excelsior Rotterdam,Eredivisie,1996-10-18,Países Bajos,Portero
+Norbert Alblas,Excelsior Rotterdam,Eredivisie,1994-12-12,Países Bajos,Portero
+Pascal Kuiper,Excelsior Rotterdam,Eredivisie,2004-03-17,Países Bajos,Portero
+Kik Pierie,Excelsior Rotterdam,Eredivisie,2000-07-20,Países Bajos,Defensa
+Casper Widell,Excelsior Rotterdam,Eredivisie,2003-05-05,Suecia,Defensa
+Redouan El Yaakoubi,Excelsior Rotterdam,Eredivisie,1996-01-25,Países Bajos,Defensa
+Sven Nieuwpoort,Excelsior Rotterdam,Eredivisie,1993-04-13,Países Bajos,Defensa
+Serano Seymor,Excelsior Rotterdam,Eredivisie,2002-01-04,Países Bajos,Defensa
+Arthur Zagré,Excelsior Rotterdam,Eredivisie,2001-10-04,Francia,Defensa
+Ian Smeulers,Excelsior Rotterdam,Eredivisie,2000-01-12,Países Bajos,Defensa
+Mimeirhel Benita,Excelsior Rotterdam,Eredivisie,2003-11-17,Países Bajos,Defensa
+Siebe Horemans,Excelsior Rotterdam,Eredivisie,1998-06-02,Bélgica,Defensa
+Adrian Fein,Excelsior Rotterdam,Eredivisie,1999-03-18,Alemania,Medio campo
+Lennard Hartjes,Excelsior Rotterdam,Eredivisie,2003-04-07,Países Bajos,Medio campo
+Kian Fitz-Jim,Excelsior Rotterdam,Eredivisie,2003-07-05,Países Bajos,Medio campo
+Julian Baas,Excelsior Rotterdam,Eredivisie,2002-04-16,Países Bajos,Medio campo
+Yassin Ayoub,Excelsior Rotterdam,Eredivisie,1994-03-06,Marruecos,Medio campo
+Cisse Sandra,Excelsior Rotterdam,Eredivisie,2003-12-16,Bélgica,Medio campo
+Noah Naujoks,Excelsior Rotterdam,Eredivisie,2002-05-02,Países Bajos,Medio campo
+Couhaib Driouech,Excelsior Rotterdam,Eredivisie,2002-04-17,Marruecos,Delantero
+Lazaros Lamprou,Excelsior Rotterdam,Eredivisie,1997-12-19,Grecia,Delantero
+Jacky Donkor,Excelsior Rotterdam,Eredivisie,1998-11-12,Bélgica,Delantero
+Oscar Uddenäs,Excelsior Rotterdam,Eredivisie,2002-08-17,Suecia,Delantero
+Derensili Sanches Fernandes,Excelsior Rotterdam,Eredivisie,2001-05-28,Países Bajos,Delantero
+Troy Parrott,Excelsior Rotterdam,Eredivisie,2002-02-04,Irlanda,Delantero
+Nikolas Agrafiotis,Excelsior Rotterdam,Eredivisie,2000-04-25,Países Bajos,Delantero
+Richie Omorowa,Excelsior Rotterdam,Eredivisie,2004-03-30,Suecia,Delantero
+Mike van Duinen,Excelsior Rotterdam,Eredivisie,1991-11-06,Países Bajos,Delantero
+Raphaël Eyongo,Excelsior Rotterdam,Eredivisie,2003-05-21,Países Bajos,Delantero
+Justin Bijlow,Feyenoord Rotterdam,Eredivisie,1998-01-22,Países Bajos,Portero
+Timon Wellenreuther,Feyenoord Rotterdam,Eredivisie,1995-12-03,Alemania,Portero
+Kostas Lamprou,Feyenoord Rotterdam,Eredivisie,1991-09-18,Grecia,Portero
+Mikki van Sas,Feyenoord Rotterdam,Eredivisie,2004-02-29,Países Bajos,Portero
+David Hancko,Feyenoord Rotterdam,Eredivisie,1997-12-13,Eslovaquia,Defensa
+Gernot Trauner,Feyenoord Rotterdam,Eredivisie,1992-03-25,Austria,Defensa
+Thomas Beelen,Feyenoord Rotterdam,Eredivisie,2001-06-11,Países Bajos,Defensa
+Quilindschy Hartman,Feyenoord Rotterdam,Eredivisie,2001-11-14,Países Bajos,Defensa
+Marcos López,Feyenoord Rotterdam,Eredivisie,1999-11-20,Perú,Defensa
+Lutsharel Geertruida,Feyenoord Rotterdam,Eredivisie,2000-07-18,Países Bajos,Defensa
+Bart Nieuwkoop,Feyenoord Rotterdam,Eredivisie,1996-03-07,Países Bajos,Defensa
+Mats Wieffer,Feyenoord Rotterdam,Eredivisie,1999-11-16,Países Bajos,Medio campo
+Ramiz Zerrouki,Feyenoord Rotterdam,Eredivisie,1998-05-26,Argelia,Medio campo
+Thomas van den Belt,Feyenoord Rotterdam,Eredivisie,2001-06-18,Países Bajos,Medio campo
+Gjivai Zechiël,Feyenoord Rotterdam,Eredivisie,2004-06-01,Países Bajos,Medio campo
+Quinten Timber,Feyenoord Rotterdam,Eredivisie,2001-06-17,Países Bajos,Medio campo
+Antoni Milambo,Feyenoord Rotterdam,Eredivisie,2005-04-03,Países Bajos,Medio campo
+Calvin Stengs,Feyenoord Rotterdam,Eredivisie,1998-12-18,Países Bajos,Medio campo
+Ondrej Lingr,Feyenoord Rotterdam,Eredivisie,1998-10-07,República Checa,Medio campo
+Luka Ivanusec,Feyenoord Rotterdam,Eredivisie,1998-11-26,Croacia,Delantero
+Igor Paixão,Feyenoord Rotterdam,Eredivisie,2000-06-28,Brasil,Delantero
+Leo Sauer,Feyenoord Rotterdam,Eredivisie,2005-12-16,Eslovaquia,Delantero
+Javairô Dilrosun,Feyenoord Rotterdam,Eredivisie,1998-06-22,Países Bajos,Delantero
+Alireza Jahanbakhsh,Feyenoord Rotterdam,Eredivisie,1993-08-11,Irán,Delantero
+Yankuba Minteh,Feyenoord Rotterdam,Eredivisie,2004-07-22,Gambia,Delantero
+Santiago Gimenez,Feyenoord Rotterdam,Eredivisie,2001-04-18,México,Delantero
+Ayase Ueda,Feyenoord Rotterdam,Eredivisie,1998-08-28,Japón,Delantero
+Ivor Pandur,Fortuna Sittard,Eredivisie,2000-03-25,Croacia,Portero
+Luuk Koopmans,Fortuna Sittard,Eredivisie,1993-11-18,Países Bajos,Portero
+Tom Hendriks,Fortuna Sittard,Eredivisie,2002-05-14,Países Bajos,Portero
+Rodrigo Guth,Fortuna Sittard,Eredivisie,2000-11-10,Brasil,Defensa
+Sadik Fofana,Fortuna Sittard,Eredivisie,2003-05-16,Alemania,Defensa
+Dimitrios Siovas,Fortuna Sittard,Eredivisie,1988-09-16,Grecia,Defensa
+Siemen Voet,Fortuna Sittard,Eredivisie,2000-02-03,Bélgica,Defensa
+Mitchell Dijks,Fortuna Sittard,Eredivisie,1993-02-09,Países Bajos,Defensa
+Rémy Vita,Fortuna Sittard,Eredivisie,2001-04-01,Madagascar,Defensa
+Ivo Pinto,Fortuna Sittard,Eredivisie,1990-01-07,Portugal,Defensa
+Nathan Markelo,Fortuna Sittard,Eredivisie,1999-01-07,Países Bajos,Defensa
+Loreintz Rosier,Fortuna Sittard,Eredivisie,1998-08-14,Francia,Medio campo
+Oguzhan Özyakup,Fortuna Sittard,Eredivisie,1992-09-23,Turquía,Medio campo
+Deroy Duarte,Fortuna Sittard,Eredivisie,1999-07-04,Cabo Verde,Medio campo
+Arianit Ferati,Fortuna Sittard,Eredivisie,1997-09-07,República de Kosovo,Medio campo
+Alen Halilovic,Fortuna Sittard,Eredivisie,1996-06-18,Croacia,Medio campo
+Iñigo Córdoba,Fortuna Sittard,Eredivisie,1997-03-13,España,Delantero
+Ragnar Oratmangoen,Fortuna Sittard,Eredivisie,1998-01-21,Países Bajos,Delantero
+Tijjani Noslin,Fortuna Sittard,Eredivisie,1999-07-07,Países Bajos,Delantero
+Iman Griffith,Fortuna Sittard,Eredivisie,2001-12-02,Países Bajos,Delantero
+Milan Robberechts,Fortuna Sittard,Eredivisie,2004-03-04,Bélgica,Delantero
+Marko Lazetić,Fortuna Sittard,Eredivisie,2004-01-22,Serbia,Delantero
+Kaj Sierhuis,Fortuna Sittard,Eredivisie,1998-04-27,Países Bajos,Delantero
+Mouhamed Belkheir,Fortuna Sittard,Eredivisie,1999-01-02,Argelia,Delantero
+Jeffrey de Lange,Go Ahead Eagles Deventer,Eredivisie,1998-04-01,Países Bajos,Portero
+Erwin Mulder,Go Ahead Eagles Deventer,Eredivisie,1989-03-03,Países Bajos,Portero
+Sven Jansen,Go Ahead Eagles Deventer,Eredivisie,2004-10-23,Países Bajos,Portero
+Nando Verdoni,Go Ahead Eagles Deventer,Eredivisie,2004-09-27,Países Bajos,Portero
+Jamal Amofa,Go Ahead Eagles Deventer,Eredivisie,1998-11-25,Países Bajos,Defensa
+Joris Kramer,Go Ahead Eagles Deventer,Eredivisie,1996-08-02,Países Bajos,Defensa
+Gerrit Nauber,Go Ahead Eagles Deventer,Eredivisie,1992-04-13,Alemania,Defensa
+Bas Kuipers,Go Ahead Eagles Deventer,Eredivisie,1994-08-17,Países Bajos,Defensa
+Dean James,Go Ahead Eagles Deventer,Eredivisie,2000-04-30,Países Bajos,Defensa
+Aventis Aventisian,Go Ahead Eagles Deventer,Eredivisie,2002-08-17,Armenia,Defensa
+Mats Deijl,Go Ahead Eagles Deventer,Eredivisie,1997-07-15,Países Bajos,Defensa
+Luca Everink,Go Ahead Eagles Deventer,Eredivisie,2001-02-09,Países Bajos,Defensa
+Pim Saathof,Go Ahead Eagles Deventer,Eredivisie,2003-12-28,Países Bajos,Defensa
+Enric Llansana,Go Ahead Eagles Deventer,Eredivisie,2001-04-12,Países Bajos,Medio campo
+Xander Blomme,Go Ahead Eagles Deventer,Eredivisie,2002-06-21,Bélgica,Medio campo
+Philippe Rommens,Go Ahead Eagles Deventer,Eredivisie,1997-08-20,Bélgica,Medio campo
+Evert Linthorst,Go Ahead Eagles Deventer,Eredivisie,2000-03-03,Países Bajos,Medio campo
+Oliver Valaker Edvardsen,Go Ahead Eagles Deventer,Eredivisie,1999-03-19,Noruega,Delantero
+Jakob Breum,Go Ahead Eagles Deventer,Eredivisie,2003-11-17,Dinamarca,Delantero
+Sylla Sow,Go Ahead Eagles Deventer,Eredivisie,1996-08-08,Países Bajos,Delantero
+Darío Serra,Go Ahead Eagles Deventer,Eredivisie,2003-01-20,España,Delantero
+Willum Thór Willumsson,Go Ahead Eagles Deventer,Eredivisie,1998-10-23,Islandia,Delantero
+Bobby Adekanye,Go Ahead Eagles Deventer,Eredivisie,1999-02-14,Países Bajos,Delantero
+Rashaan Fernandes,Go Ahead Eagles Deventer,Eredivisie,1998-07-29,Países Bajos,Delantero
+Victor Edvardsen,Go Ahead Eagles Deventer,Eredivisie,1996-01-14,Suecia,Delantero
+Thibo Baeten,Go Ahead Eagles Deventer,Eredivisie,2002-06-04,Bélgica,Delantero
+Finn Stokkers,Go Ahead Eagles Deventer,Eredivisie,1996-04-18,Países Bajos,Delantero
+Andries Noppert,SC Heerenveen,Eredivisie,1994-04-07,Países Bajos,Portero
+Mickey van der Hart,SC Heerenveen,Eredivisie,1994-06-13,Países Bajos,Portero
+Jan Bekkema,SC Heerenveen,Eredivisie,1996-04-09,Países Bajos,Portero
+Bernt Klaverboer,SC Heerenveen,Eredivisie,2005-09-26,Países Bajos,Portero
+Pawel Bochniewicz,SC Heerenveen,Eredivisie,1996-01-30,Polonia,Defensa
+Sven van Beek,SC Heerenveen,Eredivisie,1994-07-28,Países Bajos,Defensa
+Syb van Ottele,SC Heerenveen,Eredivisie,2002-02-02,Países Bajos,Defensa
+Mats Köhlert,SC Heerenveen,Eredivisie,1998-05-02,Alemania,Defensa
+Denzel Hall,SC Heerenveen,Eredivisie,2001-05-22,Países Bajos,Defensa
+Hussein Ali,SC Heerenveen,Eredivisie,2002-03-01,Irak,Defensa
+Oliver Braude,SC Heerenveen,Eredivisie,2004-02-21,Noruega,Defensa
+Thom Haye,SC Heerenveen,Eredivisie,1995-02-09,Países Bajos,Medio campo
+Luuk Brouwers,SC Heerenveen,Eredivisie,1998-05-03,Países Bajos,Medio campo
+Simon Olsson,SC Heerenveen,Eredivisie,1997-09-14,Suecia,Medio campo
+Anas Tahiri,SC Heerenveen,Eredivisie,1995-05-15,Marruecos,Medio campo
+Djenahro Nunumete,SC Heerenveen,Eredivisie,2002-01-28,Países Bajos,Medio campo
+Charlie Webster,SC Heerenveen,Eredivisie,2004-01-31,Inglaterra,Medio campo
+Pelle van Amersfoort,SC Heerenveen,Eredivisie,1996-04-01,Países Bajos,Medio campo
+Osame Sahraoui,SC Heerenveen,Eredivisie,2001-06-11,Noruega,Delantero
+Patrik Walemark,SC Heerenveen,Eredivisie,2001-10-14,Suecia,Delantero
+Ché Nunnely,SC Heerenveen,Eredivisie,1999-02-04,Países Bajos,Delantero
+Daniel Karlsbakk,SC Heerenveen,Eredivisie,2003-04-07,Noruega,Delantero
+Ion Nicolaescu,SC Heerenveen,Eredivisie,1998-09-07,Moldavia,Delantero
+Fabian de Keijzer,Heracles Almelo,Eredivisie,2000-05-10,Países Bajos,Portero
+Michael Brouwer,Heracles Almelo,Eredivisie,1993-01-21,Países Bajos,Portero
+Robin Jalving,Heracles Almelo,Eredivisie,2000-04-11,Países Bajos,Portero
+Timo Jansink,Heracles Almelo,Eredivisie,2003-03-16,Países Bajos,Portero
+Justin Hoogma,Heracles Almelo,Eredivisie,1998-06-11,Países Bajos,Defensa
+Sava-Arandjel Cestic,Heracles Almelo,Eredivisie,2001-02-19,Serbia,Defensa
+Sven Sonnenberg,Heracles Almelo,Eredivisie,1999-01-19,Alemania,Defensa
+Stijn Bultman,Heracles Almelo,Eredivisie,2005-01-29,Países Bajos,Defensa
+Jetro Willems,Heracles Almelo,Eredivisie,1994-03-30,Países Bajos,Defensa
+Ruben Roosken,Heracles Almelo,Eredivisie,2000-03-02,Países Bajos,Defensa
+Chiel Olde Keizer,Heracles Almelo,Eredivisie,2003-03-17,Países Bajos,Defensa
+Jannes Wieckhoff,Heracles Almelo,Eredivisie,2000-08-02,Alemania,Defensa
+Navajo Bakboord,Heracles Almelo,Eredivisie,1999-01-29,Surinam,Defensa
+Sylian Mokono,Heracles Almelo,Eredivisie,1999-03-22,Países Bajos,Defensa
+Brian De Keersmaecker,Heracles Almelo,Eredivisie,2000-05-06,Bélgica,Medio campo
+Marko Vejinović,Heracles Almelo,Eredivisie,1990-02-03,Países Bajos,Medio campo
+Sem Scheperman,Heracles Almelo,Eredivisie,2002-06-24,Países Bajos,Medio campo
+Thomas Bruns,Heracles Almelo,Eredivisie,1992-01-07,Países Bajos,Medio campo
+Anas Ouahim,Heracles Almelo,Eredivisie,1997-09-23,Marruecos,Medio campo
+Melih Ibrahimoglu,Heracles Almelo,Eredivisie,2000-07-17,Turquía,Medio campo
+Emil Hansson,Heracles Almelo,Eredivisie,1998-06-15,Suecia,Delantero
+Bryan Limbombe,Heracles Almelo,Eredivisie,2001-05-14,Bélgica,Delantero
+Abdenego Nankishi,Heracles Almelo,Eredivisie,2002-07-06,Alemania,Delantero
+Lasse Wehmeyer,Heracles Almelo,Eredivisie,2002-09-18,Alemania,Delantero
+Nikolai Laursen,Heracles Almelo,Eredivisie,1998-02-19,Dinamarca,Delantero
+Mohamed Sankoh,Heracles Almelo,Eredivisie,2003-10-16,Países Bajos,Delantero
+Jizz Hornkamp,Heracles Almelo,Eredivisie,1998-03-07,Países Bajos,Delantero
+Mario Engels,Heracles Almelo,Eredivisie,1993-10-22,Alemania,Delantero
+Antonio Satriano,Heracles Almelo,Eredivisie,2003-10-30,Italia,Delantero
+Diego van Oorschot,Heracles Almelo,Eredivisie,2005-10-02,Países Bajos,Delantero
+Jasper Cillessen,NEC Nijmegen,Eredivisie,1989-04-22,Países Bajos,Portero
+Robin Roefs,NEC Nijmegen,Eredivisie,2003-01-17,Países Bajos,Portero
+Rijk Janse,NEC Nijmegen,Eredivisie,2002-04-16,Países Bajos,Portero
+Philippe Sandler,NEC Nijmegen,Eredivisie,1997-02-10,Países Bajos,Defensa
+Mathias Ross,NEC Nijmegen,Eredivisie,2001-01-15,Dinamarca,Defensa
+Bram Nuytinck,NEC Nijmegen,Eredivisie,1990-05-04,Países Bajos,Defensa
+Youri Baas,NEC Nijmegen,Eredivisie,2003-03-17,Países Bajos,Defensa
+Calvin Verdonk,NEC Nijmegen,Eredivisie,1997-04-26,Países Bajos,Defensa
+Bart van Rooij,NEC Nijmegen,Eredivisie,2001-05-26,Países Bajos,Defensa
+Brayann Pereira,NEC Nijmegen,Eredivisie,2003-05-21,Francia,Defensa
+Mees Hoedemakers,NEC Nijmegen,Eredivisie,1998-02-18,Países Bajos,Medio campo
+Lasse Schöne,NEC Nijmegen,Eredivisie,1986-05-27,Dinamarca,Medio campo
+Dirk Proper,NEC Nijmegen,Eredivisie,2002-02-24,Países Bajos,Medio campo
+Kodai Sano,NEC Nijmegen,Eredivisie,2003-09-25,Japón,Medio campo
+Nils Rossen,NEC Nijmegen,Eredivisie,2005-08-01,Países Bajos,Medio campo
+Rober González,NEC Nijmegen,Eredivisie,2001-01-08,España,Medio campo
+Kas de Wit,NEC Nijmegen,Eredivisie,2003-07-26,Países Bajos,Medio campo
+Alexis Tibidi,NEC Nijmegen,Eredivisie,2003-11-03,Francia,Delantero
+Lars Olden Larsen,NEC Nijmegen,Eredivisie,1998-09-17,Noruega,Delantero
+Magnus Mattsson,NEC Nijmegen,Eredivisie,1999-02-25,Dinamarca,Delantero
+Elayis Tavsan,NEC Nijmegen,Eredivisie,2001-04-30,Países Bajos,Delantero
+Sontje Hansen,NEC Nijmegen,Eredivisie,2002-05-18,Países Bajos,Delantero
+Bas Dost,NEC Nijmegen,Eredivisie,1989-05-31,Países Bajos,Delantero
+Koki Ogawa,NEC Nijmegen,Eredivisie,1997-08-08,Japón,Delantero
+Jasper Schendelaar,PEC Zwolle,Eredivisie,2000-09-02,Países Bajos,Portero
+Kenneth Vermeer,PEC Zwolle,Eredivisie,1986-01-10,Países Bajos,Portero
+Mike Hauptmeijer,PEC Zwolle,Eredivisie,1997-03-18,Países Bajos,Portero
+Duke Verduin,PEC Zwolle,Eredivisie,2003-10-30,Países Bajos,Portero
+Thomas Lam,PEC Zwolle,Eredivisie,1993-12-18,Finlandia,Defensa
+Sam Kersten,PEC Zwolle,Eredivisie,1998-01-30,Países Bajos,Defensa
+Anouar El Azzouzi,PEC Zwolle,Eredivisie,2001-05-29,Marruecos,Defensa
+Anselmo García MacNulty,PEC Zwolle,Eredivisie,2003-02-19,Irlanda,Defensa
+Bram van Polen,PEC Zwolle,Eredivisie,1985-10-11,Países Bajos,Defensa
+Lennart Czyborra,PEC Zwolle,Eredivisie,1999-05-03,Alemania,Defensa
+Luis Görlich,PEC Zwolle,Eredivisie,2000-04-01,Alemania,Defensa
+Nick Fichtinger,PEC Zwolle,Eredivisie,2004-04-06,Países Bajos,Medio campo
+Ryan Thomas,PEC Zwolle,Eredivisie,1994-12-20,Nueva Zelanda,Medio campo
+Dean Huiberts,PEC Zwolle,Eredivisie,2000-05-16,Países Bajos,Medio campo
+Zico Buurmeester,PEC Zwolle,Eredivisie,2002-06-07,Países Bajos,Medio campo
+Davy van den Berg,PEC Zwolle,Eredivisie,2000-02-04,Países Bajos,Medio campo
+Younes Namli,PEC Zwolle,Eredivisie,1994-06-20,Dinamarca,Medio campo
+Anthony Fontana,PEC Zwolle,Eredivisie,1999-10-14,Estados Unidos,Medio campo
+Odysseus Velanas,PEC Zwolle,Eredivisie,1998-06-05,Países Bajos,Medio campo
+Eliano Reijnders,PEC Zwolle,Eredivisie,2000-10-23,Países Bajos,Medio campo
+Samir Lagsir,PEC Zwolle,Eredivisie,2003-05-20,Países Bajos,Medio campo
+Nico Serrano,PEC Zwolle,Eredivisie,2003-03-05,España,Delantero
+Divaio Bobson,PEC Zwolle,Eredivisie,2004-02-06,Países Bajos,Delantero
+Ferdy Druijf,PEC Zwolle,Eredivisie,1998-02-12,Países Bajos,Delantero
+Lennart Thy,PEC Zwolle,Eredivisie,1992-02-25,Alemania,Delantero
+Tolis Vellios,PEC Zwolle,Eredivisie,1992-01-08,Grecia,Delantero
+Walter Benítez,PSV Eindhoven,Eredivisie,1993-01-19,Argentina,Portero
+Joël Drommel,PSV Eindhoven,Eredivisie,1996-11-16,Países Bajos,Portero
+Kjell Peersman,PSV Eindhoven,Eredivisie,2004-05-21,Bélgica,Portero
+Boy Waterman,PSV Eindhoven,Eredivisie,1984-01-24,Países Bajos,Portero
+Armel Bella-Kotchap,PSV Eindhoven,Eredivisie,2001-12-11,Alemania,Defensa
+Olivier Boscagli,PSV Eindhoven,Eredivisie,1997-11-18,Francia,Defensa
+Armando Obispo,PSV Eindhoven,Eredivisie,1999-03-05,Países Bajos,Defensa
+André Ramalho,PSV Eindhoven,Eredivisie,1992-02-16,Brasil,Defensa
+Mauro Júnior,PSV Eindhoven,Eredivisie,1999-05-06,Brasil,Defensa
+Patrick van Aanholt,PSV Eindhoven,Eredivisie,1990-08-29,Países Bajos,Defensa
+Fredrik Oppegard,PSV Eindhoven,Eredivisie,2002-08-07,Noruega,Defensa
+Sergiño Dest,PSV Eindhoven,Eredivisie,2000-11-03,Estados Unidos,Defensa
+Jordan Teze,PSV Eindhoven,Eredivisie,1999-09-30,Países Bajos,Defensa
+Shurandy Sambo,PSV Eindhoven,Eredivisie,2001-08-19,Países Bajos,Defensa
+Jerdy Schouten,PSV Eindhoven,Eredivisie,1997-01-12,Países Bajos,Medio campo
+Joey Veerman,PSV Eindhoven,Eredivisie,1998-11-19,Países Bajos,Medio campo
+Guus Til,PSV Eindhoven,Eredivisie,1997-12-22,Países Bajos,Medio campo
+Malik Tillman,PSV Eindhoven,Eredivisie,2002-05-28,Estados Unidos,Medio campo
+Ismael Saibari,PSV Eindhoven,Eredivisie,2001-01-28,Marruecos,Medio campo
+Isaac Babadi,PSV Eindhoven,Eredivisie,2005-04-06,Países Bajos,Medio campo
+Noa Lang,PSV Eindhoven,Eredivisie,1999-06-17,Países Bajos,Delantero
+Hirving Lozano,PSV Eindhoven,Eredivisie,1995-07-30,México,Delantero
+Johan Bakayoko,PSV Eindhoven,Eredivisie,2003-04-20,Bélgica,Delantero
+Ricardo Pepi,PSV Eindhoven,Eredivisie,2003-01-09,Estados Unidos,Delantero
+Luuk de Jong,PSV Eindhoven,Eredivisie,1990-08-27,Países Bajos,Delantero
+Yorbe Vertessen,PSV Eindhoven,Eredivisie,2001-01-08,Bélgica,Delantero
+Jason van Duiven,PSV Eindhoven,Eredivisie,2005-02-24,Países Bajos,Delantero
+Etienne Vaessen,RKC Waalwijk,Eredivisie,1995-07-26,Países Bajos,Portero
+Jeroen Houwen,RKC Waalwijk,Eredivisie,1996-02-18,Países Bajos,Portero
+Mark Spenkelink,RKC Waalwijk,Eredivisie,1997-01-27,Países Bajos,Portero
+Joey Kesting,RKC Waalwijk,Eredivisie,2001-03-07,Países Bajos,Portero
+Shawn Adewoye,RKC Waalwijk,Eredivisie,2000-06-29,Bélgica,Defensa
+Dario Van den Buijs,RKC Waalwijk,Eredivisie,1995-09-12,Bélgica,Defensa
+Juriën Gaari,RKC Waalwijk,Eredivisie,1993-12-23,Países Bajos,Defensa
+Jeffrey Bruma,RKC Waalwijk,Eredivisie,1991-11-13,Países Bajos,Defensa
+Thierry Lutonda,RKC Waalwijk,Eredivisie,2000-10-27,Bélgica,Defensa
+Aaron Meijers,RKC Waalwijk,Eredivisie,1987-10-28,Países Bajos,Defensa
+Julian Lelieveld,RKC Waalwijk,Eredivisie,1997-11-24,Países Bajos,Defensa
+Raz Meir,RKC Waalwijk,Eredivisie,1996-11-30,Israel,Defensa
+Godfried Roemeratoe,RKC Waalwijk,Eredivisie,1999-08-19,Países Bajos,Medio campo
+Kevin Felida,RKC Waalwijk,Eredivisie,1999-11-11,Países Bajos,Medio campo
+Yassin Oukili,RKC Waalwijk,Eredivisie,2001-01-03,Marruecos,Medio campo
+Patrick Vroegh,RKC Waalwijk,Eredivisie,1999-11-29,Países Bajos,Medio campo
+Daouda Weidmann,RKC Waalwijk,Eredivisie,2003-05-04,Francia,Medio campo
+Chris Lokesa,RKC Waalwijk,Eredivisie,2004-11-07,Bélgica,Medio campo
+Reuven Niemeijer,RKC Waalwijk,Eredivisie,1995-03-27,Países Bajos,Medio campo
+Nouri El Harmazi,RKC Waalwijk,Eredivisie,2002-05-15,Países Bajos,Medio campo
+Filip Stevanović,RKC Waalwijk,Eredivisie,2002-09-25,Serbia,Delantero
+Zakaria Bakkali,RKC Waalwijk,Eredivisie,1996-01-26,Bélgica,Delantero
+Ilias Takidine,RKC Waalwijk,Eredivisie,2001-02-05,Bélgica,Delantero
+Denilho Cleonise,RKC Waalwijk,Eredivisie,2001-12-08,Países Bajos,Delantero
+Michiel Kramer,RKC Waalwijk,Eredivisie,1988-12-03,Países Bajos,Delantero
+David Min,RKC Waalwijk,Eredivisie,1999-06-23,Países Bajos,Delantero
+Richonell Margaret,RKC Waalwijk,Eredivisie,2000-09-07,Países Bajos,Delantero
+Nick Olij,Sparta Rotterdam,Eredivisie,1995-08-01,Países Bajos,Portero
+Delano van Crooij,Sparta Rotterdam,Eredivisie,1991-06-05,Países Bajos,Portero
+Youri Schoonderwaldt,Sparta Rotterdam,Eredivisie,2000-03-13,Países Bajos,Portero
+Kaylen Reitmaier,Sparta Rotterdam,Eredivisie,2004-04-05,Alemania,Portero
+Mike Eerdhuijzen,Sparta Rotterdam,Eredivisie,2000-07-13,Países Bajos,Defensa
+Bart Vriends,Sparta Rotterdam,Eredivisie,1991-05-09,Países Bajos,Defensa
+Tijs Velthuis,Sparta Rotterdam,Eredivisie,2002-01-12,Países Bajos,Defensa
+Rick Meissen,Sparta Rotterdam,Eredivisie,2002-02-24,Países Bajos,Defensa
+Django Warmerdam,Sparta Rotterdam,Eredivisie,1995-09-02,Países Bajos,Defensa
+Djevencio van der Kust,Sparta Rotterdam,Eredivisie,2001-04-30,Surinam,Defensa
+Saïd Bakari,Sparta Rotterdam,Eredivisie,1994-09-22,Comoras,Defensa
+Sergi Rosanas,Sparta Rotterdam,Eredivisie,2001-01-29,España,Defensa
+Jonathan de Guzmán,Sparta Rotterdam,Eredivisie,1987-09-13,Países Bajos,Medio campo
+Joshua Kitolano,Sparta Rotterdam,Eredivisie,2001-08-03,Noruega,Medio campo
+Metinho,Sparta Rotterdam,Eredivisie,2003-04-23,Brasil,Medio campo
+Pelle Clement,Sparta Rotterdam,Eredivisie,1996-05-19,Países Bajos,Medio campo
+Arno Verschueren,Sparta Rotterdam,Eredivisie,1997-04-08,Bélgica,Medio campo
+Pedro Alemañ,Sparta Rotterdam,Eredivisie,2002-03-21,España,Medio campo
+Koki Saito,Sparta Rotterdam,Eredivisie,2001-08-10,Japón,Delantero
+Agustín Anello,Sparta Rotterdam,Eredivisie,2002-04-22,Estados Unidos,Delantero
+Camiel Neghli,Sparta Rotterdam,Eredivisie,2001-11-06,Argelia,Delantero
+Tobias Lauritsen,Sparta Rotterdam,Eredivisie,1997-08-30,Noruega,Delantero
+Charles-Andreas Brym,Sparta Rotterdam,Eredivisie,1998-08-08,Canadá,Delantero
+Lars Unnerstall,FC Twente Enschede,Eredivisie,1990-07-20,Alemania,Portero
+Przemyslaw Tyton,FC Twente Enschede,Eredivisie,1987-01-04,Polonia,Portero
+Issam El Maach,FC Twente Enschede,Eredivisie,2000-02-01,Marruecos,Portero
+Sam Karssies,FC Twente Enschede,Eredivisie,2003-02-26,Países Bajos,Portero
+Mees Hilgers,FC Twente Enschede,Eredivisie,2001-05-13,Países Bajos,Defensa
+Robin Pröpper,FC Twente Enschede,Eredivisie,1993-09-23,Países Bajos,Defensa
+Alec Van Hoorenbeeck,FC Twente Enschede,Eredivisie,1998-12-30,Bélgica,Defensa
+Max Bruns,FC Twente Enschede,Eredivisie,2002-11-06,Países Bajos,Defensa
+Juliën Mesbahi,FC Twente Enschede,Eredivisie,2006-01-31,Países Bajos,Defensa
+Gijs Smal,FC Twente Enschede,Eredivisie,1997-08-31,Países Bajos,Defensa
+Mats Rots,FC Twente Enschede,Eredivisie,2006-03-11,Países Bajos,Defensa
+Joshua Brenet,FC Twente Enschede,Eredivisie,1994-03-20,Países Bajos,Defensa
+Alfons Sampsted,FC Twente Enschede,Eredivisie,1998-04-06,Islandia,Defensa
+Mathias Kjölö,FC Twente Enschede,Eredivisie,2001-06-27,Noruega,Medio campo
+Michal Sadilek,FC Twente Enschede,Eredivisie,1999-05-31,República Checa,Medio campo
+Carel Eiting,FC Twente Enschede,Eredivisie,1998-02-11,Países Bajos,Medio campo
+Youri Regeer,FC Twente Enschede,Eredivisie,2003-08-18,Países Bajos,Medio campo
+Gijs Besselink,FC Twente Enschede,Eredivisie,2004-06-16,Países Bajos,Medio campo
+Michel Vlap,FC Twente Enschede,Eredivisie,1997-06-02,Países Bajos,Medio campo
+Sem Steijn,FC Twente Enschede,Eredivisie,2001-11-12,Países Bajos,Medio campo
+Younes Taha,FC Twente Enschede,Eredivisie,2002-11-27,Marruecos,Medio campo
+Naci Ünüvar,FC Twente Enschede,Eredivisie,2003-06-13,Turquía,Delantero
+Mitchell van Bergen,FC Twente Enschede,Eredivisie,1999-08-27,Países Bajos,Delantero
+Daan Rots,FC Twente Enschede,Eredivisie,2001-07-25,Países Bajos,Delantero
+Manfred Ugalde,FC Twente Enschede,Eredivisie,2002-05-25,Costa Rica,Delantero
+Ricky van Wolfswinkel,FC Twente Enschede,Eredivisie,1989-01-27,Países Bajos,Delantero
+Vasilios Barkas,FC Utrecht,Eredivisie,1994-05-30,Grecia,Portero
+Mattijs Branderhorst,FC Utrecht,Eredivisie,1993-12-31,Países Bajos,Portero
+Calvin Raatsie,FC Utrecht,Eredivisie,2002-02-09,Países Bajos,Portero
+Modibo Sagnan,FC Utrecht,Eredivisie,1999-04-14,Francia,Defensa
+Ryan Flamingo,FC Utrecht,Eredivisie,2002-12-31,Países Bajos,Defensa
+Mike van der Hoorn,FC Utrecht,Eredivisie,1992-10-15,Países Bajos,Defensa
+Nick Viergever,FC Utrecht,Eredivisie,1989-08-03,Países Bajos,Defensa
+Souffian El Karouani,FC Utrecht,Eredivisie,2000-10-19,Marruecos,Defensa
+Hugo Novoa,FC Utrecht,Eredivisie,2003-01-24,España,Defensa
+Hidde ter Avest,FC Utrecht,Eredivisie,1997-05-20,Países Bajos,Defensa
+Mark van der Maarel,FC Utrecht,Eredivisie,1989-08-12,Países Bajos,Defensa
+Jens Toornstra,FC Utrecht,Eredivisie,1989-04-04,Países Bajos,Medio campo
+Can Bozdogan,FC Utrecht,Eredivisie,2001-04-05,Alemania,Medio campo
+Oscar Fraulo,FC Utrecht,Eredivisie,2003-12-06,Dinamarca,Medio campo
+Zidane Iqbal,FC Utrecht,Eredivisie,2003-04-27,Irak,Medio campo
+Bart Ramselaar,FC Utrecht,Eredivisie,1996-06-29,Países Bajos,Medio campo
+Zakaria Labyad,FC Utrecht,Eredivisie,1993-03-09,Marruecos,Medio campo
+Victor Jensen,FC Utrecht,Eredivisie,2000-02-08,Dinamarca,Medio campo
+Othmane Boussaid,FC Utrecht,Eredivisie,2000-03-07,Bélgica,Delantero
+Adrian Blake,FC Utrecht,Eredivisie,2005-07-15,Inglaterra,Delantero
+Taylor Booth,FC Utrecht,Eredivisie,2001-05-31,Estados Unidos,Delantero
+Marouan Azarkan,FC Utrecht,Eredivisie,2001-12-08,Países Bajos,Delantero
+Ole Romeny,FC Utrecht,Eredivisie,2000-06-20,Países Bajos,Delantero
+Mats Seuntjens,FC Utrecht,Eredivisie,1992-04-17,Países Bajos,Delantero
+Isac Lidberg,FC Utrecht,Eredivisie,1998-09-08,Suecia,Delantero
+Anthony Descotte,FC Utrecht,Eredivisie,2003-08-03,Bélgica,Delantero
+Eloy Room,Vitesse Arnhem,Eredivisie,1989-02-06,Países Bajos,Portero
+Markus Schubert,Vitesse Arnhem,Eredivisie,1998-06-12,Alemania,Portero
+Ramon Hendriks,Vitesse Arnhem,Eredivisie,2001-07-18,Países Bajos,Defensa
+Dominik Oroz,Vitesse Arnhem,Eredivisie,2000-10-29,Croacia,Defensa
+Enzo Cornelisse,Vitesse Arnhem,Eredivisie,2002-06-29,Países Bajos,Defensa
+Nicolas Isimat-Mirin,Vitesse Arnhem,Eredivisie,1991-11-15,Francia,Defensa
+Giovanni van Zwam,Vitesse Arnhem,Eredivisie,2004-01-02,Países Bajos,Defensa
+Mica Pinto,Vitesse Arnhem,Eredivisie,1993-06-04,Luxemburgo,Defensa
+Carlens Arcus,Vitesse Arnhem,Eredivisie,1996-06-28,Haití,Defensa
+Mats Egbring,Vitesse Arnhem,Eredivisie,2006-09-17,Países Bajos,Defensa
+Melle Meulensteen,Vitesse Arnhem,Eredivisie,1999-07-04,Países Bajos,Medio campo
+Kacper Kozlowski,Vitesse Arnhem,Eredivisie,2003-10-16,Polonia,Medio campo
+Marco van Ginkel,Vitesse Arnhem,Eredivisie,1992-12-01,Países Bajos,Medio campo
+Toni Domgjoni,Vitesse Arnhem,Eredivisie,1998-09-04,República de Kosovo,Medio campo
+Mathijs Tielemans,Vitesse Arnhem,Eredivisie,2002-04-26,Países Bajos,Medio campo
+Davy Pröpper,Vitesse Arnhem,Eredivisie,1991-09-02,Países Bajos,Medio campo
+Jordi Altena,Vitesse Arnhem,Eredivisie,2003-12-04,Países Bajos,Medio campo
+Gyan de Regt,Vitesse Arnhem,Eredivisie,2003-08-18,Países Bajos,Delantero
+Million Manhoef,Vitesse Arnhem,Eredivisie,2002-01-03,Países Bajos,Delantero
+Miliano Jonathans,Vitesse Arnhem,Eredivisie,2004-04-05,Países Bajos,Delantero
+Said Hamulic,Vitesse Arnhem,Eredivisie,2000-11-12,Bosnia y Herzegovina,Delantero
+Amine Boutrah,Vitesse Arnhem,Eredivisie,2000-10-26,Francia,Delantero
+Thomas Buitink,Vitesse Arnhem,Eredivisie,2000-06-14,Países Bajos,Delantero
+Joel Voelkerling Persson,Vitesse Arnhem,Eredivisie,2003-01-15,Suecia,Delantero
+Fodé Fofana,Vitesse Arnhem,Eredivisie,2002-10-26,Países Bajos,Delantero
+Simon van Duivenbooden,Vitesse Arnhem,Eredivisie,2002-05-11,Países Bajos,Delantero
+Mio Backhaus,FC Volendam,Eredivisie,2004-04-16,Alemania,Portero
+Barry Lauwers,FC Volendam,Eredivisie,1999-11-29,Países Bajos,Portero
+Kayne van Oevelen,FC Volendam,Eredivisie,2003-08-07,Países Bajos,Portero
+Xavier Mbuyamba,FC Volendam,Eredivisie,2001-12-31,Países Bajos,Defensa
+Benaissa Benamar,FC Volendam,Eredivisie,1997-04-08,Marruecos,Defensa
+Damon Mirani,FC Volendam,Eredivisie,1996-05-13,Países Bajos,Defensa
+Josh Flint,FC Volendam,Eredivisie,2000-10-13,Inglaterra,Defensa
+Billy van Duijl,FC Volendam,Eredivisie,2005-10-04,Países Bajos,Defensa
+George Cox,FC Volendam,Eredivisie,1998-01-14,Inglaterra,Defensa
+Brian Plat,FC Volendam,Eredivisie,2000-04-05,Países Bajos,Defensa
+Oskar Buur,FC Volendam,Eredivisie,1998-03-31,Dinamarca,Defensa
+Achraf Douiri,FC Volendam,Eredivisie,1999-11-27,Países Bajos,Defensa
+Deron Payne,FC Volendam,Eredivisie,2002-09-25,Países Bajos,Defensa
+Calvin Twigt,FC Volendam,Eredivisie,2003-01-30,Países Bajos,Medio campo
+Luke Le Roux,FC Volendam,Eredivisie,2000-03-10,Sudáfrica,Medio campo
+Imran Nazih,FC Volendam,Eredivisie,2006-01-25,Marruecos,Medio campo
+Flip Klomp,FC Volendam,Eredivisie,2001-10-18,Países Bajos,Medio campo
+Joey Antonioli,FC Volendam,Eredivisie,2003-12-15,Países Bajos,Medio campo
+Milan de Haan,FC Volendam,Eredivisie,2003-11-20,Países Bajos,Medio campo
+Zach Booth,FC Volendam,Eredivisie,2004-02-17,Estados Unidos,Medio campo
+Robin Maulun,FC Volendam,Eredivisie,1996-11-23,Francia,Medio campo
+Diego Gustavo,FC Volendam,Eredivisie,2004-06-19,Brasil,Medio campo
+Ibrahim El Kadiri,FC Volendam,Eredivisie,2002-01-23,Marruecos,Delantero
+Darius Johnson,FC Volendam,Eredivisie,2000-03-15,Granada,Delantero
+Garang Kuol,FC Volendam,Eredivisie,2004-09-15,Australia,Delantero
+Bilal Ould-Chikh,FC Volendam,Eredivisie,1997-07-28,Marruecos,Delantero
+Robert Mühren,FC Volendam,Eredivisie,1989-05-18,Países Bajos,Delantero
+Lequincio Zeefuik,FC Volendam,Eredivisie,2004-11-26,Países Bajos,Delantero
+Koen Blommestijn,FC Volendam,Eredivisie,1999-10-14,Países Bajos,Delantero
+Ezechiel Fiemawhle,FC Volendam,Eredivisie,2004-10-25,Países Bajos,Delantero

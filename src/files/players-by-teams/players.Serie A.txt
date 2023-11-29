@@ -1,0 +1,568 @@
+Alex Meret,SSC Nápoles,Serie A,1997-03-22,Italia,Portero
+Pierluigi Gollini,SSC Nápoles,Serie A,1995-03-18,Italia,Portero
+Nikita Contini,SSC Nápoles,Serie A,1996-05-21,Italia,Portero
+Hubert Idasiak,SSC Nápoles,Serie A,2002-02-03,Polonia,Portero
+Amir Rrahmani,SSC Nápoles,Serie A,1994-02-24,República de Kosovo,Defensa
+Leo Østigård,SSC Nápoles,Serie A,1999-11-28,Noruega,Defensa
+Natan,SSC Nápoles,Serie A,2001-02-06,Brasil,Defensa
+Juan Jesus,SSC Nápoles,Serie A,1991-06-10,Brasil,Defensa
+Mathías Olivera,SSC Nápoles,Serie A,1997-10-31,Uruguay,Defensa
+Mário Rui,SSC Nápoles,Serie A,1991-05-27,Portugal,Defensa
+Giovanni Di Lorenzo,SSC Nápoles,Serie A,1993-08-04,Italia,Defensa
+Alessandro Zanoli,SSC Nápoles,Serie A,2000-10-03,Italia,Defensa
+Stanislav Lobotka,SSC Nápoles,Serie A,1994-11-25,Eslovaquia,Medio campo
+Diego Demme,SSC Nápoles,Serie A,1991-11-21,Alemania,Medio campo
+Frank Anguissa,SSC Nápoles,Serie A,1995-11-16,Camerún,Medio campo
+Piotr Zielinski,SSC Nápoles,Serie A,1994-05-20,Polonia,Medio campo
+Eljif Elmas,SSC Nápoles,Serie A,1999-09-24,Macedonia del Norte,Medio campo
+Jens Cajuste,SSC Nápoles,Serie A,1999-08-10,Suecia,Medio campo
+Jesper Lindstrøm,SSC Nápoles,Serie A,2000-02-29,Dinamarca,Medio campo
+Gianluca Gaetano,SSC Nápoles,Serie A,2000-05-05,Italia,Medio campo
+Lorenzo Russo,SSC Nápoles,Serie A,2005-04-19,Italia,Medio campo
+Khvicha Kvaratskhelia,SSC Nápoles,Serie A,2001-02-12,Georgia,Delantero
+Alessio Zerbin,SSC Nápoles,Serie A,1999-03-03,Italia,Delantero
+Matteo Politano,SSC Nápoles,Serie A,1993-08-03,Italia,Delantero
+Giacomo Raspadori,SSC Nápoles,Serie A,2000-02-18,Italia,Delantero
+Victor Osimhen,SSC Nápoles,Serie A,1998-12-29,Nigeria,Delantero
+Giovanni Simeone,SSC Nápoles,Serie A,1995-07-05,Argentina,Delantero
+Ivan Provedel,SS Lazio,Serie A,1994-03-17,Italia,Portero
+Luigi Sepe,SS Lazio,Serie A,1991-05-08,Italia,Portero
+Christos Mandas,SS Lazio,Serie A,2001-09-17,Grecia,Portero
+Nicolò Casale,SS Lazio,Serie A,1998-02-14,Italia,Defensa
+Alessio Romagnoli,SS Lazio,Serie A,1995-01-12,Italia,Defensa
+Patric,SS Lazio,Serie A,1993-04-17,España,Defensa
+Mario Gila,SS Lazio,Serie A,2000-08-29,España,Defensa
+Adam Marusic,SS Lazio,Serie A,1992-10-17,Montenegro,Defensa
+Luca Pellegrini,SS Lazio,Serie A,1999-03-07,Italia,Defensa
+Dimitrije Kamenović,SS Lazio,Serie A,2000-07-16,Serbia,Defensa
+Elseid Hysaj,SS Lazio,Serie A,1994-02-02,Albania,Defensa
+Nicolò Rovella,SS Lazio,Serie A,2001-12-04,Italia,Medio campo
+Danilo Cataldi,SS Lazio,Serie A,1994-08-06,Italia,Medio campo
+Mattéo Guendouzi,SS Lazio,Serie A,1999-04-14,Francia,Medio campo
+Luis Alberto,SS Lazio,Serie A,1992-09-28,España,Medio campo
+Toma Bašić,SS Lazio,Serie A,1996-11-25,Croacia,Medio campo
+Matías Vecino,SS Lazio,Serie A,1991-08-24,Uruguay,Medio campo
+Manuel Lazzari,SS Lazio,Serie A,1993-11-29,Italia,Medio campo
+Daichi Kamada,SS Lazio,Serie A,1996-08-05,Japón,Medio campo
+André Anderson,SS Lazio,Serie A,1999-09-23,Italia,Medio campo
+Mattia Zaccagni,SS Lazio,Serie A,1995-06-16,Italia,Delantero
+Diego González,SS Lazio,Serie A,2003-01-07,Paraguay,Delantero
+Saná Fernandes,SS Lazio,Serie A,2006-03-10,Portugal,Delantero
+Felipe Anderson,SS Lazio,Serie A,1993-04-15,Brasil,Delantero
+Gustav Isaksen,SS Lazio,Serie A,2001-04-19,Dinamarca,Delantero
+Pedro,SS Lazio,Serie A,1987-07-28,España,Delantero
+Cristiano Lombardi,SS Lazio,Serie A,1995-08-19,Italia,Delantero
+Ciro Immobile,SS Lazio,Serie A,1990-02-20,Italia,Delantero
+Taty Castellanos,SS Lazio,Serie A,1998-10-03,Argentina,Delantero
+Emil Audero,Inter de Milán,Serie A,1997-01-18,Italia,Portero
+Yann Sommer,Inter de Milán,Serie A,1988-12-17,Suiza,Portero
+Raffaele Di Gennaro,Inter de Milán,Serie A,1993-10-03,Italia,Portero
+Alessandro Bastoni,Inter de Milán,Serie A,1999-04-13,Italia,Defensa
+Benjamin Pavard,Inter de Milán,Serie A,1996-03-28,Francia,Defensa
+Stefan de Vrij,Inter de Milán,Serie A,1992-02-05,Países Bajos,Defensa
+Yann Bisseck,Inter de Milán,Serie A,2000-11-29,Alemania,Defensa
+Francesco Acerbi,Inter de Milán,Serie A,1988-02-10,Italia,Defensa
+Federico Dimarco,Inter de Milán,Serie A,1997-11-10,Italia,Defensa
+Matteo Darmian,Inter de Milán,Serie A,1989-12-02,Italia,Defensa
+Hakan Çalhanoğlu,Inter de Milán,Serie A,1994-02-08,Turquía,Medio campo
+Kristjan Asllani,Inter de Milán,Serie A,2002-03-09,Albania,Medio campo
+Lucien Agoumé,Inter de Milán,Serie A,2002-02-09,Francia,Medio campo
+Nicolò Barella,Inter de Milán,Serie A,1997-02-07,Italia,Medio campo
+Davide Frattesi,Inter de Milán,Serie A,1999-09-22,Italia,Medio campo
+Davy Klaassen,Inter de Milán,Serie A,1993-02-21,Países Bajos,Medio campo
+Stefano Sensi,Inter de Milán,Serie A,1995-08-05,Italia,Medio campo
+Henrikh Mkhitaryan,Inter de Milán,Serie A,1989-01-21,Armenia,Medio campo
+Denzel Dumfries,Inter de Milán,Serie A,1996-04-18,Países Bajos,Medio campo
+Juan Cuadrado,Inter de Milán,Serie A,1988-05-26,Colombia,Medio campo
+Carlos Augusto,Inter de Milán,Serie A,1999-01-07,Brasil,Medio campo
+Lautaro Martínez,Inter de Milán,Serie A,1997-08-22,Argentina,Delantero
+Marcus Thuram,Inter de Milán,Serie A,1997-08-06,Francia,Delantero
+Marko Arnautovic,Inter de Milán,Serie A,1989-04-19,Austria,Delantero
+Alexis Sánchez,Inter de Milán,Serie A,1988-12-19,Chile,Delantero
+Mike Maignan,AC Milan,Serie A,1995-07-03,Francia,Portero
+Marco Sportiello,AC Milan,Serie A,1992-05-10,Italia,Portero
+Lapo Nava,AC Milan,Serie A,2004-01-22,Italia,Portero
+Antonio Mirante,AC Milan,Serie A,1983-07-08,Italia,Portero
+Fikayo Tomori,AC Milan,Serie A,1997-12-19,Inglaterra,Defensa
+Pierre Kalulu,AC Milan,Serie A,2000-06-05,Francia,Defensa
+Malick Thiaw,AC Milan,Serie A,2001-08-08,Alemania,Defensa
+Simon Kjaer,AC Milan,Serie A,1989-03-26,Dinamarca,Defensa
+Mattia Caldara,AC Milan,Serie A,1994-05-05,Italia,Defensa
+Marco Pellegrino,AC Milan,Serie A,2002-07-18,Argentina,Defensa
+Theo Hernández,AC Milan,Serie A,1997-10-06,Francia,Defensa
+Davide Calabria,AC Milan,Serie A,1996-12-06,Italia,Defensa
+Alessandro Florenzi,AC Milan,Serie A,1991-03-11,Italia,Defensa
+Ismaël Bennacer,AC Milan,Serie A,1997-12-01,Argelia,Medio campo
+Rade Krunic,AC Milan,Serie A,1993-10-07,Bosnia y Herzegovina,Medio campo
+Ruben Loftus-Cheek,AC Milan,Serie A,1996-01-23,Inglaterra,Medio campo
+Yunus Musah,AC Milan,Serie A,2002-11-29,Estados Unidos,Medio campo
+Tijjani Reijnders,AC Milan,Serie A,1998-07-29,Países Bajos,Medio campo
+Tommaso Pobega,AC Milan,Serie A,1999-07-15,Italia,Medio campo
+Yacine Adli,AC Milan,Serie A,2000-07-29,Francia,Medio campo
+Rafael Leão,AC Milan,Serie A,1999-06-10,Portugal,Delantero
+Chaka Traorè,AC Milan,Serie A,2004-12-23,Costa de Marfil,Delantero
+Christian Pulisic,AC Milan,Serie A,1998-09-18,Estados Unidos,Delantero
+Samuel Chukwueze,AC Milan,Serie A,1999-05-22,Nigeria,Delantero
+Luka Romero,AC Milan,Serie A,2004-11-18,Argentina,Delantero
+Noah Okafor,AC Milan,Serie A,2000-05-24,Suiza,Delantero
+Luka Jović,AC Milan,Serie A,1997-12-23,Serbia,Delantero
+Olivier Giroud,AC Milan,Serie A,1986-09-30,Francia,Delantero
+Marco Carnesecchi,Atalanta de Bérgamo,Serie A,2000-07-01,Italia,Portero
+Juan Musso,Atalanta de Bérgamo,Serie A,1994-05-06,Argentina,Portero
+Francesco Rossi,Atalanta de Bérgamo,Serie A,1991-04-27,Italia,Portero
+Giorgio Scalvini,Atalanta de Bérgamo,Serie A,2003-12-11,Italia,Defensa
+Berat Djimsiti,Atalanta de Bérgamo,Serie A,1993-02-19,Albania,Defensa
+Sead Kolasinac,Atalanta de Bérgamo,Serie A,1993-06-20,Bosnia y Herzegovina,Defensa
+Rafael Tolói,Atalanta de Bérgamo,Serie A,1990-10-10,Italia,Defensa
+José Luis Palomino,Atalanta de Bérgamo,Serie A,1990-01-05,Argentina,Defensa
+Teun Koopmeiners,Atalanta de Bérgamo,Serie A,1998-02-28,Países Bajos,Medio campo
+Marten de Roon,Atalanta de Bérgamo,Serie A,1991-03-29,Países Bajos,Medio campo
+Éderson,Atalanta de Bérgamo,Serie A,1999-07-07,Brasil,Medio campo
+Michel Adopo,Atalanta de Bérgamo,Serie A,2000-07-19,Francia,Medio campo
+Davide Zappacosta,Atalanta de Bérgamo,Serie A,1992-06-11,Italia,Medio campo
+Hans Hateboer,Atalanta de Bérgamo,Serie A,1994-01-09,Países Bajos,Medio campo
+Emil Holm,Atalanta de Bérgamo,Serie A,2000-05-13,Suecia,Medio campo
+Nadir Zortea,Atalanta de Bérgamo,Serie A,1999-06-19,Italia,Medio campo
+Mitchel Bakker,Atalanta de Bérgamo,Serie A,2000-06-20,Países Bajos,Medio campo
+Matteo Ruggeri,Atalanta de Bérgamo,Serie A,2002-07-11,Italia,Medio campo
+Charles De Ketelaere,Atalanta de Bérgamo,Serie A,2001-03-10,Bélgica,Medio campo
+Mario Pasalic,Atalanta de Bérgamo,Serie A,1995-02-09,Croacia,Medio campo
+Aleksey Miranchuk,Atalanta de Bérgamo,Serie A,1995-10-17,Rusia,Medio campo
+Ademola Lookman,Atalanta de Bérgamo,Serie A,1997-10-20,Nigeria,Delantero
+Gianluca Scamacca,Atalanta de Bérgamo,Serie A,1999-01-01,Italia,Delantero
+El Bilal Touré,Atalanta de Bérgamo,Serie A,2001-10-03,Malí,Delantero
+Luis Muriel,Atalanta de Bérgamo,Serie A,1991-04-16,Colombia,Delantero
+Rui Patrício,AS Roma,Serie A,1988-02-15,Portugal,Portero
+Mile Svilar,AS Roma,Serie A,1999-08-27,Serbia,Portero
+Pietro Boer,AS Roma,Serie A,2002-05-12,Italia,Portero
+Evan Ndicka,AS Roma,Serie A,1999-08-20,Costa de Marfil,Defensa
+Gianluca Mancini,AS Roma,Serie A,1996-04-17,Italia,Defensa
+Diego Llorente,AS Roma,Serie A,1993-08-16,España,Defensa
+Chris Smalling,AS Roma,Serie A,1989-11-22,Inglaterra,Defensa
+Marash Kumbulla,AS Roma,Serie A,2000-02-08,Albania,Defensa
+Leonardo Spinazzola,AS Roma,Serie A,1993-03-25,Italia,Defensa
+Rasmus Kristensen,AS Roma,Serie A,1997-07-11,Dinamarca,Defensa
+Zeki Celik,AS Roma,Serie A,1997-02-17,Turquía,Defensa
+Rick Karsdorp,AS Roma,Serie A,1995-02-11,Países Bajos,Defensa
+Bryan Cristante,AS Roma,Serie A,1995-03-03,Italia,Medio campo
+Leandro Paredes,AS Roma,Serie A,1994-06-29,Argentina,Medio campo
+Renato Sanches,AS Roma,Serie A,1997-08-18,Portugal,Medio campo
+Houssem Aouar,AS Roma,Serie A,1998-06-30,Argelia,Medio campo
+Edoardo Bove,AS Roma,Serie A,2002-05-16,Italia,Medio campo
+Riccardo Pagano,AS Roma,Serie A,2004-11-28,Italia,Medio campo
+Nicola Zalewski,AS Roma,Serie A,2002-01-23,Polonia,Medio campo
+Lorenzo Pellegrini,AS Roma,Serie A,1996-06-19,Italia,Medio campo
+Stephan El Shaarawy,AS Roma,Serie A,1992-10-27,Italia,Delantero
+Paulo Dybala,AS Roma,Serie A,1993-11-15,Argentina,Delantero
+Tammy Abraham,AS Roma,Serie A,1997-10-02,Inglaterra,Delantero
+Romelu Lukaku,AS Roma,Serie A,1993-05-13,Bélgica,Delantero
+Sardar Azmoun,AS Roma,Serie A,1995-01-01,Irán,Delantero
+Andrea Belotti,AS Roma,Serie A,1993-12-20,Italia,Delantero
+Wojciech Szczesny,Juventus de Turín,Serie A,1990-04-18,Polonia,Portero
+Mattia Perin,Juventus de Turín,Serie A,1992-11-10,Italia,Portero
+Carlo Pinsoglio,Juventus de Turín,Serie A,1990-03-16,Italia,Portero
+Bremer,Juventus de Turín,Serie A,1997-03-18,Brasil,Defensa
+Danilo,Juventus de Turín,Serie A,1991-07-15,Brasil,Defensa
+Federico Gatti,Juventus de Turín,Serie A,1998-06-24,Italia,Defensa
+Daniele Rugani,Juventus de Turín,Serie A,1994-07-29,Italia,Defensa
+Andrea Cambiaso,Juventus de Turín,Serie A,2000-02-20,Italia,Defensa
+Alex Sandro,Juventus de Turín,Serie A,1991-01-26,Brasil,Defensa
+Mattia De Sciglio,Juventus de Turín,Serie A,1992-10-20,Italia,Defensa
+Manuel Locatelli,Juventus de Turín,Serie A,1998-01-08,Italia,Medio campo
+Adrien Rabiot,Juventus de Turín,Serie A,1995-04-03,Francia,Medio campo
+Nicolò Fagioli,Juventus de Turín,Serie A,2001-02-12,Italia,Medio campo
+Weston McKennie,Juventus de Turín,Serie A,1998-08-28,Estados Unidos,Medio campo
+Fabio Miretti,Juventus de Turín,Serie A,2003-08-03,Italia,Medio campo
+Hans Nicolussi Caviglia,Juventus de Turín,Serie A,2000-06-18,Italia,Medio campo
+Paul Pogba,Juventus de Turín,Serie A,1993-03-15,Francia,Medio campo
+Timothy Weah,Juventus de Turín,Serie A,2000-02-22,Estados Unidos,Medio campo
+Filip Kostić,Juventus de Turín,Serie A,1992-11-01,Serbia,Medio campo
+Federico Chiesa,Juventus de Turín,Serie A,1997-10-25,Italia,Delantero
+Samuel Iling Junior,Juventus de Turín,Serie A,2003-10-04,Inglaterra,Delantero
+Dušan Vlahović,Juventus de Turín,Serie A,2000-01-28,Serbia,Delantero
+Moise Kean,Juventus de Turín,Serie A,2000-02-28,Italia,Delantero
+Arkadiusz Milik,Juventus de Turín,Serie A,1994-02-28,Polonia,Delantero
+Oliver Christensen,Fiorentina,Serie A,1999-03-22,Dinamarca,Portero
+Pietro Terracciano,Fiorentina,Serie A,1990-03-08,Italia,Portero
+Tommaso Martinelli,Fiorentina,Serie A,2006-01-06,Italia,Portero
+Tommaso Vannucchi,Fiorentina,Serie A,2007-03-05,Italia,Portero
+Nikola Milenković,Fiorentina,Serie A,1997-10-12,Serbia,Defensa
+Yerry Mina,Fiorentina,Serie A,1994-09-23,Colombia,Defensa
+Lucas Martínez Quarta,Fiorentina,Serie A,1996-05-10,Argentina,Defensa
+Luca Ranieri,Fiorentina,Serie A,1999-04-23,Italia,Defensa
+Christian Dalle Mura,Fiorentina,Serie A,2002-02-02,Italia,Defensa
+Pietro Comuzzo,Fiorentina,Serie A,2005-02-20,Italia,Defensa
+Fabiano Parisi,Fiorentina,Serie A,2000-11-09,Italia,Defensa
+Cristiano Biraghi,Fiorentina,Serie A,1992-09-01,Italia,Defensa
+Dodô,Fiorentina,Serie A,1998-11-17,Brasil,Defensa
+Niccolò Pierozzi,Fiorentina,Serie A,2001-09-12,Italia,Defensa
+Michael Kayode,Fiorentina,Serie A,2004-07-10,Italia,Defensa
+Maxime López,Fiorentina,Serie A,1997-12-04,Francia,Medio campo
+Rolando Mandragora,Fiorentina,Serie A,1997-06-29,Italia,Medio campo
+Lorenzo Amatucci,Fiorentina,Serie A,2004-02-05,Italia,Medio campo
+Arthur Melo,Fiorentina,Serie A,1996-08-12,Brasil,Medio campo
+Gaetano Castrovilli,Fiorentina,Serie A,1997-02-17,Italia,Medio campo
+Alfred Duncan,Fiorentina,Serie A,1993-03-10,Ghana,Medio campo
+Gino Infantino,Fiorentina,Serie A,2003-05-19,Argentina,Medio campo
+Giacomo Bonaventura,Fiorentina,Serie A,1989-08-22,Italia,Medio campo
+Antonin Barak,Fiorentina,Serie A,1994-12-03,República Checa,Medio campo
+Riccardo Sottil,Fiorentina,Serie A,1999-06-03,Italia,Delantero
+Josip Brekalo,Fiorentina,Serie A,1998-06-23,Croacia,Delantero
+Nicolás González,Fiorentina,Serie A,1998-04-06,Argentina,Delantero
+Jonathan Ikoné,Fiorentina,Serie A,1998-05-02,Francia,Delantero
+Lucas Beltrán,Fiorentina,Serie A,2001-03-29,Argentina,Delantero
+Christian Kouamé,Fiorentina,Serie A,1997-12-06,Costa de Marfil,Delantero
+M'Bala Nzola,Fiorentina,Serie A,1996-08-18,Angola,Delantero
+Lukasz Skorupski,Bolonia,Serie A,1991-05-05,Polonia,Portero
+Federico Ravaglia,Bolonia,Serie A,1999-11-11,Italia,Portero
+Nicola Bagnolini,Bolonia,Serie A,2004-03-14,Italia,Portero
+Jhon Lucumí,Bolonia,Serie A,1998-06-26,Colombia,Defensa
+Sam Beukema,Bolonia,Serie A,1998-11-17,Países Bajos,Defensa
+Adama Soumaoro,Bolonia,Serie A,1992-06-18,Francia,Defensa
+Kevin Bonifazi,Bolonia,Serie A,1996-05-19,Italia,Defensa
+Victor Kristiansen,Bolonia,Serie A,2002-12-16,Dinamarca,Defensa
+Riccardo Calafiori,Bolonia,Serie A,2002-05-19,Italia,Defensa
+Charalampos Lykogiannis,Bolonia,Serie A,1993-10-22,Grecia,Defensa
+Tommaso Corazza,Bolonia,Serie A,2004-06-29,Italia,Defensa
+Stefan Posch,Bolonia,Serie A,1997-05-14,Austria,Defensa
+Lorenzo De Silvestri,Bolonia,Serie A,1988-05-23,Italia,Defensa
+Nikola Moro,Bolonia,Serie A,1998-03-12,Croacia,Medio campo
+Oussama El Azzouzi,Bolonia,Serie A,2001-05-29,Marruecos,Medio campo
+Kacper Urbanski,Bolonia,Serie A,2004-09-07,Polonia,Medio campo
+Lewis Ferguson,Bolonia,Serie A,1999-08-24,Escocia,Medio campo
+Remo Freuler,Bolonia,Serie A,1992-04-15,Suiza,Medio campo
+Giovanni Fabbian,Bolonia,Serie A,2003-01-14,Italia,Medio campo
+Michel Aebischer,Bolonia,Serie A,1997-01-06,Suiza,Medio campo
+Jesper Karlsson,Bolonia,Serie A,1998-07-25,Suecia,Delantero
+Alexis Saelemaekers,Bolonia,Serie A,1999-06-27,Bélgica,Delantero
+Riccardo Orsolini,Bolonia,Serie A,1997-01-24,Italia,Delantero
+Dan Ndoye,Bolonia,Serie A,2000-10-25,Suiza,Delantero
+Joshua Zirkzee,Bolonia,Serie A,2001-05-22,Países Bajos,Delantero
+Sydney van Hooijdonk,Bolonia,Serie A,2000-02-06,Países Bajos,Delantero
+Vanja Milinković-Savić,Torino FC,Serie A,1997-02-20,Serbia,Portero
+Mihai Popa,Torino FC,Serie A,2000-10-12,Rumanía,Portero
+Luca Gemello,Torino FC,Serie A,2000-07-03,Italia,Portero
+Perr Schuurs,Torino FC,Serie A,1999-11-26,Países Bajos,Defensa
+Alessandro Buongiorno,Torino FC,Serie A,1999-06-06,Italia,Defensa
+David Zima,Torino FC,Serie A,2000-11-08,República Checa,Defensa
+Ricardo Rodríguez,Torino FC,Serie A,1992-08-25,Suiza,Defensa
+Saba Sazonov,Torino FC,Serie A,2002-02-01,Georgia,Defensa
+Koffi Djidji,Torino FC,Serie A,1992-11-30,Costa de Marfil,Defensa
+Ange Caumenan N'Guessan,Torino FC,Serie A,2003-09-01,Francia,Defensa
+Samuele Ricci,Torino FC,Serie A,2001-08-21,Italia,Medio campo
+Adrien Tamèze,Torino FC,Serie A,1994-02-04,Camerún,Medio campo
+Ivan Ilić,Torino FC,Serie A,2001-03-17,Serbia,Medio campo
+Karol Linetty,Torino FC,Serie A,1995-02-02,Polonia,Medio campo
+Gvidas Gineitis,Torino FC,Serie A,2004-04-15,Lituania,Medio campo
+Brandon Soppy,Torino FC,Serie A,2002-02-21,Francia,Medio campo
+Raoul Bellanova,Torino FC,Serie A,2000-05-17,Italia,Medio campo
+Valentino Lazaro,Torino FC,Serie A,1996-03-24,Austria,Medio campo
+Mërgim Vojvoda,Torino FC,Serie A,1995-02-01,República de Kosovo,Medio campo
+Nikola Vlašić,Torino FC,Serie A,1997-10-04,Croacia,Medio campo
+Nemanja Radonjić,Torino FC,Serie A,1996-02-15,Serbia,Delantero
+Yann Karamoh,Torino FC,Serie A,1998-07-08,Costa de Marfil,Delantero
+Demba Seck,Torino FC,Serie A,2001-02-10,Senegal,Delantero
+Antonio Sanabria,Torino FC,Serie A,1996-03-04,Paraguay,Delantero
+Duván Zapata,Torino FC,Serie A,1991-04-01,Colombia,Delantero
+Pietro Pellegri,Torino FC,Serie A,2001-03-17,Italia,Delantero
+Michele Di Gregorio,AC Monza,Serie A,1997-07-27,Italia,Portero
+Stefano Gori,AC Monza,Serie A,1996-03-09,Italia,Portero
+Alessandro Sorrentino,AC Monza,Serie A,2002-04-03,Italia,Portero
+Eugenio Lamanna,AC Monza,Serie A,1989-08-07,Italia,Portero
+Pablo Marí,AC Monza,Serie A,1993-08-31,España,Defensa
+Andrea Carboni,AC Monza,Serie A,2001-02-04,Italia,Defensa
+Armando Izzo,AC Monza,Serie A,1992-03-02,Italia,Defensa
+Giorgio Cittadini,AC Monza,Serie A,2002-04-18,Italia,Defensa
+Luca Caldirola,AC Monza,Serie A,1991-02-01,Italia,Defensa
+Danilo D'Ambrosio,AC Monza,Serie A,1988-09-09,Italia,Defensa
+Davide Bettella,AC Monza,Serie A,2000-04-07,Italia,Defensa
+Franco Carboni,AC Monza,Serie A,2003-04-04,Argentina,Defensa
+Samuele Birindelli,AC Monza,Serie A,1999-07-19,Italia,Defensa
+Pedro Pereira,AC Monza,Serie A,1998-01-22,Portugal,Defensa
+Giulio Donati,AC Monza,Serie A,1990-02-05,Italia,Defensa
+Matteo Pessina,AC Monza,Serie A,1997-04-21,Italia,Medio campo
+Roberto Gagliardini,AC Monza,Serie A,1994-04-07,Italia,Medio campo
+Andrea Colpani,AC Monza,Serie A,1999-05-11,Italia,Medio campo
+José Machín,AC Monza,Serie A,1996-08-14,Guinea Ecuatorial,Medio campo
+Jean-Daniel Akpa Akpro,AC Monza,Serie A,1992-10-11,Costa de Marfil,Medio campo
+Warren Bondo,AC Monza,Serie A,2003-09-15,Francia,Medio campo
+Georgios Kyriakopoulos,AC Monza,Serie A,1996-02-05,Grecia,Medio campo
+Valentín Carboni,AC Monza,Serie A,2005-03-05,Argentina,Medio campo
+Samuele Vignato,AC Monza,Serie A,2004-02-24,Italia,Medio campo
+Papu Gómez,AC Monza,Serie A,1988-02-15,Argentina,Delantero
+Patrick Ciurria,AC Monza,Serie A,1995-02-09,Italia,Delantero
+Gianluca Caprari,AC Monza,Serie A,1993-07-30,Italia,Delantero
+Dany Mota,AC Monza,Serie A,1998-05-02,Portugal,Delantero
+Lorenzo Colombo,AC Monza,Serie A,2002-03-08,Italia,Delantero
+Mirko Maric,AC Monza,Serie A,1995-05-16,Croacia,Delantero
+Marco Silvestri,Udinese,Serie A,1991-03-02,Italia,Portero
+Maduka Okoye,Udinese,Serie A,1999-08-28,Nigeria,Portero
+Daniele Padelli,Udinese,Serie A,1985-10-25,Italia,Portero
+Nehuén Pérez,Udinese,Serie A,2000-06-24,Argentina,Defensa
+Jaka Bijol,Udinese,Serie A,1999-02-05,Eslovenia,Defensa
+Enzo Ebosse,Udinese,Serie A,1999-03-11,Camerún,Defensa
+Adam Masina,Udinese,Serie A,1994-01-02,Marruecos,Defensa
+Christian Kabasele,Udinese,Serie A,1991-02-24,Bélgica,Defensa
+Thomas Kristensen,Udinese,Serie A,2002-01-17,Dinamarca,Defensa
+Axel Guessand,Udinese,Serie A,2004-11-06,Francia,Defensa
+Antonio Tikvic,Udinese,Serie A,2004-04-21,Croacia,Defensa
+Hassane Kamara,Udinese,Serie A,1994-03-05,Costa de Marfil,Defensa
+Jordan Zemura,Udinese,Serie A,1999-11-14,Zimbabue,Defensa
+Kingsley Ehizibue,Udinese,Serie A,1995-05-25,Países Bajos,Defensa
+João Ferreira,Udinese,Serie A,2001-03-22,Portugal,Defensa
+Walace,Udinese,Serie A,1995-04-04,Brasil,Medio campo
+Etienne Camara,Udinese,Serie A,2003-03-30,Francia,Medio campo
+Lazar Samardzic,Udinese,Serie A,2002-02-24,Serbia,Medio campo
+Sandi Lovrić,Udinese,Serie A,1998-03-28,Eslovenia,Medio campo
+Roberto Pereyra,Udinese,Serie A,1991-01-07,Argentina,Medio campo
+Martín Payero,Udinese,Serie A,1998-09-11,Argentina,Medio campo
+Oier Zarraga,Udinese,Serie A,1999-01-04,España,Medio campo
+Domingos Quina,Udinese,Serie A,1999-11-18,Portugal,Medio campo
+Festy Ebosele,Udinese,Serie A,2002-08-02,Irlanda,Medio campo
+Marco Ballarini,Udinese,Serie A,2001-03-28,Italia,Medio campo
+Simone Pafundi,Udinese,Serie A,2006-03-14,Italia,Medio campo
+David Pejičić,Udinese,Serie A,2007-06-14,Eslovenia,Medio campo
+Marley Aké,Udinese,Serie A,2001-01-05,Francia,Delantero
+Florian Thauvin,Udinese,Serie A,1993-01-26,Francia,Delantero
+Gerard Deulofeu,Udinese,Serie A,1994-03-13,España,Delantero
+Brenner,Udinese,Serie A,2000-01-16,Brasil,Delantero
+Lorenzo Lucca,Udinese,Serie A,2000-09-10,Italia,Delantero
+Isaac Success,Udinese,Serie A,1996-01-07,Nigeria,Delantero
+Keinan Davis,Udinese,Serie A,1998-02-13,Inglaterra,Delantero
+Vivaldo Semedo,Udinese,Serie A,2005-01-28,Portugal,Delantero
+Sekou Diawara,Udinese,Serie A,2004-02-08,Bélgica,Delantero
+Alessio Cragno,US Sassuolo,Serie A,1994-06-28,Italia,Portero
+Andrea Consigli,US Sassuolo,Serie A,1987-01-27,Italia,Portero
+Gianluca Pegolo,US Sassuolo,Serie A,1981-03-25,Italia,Portero
+Mattia Viti,US Sassuolo,Serie A,2002-01-24,Italia,Defensa
+Martin Erlic,US Sassuolo,Serie A,1998-01-24,Croacia,Defensa
+Ruan Tressoldi,US Sassuolo,Serie A,1999-06-07,Brasil,Defensa
+Gian Marco Ferrari,US Sassuolo,Serie A,1992-05-15,Italia,Defensa
+Matías Viña,US Sassuolo,Serie A,1997-11-09,Uruguay,Defensa
+Marcus Pedersen,US Sassuolo,Serie A,2000-07-16,Noruega,Defensa
+Jeremy Toljan,US Sassuolo,Serie A,1994-08-08,Alemania,Defensa
+Filippo Missori,US Sassuolo,Serie A,2004-03-24,Italia,Defensa
+Luca Lipani,US Sassuolo,Serie A,2005-05-18,Italia,Medio campo
+Matheus Henrique,US Sassuolo,Serie A,1997-12-19,Brasil,Medio campo
+Uroš Račić,US Sassuolo,Serie A,1998-03-17,Serbia,Medio campo
+Daniel Boloca,US Sassuolo,Serie A,1998-12-22,Rumanía,Medio campo
+Pedro Obiang,US Sassuolo,Serie A,1992-03-27,Guinea Ecuatorial,Medio campo
+Nedim Bajrami,US Sassuolo,Serie A,1999-02-28,Albania,Medio campo
+Kristian Thorstvedt,US Sassuolo,Serie A,1999-03-13,Noruega,Medio campo
+Cristian Volpato,US Sassuolo,Serie A,2003-11-15,Italia,Medio campo
+Armand Laurienté,US Sassuolo,Serie A,1998-12-04,Francia,Delantero
+Emil Konradsen Ceide,US Sassuolo,Serie A,2001-09-03,Noruega,Delantero
+Domenico Berardi,US Sassuolo,Serie A,1994-08-01,Italia,Delantero
+Samu Castillejo,US Sassuolo,Serie A,1995-01-18,España,Delantero
+Andrea Pinamonti,US Sassuolo,Serie A,1999-05-19,Italia,Delantero
+Agustín Álvarez,US Sassuolo,Serie A,2001-05-19,Uruguay,Delantero
+Samuele Mulattieri,US Sassuolo,Serie A,2000-10-07,Italia,Delantero
+Grégoire Defrel,US Sassuolo,Serie A,1991-06-17,Francia,Delantero
+Elia Caprile,FC Empoli,Serie A,2001-08-25,Italia,Portero
+Samuele Perisan,FC Empoli,Serie A,1997-08-21,Italia,Portero
+Etrit Berisha,FC Empoli,Serie A,1989-03-10,Albania,Portero
+Lovro Stubljar,FC Empoli,Serie A,2004-08-09,Eslovenia,Portero
+Ardian Ismajli,FC Empoli,Serie A,1996-09-30,Albania,Defensa
+Sebastian Walukiewicz,FC Empoli,Serie A,2000-04-05,Polonia,Defensa
+Sebastiano Luperto,FC Empoli,Serie A,1996-09-06,Italia,Defensa
+Gabriele Guarino,FC Empoli,Serie A,2004-04-14,Italia,Defensa
+Lorenzo Tonelli,FC Empoli,Serie A,1990-01-17,Italia,Defensa
+Giuseppe Pezzella,FC Empoli,Serie A,1997-11-29,Italia,Defensa
+Liberato Cacace,FC Empoli,Serie A,2000-09-27,Nueva Zelanda,Defensa
+Tyronne Ebuehi,FC Empoli,Serie A,1995-12-16,Nigeria,Defensa
+Bartosz Bereszynski,FC Empoli,Serie A,1992-07-12,Polonia,Defensa
+Alberto Grassi,FC Empoli,Serie A,1995-03-07,Italia,Medio campo
+Razvan Marin,FC Empoli,Serie A,1996-05-23,Rumanía,Medio campo
+Simone Bastoni,FC Empoli,Serie A,1996-11-05,Italia,Medio campo
+Youssef Maleh,FC Empoli,Serie A,1998-08-22,Marruecos,Medio campo
+Jacopo Fazzini,FC Empoli,Serie A,2003-03-16,Italia,Medio campo
+Luca Belardinelli,FC Empoli,Serie A,2001-03-14,Italia,Medio campo
+Filippo Ranocchia,FC Empoli,Serie A,2001-05-14,Italia,Medio campo
+Tommaso Baldanzi,FC Empoli,Serie A,2003-03-23,Italia,Medio campo
+Daniel Maldini,FC Empoli,Serie A,2001-10-11,Italia,Medio campo
+Viktor Kovalenko,FC Empoli,Serie A,1996-02-14,Ucrania,Medio campo
+Nicolò Cambiaghi,FC Empoli,Serie A,2000-12-28,Italia,Delantero
+Emmanuel Gyasi,FC Empoli,Serie A,1994-01-11,Ghana,Delantero
+Matteo Cancellieri,FC Empoli,Serie A,2002-02-12,Italia,Delantero
+Francesco Caputo,FC Empoli,Serie A,1987-08-06,Italia,Delantero
+Stiven Shpendi,FC Empoli,Serie A,2003-05-19,Albania,Delantero
+Mattia Destro,FC Empoli,Serie A,1991-03-20,Italia,Delantero
+Guillermo Ochoa,US Salernitana 1919,Serie A,1985-07-13,México,Portero
+Benoît Costil,US Salernitana 1919,Serie A,1987-07-03,Francia,Portero
+Vincenzo Fiorillo,US Salernitana 1919,Serie A,1990-01-13,Italia,Portero
+Flavius Daniliuc,US Salernitana 1919,Serie A,2001-04-27,Austria,Defensa
+Lorenzo Pirola,US Salernitana 1919,Serie A,2002-02-20,Italia,Defensa
+Matteo Lovato,US Salernitana 1919,Serie A,2000-02-14,Italia,Defensa
+Dylan Bronn,US Salernitana 1919,Serie A,1995-06-19,Túnez,Defensa
+Norbert Gyomber,US Salernitana 1919,Serie A,1992-07-03,Eslovaquia,Defensa
+Federico Fazio,US Salernitana 1919,Serie A,1987-03-17,Argentina,Defensa
+Domagoj Bradaric,US Salernitana 1919,Serie A,1999-12-10,Croacia,Defensa
+Pasquale Mazzocchi,US Salernitana 1919,Serie A,1995-07-27,Italia,Defensa
+Junior Sambia,US Salernitana 1919,Serie A,1996-09-07,Francia,Defensa
+Mateusz Legowski,US Salernitana 1919,Serie A,2003-01-29,Polonia,Medio campo
+Giulio Maggiore,US Salernitana 1919,Serie A,1998-03-12,Italia,Medio campo
+Lassana Coulibaly,US Salernitana 1919,Serie A,1996-04-10,Malí,Medio campo
+Emil Bohinen,US Salernitana 1919,Serie A,1999-03-12,Noruega,Medio campo
+Grigoris Kastanos,US Salernitana 1919,Serie A,1998-01-30,Chipre,Medio campo
+Antonio Candreva,US Salernitana 1919,Serie A,1987-02-28,Italia,Medio campo
+Agustín Martegani,US Salernitana 1919,Serie A,2000-05-20,Argentina,Medio campo
+Jovane,US Salernitana 1919,Serie A,1998-06-14,Cabo Verde,Delantero
+Andres Sfait,US Salernitana 1919,Serie A,2004-12-09,Rumanía,Delantero
+Loum Tchaouna,US Salernitana 1919,Serie A,2003-09-08,Francia,Delantero
+Boulaye Dia,US Salernitana 1919,Serie A,1996-11-16,Senegal,Delantero
+Erik Botheim,US Salernitana 1919,Serie A,2000-01-10,Noruega,Delantero
+Simy,US Salernitana 1919,Serie A,1992-05-07,Nigeria,Delantero
+Chukwubuikem Ikwuemesi,US Salernitana 1919,Serie A,2001-08-05,Nigeria,Delantero
+Trivante Stewart,US Salernitana 1919,Serie A,2000-03-22,Jamaica,Delantero
+Wladimiro Falcone,US Lecce,Serie A,1995-04-12,Italia,Portero
+Federico Brancolini,US Lecce,Serie A,2001-07-14,Italia,Portero
+Alexandru Borbei,US Lecce,Serie A,2003-06-27,Rumanía,Portero
+Jasper Samooja,US Lecce,Serie A,2003-07-21,Finlandia,Portero
+Federico Baschirotto,US Lecce,Serie A,1996-09-20,Italia,Defensa
+Marin Pongracic,US Lecce,Serie A,1997-09-11,Croacia,Defensa
+Ahmed Touba,US Lecce,Serie A,1998-03-13,Argelia,Defensa
+Kastriot Dermaku,US Lecce,Serie A,1992-01-15,Albania,Defensa
+Zinedin Smajlovic,US Lecce,Serie A,2003-12-20,Suecia,Defensa
+Antonino Gallo,US Lecce,Serie A,2000-01-05,Italia,Defensa
+Patrick Dorgu,US Lecce,Serie A,2004-10-26,Dinamarca,Defensa
+Valentin Gendrey,US Lecce,Serie A,2000-06-21,Francia,Defensa
+Lorenzo Venuti,US Lecce,Serie A,1995-04-12,Italia,Defensa
+Ylber Ramadani,US Lecce,Serie A,1996-04-12,Albania,Medio campo
+Giacomo Faticanti,US Lecce,Serie A,2004-07-31,Italia,Medio campo
+Joan González,US Lecce,Serie A,2002-02-01,España,Medio campo
+Mohamed Kaba,US Lecce,Serie A,2001-10-27,Francia,Medio campo
+Alexis Blin,US Lecce,Serie A,1996-09-16,Francia,Medio campo
+Daniel Samek,US Lecce,Serie A,2004-02-19,República Checa,Medio campo
+Hamza Rafia,US Lecce,Serie A,1999-04-02,Túnez,Medio campo
+Medon Berisha,US Lecce,Serie A,2003-10-21,Albania,Medio campo
+Lameck Banda,US Lecce,Serie A,2001-01-29,Zambia,Delantero
+Nicola Sansone,US Lecce,Serie A,1991-09-10,Italia,Delantero
+Marcin Listkowski,US Lecce,Serie A,1998-02-10,Polonia,Delantero
+Gabriel Strefezza,US Lecce,Serie A,1997-04-18,Brasil,Delantero
+Rémi Oudin,US Lecce,Serie A,1996-11-18,Francia,Delantero
+Pontus Almqvist,US Lecce,Serie A,1999-07-10,Suecia,Delantero
+Jeppe Corfitzen,US Lecce,Serie A,2004-12-29,Dinamarca,Delantero
+Roberto Piccoli,US Lecce,Serie A,2001-01-27,Italia,Delantero
+Nikola Krstović,US Lecce,Serie A,2000-04-05,Montenegro,Delantero
+Rares Burnete,US Lecce,Serie A,2004-01-31,Rumanía,Delantero
+Lorenzo Montipò,Hellas Verona,Serie A,1996-02-20,Italia,Portero
+Simone Perilli,Hellas Verona,Serie A,1995-01-07,Italia,Portero
+Mattia Chiesa,Hellas Verona,Serie A,2000-07-16,Italia,Portero
+Alessandro Berardi,Hellas Verona,Serie A,1991-01-16,Italia,Portero
+Isak Hien,Hellas Verona,Serie A,1999-01-13,Suecia,Defensa
+Diego Coppola,Hellas Verona,Serie A,2003-12-28,Italia,Defensa
+Koray Günter,Hellas Verona,Serie A,1994-08-16,Alemania,Defensa
+Giangiacomo Magnani,Hellas Verona,Serie A,1995-10-04,Italia,Defensa
+Pawel Dawidowicz,Hellas Verona,Serie A,1995-05-20,Polonia,Defensa
+Bruno Amione,Hellas Verona,Serie A,2002-01-03,Argentina,Defensa
+Juan Cabal,Hellas Verona,Serie A,2001-01-08,Colombia,Defensa
+Josh Doig,Hellas Verona,Serie A,2002-05-18,Escocia,Defensa
+Davide Faraoni,Hellas Verona,Serie A,1991-10-25,Italia,Defensa
+Martin Hongla,Hellas Verona,Serie A,1998-03-16,Camerún,Medio campo
+Charlys,Hellas Verona,Serie A,2004-02-18,Brasil,Medio campo
+Joselito,Hellas Verona,Serie A,2004-02-09,España,Medio campo
+Suat Serdar,Hellas Verona,Serie A,1997-04-11,Alemania,Medio campo
+Michael Folorunsho,Hellas Verona,Serie A,1998-02-07,Italia,Medio campo
+Ajdin Hrustic,Hellas Verona,Serie A,1996-07-05,Australia,Medio campo
+Filippo Terracciano,Hellas Verona,Serie A,2003-02-08,Italia,Medio campo
+Darko Lazović,Hellas Verona,Serie A,1990-09-15,Serbia,Medio campo
+Ondrej Duda,Hellas Verona,Serie A,1994-12-05,Eslovaquia,Medio campo
+Riccardo Saponara,Hellas Verona,Serie A,1991-12-21,Italia,Medio campo
+Tomas Suslov,Hellas Verona,Serie A,2002-06-07,Eslovaquia,Medio campo
+Cyril Ngonge,Hellas Verona,Serie A,2000-05-26,Bélgica,Delantero
+Jackson Tchatchoua,Hellas Verona,Serie A,2001-09-14,Bélgica,Delantero
+Yayah Kallon,Hellas Verona,Serie A,2001-06-30,Sierra Leona,Delantero
+Jordi Mboula,Hellas Verona,Serie A,1999-03-16,España,Delantero
+Thomas Henry,Hellas Verona,Serie A,1994-09-20,Francia,Delantero
+Federico Bonazzoli,Hellas Verona,Serie A,1997-05-21,Italia,Delantero
+Jayden Braaf,Hellas Verona,Serie A,2002-08-31,Países Bajos,Delantero
+Milan Djuric,Hellas Verona,Serie A,1990-05-22,Bosnia y Herzegovina,Delantero
+Juan Manuel Cruz,Hellas Verona,Serie A,1999-07-19,Argentina,Delantero
+Stefano Turati,Frosinone Calcio,Serie A,2001-09-05,Italia,Portero
+Michele Cerofolini,Frosinone Calcio,Serie A,1999-01-04,Italia,Portero
+Michele Avella,Frosinone Calcio,Serie A,2000-05-01,Italia,Portero
+Pierluigi Frattali,Frosinone Calcio,Serie A,1985-12-01,Italia,Portero
+Caleb Okoli,Frosinone Calcio,Serie A,2001-07-13,Italia,Defensa
+Simone Romagnoli,Frosinone Calcio,Serie A,1990-02-09,Italia,Defensa
+Ilario Monterisi,Frosinone Calcio,Serie A,2001-12-19,Italia,Defensa
+Sergio Kalaj,Frosinone Calcio,Serie A,2000-01-28,Albania,Defensa
+Matjaz Kamensek-Pahic,Frosinone Calcio,Serie A,2004-07-04,Eslovenia,Defensa
+Daniel Macej,Frosinone Calcio,Serie A,2004-04-29,República Checa,Defensa
+Riccardo Marchizza,Frosinone Calcio,Serie A,1998-03-26,Italia,Defensa
+Pol Lirola,Frosinone Calcio,Serie A,1997-08-13,España,Defensa
+Anthony Oyono,Frosinone Calcio,Serie A,2001-04-12,Gabón,Defensa
+Luca Mazzitelli,Frosinone Calcio,Serie A,1995-11-15,Italia,Medio campo
+Mehdi Bourabia,Frosinone Calcio,Serie A,1991-08-07,Marruecos,Medio campo
+Enzo Barrenechea,Frosinone Calcio,Serie A,2001-05-22,Argentina,Medio campo
+Abdou Harroui,Frosinone Calcio,Serie A,1998-01-13,Marruecos,Medio campo
+Marco Brescianini,Frosinone Calcio,Serie A,2000-01-20,Italia,Medio campo
+Karlo Lulic,Frosinone Calcio,Serie A,1996-05-10,Croacia,Medio campo
+Reinier,Frosinone Calcio,Serie A,2002-01-19,Brasil,Medio campo
+Luca Garritano,Frosinone Calcio,Serie A,1994-02-11,Italia,Medio campo
+Francesco Gelli,Frosinone Calcio,Serie A,1996-10-15,Italia,Medio campo
+Giuseppe Caso,Frosinone Calcio,Serie A,1998-12-09,Italia,Delantero
+Jaime Báez,Frosinone Calcio,Serie A,1995-04-25,Uruguay,Delantero
+Arijon Ibrahimovic,Frosinone Calcio,Serie A,2005-12-11,Alemania,Delantero
+Giorgi Kvernadze,Frosinone Calcio,Serie A,2003-02-07,Georgia,Delantero
+Soufiane Bidaoui,Frosinone Calcio,Serie A,1990-04-20,Marruecos,Delantero
+Matías Soulé,Frosinone Calcio,Serie A,2003-04-15,Argentina,Delantero
+Walid Cheddira,Frosinone Calcio,Serie A,1998-01-22,Marruecos,Delantero
+Kaio Jorge,Frosinone Calcio,Serie A,2002-01-24,Brasil,Delantero
+Marvin Cuni,Frosinone Calcio,Serie A,2001-07-10,Alemania,Delantero
+Josep Martínez,Génova,Serie A,1998-05-27,España,Portero
+Nicola Leali,Génova,Serie A,1993-02-17,Italia,Portero
+Daniele Sommariva,Génova,Serie A,1997-07-18,Italia,Portero
+Simone Calvani,Génova,Serie A,2005-05-16,Italia,Portero
+Radu Dragusin,Génova,Serie A,2002-02-03,Rumanía,Defensa
+Koni De Winter,Génova,Serie A,2002-06-12,Bélgica,Defensa
+Johan Vásquez,Génova,Serie A,1998-10-22,México,Defensa
+Alan Matturro,Génova,Serie A,2004-10-11,Uruguay,Defensa
+Alessandro Vogliacco,Génova,Serie A,1998-09-14,Italia,Defensa
+Mattia Bani,Génova,Serie A,1993-12-10,Italia,Defensa
+Aarón Martín,Génova,Serie A,1997-04-22,España,Defensa
+Ridgeciano Haps,Génova,Serie A,1993-06-12,Surinam,Defensa
+Silvan Hefti,Génova,Serie A,1997-10-25,Suiza,Defensa
+Stefano Sabelli,Génova,Serie A,1993-01-13,Italia,Defensa
+Milan Badelj,Génova,Serie A,1989-02-25,Croacia,Medio campo
+Morten Thorsby,Génova,Serie A,1996-05-05,Noruega,Medio campo
+Morten Frendrup,Génova,Serie A,2001-04-07,Dinamarca,Medio campo
+Berkan Kutlu,Génova,Serie A,1998-01-25,Turquía,Medio campo
+Pablo Galdames,Génova,Serie A,1996-12-30,Chile,Medio campo
+Filip Jagiello,Génova,Serie A,1997-08-08,Polonia,Medio campo
+Kevin Strootman,Génova,Serie A,1990-02-13,Países Bajos,Medio campo
+Ruslan Malinovskyi,Génova,Serie A,1993-05-04,Ucrania,Medio campo
+Albert Gudmundsson,Génova,Serie A,1997-06-15,Islandia,Delantero
+Junior Messias,Génova,Serie A,1991-05-13,Brasil,Delantero
+Mateo Retegui,Génova,Serie A,1999-04-29,Italia,Delantero
+George Puscas,Génova,Serie A,1996-04-08,Rumanía,Delantero
+Caleb Ekuban,Génova,Serie A,1994-03-23,Ghana,Delantero
+Simone Scuffet,Cagliari,Serie A,1996-05-31,Italia,Portero
+Boris Radunović,Cagliari,Serie A,1996-05-26,Serbia,Portero
+Simone Aresti,Cagliari,Serie A,1986-03-15,Italia,Portero
+Pantelis Hatzidiakos,Cagliari,Serie A,1997-01-18,Grecia,Defensa
+Mateusz Wieteska,Cagliari,Serie A,1997-02-11,Polonia,Defensa
+Adam Obert,Cagliari,Serie A,2002-08-23,Eslovaquia,Defensa
+Alberto Dossena,Cagliari,Serie A,1998-10-13,Italia,Defensa
+Elio Capradossi,Cagliari,Serie A,1996-03-11,Italia,Defensa
+Edoardo Goldaniga,Cagliari,Serie A,1993-11-02,Italia,Defensa
+Tommaso Augello,Cagliari,Serie A,1994-08-30,Italia,Defensa
+Paulo Azzi,Cagliari,Serie A,1994-07-15,Brasil,Defensa
+Gabriele Zappa,Cagliari,Serie A,1999-12-22,Italia,Defensa
+Alessandro Di Pardo,Cagliari,Serie A,1999-07-18,Italia,Defensa
+Antoine Makoumbou,Cagliari,Serie A,1998-07-18,República del Congo,Medio campo
+Ibrahim Sulemana,Cagliari,Serie A,2003-05-22,Ghana,Medio campo
+Matteo Prati,Cagliari,Serie A,2003-12-28,Italia,Medio campo
+Nahitan Nández,Cagliari,Serie A,1995-12-28,Uruguay,Medio campo
+Alessandro Deiola,Cagliari,Serie A,1995-08-01,Italia,Medio campo
+Marko Rog,Cagliari,Serie A,1995-07-19,Croacia,Medio campo
+Nicolas Viola,Cagliari,Serie A,1989-10-12,Italia,Medio campo
+Jakub Jankto,Cagliari,Serie A,1996-01-19,República Checa,Medio campo
+Gastón Pereiro,Cagliari,Serie A,1995-06-11,Uruguay,Medio campo
+Gaetano Oristanio,Cagliari,Serie A,2002-09-28,Italia,Medio campo
+Marco Mancosu,Cagliari,Serie A,1988-08-22,Italia,Medio campo
+Jacopo Desogus,Cagliari,Serie A,2002-10-01,Italia,Delantero
+Andrea Petagna,Cagliari,Serie A,1995-06-30,Italia,Delantero
+Eldor Shomurodov,Cagliari,Serie A,1995-06-29,Uzbekistán,Delantero
+Gianluca Lapadula,Cagliari,Serie A,1990-02-07,Perú,Delantero
+Zito Luvumbo,Cagliari,Serie A,2002-03-09,Angola,Delantero
+Leonardo Pavoletti,Cagliari,Serie A,1988-11-26,Italia,Delantero
